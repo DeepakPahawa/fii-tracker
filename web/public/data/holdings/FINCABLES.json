@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Finolex Cables Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.3,
+   "fpiCat2Pct": 2.12,
+   "fpiPct": 9.42,
+   "fpiShares": null,
+   "promoterPct": 35.86,
+   "publicPct": 64.14,
+   "recordId": "204914",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596565_08012026125248_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.47,
+   "fpiCat2Pct": 2.15,
+   "fpiPct": 9.62,
+   "fpiShares": null,
+   "promoterPct": 35.86,
+   "publicPct": 64.14,
+   "recordId": "208285",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650501_14042026025022_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.47,
+   "fpiCat2Pct": 2.18,
+   "fpiPct": 9.65,
+   "fpiShares": null,
+   "promoterPct": 35.86,
+   "publicPct": 64.14,
+   "recordId": "211461",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694064_16072026030339_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.08,
+   "fpiCat2Pct": 2.55,
+   "fpiPct": 9.63,
+   "fpiShares": null,
+   "promoterPct": 35.86,
+   "publicPct": 64.14,
+   "recordId": "214817",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739615_16102026124011_WEB.xml"
+  }
+ },
+ "symbol": "FINCABLES"
+}

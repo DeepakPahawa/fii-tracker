@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Fortis Healthcare Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.03,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 27.84,
+   "fpiShares": null,
+   "promoterPct": 31.17,
+   "publicPct": 68.83,
+   "recordId": "205491",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600401_14012026111549_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.26,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 25.98,
+   "fpiShares": null,
+   "promoterPct": 31.17,
+   "publicPct": 68.83,
+   "recordId": "208045",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649493_13042026104528_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.47,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 25.2,
+   "fpiShares": null,
+   "promoterPct": 31.17,
+   "publicPct": 68.83,
+   "recordId": "212746",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698280_21072026041356_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.54,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 23.2,
+   "fpiShares": null,
+   "promoterPct": 31.17,
+   "publicPct": 68.83,
+   "recordId": "215353",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741156_19102026111944_WEB.xml"
+  }
+ },
+ "symbol": "FORTIS"
+}

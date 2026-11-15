@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Capri Global Capital Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.44,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 4.5,
+   "fpiShares": null,
+   "promoterPct": 59.92,
+   "publicPct": 40.08,
+   "recordId": "204980",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596906_08012026054503_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 5.62,
+   "fpiShares": null,
+   "promoterPct": 59.92,
+   "publicPct": 40.08,
+   "recordId": "207504",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646587_07042026011026_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.66,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 8.21,
+   "fpiShares": null,
+   "promoterPct": 59.92,
+   "publicPct": 40.08,
+   "recordId": "210469",
+   "source": "nse",
+   "submittedOn": "2026-07-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687483_02072026014725_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.18,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 13.0,
+   "fpiShares": null,
+   "promoterPct": 59.92,
+   "publicPct": 40.08,
+   "recordId": "213244",
+   "source": "nse",
+   "submittedOn": "2026-10-01",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1732514_01102026082308_WEB.xml"
+  }
+ },
+ "symbol": "CGCL"
+}

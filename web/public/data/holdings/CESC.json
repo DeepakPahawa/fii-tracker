@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "CESC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.45,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 11.86,
+   "fpiShares": null,
+   "promoterPct": 52.11,
+   "publicPct": 47.89,
+   "recordId": "206915",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606936_21012026031700_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.18,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 11.59,
+   "fpiShares": null,
+   "promoterPct": 52.11,
+   "publicPct": 47.89,
+   "recordId": "210008",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656045_21042026022239_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.11,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 11.45,
+   "fpiShares": null,
+   "promoterPct": 52.11,
+   "publicPct": 47.89,
+   "recordId": "212109",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696476_20072026115854_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.12,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 11.48,
+   "fpiShares": null,
+   "promoterPct": 52.11,
+   "publicPct": 47.89,
+   "recordId": "215173",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740606_17102026123558_WEB.xml"
+  }
+ },
+ "symbol": "CESC"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Redington Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.79,
+   "fpiCat2Pct": 2.03,
+   "fpiPct": 37.82,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "205288",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598923_12012026052356_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.14,
+   "fpiCat2Pct": 2.23,
+   "fpiPct": 37.37,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "209074",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653271_17042026044249_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.78,
+   "fpiCat2Pct": 2.06,
+   "fpiPct": 37.84,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "210800",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690559_10072026052427_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 36.86,
+   "fpiCat2Pct": 2.44,
+   "fpiPct": 39.3,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "214581",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738776_15102026030911_WEB.xml"
+  }
+ },
+ "symbol": "REDINGTON"
+}

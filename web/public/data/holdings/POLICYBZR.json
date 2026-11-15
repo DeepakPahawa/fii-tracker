@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "PB Fintech Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 36.95,
+   "fpiCat2Pct": 1.42,
+   "fpiPct": 38.37,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 99.86,
+   "recordId": "206388",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605204_20012026124908_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 30.85,
+   "fpiCat2Pct": 1.37,
+   "fpiPct": 32.22,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 99.86,
+   "recordId": "210209",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656670_21042026070814_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.23,
+   "fpiCat2Pct": 1.44,
+   "fpiPct": 30.67,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 99.86,
+   "recordId": "212247",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696865_20072026040936_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.3,
+   "fpiCat2Pct": 1.8,
+   "fpiPct": 27.1,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 99.86,
+   "recordId": "216105",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743089_21102026045244_WEB.xml"
+  }
+ },
+ "symbol": "POLICYBZR"
+}

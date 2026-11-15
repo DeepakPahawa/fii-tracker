@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Nava Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.98,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.35,
+   "fpiShares": null,
+   "promoterPct": 50.1,
+   "publicPct": 49.9,
+   "recordId": "204865",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596180_07012026050418_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.22,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 10.6,
+   "fpiShares": null,
+   "promoterPct": 50.11,
+   "publicPct": 49.89,
+   "recordId": "208324",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650648_14042026041526_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.86,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 10.21,
+   "fpiShares": null,
+   "promoterPct": 50.03,
+   "publicPct": 49.97,
+   "recordId": "211210",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692929_15072026125047_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.43,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 9.73,
+   "fpiShares": null,
+   "promoterPct": 50.03,
+   "publicPct": 49.97,
+   "recordId": "214706",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739181_15102026055550_WEB.xml"
+  }
+ },
+ "symbol": "NAVA"
+}

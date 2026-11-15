@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Timken India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.71,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 6.94,
+   "fpiShares": null,
+   "promoterPct": 51.05,
+   "publicPct": 48.95,
+   "recordId": "205103",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597623_09012026050318_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.72,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.96,
+   "fpiShares": null,
+   "promoterPct": 51.05,
+   "publicPct": 48.95,
+   "recordId": "207778",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648183_09042026053155_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.01,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 7.32,
+   "fpiShares": null,
+   "promoterPct": 51.05,
+   "publicPct": 48.95,
+   "recordId": "211196",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692870_15072026120803_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.64,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 6.91,
+   "fpiShares": null,
+   "promoterPct": 51.05,
+   "publicPct": 48.95,
+   "recordId": "214605",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738863_15102026035053_WEB.xml"
+  }
+ },
+ "symbol": "TIMKEN"
+}

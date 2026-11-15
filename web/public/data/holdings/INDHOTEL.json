@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Indian Hotels Co. Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.36,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 25.09,
+   "fpiShares": null,
+   "promoterPct": 38.12,
+   "publicPct": 61.88,
+   "recordId": "207053",
+   "source": "nse",
+   "submittedOn": "2026-02-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1621660_09022026052517_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.55,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 23.23,
+   "fpiShares": null,
+   "promoterPct": 38.12,
+   "publicPct": 61.88,
+   "recordId": "210118",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656374_21042026050435_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.16,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 21.71,
+   "fpiShares": null,
+   "promoterPct": 38.12,
+   "publicPct": 61.88,
+   "recordId": "212527",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697682_20072026115559_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.53,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 22.12,
+   "fpiShares": null,
+   "promoterPct": 38.12,
+   "publicPct": 61.88,
+   "recordId": "215722",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742116_19102026094034_WEB.xml"
+  }
+ },
+ "symbol": "INDHOTEL"
+}

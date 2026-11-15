@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Swan Corp Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.13,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 8.28,
+   "fpiShares": null,
+   "promoterPct": 53.96,
+   "publicPct": 46.04,
+   "recordId": "205717",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601878_16012026104024_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.79,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 8.99,
+   "fpiShares": null,
+   "promoterPct": 53.96,
+   "publicPct": 46.04,
+   "recordId": "207593",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647152_08042026124052_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.78,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 8.93,
+   "fpiShares": null,
+   "promoterPct": 53.96,
+   "publicPct": 46.04,
+   "recordId": "211287",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693250_15072026042636_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.92,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 9.07,
+   "fpiShares": null,
+   "promoterPct": 53.96,
+   "publicPct": 46.04,
+   "recordId": "214119",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737019_13102026044828_WEB.xml"
+  }
+ },
+ "symbol": "SWANCORP"
+}

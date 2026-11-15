@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Indiamart Intermesh Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.47,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 18.28,
+   "fpiShares": null,
+   "promoterPct": 49.12,
+   "publicPct": 50.83,
+   "recordId": "206251",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604602_19012026060238_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.72,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 19.17,
+   "fpiShares": null,
+   "promoterPct": 49.12,
+   "publicPct": 50.87,
+   "recordId": "208125",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649774_13042026034022_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.62,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 19.92,
+   "fpiShares": null,
+   "promoterPct": 49.07,
+   "publicPct": 50.91,
+   "recordId": "212851",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698641_21072026062311_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.03,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 20.32,
+   "fpiShares": null,
+   "promoterPct": 49.07,
+   "publicPct": 50.92,
+   "recordId": "215465",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741416_19102026031659_WEB.xml"
+  }
+ },
+ "symbol": "INDIAMART"
+}

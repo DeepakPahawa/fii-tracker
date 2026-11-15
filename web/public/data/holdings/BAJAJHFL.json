@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Bajaj Housing Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.94,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.94,
+   "fpiShares": null,
+   "promoterPct": 86.7,
+   "publicPct": 13.25,
+   "recordId": "206510",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605593_20012026041153_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.98,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 0.99,
+   "fpiShares": null,
+   "promoterPct": 86.7,
+   "publicPct": 13.25,
+   "recordId": "209671",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655150_20042026050627_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.9,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.9,
+   "fpiShares": null,
+   "promoterPct": 86.7,
+   "publicPct": 13.25,
+   "recordId": "211665",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695014_17072026022946_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.9,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.9,
+   "fpiShares": null,
+   "promoterPct": 86.7,
+   "publicPct": 13.26,
+   "recordId": "214355",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737797_14102026042924_WEB.xml"
+  }
+ },
+ "symbol": "BAJAJHFL"
+}

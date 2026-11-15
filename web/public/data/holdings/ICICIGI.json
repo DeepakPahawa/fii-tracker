@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "ICICI Lombard General Insurance Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.87,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 23.35,
+   "fpiShares": null,
+   "promoterPct": 51.31,
+   "publicPct": 48.69,
+   "recordId": "207128",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607765_21012026084909_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.78,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 22.29,
+   "fpiShares": null,
+   "promoterPct": 51.29,
+   "publicPct": 48.71,
+   "recordId": "209766",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655381_20042026063535_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.98,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 21.45,
+   "fpiShares": null,
+   "promoterPct": 51.22,
+   "publicPct": 48.78,
+   "recordId": "211839",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695565_17072026060707_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.94,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 18.34,
+   "fpiShares": null,
+   "promoterPct": 51.28,
+   "publicPct": 48.72,
+   "recordId": "215448",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741386_19102026030219_WEB.xml"
+  }
+ },
+ "symbol": "ICICIGI"
+}

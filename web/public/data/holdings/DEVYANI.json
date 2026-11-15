@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Devyani International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 5.77,
+   "fpiShares": null,
+   "promoterPct": 61.37,
+   "publicPct": 38.63,
+   "recordId": "205639",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601423_15012026015539_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.95,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 6.13,
+   "fpiShares": null,
+   "promoterPct": 61.36,
+   "publicPct": 38.64,
+   "recordId": "209742",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655329_20042026061333_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.59,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 6.81,
+   "fpiShares": null,
+   "promoterPct": 61.36,
+   "publicPct": 38.64,
+   "recordId": "212864",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698688_21072026064214_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.95,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 6.12,
+   "fpiShares": null,
+   "promoterPct": 61.36,
+   "publicPct": 38.64,
+   "recordId": "215530",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741588_19102026043645_WEB.xml"
+  }
+ },
+ "symbol": "DEVYANI"
+}

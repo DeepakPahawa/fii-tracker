@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Aditya Birla Real Estate Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.44,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 8.96,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 48.77,
+   "recordId": "205897",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602804_16012026070027_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.58,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 9.04,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 48.79,
+   "recordId": "209206",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653718_17042026075512_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.79,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 9.26,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 49.04,
+   "recordId": "212294",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697008_20072026050127_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.6,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 8.99,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 49.11,
+   "recordId": "215718",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742103_19102026090804_WEB.xml"
+  }
+ },
+ "symbol": "ABREL"
+}

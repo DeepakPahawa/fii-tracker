@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Chambal Fertilizers & Chemicals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.33,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 15.66,
+   "fpiShares": null,
+   "promoterPct": 60.85,
+   "publicPct": 39.15,
+   "recordId": "206857",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606746_21012026010920_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.92,
+   "fpiCat2Pct": 1.18,
+   "fpiPct": 15.1,
+   "fpiShares": null,
+   "promoterPct": 61.25,
+   "publicPct": 38.75,
+   "recordId": "210286",
+   "source": "nse",
+   "submittedOn": "2026-04-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656942_22042026094714_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.82,
+   "fpiCat2Pct": 1.1,
+   "fpiPct": 14.92,
+   "fpiShares": null,
+   "promoterPct": 61.34,
+   "publicPct": 38.66,
+   "recordId": "211609",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694811_17072026111452_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.3,
+   "fpiCat2Pct": 1.11,
+   "fpiPct": 13.41,
+   "fpiShares": null,
+   "promoterPct": 61.72,
+   "publicPct": 38.28,
+   "recordId": "214211",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737347_14102026100243_WEB.xml"
+  }
+ },
+ "symbol": "CHAMBLFERT"
+}

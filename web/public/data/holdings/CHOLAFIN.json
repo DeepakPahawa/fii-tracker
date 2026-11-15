@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Cholamandalam Investment and Finance Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.47,
+   "fpiCat2Pct": 1.09,
+   "fpiPct": 26.56,
+   "fpiShares": null,
+   "promoterPct": 49.72,
+   "publicPct": 50.28,
+   "recordId": "206726",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692386_14072026050933_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.87,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 24.87,
+   "fpiShares": null,
+   "promoterPct": 49.25,
+   "publicPct": 50.75,
+   "recordId": "209840",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655588_20042026080837_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.51,
+   "fpiCat2Pct": 0.95,
+   "fpiPct": 24.46,
+   "fpiShares": null,
+   "promoterPct": 49.22,
+   "publicPct": 50.78,
+   "recordId": "212523",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697678_20072026113024_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.97,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 24.87,
+   "fpiShares": null,
+   "promoterPct": 48.93,
+   "publicPct": 51.07,
+   "recordId": "216250",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743515_21102026075706_WEB.xml"
+  }
+ },
+ "symbol": "CHOLAFIN"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "L&T Technology Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.12,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 4.22,
+   "fpiShares": null,
+   "promoterPct": 73.58,
+   "publicPct": 26.42,
+   "recordId": "205458",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600071_13012026054527_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.78,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 3.86,
+   "fpiShares": null,
+   "promoterPct": 73.57,
+   "publicPct": 26.43,
+   "recordId": "209490",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654654_20042026123651_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.03,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 4.13,
+   "fpiShares": null,
+   "promoterPct": 73.52,
+   "publicPct": 26.48,
+   "recordId": "212284",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696975_20072026044959_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.34,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 4.43,
+   "fpiShares": null,
+   "promoterPct": 73.51,
+   "publicPct": 26.49,
+   "recordId": "216041",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742896_21102026034709_WEB.xml"
+  }
+ },
+ "symbol": "LTTS"
+}

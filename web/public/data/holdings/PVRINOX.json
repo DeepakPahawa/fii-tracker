@@ -1,0 +1,59 @@
+{
+ "industry": "Media Entertainment & Publication",
+ "name": "PVR INOX Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.22,
+   "fpiCat2Pct": 1.64,
+   "fpiPct": 17.86,
+   "fpiShares": null,
+   "promoterPct": 27.53,
+   "publicPct": 72.47,
+   "recordId": "208505",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651406_15042026042929_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.32,
+   "fpiCat2Pct": 1.76,
+   "fpiPct": 18.08,
+   "fpiShares": null,
+   "promoterPct": 27.53,
+   "publicPct": 72.47,
+   "recordId": "212626",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697895_21072026124538_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.11,
+   "fpiCat2Pct": 2.02,
+   "fpiPct": 19.13,
+   "fpiShares": null,
+   "promoterPct": 27.02,
+   "publicPct": 72.98,
+   "recordId": "213656",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735125_09102026061731_WEB.xml"
+  },
+  "2026-10-01": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.6,
+   "fpiCat2Pct": 2.05,
+   "fpiPct": 19.65,
+   "fpiShares": null,
+   "promoterPct": 27.6,
+   "publicPct": 72.4,
+   "recordId": "213659",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735132_09102026061941_WEB.xml"
+  }
+ },
+ "symbol": "PVRINOX"
+}

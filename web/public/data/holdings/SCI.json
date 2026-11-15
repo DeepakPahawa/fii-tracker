@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Shipping Corporation of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.85,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 7.13,
+   "fpiShares": null,
+   "promoterPct": 63.75,
+   "publicPct": 36.25,
+   "recordId": "205487",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600391_14012026110905_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.05,
+   "fpiCat2Pct": 0.93,
+   "fpiPct": 8.98,
+   "fpiShares": null,
+   "promoterPct": 63.75,
+   "publicPct": 36.25,
+   "recordId": "207763",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648101_09042026045317_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.64,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 8.98,
+   "fpiShares": null,
+   "promoterPct": 63.75,
+   "publicPct": 36.25,
+   "recordId": "211827",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695533_17072026055642_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.96,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 9.58,
+   "fpiShares": null,
+   "promoterPct": 63.75,
+   "publicPct": 36.25,
+   "recordId": "215525",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741573_19102026043207_WEB.xml"
+  }
+ },
+ "symbol": "SCI"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Motilal Oswal Financial Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.3,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 6.93,
+   "fpiShares": null,
+   "promoterPct": 67.62,
+   "publicPct": 32.38,
+   "recordId": "207093",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607622_21012026071029_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.36,
+   "fpiCat2Pct": 0.67,
+   "fpiPct": 7.03,
+   "fpiShares": null,
+   "promoterPct": 67.54,
+   "publicPct": 32.46,
+   "recordId": "209666",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655123_20042026050248_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.33,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 6.86,
+   "fpiShares": null,
+   "promoterPct": 67.2,
+   "publicPct": 32.8,
+   "recordId": "210999",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691818_13072026085847_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.18,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 6.71,
+   "fpiShares": null,
+   "promoterPct": 66.71,
+   "publicPct": 33.29,
+   "recordId": "215616",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741815_19102026060037_WEB.xml"
+  }
+ },
+ "symbol": "MOTILALOFS"
+}

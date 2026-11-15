@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Bharat Heavy Electricals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.03,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.28,
+   "fpiShares": null,
+   "promoterPct": 63.17,
+   "publicPct": 36.83,
+   "recordId": "204932",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596662_08012026025100_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.04,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 7.23,
+   "fpiShares": null,
+   "promoterPct": 58.17,
+   "publicPct": 41.83,
+   "recordId": "207657",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647448_08042026051459_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.94,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 9.52,
+   "fpiShares": null,
+   "promoterPct": 58.17,
+   "publicPct": 41.83,
+   "recordId": "211022",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691969_14072026122912_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.38,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 9.94,
+   "fpiShares": null,
+   "promoterPct": 58.17,
+   "publicPct": 41.83,
+   "recordId": "213767",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735811_12102026113053_WEB.xml"
+  }
+ },
+ "symbol": "BHEL"
+}

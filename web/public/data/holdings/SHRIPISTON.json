@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "SPR Auto Technologies Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.47,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 7.65,
+   "fpiShares": null,
+   "promoterPct": 43.75,
+   "publicPct": 56.25,
+   "recordId": "209451",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654564_20042026113758_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.76,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 8.21,
+   "fpiShares": null,
+   "promoterPct": 43.75,
+   "publicPct": 56.25,
+   "recordId": "212528",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697684_21072026121629_WEB.xml"
+  },
+  "2026-08-20": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.98,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 8.39,
+   "fpiShares": null,
+   "promoterPct": 41.55,
+   "publicPct": 58.45,
+   "recordId": "213070",
+   "source": "nse",
+   "submittedOn": "2026-08-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1716732_21082026015356_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.03,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 7.41,
+   "fpiShares": null,
+   "promoterPct": 41.55,
+   "publicPct": 58.45,
+   "recordId": "216160",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743176_21102026053744_WEB.xml"
+  }
+ },
+ "symbol": "SHRIPISTON"
+}

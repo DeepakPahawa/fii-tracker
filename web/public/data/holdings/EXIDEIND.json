@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Exide Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.67,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 10.91,
+   "fpiShares": null,
+   "promoterPct": 45.99,
+   "publicPct": 54.01,
+   "recordId": "205429",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599898_13012026044752_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.04,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 10.3,
+   "fpiShares": null,
+   "promoterPct": 45.99,
+   "publicPct": 54.01,
+   "recordId": "208170",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649976_13042026051530_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.4,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 10.62,
+   "fpiShares": null,
+   "promoterPct": 45.99,
+   "publicPct": 54.01,
+   "recordId": "212347",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697163_20072026054456_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.92,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 13.21,
+   "fpiShares": null,
+   "promoterPct": 45.99,
+   "publicPct": 54.01,
+   "recordId": "214091",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736957_13102026041727_WEB.xml"
+  }
+ },
+ "symbol": "EXIDEIND"
+}

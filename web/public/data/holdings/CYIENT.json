@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Cyient Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.66,
+   "fpiCat2Pct": 0.67,
+   "fpiPct": 15.33,
+   "fpiShares": null,
+   "promoterPct": 23.28,
+   "publicPct": 76.13,
+   "recordId": "210266",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656867_21042026093427_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.97,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 14.52,
+   "fpiShares": null,
+   "promoterPct": 23.28,
+   "publicPct": 76.25,
+   "recordId": "212629",
+   "source": "nse",
+   "submittedOn": "2026-08-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1707393_04082026012341_WEB.xml"
+  },
+  "2026-07-15": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.76,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 14.53,
+   "fpiShares": null,
+   "promoterPct": 24.7,
+   "publicPct": 74.77,
+   "recordId": "212980",
+   "source": "nse",
+   "submittedOn": "2026-07-24",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1701276_24072026082345_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.39,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 14.72,
+   "fpiShares": null,
+   "promoterPct": 24.76,
+   "publicPct": 74.76,
+   "recordId": "216094",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743051_21102026044240_WEB.xml"
+  }
+ },
+ "symbol": "CYIENT"
+}

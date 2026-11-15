@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Prestige Estates Projects Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.18,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 15.72,
+   "fpiShares": null,
+   "promoterPct": 60.94,
+   "publicPct": 39.06,
+   "recordId": "206649",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606068_20012026061808_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.79,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 14.2,
+   "fpiShares": null,
+   "promoterPct": 60.94,
+   "publicPct": 39.06,
+   "recordId": "208731",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652201_16042026035421_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.98,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 13.27,
+   "fpiShares": null,
+   "promoterPct": 60.94,
+   "publicPct": 39.06,
+   "recordId": "212354",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697174_20072026054826_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.67,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 12.97,
+   "fpiShares": null,
+   "promoterPct": 60.94,
+   "publicPct": 39.06,
+   "recordId": "215084",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740306_16102026062520_WEB.xml"
+  }
+ },
+ "symbol": "PRESTIGE"
+}

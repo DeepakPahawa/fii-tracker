@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Oberoi Realty Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.3,
+   "fpiCat2Pct": 1.28,
+   "fpiPct": 16.58,
+   "fpiShares": null,
+   "promoterPct": 67.7,
+   "publicPct": 32.3,
+   "recordId": "206923",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606974_21012026033450_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.23,
+   "fpiCat2Pct": 1.19,
+   "fpiPct": 15.42,
+   "fpiShares": null,
+   "promoterPct": 67.7,
+   "publicPct": 32.3,
+   "recordId": "208469",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651304_15042026033402_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.94,
+   "fpiCat2Pct": 1.17,
+   "fpiPct": 15.11,
+   "fpiShares": null,
+   "promoterPct": 67.7,
+   "publicPct": 32.3,
+   "recordId": "210991",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691716_13072026063733_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.13,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 15.25,
+   "fpiShares": null,
+   "promoterPct": 67.7,
+   "publicPct": 32.3,
+   "recordId": "215843",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742378_20102026081828_WEB.xml"
+  }
+ },
+ "symbol": "OBEROIRLTY"
+}

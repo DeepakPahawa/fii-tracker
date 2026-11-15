@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Hindustan Zinc Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.41,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 1.53,
+   "fpiShares": null,
+   "promoterPct": 61.84,
+   "publicPct": 38.16,
+   "recordId": "205110",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597664_09012026052157_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.26,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 2.38,
+   "fpiShares": null,
+   "promoterPct": 60.71,
+   "publicPct": 39.29,
+   "recordId": "209140",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653416_17042026054412_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.14,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 2.19,
+   "fpiShares": null,
+   "promoterPct": 60.71,
+   "publicPct": 39.29,
+   "recordId": "211078",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692245_14072026040904_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.32,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 2.36,
+   "fpiShares": null,
+   "promoterPct": 60.71,
+   "publicPct": 39.29,
+   "recordId": "214415",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737993_14102026055738_WEB.xml"
+  }
+ },
+ "symbol": "HINDZINC"
+}

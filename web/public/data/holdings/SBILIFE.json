@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "SBI Life Insurance Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.11,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 21.88,
+   "fpiShares": null,
+   "promoterPct": 55.34,
+   "publicPct": 44.66,
+   "recordId": "205441",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599964_13012026051219_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.78,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 21.51,
+   "fpiShares": null,
+   "promoterPct": 55.33,
+   "publicPct": 44.67,
+   "recordId": "208886",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652766_16042026101608_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.26,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 20.95,
+   "fpiShares": null,
+   "promoterPct": 55.32,
+   "publicPct": 44.68,
+   "recordId": "211909",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695831_17072026113756_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.05,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 20.68,
+   "fpiShares": null,
+   "promoterPct": 55.31,
+   "publicPct": 44.69,
+   "recordId": "214736",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739296_15102026065450_WEB.xml"
+  }
+ },
+ "symbol": "SBILIFE"
+}

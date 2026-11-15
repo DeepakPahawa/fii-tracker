@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.97,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 10.31,
+   "fpiShares": null,
+   "promoterPct": 45.63,
+   "publicPct": 54.37,
+   "recordId": "207003",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607245_21012026050742_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.94,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.31,
+   "fpiShares": null,
+   "promoterPct": 45.63,
+   "publicPct": 54.37,
+   "recordId": "210151",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656460_21042026055059_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.8,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 10.02,
+   "fpiShares": null,
+   "promoterPct": 45.63,
+   "publicPct": 54.37,
+   "recordId": "212249",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696870_20072026041237_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.75,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 10.14,
+   "fpiShares": null,
+   "promoterPct": 45.63,
+   "publicPct": 54.37,
+   "recordId": "216076",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742995_21102026042546_WEB.xml"
+  }
+ },
+ "symbol": "DEEPAKFERT"
+}

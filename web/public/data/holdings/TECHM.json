@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Tech Mahindra Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.31,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 17.94,
+   "fpiShares": null,
+   "promoterPct": 34.98,
+   "publicPct": 65.02,
+   "recordId": "207112",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607703_21012026075206_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.01,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 18.59,
+   "fpiShares": null,
+   "promoterPct": 34.97,
+   "publicPct": 65.03,
+   "recordId": "210152",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656461_21042026055122_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.1,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 18.66,
+   "fpiShares": null,
+   "promoterPct": 34.97,
+   "publicPct": 65.03,
+   "recordId": "212825",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698555_21072026055233_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.2,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 20.76,
+   "fpiShares": null,
+   "promoterPct": 34.96,
+   "publicPct": 65.04,
+   "recordId": "216223",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743431_21102026070029_WEB.xml"
+  }
+ },
+ "symbol": "TECHM"
+}

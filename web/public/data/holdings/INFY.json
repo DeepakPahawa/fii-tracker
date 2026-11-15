@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Infosys Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.4,
+   "fpiCat2Pct": 0.86,
+   "fpiPct": 30.26,
+   "fpiShares": null,
+   "promoterPct": 14.52,
+   "publicPct": 85.24,
+   "recordId": "206006",
+   "source": "nse",
+   "submittedOn": "2026-01-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603602_18012026053756_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.55,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 28.45,
+   "fpiShares": null,
+   "promoterPct": 14.38,
+   "publicPct": 85.38,
+   "recordId": "208773",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652323_16042026045034_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.08,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 27.09,
+   "fpiShares": null,
+   "promoterPct": 13.82,
+   "publicPct": 85.97,
+   "recordId": "211349",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693581_15072026065242_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.43,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 27.44,
+   "fpiShares": null,
+   "promoterPct": 13.9,
+   "publicPct": 85.88,
+   "recordId": "215753",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742200_20102026120732_WEB.xml"
+  }
+ },
+ "symbol": "INFY"
+}

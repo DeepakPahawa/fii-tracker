@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Jindal Saw Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.88,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 14.09,
+   "fpiShares": null,
+   "promoterPct": 63.25,
+   "publicPct": 36.39,
+   "recordId": "206520",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605622_20012026041847_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.25,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 13.46,
+   "fpiShares": null,
+   "promoterPct": 63.25,
+   "publicPct": 36.46,
+   "recordId": "207668",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647493_08042026054343_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.9,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 13.08,
+   "fpiShares": null,
+   "promoterPct": 63.25,
+   "publicPct": 36.5,
+   "recordId": "211713",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695162_17072026034750_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.98,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 11.32,
+   "fpiShares": null,
+   "promoterPct": 63.24,
+   "publicPct": 36.5,
+   "recordId": "215986",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742735_21102026023519_WEB.xml"
+  }
+ },
+ "symbol": "JINDALSAW"
+}

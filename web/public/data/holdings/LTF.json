@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "L&T Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.29,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 6.66,
+   "fpiShares": null,
+   "promoterPct": 66.03,
+   "publicPct": 33.97,
+   "recordId": "204991",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597004_08012026064216_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.34,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 7.64,
+   "fpiShares": null,
+   "promoterPct": 65.99,
+   "publicPct": 34.01,
+   "recordId": "208860",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652636_16042026070255_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.42,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 7.71,
+   "fpiShares": null,
+   "promoterPct": 65.96,
+   "publicPct": 34.04,
+   "recordId": "210627",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689262_08072026040710_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.15,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 7.38,
+   "fpiShares": null,
+   "promoterPct": 65.93,
+   "publicPct": 34.07,
+   "recordId": "213507",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734439_08102026052653_WEB.xml"
+  }
+ },
+ "symbol": "LTF"
+}

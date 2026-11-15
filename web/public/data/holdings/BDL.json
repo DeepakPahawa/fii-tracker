@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Bharat Dynamics Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.22,
+   "fpiCat2Pct": 0.07,
+   "fpiPct": 2.29,
+   "fpiShares": null,
+   "promoterPct": 74.93,
+   "publicPct": 25.07,
+   "recordId": "205714",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601866_16012026100738_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.95,
+   "fpiCat2Pct": 0.07,
+   "fpiPct": 2.02,
+   "fpiShares": null,
+   "promoterPct": 74.93,
+   "publicPct": 25.07,
+   "recordId": "207725",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647943_09042026032334_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.68,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 1.69,
+   "fpiShares": null,
+   "promoterPct": 74.93,
+   "publicPct": 25.07,
+   "recordId": "210716",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689883_09072026050801_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.75,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 1.76,
+   "fpiShares": null,
+   "promoterPct": 74.93,
+   "publicPct": 25.07,
+   "recordId": "214397",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737916_14102026052513_WEB.xml"
+  }
+ },
+ "symbol": "BDL"
+}

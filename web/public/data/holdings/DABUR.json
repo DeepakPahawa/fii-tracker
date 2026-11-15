@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Dabur India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.79,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 10.05,
+   "fpiShares": null,
+   "promoterPct": 66.23,
+   "publicPct": 33.77,
+   "recordId": "206651",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606077_20012026062030_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.71,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 9.98,
+   "fpiShares": null,
+   "promoterPct": 66.25,
+   "publicPct": 33.75,
+   "recordId": "208716",
+   "source": "nse",
+   "submittedOn": "2026-05-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1663304_04052026053152_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.42,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 9.66,
+   "fpiShares": null,
+   "promoterPct": 66.24,
+   "publicPct": 33.76,
+   "recordId": "211536",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694429_16072026055059_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.37,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 9.6,
+   "fpiShares": null,
+   "promoterPct": 66.25,
+   "publicPct": 33.75,
+   "recordId": "214908",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739859_16102026033110_WEB.xml"
+  }
+ },
+ "symbol": "DABUR"
+}

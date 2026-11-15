@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Tata Power Co. Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.65,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 10.0,
+   "fpiShares": null,
+   "promoterPct": 46.86,
+   "publicPct": 53.14,
+   "recordId": "207019",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607309_21012026052838_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.67,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.04,
+   "fpiShares": null,
+   "promoterPct": 46.86,
+   "publicPct": 53.14,
+   "recordId": "210277",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656901_21042026103928_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.67,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 10.03,
+   "fpiShares": null,
+   "promoterPct": 46.86,
+   "publicPct": 53.14,
+   "recordId": "212729",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698230_21072026035332_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.76,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.13,
+   "fpiShares": null,
+   "promoterPct": 46.86,
+   "publicPct": 53.14,
+   "recordId": "215971",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742704_21102026020328_WEB.xml"
+  }
+ },
+ "symbol": "TATAPOWER"
+}

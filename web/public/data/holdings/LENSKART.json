@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Lenskart Solutions Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.71,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.86,
+   "fpiShares": null,
+   "promoterPct": 17.57,
+   "publicPct": 82.01,
+   "recordId": "206597",
+   "source": "nse",
+   "submittedOn": "2026-03-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1633097_06032026030247_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.14,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 4.26,
+   "fpiShares": null,
+   "promoterPct": 17.55,
+   "publicPct": 82.03,
+   "recordId": "208046",
+   "source": "nse",
+   "submittedOn": "2026-05-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1665476_11052026034628_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.71,
+   "fpiCat2Pct": 1.05,
+   "fpiPct": 12.76,
+   "fpiShares": null,
+   "promoterPct": 17.53,
+   "publicPct": 82.05,
+   "recordId": "211573",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694639_16072026073651_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.07,
+   "fpiCat2Pct": 1.19,
+   "fpiPct": 18.26,
+   "fpiShares": null,
+   "promoterPct": 17.52,
+   "publicPct": 82.06,
+   "recordId": "213811",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735992_12102026022956_WEB.xml"
+  }
+ },
+ "symbol": "LENSKART"
+}

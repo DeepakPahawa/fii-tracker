@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Tata Motors Passenger Vehicles Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.43,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 17.88,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "207071",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607551_21012026064228_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.77,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 17.29,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "209805",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655497_20042026071112_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.52,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 17.11,
+   "fpiShares": null,
+   "promoterPct": 42.51,
+   "publicPct": 57.49,
+   "recordId": "212902",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698814_21072026073405_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.9,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 15.32,
+   "fpiShares": null,
+   "promoterPct": 42.5,
+   "publicPct": 57.5,
+   "recordId": "215891",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742472_21102026112027_WEB.xml"
+  }
+ },
+ "symbol": "TMPV"
+}

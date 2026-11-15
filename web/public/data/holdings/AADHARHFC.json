@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Aadhar Housing Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.63,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 6.19,
+   "fpiShares": null,
+   "promoterPct": 75.19,
+   "publicPct": 24.81,
+   "recordId": "205833",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602498_16012026050830_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.03,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 6.13,
+   "fpiShares": null,
+   "promoterPct": 64.9,
+   "publicPct": 35.1,
+   "recordId": "208189",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650083_13042026061334_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.69,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 5.8,
+   "fpiShares": null,
+   "promoterPct": 64.66,
+   "publicPct": 35.34,
+   "recordId": "211527",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694400_16072026053329_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.0,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 4.11,
+   "fpiShares": null,
+   "promoterPct": 64.51,
+   "publicPct": 35.49,
+   "recordId": "214398",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737917_14102026052530_WEB.xml"
+  }
+ },
+ "symbol": "AADHARHFC"
+}

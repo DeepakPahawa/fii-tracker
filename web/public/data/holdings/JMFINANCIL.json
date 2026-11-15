@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "JM Financial Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.75,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 16.49,
+   "fpiShares": null,
+   "promoterPct": 56.9,
+   "publicPct": 43.1,
+   "recordId": "206899",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606897_21012026030157_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.24,
+   "fpiCat2Pct": 0.7,
+   "fpiPct": 15.94,
+   "fpiShares": null,
+   "promoterPct": 57.07,
+   "publicPct": 42.93,
+   "recordId": "209968",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655928_21042026010315_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.92,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 15.74,
+   "fpiShares": null,
+   "promoterPct": 57.03,
+   "publicPct": 42.97,
+   "recordId": "212498",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697604_20072026092603_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.12,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 15.87,
+   "fpiShares": null,
+   "promoterPct": 57.95,
+   "publicPct": 42.05,
+   "recordId": "215702",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742042_19102026080131_WEB.xml"
+  }
+ },
+ "symbol": "JMFINANCIL"
+}

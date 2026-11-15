@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Motherson Sumi Wiring India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.67,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 10.14,
+   "fpiShares": null,
+   "promoterPct": 61.73,
+   "publicPct": 38.27,
+   "recordId": "205679",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601602_15012026043802_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.21,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 9.74,
+   "fpiShares": null,
+   "promoterPct": 61.73,
+   "publicPct": 38.27,
+   "recordId": "208363",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650802_14042026054947_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.32,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 8.91,
+   "fpiShares": null,
+   "promoterPct": 61.73,
+   "publicPct": 38.27,
+   "recordId": "211819",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695502_17072026054530_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.97,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 7.55,
+   "fpiShares": null,
+   "promoterPct": 61.73,
+   "publicPct": 38.27,
+   "recordId": "214809",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739590_16102026122229_WEB.xml"
+  }
+ },
+ "symbol": "MSUMI"
+}

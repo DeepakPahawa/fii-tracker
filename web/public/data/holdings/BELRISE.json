@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Belrise Industries Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.12,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 8.86,
+   "fpiShares": null,
+   "promoterPct": 66.46,
+   "publicPct": 33.54,
+   "recordId": "209630",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655040_20042026042739_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.69,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 9.4,
+   "fpiShares": null,
+   "promoterPct": 66.46,
+   "publicPct": 33.54,
+   "recordId": "211405",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693833_16072026115421_WEB.xml"
+  },
+  "2026-07-17": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.32,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 12.09,
+   "fpiShares": null,
+   "promoterPct": 61.15,
+   "publicPct": 38.85,
+   "recordId": "212968",
+   "source": "nse",
+   "submittedOn": "2026-07-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1700007_23072026041010_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.32,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 12.13,
+   "fpiShares": null,
+   "promoterPct": 61.15,
+   "publicPct": 38.85,
+   "recordId": "215985",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742730_21102026023230_WEB.xml"
+  }
+ },
+ "symbol": "BELRISE"
+}

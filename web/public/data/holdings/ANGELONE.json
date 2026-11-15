@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Angel One Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.19,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 12.45,
+   "fpiShares": null,
+   "promoterPct": 28.87,
+   "publicPct": 71.13,
+   "recordId": "205912",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602956_16012026101251_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.57,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 12.81,
+   "fpiShares": null,
+   "promoterPct": 28.8,
+   "publicPct": 71.2,
+   "recordId": "209835",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692586_14072026064029_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.72,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 13.76,
+   "fpiShares": null,
+   "promoterPct": 28.59,
+   "publicPct": 71.41,
+   "recordId": "211574",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694660_16072026080533_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.15,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 12.51,
+   "fpiShares": null,
+   "promoterPct": 28.55,
+   "publicPct": 71.45,
+   "recordId": "214377",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737867_14102026045751_WEB.xml"
+  }
+ },
+ "symbol": "ANGELONE"
+}

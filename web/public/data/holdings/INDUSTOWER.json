@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Indus Towers Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.11,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 25.92,
+   "fpiShares": null,
+   "promoterPct": 51.03,
+   "publicPct": 48.93,
+   "recordId": "206936",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607016_21012026035024_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.42,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 25.1,
+   "fpiShares": null,
+   "promoterPct": 51.26,
+   "publicPct": 48.71,
+   "recordId": "210251",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656799_21042026082507_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.58,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 23.2,
+   "fpiShares": null,
+   "promoterPct": 51.26,
+   "publicPct": 48.71,
+   "recordId": "212679",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698070_21072026024107_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.1,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 21.71,
+   "fpiShares": null,
+   "promoterPct": 51.26,
+   "publicPct": 48.74,
+   "recordId": "216192",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743312_21102026061216_WEB.xml"
+  }
+ },
+ "symbol": "INDUSTOWER"
+}

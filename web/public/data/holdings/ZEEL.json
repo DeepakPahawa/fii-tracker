@@ -1,0 +1,59 @@
+{
+ "industry": "Media Entertainment & Publication",
+ "name": "Zee Entertainment Enterprises Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.97,
+   "fpiCat2Pct": 1.24,
+   "fpiPct": 24.21,
+   "fpiShares": null,
+   "promoterPct": 3.99,
+   "publicPct": 96.01,
+   "recordId": "206206",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604406_19012026050433_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.51,
+   "fpiCat2Pct": 1.82,
+   "fpiPct": 25.33,
+   "fpiShares": null,
+   "promoterPct": 3.99,
+   "publicPct": 96.01,
+   "recordId": "209623",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655020_20042026042139_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.57,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 20.11,
+   "fpiShares": null,
+   "promoterPct": 3.99,
+   "publicPct": 96.01,
+   "recordId": "212293",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697002_20072026045753_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.48,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 18.08,
+   "fpiShares": null,
+   "promoterPct": 3.99,
+   "publicPct": 96.01,
+   "recordId": "215132",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740483_16102026085634_WEB.xml"
+  }
+ },
+ "symbol": "ZEEL"
+}

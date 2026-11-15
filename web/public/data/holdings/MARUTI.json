@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Maruti Suzuki India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.25,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 15.76,
+   "fpiShares": null,
+   "promoterPct": 58.28,
+   "publicPct": 41.72,
+   "recordId": "206846",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606718_21012026125734_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.59,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 14.12,
+   "fpiShares": null,
+   "promoterPct": 58.53,
+   "publicPct": 41.47,
+   "recordId": "209102",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653341_17042026051746_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.38,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 12.82,
+   "fpiShares": null,
+   "promoterPct": 58.65,
+   "publicPct": 41.35,
+   "recordId": "211591",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694756_17072026101742_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.0,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 12.42,
+   "fpiShares": null,
+   "promoterPct": 58.72,
+   "publicPct": 41.28,
+   "recordId": "215862",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742414_21102026100118_WEB.xml"
+  }
+ },
+ "symbol": "MARUTI"
+}

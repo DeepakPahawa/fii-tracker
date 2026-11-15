@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Bajaj Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.42,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 19.33,
+   "fpiShares": null,
+   "promoterPct": 54.7,
+   "publicPct": 45.21,
+   "recordId": "206472",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605464_20012026031448_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.29,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 19.21,
+   "fpiShares": null,
+   "promoterPct": 54.7,
+   "publicPct": 45.22,
+   "recordId": "209639",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655056_20042026043545_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.93,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 18.84,
+   "fpiShares": null,
+   "promoterPct": 54.67,
+   "publicPct": 45.24,
+   "recordId": "212045",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696255_18072026055655_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.81,
+   "fpiCat2Pct": 0.97,
+   "fpiPct": 19.78,
+   "fpiShares": null,
+   "promoterPct": 54.67,
+   "publicPct": 45.3,
+   "recordId": "213626",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735006_09102026050346_WEB.xml"
+  }
+ },
+ "symbol": "BAJFINANCE"
+}

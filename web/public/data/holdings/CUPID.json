@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Cupid Ltd.",
+ "quarters": {
+  "2026-03-10": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.79,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 0.91,
+   "fpiShares": null,
+   "promoterPct": 45.95,
+   "publicPct": 54.05,
+   "recordId": "207308",
+   "source": "nse",
+   "submittedOn": "2026-03-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1635711_13032026071532_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.78,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 1.01,
+   "fpiShares": null,
+   "promoterPct": 46.03,
+   "publicPct": 53.97,
+   "recordId": "207470",
+   "source": "nse",
+   "submittedOn": "2026-04-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646341_06042026061116_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.0,
+   "fpiCat2Pct": 1.17,
+   "fpiPct": 4.17,
+   "fpiShares": null,
+   "promoterPct": 46.24,
+   "publicPct": 53.76,
+   "recordId": "211281",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693218_15072026041154_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.57,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 4.69,
+   "fpiShares": null,
+   "promoterPct": 47.69,
+   "publicPct": 52.31,
+   "recordId": "214970",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740014_16102026042747_WEB.xml"
+  }
+ },
+ "symbol": "CUPID"
+}

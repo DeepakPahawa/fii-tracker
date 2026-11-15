@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Max Financial Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.15,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 23.27,
+   "fpiShares": null,
+   "promoterPct": 1.25,
+   "publicPct": 98.75,
+   "recordId": "205655",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601478_15012026030255_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.0,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 26.02,
+   "fpiShares": null,
+   "promoterPct": 1.25,
+   "publicPct": 98.75,
+   "recordId": "208388",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650925_14042026073545_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.31,
+   "fpiCat2Pct": 0.89,
+   "fpiPct": 26.2,
+   "fpiShares": null,
+   "promoterPct": 1.25,
+   "publicPct": 98.75,
+   "recordId": "210783",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690441_10072026041615_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.86,
+   "fpiCat2Pct": 0.89,
+   "fpiPct": 26.75,
+   "fpiShares": null,
+   "promoterPct": 1.25,
+   "publicPct": 98.75,
+   "recordId": "213853",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736151_12102026041358_WEB.xml"
+  }
+ },
+ "symbol": "MFSL"
+}

@@ -1,0 +1,46 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Vedanta Oil and Gas Ltd.",
+ "quarters": {
+  "2026-06-12": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.47,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 14.05,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "210403",
+   "source": "nse",
+   "submittedOn": "2026-06-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682017_16062026034856_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.05,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 7.68,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "210673",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689626_09072026014636_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.89,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 5.45,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "215431",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741341_19102026021711_WEB.xml"
+  }
+ },
+ "symbol": "VOGL"
+}

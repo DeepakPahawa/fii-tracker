@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "JK Tyre & Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.56,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 12.31,
+   "fpiShares": null,
+   "promoterPct": 51.72,
+   "publicPct": 48.28,
+   "recordId": "206439",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605368_20012026023345_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.31,
+   "fpiCat2Pct": 0.67,
+   "fpiPct": 13.98,
+   "fpiShares": null,
+   "promoterPct": 51.72,
+   "publicPct": 48.28,
+   "recordId": "209557",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654841_20042026030150_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.9,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 11.14,
+   "fpiShares": null,
+   "promoterPct": 51.72,
+   "publicPct": 48.28,
+   "recordId": "212930",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698919_21072026083430_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.83,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 10.02,
+   "fpiShares": null,
+   "promoterPct": 51.72,
+   "publicPct": 48.28,
+   "recordId": "215585",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741732_19102026052647_WEB.xml"
+  }
+ },
+ "symbol": "JKTYRE"
+}

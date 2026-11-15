@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Bajaj Auto Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.6,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.83,
+   "fpiShares": null,
+   "promoterPct": 54.99,
+   "publicPct": 44.92,
+   "recordId": "207025",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607322_21012026053346_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.6,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 8.82,
+   "fpiShares": null,
+   "promoterPct": 55.01,
+   "publicPct": 44.91,
+   "recordId": "209446",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656829_21042026085055_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.8,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 9.01,
+   "fpiShares": null,
+   "promoterPct": 55.01,
+   "publicPct": 44.99,
+   "recordId": "212083",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.66,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 8.87,
+   "fpiShares": null,
+   "promoterPct": 55.95,
+   "publicPct": 44.05,
+   "recordId": "214597",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738840_15102026033814_WEB.xml"
+  }
+ },
+ "symbol": "BAJAJ-AUTO"
+}

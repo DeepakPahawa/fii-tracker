@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Wipro Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.11,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 8.32,
+   "fpiShares": null,
+   "promoterPct": 72.62,
+   "publicPct": 27.27,
+   "recordId": "209411",
+   "source": "nse",
+   "submittedOn": "2026-04-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654457_19042026063829_WEB.xml"
+  },
+  "2026-06-25": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.59,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 8.77,
+   "fpiShares": null,
+   "promoterPct": 72.59,
+   "publicPct": 27.29,
+   "recordId": "210508",
+   "source": "nse",
+   "submittedOn": "2026-07-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688278_04072026060913_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.67,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 8.85,
+   "fpiShares": null,
+   "promoterPct": 72.59,
+   "publicPct": 27.29,
+   "recordId": "211119",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692557_14072026062925_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.27,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 9.46,
+   "fpiShares": null,
+   "promoterPct": 72.58,
+   "publicPct": 27.3,
+   "recordId": "213650",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735103_09102026060405_WEB.xml"
+  }
+ },
+ "symbol": "WIPRO"
+}

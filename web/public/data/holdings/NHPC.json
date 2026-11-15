@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "NHPC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.78,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 10.39,
+   "fpiShares": null,
+   "promoterPct": 67.4,
+   "publicPct": 32.6,
+   "recordId": "205112",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597672_09012026052446_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.75,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 10.34,
+   "fpiShares": null,
+   "promoterPct": 67.4,
+   "publicPct": 32.6,
+   "recordId": "209507",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654711_20042026010211_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.73,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 12.29,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "211543",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694473_16072026061251_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.6,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 13.17,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "214394",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737909_14102026052303_WEB.xml"
+  }
+ },
+ "symbol": "NHPC"
+}

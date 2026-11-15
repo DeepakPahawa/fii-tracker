@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Poonawalla Fincorp Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.62,
+   "fpiCat2Pct": 1.59,
+   "fpiPct": 10.21,
+   "fpiShares": null,
+   "promoterPct": 63.93,
+   "publicPct": 35.47,
+   "recordId": "207694",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647749_09042026113242_WEB.xml"
+  },
+  "2026-04-13": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.78,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 11.25,
+   "fpiShares": null,
+   "promoterPct": 59.03,
+   "publicPct": 40.42,
+   "recordId": "208444",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651163_15042026013811_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.44,
+   "fpiCat2Pct": 1.52,
+   "fpiPct": 10.96,
+   "fpiShares": null,
+   "promoterPct": 59.02,
+   "publicPct": 40.45,
+   "recordId": "210820",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690715_10072026070113_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.17,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 11.64,
+   "fpiShares": null,
+   "promoterPct": 59.01,
+   "publicPct": 40.99,
+   "recordId": "213468",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734248_08102026030556_WEB.xml"
+  }
+ },
+ "symbol": "POONAWALLA"
+}

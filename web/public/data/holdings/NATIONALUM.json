@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "National Aluminium Co. Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.4,
+   "fpiCat2Pct": 1.27,
+   "fpiPct": 19.67,
+   "fpiShares": null,
+   "promoterPct": 51.28,
+   "publicPct": 48.72,
+   "recordId": "206558",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605775_20012026045934_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.23,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 22.27,
+   "fpiShares": null,
+   "promoterPct": 51.28,
+   "publicPct": 48.72,
+   "recordId": "209591",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654935_20042026034836_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.23,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 21.99,
+   "fpiShares": null,
+   "promoterPct": 51.28,
+   "publicPct": 48.72,
+   "recordId": "210653",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689539_09072026111022_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.22,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 21.98,
+   "fpiShares": null,
+   "promoterPct": 51.28,
+   "publicPct": 48.72,
+   "recordId": "214373",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737856_14102026045149_WEB.xml"
+  }
+ },
+ "symbol": "NATIONALUM"
+}

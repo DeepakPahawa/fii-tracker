@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Swiggy Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.57,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 16.07,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 94.06,
+   "recordId": "205102",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597620_09012026050146_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.08,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 14.59,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 94.41,
+   "recordId": "209581",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654920_20042026034029_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.46,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 13.96,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 94.92,
+   "recordId": "211936",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695908_18072026113751_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.55,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 8.86,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 95.02,
+   "recordId": "213786",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735908_12102026125855_WEB.xml"
+  }
+ },
+ "symbol": "SWIGGY"
+}

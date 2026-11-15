@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Global Health Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.19,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 10.54,
+   "fpiShares": null,
+   "promoterPct": 33.01,
+   "publicPct": 66.93,
+   "recordId": "205385",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599642_13012026030357_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.91,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 10.15,
+   "fpiShares": null,
+   "promoterPct": 33.01,
+   "publicPct": 66.92,
+   "recordId": "208188",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650074_13042026061032_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.28,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 9.46,
+   "fpiShares": null,
+   "promoterPct": 33.0,
+   "publicPct": 66.91,
+   "recordId": "212928",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698912_21072026083152_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.74,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 9.92,
+   "fpiShares": null,
+   "promoterPct": 33.0,
+   "publicPct": 66.88,
+   "recordId": "215497",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741502_19102026035252_WEB.xml"
+  }
+ },
+ "symbol": "MEDANTA"
+}

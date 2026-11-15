@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Aegis Vopak Terminals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.52,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 6.03,
+   "fpiShares": null,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "205524",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600592_14012026024231_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.25,
+   "fpiCat2Pct": 0.64,
+   "fpiPct": 5.89,
+   "fpiShares": null,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "208214",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650287_14042026102620_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.96,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 5.35,
+   "fpiShares": null,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "212574",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697778_21072026112645_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.85,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 5.09,
+   "fpiShares": null,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "215806",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742309_20102026042436_WEB.xml"
+  }
+ },
+ "symbol": "AEGISVOPAK"
+}

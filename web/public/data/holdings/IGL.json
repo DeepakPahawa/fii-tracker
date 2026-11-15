@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Indraprastha Gas Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.77,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 17.0,
+   "fpiShares": null,
+   "promoterPct": 45.0,
+   "publicPct": 55.0,
+   "recordId": "204952",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596778_08012026041557_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.74,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 17.08,
+   "fpiShares": null,
+   "promoterPct": 45.0,
+   "publicPct": 55.0,
+   "recordId": "208767",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652308_16042026044507_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.83,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 10.16,
+   "fpiShares": null,
+   "promoterPct": 45.0,
+   "publicPct": 55.0,
+   "recordId": "211484",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694199_16072026040801_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.41,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 9.73,
+   "fpiShares": null,
+   "promoterPct": 45.0,
+   "publicPct": 55.0,
+   "recordId": "214105",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736988_13102026043316_WEB.xml"
+  }
+ },
+ "symbol": "IGL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Karur Vysya Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.58,
+   "fpiCat2Pct": 1.29,
+   "fpiPct": 16.87,
+   "fpiShares": null,
+   "promoterPct": 2.07,
+   "publicPct": 97.93,
+   "recordId": "205502",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600463_14012026121729_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.31,
+   "fpiCat2Pct": 1.94,
+   "fpiPct": 19.25,
+   "fpiShares": null,
+   "promoterPct": 2.07,
+   "publicPct": 97.93,
+   "recordId": "208969",
+   "source": "nse",
+   "submittedOn": "2026-06-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1686290_29062026080636_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.11,
+   "fpiCat2Pct": 1.81,
+   "fpiPct": 17.92,
+   "fpiShares": null,
+   "promoterPct": 2.07,
+   "publicPct": 97.93,
+   "recordId": "212612",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697854_21072026122222_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.12,
+   "fpiCat2Pct": 1.98,
+   "fpiPct": 18.1,
+   "fpiShares": null,
+   "promoterPct": 1.95,
+   "publicPct": 98.05,
+   "recordId": "214516",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738556_15102026122149_WEB.xml"
+  }
+ },
+ "symbol": "KARURVYSYA"
+}

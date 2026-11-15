@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "ICICI Prudential Asset Management Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.43,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 2.65,
+   "fpiShares": null,
+   "promoterPct": 87.59,
+   "publicPct": 12.41,
+   "recordId": "207050",
+   "source": "nse",
+   "submittedOn": "2026-02-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1626962_17022026034818_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.3,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.4,
+   "fpiShares": null,
+   "promoterPct": 87.59,
+   "publicPct": 12.41,
+   "recordId": "209910",
+   "source": "nse",
+   "submittedOn": "2026-06-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680204_08062026041638_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.8,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 2.96,
+   "fpiShares": null,
+   "promoterPct": 87.6,
+   "publicPct": 12.4,
+   "recordId": "212715",
+   "source": "nse",
+   "submittedOn": "2026-09-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1721015_03092026074309_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.05,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 3.26,
+   "fpiShares": null,
+   "promoterPct": 85.6,
+   "publicPct": 14.4,
+   "recordId": "216245",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743496_21102026073755_WEB.xml"
+  }
+ },
+ "symbol": "ICICIAMC"
+}

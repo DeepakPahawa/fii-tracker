@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Black Box Ltd.",
+ "quarters": {
+  "2026-03-18": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.22,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 3.32,
+   "fpiShares": null,
+   "promoterPct": 70.49,
+   "publicPct": 29.51,
+   "recordId": "207372",
+   "source": "nse",
+   "submittedOn": "2026-03-31",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1644311_31032026054731_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.17,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 3.26,
+   "fpiShares": null,
+   "promoterPct": 69.99,
+   "publicPct": 30.01,
+   "recordId": "208425",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651105_15042026123528_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.65,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 4.69,
+   "fpiShares": null,
+   "promoterPct": 69.95,
+   "publicPct": 30.05,
+   "recordId": "211604",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694791_17072026105505_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.62,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 3.78,
+   "fpiShares": null,
+   "promoterPct": 69.95,
+   "publicPct": 30.05,
+   "recordId": "214036",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736789_13102026023115_WEB.xml"
+  }
+ },
+ "symbol": "BBOX"
+}

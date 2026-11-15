@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Deepak Nitrite Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.87,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 6.06,
+   "fpiShares": null,
+   "promoterPct": 49.33,
+   "publicPct": 50.67,
+   "recordId": "204857",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604686_19012026063026_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.99,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 6.19,
+   "fpiShares": null,
+   "promoterPct": 49.33,
+   "publicPct": 50.67,
+   "recordId": "208072",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649592_13042026124507_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.99,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.24,
+   "fpiShares": null,
+   "promoterPct": 49.34,
+   "publicPct": 50.66,
+   "recordId": "212563",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697750_21072026110530_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.1,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 6.4,
+   "fpiShares": null,
+   "promoterPct": 49.39,
+   "publicPct": 50.61,
+   "recordId": "214719",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739232_15102026061215_WEB.xml"
+  }
+ },
+ "symbol": "DEEPAKNTR"
+}

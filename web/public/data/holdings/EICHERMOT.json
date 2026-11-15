@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Eicher Motors Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.31,
+   "fpiCat2Pct": 0.7,
+   "fpiPct": 27.01,
+   "fpiShares": null,
+   "promoterPct": 49.06,
+   "publicPct": 50.94,
+   "recordId": "206441",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605377_20012026023931_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.14,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 26.77,
+   "fpiShares": null,
+   "promoterPct": 49.06,
+   "publicPct": 50.94,
+   "recordId": "209782",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655434_20042026064729_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.93,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 25.52,
+   "fpiShares": null,
+   "promoterPct": 49.02,
+   "publicPct": 50.98,
+   "recordId": "212167",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696639_20072026020840_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.56,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 24.03,
+   "fpiShares": null,
+   "promoterPct": 49.02,
+   "publicPct": 50.98,
+   "recordId": "214801",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739573_16102026120846_WEB.xml"
+  }
+ },
+ "symbol": "EICHERMOT"
+}

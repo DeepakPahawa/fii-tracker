@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "Grasim Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.96,
+   "fpiCat2Pct": 1.53,
+   "fpiPct": 14.49,
+   "fpiShares": null,
+   "promoterPct": 43.22,
+   "publicPct": 56.42,
+   "recordId": "205891",
+   "source": "nse",
+   "submittedOn": "2026-03-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1631892_02032026062229_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.34,
+   "fpiCat2Pct": 1.57,
+   "fpiPct": 14.91,
+   "fpiShares": null,
+   "promoterPct": 43.74,
+   "publicPct": 55.92,
+   "recordId": "208568",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651686_15042026065252_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.16,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 14.63,
+   "fpiShares": null,
+   "promoterPct": 43.74,
+   "publicPct": 55.93,
+   "recordId": "211637",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694917_17072026125043_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.17,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 14.5,
+   "fpiShares": null,
+   "promoterPct": 45.2,
+   "publicPct": 54.47,
+   "recordId": "214789",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739541_16102026114214_WEB.xml"
+  }
+ },
+ "symbol": "GRASIM"
+}

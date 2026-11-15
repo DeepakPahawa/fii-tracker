@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "KSB Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.37,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 4.52,
+   "fpiShares": null,
+   "promoterPct": 69.8,
+   "publicPct": 30.2,
+   "recordId": "206838",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606685_21012026124046_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.47,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 4.66,
+   "fpiShares": null,
+   "promoterPct": 69.8,
+   "publicPct": 30.2,
+   "recordId": "209672",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655154_20042026050814_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.79,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 4.1,
+   "fpiShares": null,
+   "promoterPct": 69.8,
+   "publicPct": 30.2,
+   "recordId": "212648",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697984_21072026013349_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.53,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.68,
+   "fpiShares": null,
+   "promoterPct": 69.8,
+   "publicPct": 30.2,
+   "recordId": "215867",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742426_21102026102812_WEB.xml"
+  }
+ },
+ "symbol": "KSB"
+}

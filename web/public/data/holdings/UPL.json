@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "UPL Ltd.",
+ "quarters": {
+  "2026-02-05": {
+   "fiiPct": null,
+   "fpiCat1Pct": 38.39,
+   "fpiCat2Pct": 1.93,
+   "fpiPct": 40.32,
+   "fpiShares": null,
+   "promoterPct": 33.51,
+   "publicPct": 66.49,
+   "recordId": "207212",
+   "source": "nse",
+   "submittedOn": "2026-02-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1623875_12022026010528_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 39.79,
+   "fpiCat2Pct": 1.99,
+   "fpiPct": 41.78,
+   "fpiShares": null,
+   "promoterPct": 33.51,
+   "publicPct": 66.49,
+   "recordId": "209049",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653210_17042026041925_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 40.44,
+   "fpiCat2Pct": 1.95,
+   "fpiPct": 42.39,
+   "fpiShares": null,
+   "promoterPct": 33.51,
+   "publicPct": 66.49,
+   "recordId": "212295",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697013_20072026050209_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 40.45,
+   "fpiCat2Pct": 1.91,
+   "fpiPct": 42.36,
+   "fpiShares": null,
+   "promoterPct": 33.51,
+   "publicPct": 66.49,
+   "recordId": "215019",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740129_16102026051126_WEB.xml"
+  }
+ },
+ "symbol": "UPL"
+}

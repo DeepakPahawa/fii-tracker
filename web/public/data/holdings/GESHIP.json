@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Great Eastern Shipping Co. Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.41,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 28.43,
+   "fpiShares": null,
+   "promoterPct": 30.07,
+   "publicPct": 69.93,
+   "recordId": "208232",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650352_14042026114841_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 30.24,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 31.02,
+   "fpiShares": null,
+   "promoterPct": 30.07,
+   "publicPct": 69.93,
+   "recordId": "211394",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693804_16072026113118_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.18,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 29.51,
+   "fpiShares": null,
+   "promoterPct": 30.07,
+   "publicPct": 69.93,
+   "recordId": "213752",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735777_12102026102855_WEB.xml"
+  },
+  "2026-11-02": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.16,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 29.97,
+   "fpiShares": null,
+   "promoterPct": 30.91,
+   "publicPct": 69.09,
+   "recordId": "216364",
+   "source": "nse",
+   "submittedOn": "2026-11-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1753477_05112026030726_WEB.xml"
+  }
+ },
+ "symbol": "GESHIP"
+}

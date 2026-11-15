@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Godfrey Phillips India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.92,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.15,
+   "fpiShares": null,
+   "promoterPct": 72.58,
+   "publicPct": 27.42,
+   "recordId": "205239",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598636_12012026025522_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.74,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 7.91,
+   "fpiShares": null,
+   "promoterPct": 72.58,
+   "publicPct": 27.42,
+   "recordId": "207480",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646484_07042026103320_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.69,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 7.8,
+   "fpiShares": null,
+   "promoterPct": 72.58,
+   "publicPct": 27.42,
+   "recordId": "211722",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695185_17072026035653_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.75,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 7.86,
+   "fpiShares": null,
+   "promoterPct": 72.58,
+   "publicPct": 27.41,
+   "recordId": "214268",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737493_14102026124421_WEB.xml"
+  }
+ },
+ "symbol": "GODFRYPHLP"
+}

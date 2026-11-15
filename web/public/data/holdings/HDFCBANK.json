@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "HDFC Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 45.2,
+   "fpiCat2Pct": 2.46,
+   "fpiPct": 47.66,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "204807",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595863_07012026112853_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 41.67,
+   "fpiCat2Pct": 2.37,
+   "fpiPct": 44.04,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "207379",
+   "source": "nse",
+   "submittedOn": "2026-04-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1645257_02042026124041_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 39.61,
+   "fpiCat2Pct": 2.21,
+   "fpiPct": 41.82,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "210483",
+   "source": "nse",
+   "submittedOn": "2026-07-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687801_03072026023346_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 37.62,
+   "fpiCat2Pct": 1.77,
+   "fpiPct": 39.39,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "213324",
+   "source": "nse",
+   "submittedOn": "2026-10-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733480_06102026050037_WEB.xml"
+  }
+ },
+ "symbol": "HDFCBANK"
+}

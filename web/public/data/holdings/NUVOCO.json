@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "Nuvoco Vistas Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.62,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 5.0,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.98,
+   "recordId": "205306",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599068_12012026063259_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.57,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 4.88,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.98,
+   "recordId": "209439",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654533_20042026111919_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.47,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 4.71,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.98,
+   "recordId": "211568",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694596_16072026071010_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.4,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 4.63,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.98,
+   "recordId": "216118",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743115_21102026050451_WEB.xml"
+  }
+ },
+ "symbol": "NUVOCO"
+}

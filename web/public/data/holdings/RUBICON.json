@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Rubicon Research Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.9,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 7.99,
+   "fpiShares": null,
+   "promoterPct": 59.99,
+   "publicPct": 40.01,
+   "recordId": "206819",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606618_21012026120123_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.49,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 7.54,
+   "fpiShares": null,
+   "promoterPct": 59.86,
+   "publicPct": 40.14,
+   "recordId": "209884",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655712_21042026104425_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.27,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 7.52,
+   "fpiShares": null,
+   "promoterPct": 59.76,
+   "publicPct": 40.24,
+   "recordId": "211970",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696024_18072026021120_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.47,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 9.01,
+   "fpiShares": null,
+   "promoterPct": 51.25,
+   "publicPct": 48.75,
+   "recordId": "215646",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741890_19102026062951_WEB.xml"
+  }
+ },
+ "symbol": "RUBICON"
+}

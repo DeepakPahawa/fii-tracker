@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Authum Investment & Infrastructure Ltd.",
+ "quarters": {
+  "2026-01-14": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.91,
+   "fpiCat2Pct": 4.57,
+   "fpiPct": 14.48,
+   "fpiShares": null,
+   "promoterPct": 68.79,
+   "publicPct": 31.21,
+   "recordId": "206357",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605099_20012026120638_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.67,
+   "fpiCat2Pct": 4.56,
+   "fpiPct": 14.23,
+   "fpiShares": null,
+   "promoterPct": 68.81,
+   "publicPct": 31.19,
+   "recordId": "208422",
+   "source": "nse",
+   "submittedOn": "2026-05-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1663729_05052026055832_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.71,
+   "fpiCat2Pct": 4.57,
+   "fpiPct": 14.28,
+   "fpiShares": null,
+   "promoterPct": 68.81,
+   "publicPct": 31.19,
+   "recordId": "212486",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697577_20072026084500_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.81,
+   "fpiCat2Pct": 4.56,
+   "fpiPct": 14.37,
+   "fpiShares": null,
+   "promoterPct": 68.81,
+   "publicPct": 31.19,
+   "recordId": "216151",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743165_21102026053240_WEB.xml"
+  }
+ },
+ "symbol": "AIIL"
+}

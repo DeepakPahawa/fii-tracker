@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Narayana Hrudayalaya Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.43,
+   "fpiCat2Pct": 1.67,
+   "fpiPct": 11.1,
+   "fpiShares": null,
+   "promoterPct": 63.27,
+   "publicPct": 36.11,
+   "recordId": "206544",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605724_20012026044808_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.36,
+   "fpiCat2Pct": 1.62,
+   "fpiPct": 9.98,
+   "fpiShares": null,
+   "promoterPct": 63.27,
+   "publicPct": 36.11,
+   "recordId": "210297",
+   "source": "nse",
+   "submittedOn": "2026-04-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1657889_23042026055824_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.77,
+   "fpiCat2Pct": 1.63,
+   "fpiPct": 9.4,
+   "fpiShares": null,
+   "promoterPct": 63.27,
+   "publicPct": 36.11,
+   "recordId": "211031",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692005_14072026010312_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.5,
+   "fpiCat2Pct": 1.51,
+   "fpiPct": 9.01,
+   "fpiShares": null,
+   "promoterPct": 63.27,
+   "publicPct": 36.11,
+   "recordId": "214050",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736827_13102026030512_WEB.xml"
+  }
+ },
+ "symbol": "NH"
+}

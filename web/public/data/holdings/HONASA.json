@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Honasa Consumer Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.22,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 14.62,
+   "fpiShares": null,
+   "promoterPct": 35.54,
+   "publicPct": 64.46,
+   "recordId": "206865",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606784_21012026013344_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.34,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 13.74,
+   "fpiShares": null,
+   "promoterPct": 35.54,
+   "publicPct": 64.46,
+   "recordId": "209709",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655259_20042026054210_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.62,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 13.64,
+   "fpiShares": null,
+   "promoterPct": 35.47,
+   "publicPct": 64.53,
+   "recordId": "211483",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694185_16072026040434_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.77,
+   "fpiCat2Pct": 1.14,
+   "fpiPct": 14.91,
+   "fpiShares": null,
+   "promoterPct": 35.47,
+   "publicPct": 64.53,
+   "recordId": "216298",
+   "source": "nse",
+   "submittedOn": "2026-10-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743656_22102026121924_WEB.xml"
+  }
+ },
+ "symbol": "HONASA"
+}

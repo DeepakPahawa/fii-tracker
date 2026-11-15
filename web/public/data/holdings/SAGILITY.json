@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Sagility Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.86,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 10.25,
+   "fpiShares": null,
+   "promoterPct": 50.95,
+   "publicPct": 49.05,
+   "recordId": "205591",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601036_14012026062637_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.65,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.02,
+   "fpiShares": null,
+   "promoterPct": 50.95,
+   "publicPct": 49.05,
+   "recordId": "209622",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655016_20042026042118_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.61,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 9.99,
+   "fpiShares": null,
+   "promoterPct": 50.95,
+   "publicPct": 49.05,
+   "recordId": "211633",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694901_17072026122835_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.9,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 10.38,
+   "fpiShares": null,
+   "promoterPct": 50.95,
+   "publicPct": 49.05,
+   "recordId": "214168",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737173_13102026055925_WEB.xml"
+  }
+ },
+ "symbol": "SAGILITY"
+}

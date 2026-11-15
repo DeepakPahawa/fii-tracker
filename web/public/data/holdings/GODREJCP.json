@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Godrej Consumer Products Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.93,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 15.41,
+   "fpiShares": null,
+   "promoterPct": 53.05,
+   "publicPct": 46.95,
+   "recordId": "206749",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606399_20012026090117_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.62,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 13.94,
+   "fpiShares": null,
+   "promoterPct": 53.05,
+   "publicPct": 46.95,
+   "recordId": "209865",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655671_21042026121128_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.02,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 12.33,
+   "fpiShares": null,
+   "promoterPct": 53.05,
+   "publicPct": 46.95,
+   "recordId": "212463",
+   "source": "nse",
+   "submittedOn": "2026-07-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699476_22072026061209_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.72,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 10.99,
+   "fpiShares": null,
+   "promoterPct": 53.05,
+   "publicPct": 46.95,
+   "recordId": "216119",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743116_21102026050506_WEB.xml"
+  }
+ },
+ "symbol": "GODREJCP"
+}

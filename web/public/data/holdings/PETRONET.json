@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Petronet LNG Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.73,
+   "fpiCat2Pct": 1.57,
+   "fpiPct": 26.3,
+   "fpiShares": null,
+   "promoterPct": 50.0,
+   "publicPct": 50.0,
+   "recordId": "206743",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606370_20012026082323_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.68,
+   "fpiCat2Pct": 1.45,
+   "fpiPct": 27.13,
+   "fpiShares": null,
+   "promoterPct": 50.0,
+   "publicPct": 50.0,
+   "recordId": "209006",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653088_17042026032025_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.87,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 26.27,
+   "fpiShares": null,
+   "promoterPct": 50.0,
+   "publicPct": 50.0,
+   "recordId": "212894",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698790_21072026071958_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.27,
+   "fpiCat2Pct": 1.7,
+   "fpiPct": 25.97,
+   "fpiShares": null,
+   "promoterPct": 50.0,
+   "publicPct": 50.0,
+   "recordId": "215415",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741295_19102026013005_WEB.xml"
+  }
+ },
+ "symbol": "PETRONET"
+}

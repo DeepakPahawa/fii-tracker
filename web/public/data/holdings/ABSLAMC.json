@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Aditya Birla Sun Life AMC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.92,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 6.05,
+   "fpiShares": null,
+   "promoterPct": 74.82,
+   "publicPct": 25.18,
+   "recordId": "204793",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595680_06012026055542_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.65,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 5.75,
+   "fpiShares": null,
+   "promoterPct": 74.82,
+   "publicPct": 25.18,
+   "recordId": "207610",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647227_08042026021708_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.29,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 4.41,
+   "fpiShares": null,
+   "promoterPct": 74.71,
+   "publicPct": 25.29,
+   "recordId": "210899",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691241_13072026125659_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.22,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 4.32,
+   "fpiShares": null,
+   "promoterPct": 74.67,
+   "publicPct": 25.33,
+   "recordId": "213466",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734239_08102026025311_WEB.xml"
+  }
+ },
+ "symbol": "ABSLAMC"
+}

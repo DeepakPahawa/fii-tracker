@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "NMDC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.76,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 13.48,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "206342",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605024_20012026111408_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.91,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 13.6,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "209953",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655900_21042026124517_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.94,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 13.59,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "211997",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696090_18072026033717_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.35,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 14.91,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "214606",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738864_15102026035331_WEB.xml"
+  }
+ },
+ "symbol": "NMDC"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Oil & Natural Gas Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.07,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 7.43,
+   "fpiShares": null,
+   "promoterPct": 58.89,
+   "publicPct": 41.11,
+   "recordId": "206744",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606373_20012026082812_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.57,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 7.97,
+   "fpiShares": null,
+   "promoterPct": 58.89,
+   "publicPct": 41.11,
+   "recordId": "209686",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655194_20042026052100_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.6,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 8.01,
+   "fpiShares": null,
+   "promoterPct": 58.89,
+   "publicPct": 41.11,
+   "recordId": "212115",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696493_20072026120945_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.15,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 8.55,
+   "fpiShares": null,
+   "promoterPct": 58.89,
+   "publicPct": 41.11,
+   "recordId": "215068",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740255_16102026060347_WEB.xml"
+  }
+ },
+ "symbol": "ONGC"
+}

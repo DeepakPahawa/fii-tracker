@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Anant Raj Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.5,
+   "fpiCat2Pct": 2.64,
+   "fpiPct": 11.14,
+   "fpiShares": null,
+   "promoterPct": 57.41,
+   "publicPct": 42.59,
+   "recordId": "205134",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597915_09012026072331_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.27,
+   "fpiCat2Pct": 2.61,
+   "fpiPct": 10.88,
+   "fpiShares": null,
+   "promoterPct": 57.41,
+   "publicPct": 42.59,
+   "recordId": "208409",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651038_15042026113817_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.13,
+   "fpiCat2Pct": 2.61,
+   "fpiPct": 10.74,
+   "fpiShares": null,
+   "promoterPct": 57.42,
+   "publicPct": 42.58,
+   "recordId": "212117",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696509_20072026122613_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.39,
+   "fpiCat2Pct": 2.57,
+   "fpiPct": 10.96,
+   "fpiShares": null,
+   "promoterPct": 57.42,
+   "publicPct": 42.58,
+   "recordId": "214700",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739157_15102026054726_WEB.xml"
+  }
+ },
+ "symbol": "ANANTRAJ"
+}

@@ -1,0 +1,63 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Patanjali Foods Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": null,
+   "fpiPct": null,
+   "fpiShares": null,
+   "parseWarning": "no FPI rows matched; run inspect-xbrl on this filing",
+   "promoterPct": 68.26,
+   "publicPct": 31.74,
+   "recordId": "206068",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603800_19012026121902_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": null,
+   "fpiPct": null,
+   "fpiShares": null,
+   "parseWarning": "no FPI rows matched; run inspect-xbrl on this filing",
+   "promoterPct": 68.25,
+   "publicPct": 31.75,
+   "recordId": "209242",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653907_18042026114456_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": null,
+   "fpiPct": null,
+   "fpiShares": null,
+   "parseWarning": "no FPI rows matched; run inspect-xbrl on this filing",
+   "promoterPct": 68.25,
+   "publicPct": 31.75,
+   "recordId": "210789",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690503_10072026045753_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": null,
+   "fpiPct": null,
+   "fpiShares": null,
+   "parseWarning": "no FPI rows matched; run inspect-xbrl on this filing",
+   "promoterPct": 68.25,
+   "publicPct": 31.75,
+   "recordId": "214205",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737336_14102026094232_WEB.xml"
+  }
+ },
+ "symbol": "PATANJALI"
+}

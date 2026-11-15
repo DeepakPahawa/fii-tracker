@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Mahanagar Gas Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.01,
+   "fpiCat2Pct": 2.88,
+   "fpiPct": 24.89,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "206291",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604829_19012026072601_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.99,
+   "fpiCat2Pct": 2.14,
+   "fpiPct": 24.13,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "209436",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654518_20042026111018_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.19,
+   "fpiCat2Pct": 2.02,
+   "fpiPct": 23.21,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "212148",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696586_20072026012118_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.07,
+   "fpiCat2Pct": 2.39,
+   "fpiPct": 23.46,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "214846",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739698_16102026015439_WEB.xml"
+  }
+ },
+ "symbol": "MGL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Kajaria Ceramics Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.0,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 11.66,
+   "fpiShares": null,
+   "promoterPct": 47.69,
+   "publicPct": 52.31,
+   "recordId": "205076",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597477_09012026034430_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.7,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 10.23,
+   "fpiShares": null,
+   "promoterPct": 47.69,
+   "publicPct": 52.31,
+   "recordId": "209987",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655972_21042026013859_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.0,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 11.58,
+   "fpiShares": null,
+   "promoterPct": 47.69,
+   "publicPct": 52.31,
+   "recordId": "211103",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692431_14072026052918_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.4,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 12.05,
+   "fpiShares": null,
+   "promoterPct": 46.74,
+   "publicPct": 53.26,
+   "recordId": "215285",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740928_17102026060209_WEB.xml"
+  }
+ },
+ "symbol": "KAJARIACER"
+}

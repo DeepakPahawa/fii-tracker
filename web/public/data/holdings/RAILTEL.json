@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Railtel Corporation Of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.37,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 3.68,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "205352",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599446_13012026123510_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.37,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 3.72,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "209187",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653563_17042026065321_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.6,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 3.98,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "210959",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691522_13072026045935_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.7,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 3.97,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "216166",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743190_21102026054740_WEB.xml"
+  }
+ },
+ "symbol": "RAILTEL"
+}

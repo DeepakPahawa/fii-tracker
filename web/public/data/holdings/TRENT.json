@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Trent Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.02,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 15.62,
+   "fpiShares": null,
+   "promoterPct": 37.01,
+   "publicPct": 62.99,
+   "recordId": "206892",
+   "source": "nse",
+   "submittedOn": "2026-07-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687661_02072026065451_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.06,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 15.59,
+   "fpiShares": null,
+   "promoterPct": 37.01,
+   "publicPct": 62.99,
+   "recordId": "208746",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652246_16042026042008_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.6,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 15.14,
+   "fpiShares": null,
+   "promoterPct": 37.01,
+   "publicPct": 62.99,
+   "recordId": "211088",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692317_14072026044019_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.74,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 15.28,
+   "fpiShares": null,
+   "promoterPct": 37.01,
+   "publicPct": 62.99,
+   "recordId": "214072",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736910_13102026035013_WEB.xml"
+  }
+ },
+ "symbol": "TRENT"
+}

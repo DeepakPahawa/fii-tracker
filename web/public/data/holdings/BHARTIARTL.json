@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Bharti Airtel Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.53,
+   "fpiCat2Pct": 2.26,
+   "fpiPct": 27.79,
+   "fpiShares": null,
+   "promoterPct": 48.87,
+   "publicPct": 51.09,
+   "recordId": "209549",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654825_20042026024944_WEB.xml"
+  },
+  "2026-06-23": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.3,
+   "fpiCat2Pct": 2.21,
+   "fpiPct": 26.51,
+   "fpiShares": null,
+   "promoterPct": 50.07,
+   "publicPct": 49.89,
+   "recordId": "210427",
+   "source": "nse",
+   "submittedOn": "2026-06-24",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1684108_24062026061825_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.27,
+   "fpiCat2Pct": 2.21,
+   "fpiPct": 26.48,
+   "fpiShares": null,
+   "promoterPct": 50.07,
+   "publicPct": 49.89,
+   "recordId": "212328",
+   "source": "nse",
+   "submittedOn": "2026-07-27",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1702388_27072026070346_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.39,
+   "fpiCat2Pct": 2.05,
+   "fpiPct": 25.44,
+   "fpiShares": null,
+   "promoterPct": 50.07,
+   "publicPct": 49.9,
+   "recordId": "215554",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741646_19102026045340_WEB.xml"
+  }
+ },
+ "symbol": "BHARTIARTL"
+}

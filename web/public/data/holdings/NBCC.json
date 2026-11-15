@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "NBCC (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.87,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 5.2,
+   "fpiShares": null,
+   "promoterPct": 61.75,
+   "publicPct": 38.25,
+   "recordId": "205174",
+   "source": "nse",
+   "submittedOn": "2026-01-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598219_10012026042024_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.78,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 4.99,
+   "fpiShares": null,
+   "promoterPct": 61.75,
+   "publicPct": 38.25,
+   "recordId": "208563",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651651_15042026063257_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.57,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 4.77,
+   "fpiShares": null,
+   "promoterPct": 61.75,
+   "publicPct": 38.25,
+   "recordId": "211242",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693071_15072026030307_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.2,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 4.39,
+   "fpiShares": null,
+   "promoterPct": 61.75,
+   "publicPct": 38.25,
+   "recordId": "216024",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742859_21102026032935_WEB.xml"
+  }
+ },
+ "symbol": "NBCC"
+}

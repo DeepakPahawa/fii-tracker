@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Carborundum Universal Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.7,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 10.98,
+   "fpiShares": null,
+   "promoterPct": 38.9,
+   "publicPct": 61.1,
+   "recordId": "207042",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607421_21012026060218_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.44,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 10.73,
+   "fpiShares": null,
+   "promoterPct": 38.89,
+   "publicPct": 61.11,
+   "recordId": "209324",
+   "source": "nse",
+   "submittedOn": "2026-06-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679139_03062026115721_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.82,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 11.13,
+   "fpiShares": null,
+   "promoterPct": 38.89,
+   "publicPct": 61.11,
+   "recordId": "212567",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697761_21072026111336_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.78,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 11.09,
+   "fpiShares": null,
+   "promoterPct": 38.84,
+   "publicPct": 61.16,
+   "recordId": "215811",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742320_20102026050130_WEB.xml"
+  }
+ },
+ "symbol": "CARBORUNIV"
+}

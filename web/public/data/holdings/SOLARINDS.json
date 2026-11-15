@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Solar Industries India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.47,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 6.74,
+   "fpiShares": null,
+   "promoterPct": 73.15,
+   "publicPct": 26.85,
+   "recordId": "205045",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597309_09012026010535_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.37,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 6.59,
+   "fpiShares": null,
+   "promoterPct": 73.15,
+   "publicPct": 26.85,
+   "recordId": "207936",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648997_10042026060327_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.06,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 6.39,
+   "fpiShares": null,
+   "promoterPct": 73.15,
+   "publicPct": 26.85,
+   "recordId": "211525",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694398_16072026053011_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.91,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 6.13,
+   "fpiShares": null,
+   "promoterPct": 73.15,
+   "publicPct": 26.85,
+   "recordId": "215628",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741853_19102026061408_WEB.xml"
+  }
+ },
+ "symbol": "SOLARINDS"
+}

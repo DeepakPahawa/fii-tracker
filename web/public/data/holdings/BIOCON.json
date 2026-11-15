@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Biocon Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.19,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 7.52,
+   "fpiShares": null,
+   "promoterPct": 44.91,
+   "publicPct": 55.0,
+   "recordId": "210245",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656787_21042026081203_WEB.xml"
+  },
+  "2026-06-29": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.8,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 8.16,
+   "fpiShares": null,
+   "promoterPct": 44.68,
+   "publicPct": 55.27,
+   "recordId": "210465",
+   "source": "nse",
+   "submittedOn": "2026-07-01",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687298_01072026054704_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.78,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 8.14,
+   "fpiShares": null,
+   "promoterPct": 44.68,
+   "publicPct": 55.27,
+   "recordId": "212634",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697926_21072026125942_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.28,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 8.64,
+   "fpiShares": null,
+   "promoterPct": 44.68,
+   "publicPct": 55.14,
+   "recordId": "216227",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743438_21102026070347_WEB.xml"
+  }
+ },
+ "symbol": "BIOCON"
+}

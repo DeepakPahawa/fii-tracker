@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Vishal Mega Mart Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.01,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 15.52,
+   "fpiShares": null,
+   "promoterPct": 54.09,
+   "publicPct": 45.91,
+   "recordId": "205508",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600509_14012026124823_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.58,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 22.01,
+   "fpiShares": null,
+   "promoterPct": 40.12,
+   "publicPct": 59.88,
+   "recordId": "207845",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648536_10042026124600_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.09,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 20.43,
+   "fpiShares": null,
+   "promoterPct": 40.09,
+   "publicPct": 59.91,
+   "recordId": "210704",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689817_09072026042243_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.4,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 18.75,
+   "fpiShares": null,
+   "promoterPct": 40.02,
+   "publicPct": 59.98,
+   "recordId": "213371",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733720_07102026012928_WEB.xml"
+  }
+ },
+ "symbol": "VMM"
+}

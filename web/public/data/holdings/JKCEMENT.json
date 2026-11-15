@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "J.K. Cement Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.78,
+   "fpiCat2Pct": 1.09,
+   "fpiPct": 17.87,
+   "fpiShares": null,
+   "promoterPct": 45.66,
+   "publicPct": 54.34,
+   "recordId": "207152",
+   "source": "nse",
+   "submittedOn": "2026-01-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1608725_22012026090616_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.84,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 16.84,
+   "fpiShares": null,
+   "promoterPct": 45.66,
+   "publicPct": 54.34,
+   "recordId": "209523",
+   "source": "nse",
+   "submittedOn": "2026-06-01",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1678320_01062026115807_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.9,
+   "fpiCat2Pct": 0.93,
+   "fpiPct": 16.83,
+   "fpiShares": null,
+   "promoterPct": 45.66,
+   "publicPct": 54.34,
+   "recordId": "211125",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692580_14072026063745_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.42,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 18.33,
+   "fpiShares": null,
+   "promoterPct": 45.66,
+   "publicPct": 54.34,
+   "recordId": "215032",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740154_16102026052359_WEB.xml"
+  }
+ },
+ "symbol": "JKCEMENT"
+}

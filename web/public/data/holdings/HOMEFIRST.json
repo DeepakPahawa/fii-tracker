@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Home First Finance Company India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 39.89,
+   "fpiCat2Pct": 0.93,
+   "fpiPct": 40.82,
+   "fpiShares": null,
+   "promoterPct": 12.35,
+   "publicPct": 87.65,
+   "recordId": "206189",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604331_19012026043719_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 44.82,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 45.72,
+   "fpiShares": null,
+   "promoterPct": 6.99,
+   "publicPct": 93.01,
+   "recordId": "208083",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649618_13042026125758_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 43.01,
+   "fpiCat2Pct": 0.89,
+   "fpiPct": 43.9,
+   "fpiShares": null,
+   "promoterPct": 6.97,
+   "publicPct": 93.03,
+   "recordId": "212076",
+   "source": "nse",
+   "submittedOn": "2026-07-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696367_19072026090147_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 41.51,
+   "fpiCat2Pct": 0.93,
+   "fpiPct": 42.44,
+   "fpiShares": null,
+   "promoterPct": 6.97,
+   "publicPct": 93.03,
+   "recordId": "215535",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741595_19102026043910_WEB.xml"
+  }
+ },
+ "symbol": "HOMEFIRST"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Sammaan Capital Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.37,
+   "fpiCat2Pct": 1.43,
+   "fpiPct": 17.8,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 98.63,
+   "recordId": "209702",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655236_20042026053729_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.63,
+   "fpiCat2Pct": 0.97,
+   "fpiPct": 19.6,
+   "fpiShares": null,
+   "promoterPct": 28.34,
+   "publicPct": 70.3,
+   "recordId": "212420",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697387_20072026065045_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.92,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 21.34,
+   "fpiShares": null,
+   "promoterPct": 28.34,
+   "publicPct": 70.3,
+   "recordId": "214632",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738951_15102026042542_WEB.xml"
+  },
+  "2026-10-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.2,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 19.5,
+   "fpiShares": null,
+   "promoterPct": 33.32,
+   "publicPct": 65.42,
+   "recordId": "216361",
+   "source": "nse",
+   "submittedOn": "2026-11-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1752549_04112026032917_WEB.xml"
+  }
+ },
+ "symbol": "SAMMAANCAP"
+}

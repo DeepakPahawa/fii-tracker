@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "LT Foods Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.68,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.92,
+   "fpiShares": null,
+   "promoterPct": 51.01,
+   "publicPct": 48.99,
+   "recordId": "206994",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607216_21012026050056_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.47,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 8.74,
+   "fpiShares": null,
+   "promoterPct": 51.01,
+   "publicPct": 48.99,
+   "recordId": "210027",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656095_21042026025027_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.89,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 8.21,
+   "fpiShares": null,
+   "promoterPct": 51.01,
+   "publicPct": 48.99,
+   "recordId": "212324",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697099_20072026052519_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.84,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 8.3,
+   "fpiShares": null,
+   "promoterPct": 51.01,
+   "publicPct": 48.99,
+   "recordId": "214929",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739896_16102026034850_WEB.xml"
+  }
+ },
+ "symbol": "LTFOODS"
+}

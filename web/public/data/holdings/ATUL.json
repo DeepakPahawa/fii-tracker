@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Atul Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.2,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 7.45,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 54.78,
+   "recordId": "205615",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601293_15012026110643_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.28,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 7.5,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 54.78,
+   "recordId": "208890",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652785_17042026094733_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.2,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 7.44,
+   "fpiShares": null,
+   "promoterPct": 45.33,
+   "publicPct": 54.67,
+   "recordId": "211472",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694134_16072026033857_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.55,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 8.9,
+   "fpiShares": null,
+   "promoterPct": 45.33,
+   "publicPct": 54.67,
+   "recordId": "214332",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737735_14102026040258_WEB.xml"
+  }
+ },
+ "symbol": "ATUL"
+}

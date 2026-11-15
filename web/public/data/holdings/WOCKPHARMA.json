@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Wockhardt Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.41,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 6.99,
+   "fpiShares": null,
+   "promoterPct": 49.08,
+   "publicPct": 50.92,
+   "recordId": "206118",
+   "source": "nse",
+   "submittedOn": "2026-03-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1634684_11032026053902_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.46,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 7.08,
+   "fpiShares": null,
+   "promoterPct": 49.08,
+   "publicPct": 50.92,
+   "recordId": "209559",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654851_20042026030330_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.45,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 7.22,
+   "fpiShares": null,
+   "promoterPct": 49.08,
+   "publicPct": 50.92,
+   "recordId": "212583",
+   "source": "nse",
+   "submittedOn": "2026-07-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1704130_29072026052023_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.01,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 7.02,
+   "fpiShares": null,
+   "promoterPct": 49.32,
+   "publicPct": 50.68,
+   "recordId": "215609",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741805_19102026055732_WEB.xml"
+  }
+ },
+ "symbol": "WOCKPHARMA"
+}

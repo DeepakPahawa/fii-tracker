@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Aptus Value Housing Finance India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 31.65,
+   "fpiCat2Pct": 1.54,
+   "fpiPct": 33.19,
+   "fpiShares": null,
+   "promoterPct": 23.87,
+   "publicPct": 76.13,
+   "recordId": "206447",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605385_20012026024433_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.82,
+   "fpiCat2Pct": 1.52,
+   "fpiPct": 30.34,
+   "fpiShares": null,
+   "promoterPct": 23.87,
+   "publicPct": 76.13,
+   "recordId": "207884",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648727_10042026035014_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.5,
+   "fpiCat2Pct": 1.46,
+   "fpiPct": 29.96,
+   "fpiShares": null,
+   "promoterPct": 23.86,
+   "publicPct": 76.14,
+   "recordId": "211501",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694282_16072026043848_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.18,
+   "fpiCat2Pct": 1.36,
+   "fpiPct": 30.54,
+   "fpiShares": null,
+   "promoterPct": 23.86,
+   "publicPct": 76.14,
+   "recordId": "214919",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739880_16102026034147_WEB.xml"
+  }
+ },
+ "symbol": "APTUS"
+}

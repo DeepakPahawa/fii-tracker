@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Elecon Engineering Co. Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.65,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 8.09,
+   "fpiShares": null,
+   "promoterPct": 59.27,
+   "publicPct": 40.73,
+   "recordId": "204782",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595541_06012026041230_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.73,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 7.13,
+   "fpiShares": null,
+   "promoterPct": 59.27,
+   "publicPct": 40.73,
+   "recordId": "208010",
+   "source": "nse",
+   "submittedOn": "2026-04-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649359_11042026035216_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.61,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 6.99,
+   "fpiShares": null,
+   "promoterPct": 59.27,
+   "publicPct": 40.73,
+   "recordId": "210675",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689643_09072026021504_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.5,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 6.92,
+   "fpiShares": null,
+   "promoterPct": 59.27,
+   "publicPct": 40.73,
+   "recordId": "213590",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734852_09102026032017_WEB.xml"
+  }
+ },
+ "symbol": "ELECON"
+}

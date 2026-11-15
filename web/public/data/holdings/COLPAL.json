@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Colgate Palmolive (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.61,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 15.18,
+   "fpiShares": null,
+   "promoterPct": 51.0,
+   "publicPct": 49.0,
+   "recordId": "205188",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598351_12012026091104_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.06,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 13.6,
+   "fpiShares": null,
+   "promoterPct": 51.0,
+   "publicPct": 49.0,
+   "recordId": "208643",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651989_16042026125740_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.11,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 13.6,
+   "fpiShares": null,
+   "promoterPct": 51.0,
+   "publicPct": 49.0,
+   "recordId": "211511",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694328_16072026045648_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.24,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 13.71,
+   "fpiShares": null,
+   "promoterPct": 51.0,
+   "publicPct": 49.0,
+   "recordId": "214081",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736932_13102026040415_WEB.xml"
+  }
+ },
+ "symbol": "COLPAL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Mazagoan Dock Shipbuilders Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.79,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 1.8,
+   "fpiShares": null,
+   "promoterPct": 81.22,
+   "publicPct": 18.78,
+   "recordId": "206253",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604604_19012026060254_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.73,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 1.73,
+   "fpiShares": null,
+   "promoterPct": 81.22,
+   "publicPct": 18.78,
+   "recordId": "209816",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655527_20042026072527_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.72,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 1.72,
+   "fpiShares": null,
+   "promoterPct": 81.22,
+   "publicPct": 18.78,
+   "recordId": "212125",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696530_20072026123811_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.73,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 1.73,
+   "fpiShares": null,
+   "promoterPct": 81.22,
+   "publicPct": 18.78,
+   "recordId": "215013",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740106_16102026050154_WEB.xml"
+  }
+ },
+ "symbol": "MAZDOCK"
+}

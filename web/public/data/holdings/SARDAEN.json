@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Sarda Energy and Minerals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.41,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 3.54,
+   "fpiShares": null,
+   "promoterPct": 73.16,
+   "publicPct": 26.84,
+   "recordId": "205691",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601677_15012026052801_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.38,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 3.5,
+   "fpiShares": null,
+   "promoterPct": 73.16,
+   "publicPct": 26.84,
+   "recordId": "207749",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648042_09042026042110_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.4,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 3.51,
+   "fpiShares": null,
+   "promoterPct": 73.16,
+   "publicPct": 26.84,
+   "recordId": "210543",
+   "source": "nse",
+   "submittedOn": "2026-07-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688676_07072026115211_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.43,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 3.62,
+   "fpiShares": null,
+   "promoterPct": 73.16,
+   "publicPct": 26.84,
+   "recordId": "214685",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739116_15102026053317_WEB.xml"
+  }
+ },
+ "symbol": "SARDAEN"
+}

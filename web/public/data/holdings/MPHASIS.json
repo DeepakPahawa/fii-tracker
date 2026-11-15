@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "MphasiS Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.23,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 19.79,
+   "fpiShares": null,
+   "promoterPct": 30.59,
+   "publicPct": 69.4,
+   "recordId": "205895",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602802_16012026065833_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.92,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 19.51,
+   "fpiShares": null,
+   "promoterPct": 30.55,
+   "publicPct": 69.45,
+   "recordId": "209401",
+   "source": "nse",
+   "submittedOn": "2026-04-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654432_19042026104311_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.95,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 19.5,
+   "fpiShares": null,
+   "promoterPct": 30.54,
+   "publicPct": 69.46,
+   "recordId": "211478",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694166_16072026035531_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.89,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 19.39,
+   "fpiShares": null,
+   "promoterPct": 30.53,
+   "publicPct": 69.47,
+   "recordId": "214064",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736857_13102026031930_WEB.xml"
+  }
+ },
+ "symbol": "MPHASIS"
+}

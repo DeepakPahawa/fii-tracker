@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Manappuram Finance Ltd.",
+ "quarters": {
+  "2026-03-27": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.81,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 23.21,
+   "fpiShares": null,
+   "promoterPct": 31.77,
+   "publicPct": 68.23,
+   "recordId": "207364",
+   "source": "nse",
+   "submittedOn": "2026-03-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1642649_28032026083656_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.83,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 23.23,
+   "fpiShares": null,
+   "promoterPct": 31.77,
+   "publicPct": 68.23,
+   "recordId": "210215",
+   "source": "nse",
+   "submittedOn": "2026-09-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722986_09092026051805_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.81,
+   "fpiCat2Pct": 1.49,
+   "fpiPct": 22.3,
+   "fpiShares": null,
+   "promoterPct": 41.66,
+   "publicPct": 58.34,
+   "recordId": "212819",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698515_21072026054206_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.03,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 21.04,
+   "fpiShares": null,
+   "promoterPct": 41.66,
+   "publicPct": 58.34,
+   "recordId": "214222",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737373_14102026104016_WEB.xml"
+  }
+ },
+ "symbol": "MANAPPURAM"
+}

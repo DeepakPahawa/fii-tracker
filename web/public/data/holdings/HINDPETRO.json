@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Hindustan Petroleum Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.82,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 16.35,
+   "fpiShares": null,
+   "promoterPct": 54.9,
+   "publicPct": 45.1,
+   "recordId": "205433",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599911_13012026045225_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.4,
+   "fpiCat2Pct": 0.86,
+   "fpiPct": 17.26,
+   "fpiShares": null,
+   "promoterPct": 54.9,
+   "publicPct": 45.1,
+   "recordId": "207721",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647924_09042026030907_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.11,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 13.58,
+   "fpiShares": null,
+   "promoterPct": 54.9,
+   "publicPct": 45.1,
+   "recordId": "211720",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695181_17072026035547_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.65,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 13.07,
+   "fpiShares": null,
+   "promoterPct": 54.9,
+   "publicPct": 45.1,
+   "recordId": "215932",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742599_21102026124617_WEB.xml"
+  }
+ },
+ "symbol": "HINDPETRO"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "MRF Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.73,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 18.18,
+   "fpiShares": null,
+   "promoterPct": 27.73,
+   "publicPct": 72.27,
+   "recordId": "206020",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603652_19012026102803_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.62,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 17.98,
+   "fpiShares": null,
+   "promoterPct": 27.77,
+   "publicPct": 72.23,
+   "recordId": "208128",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649781_13042026034537_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.99,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 17.43,
+   "fpiShares": null,
+   "promoterPct": 27.77,
+   "publicPct": 72.23,
+   "recordId": "212534",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697696_21072026100150_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.73,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 17.1,
+   "fpiShares": null,
+   "promoterPct": 27.61,
+   "publicPct": 72.39,
+   "recordId": "215879",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742450_21102026110106_WEB.xml"
+  }
+ },
+ "symbol": "MRF"
+}

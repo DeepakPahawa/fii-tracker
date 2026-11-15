@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "INOX India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.31,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 7.14,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "206674",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606142_20012026064326_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.02,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 7.13,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "208571",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651707_15042026072013_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.5,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 6.86,
+   "fpiShares": null,
+   "promoterPct": 74.86,
+   "publicPct": 25.14,
+   "recordId": "210940",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691439_13072026041636_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.19,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 6.63,
+   "fpiShares": null,
+   "promoterPct": 74.73,
+   "publicPct": 25.27,
+   "recordId": "215511",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741540_19102026041339_WEB.xml"
+  }
+ },
+ "symbol": "INOXINDIA"
+}

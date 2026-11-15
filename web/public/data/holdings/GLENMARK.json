@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Glenmark Pharmaceuticals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.63,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 19.2,
+   "fpiShares": null,
+   "promoterPct": 46.65,
+   "publicPct": 53.35,
+   "recordId": "205456",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600063_13012026054249_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.8,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 20.35,
+   "fpiShares": null,
+   "promoterPct": 46.65,
+   "publicPct": 53.35,
+   "recordId": "208521",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651479_15042026050854_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.46,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 20.89,
+   "fpiShares": null,
+   "promoterPct": 46.65,
+   "publicPct": 53.35,
+   "recordId": "211421",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693887_16072026123852_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.07,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 21.51,
+   "fpiShares": null,
+   "promoterPct": 46.65,
+   "publicPct": 53.35,
+   "recordId": "215382",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741223_19102026122950_WEB.xml"
+  }
+ },
+ "symbol": "GLENMARK"
+}

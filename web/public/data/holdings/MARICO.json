@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Marico Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.89,
+   "fpiCat2Pct": 1.13,
+   "fpiPct": 24.02,
+   "fpiShares": null,
+   "promoterPct": 58.93,
+   "publicPct": 40.85,
+   "recordId": "206975",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653793_17042026095852_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.88,
+   "fpiCat2Pct": 1.2,
+   "fpiPct": 24.08,
+   "fpiShares": null,
+   "promoterPct": 58.93,
+   "publicPct": 40.88,
+   "recordId": "208805",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652420_16042026052900_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.27,
+   "fpiCat2Pct": 1.13,
+   "fpiPct": 23.4,
+   "fpiShares": null,
+   "promoterPct": 58.91,
+   "publicPct": 40.91,
+   "recordId": "211841",
+   "source": "nse",
+   "submittedOn": "2026-07-31",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1706022_31072026043401_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.15,
+   "fpiCat2Pct": 1.1,
+   "fpiPct": 22.25,
+   "fpiShares": null,
+   "promoterPct": 58.83,
+   "publicPct": 40.88,
+   "recordId": "215657",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741913_19102026064209_WEB.xml"
+  }
+ },
+ "symbol": "MARICO"
+}

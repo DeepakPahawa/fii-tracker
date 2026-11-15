@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Indian Bank",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.47,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 5.64,
+   "fpiShares": null,
+   "promoterPct": 73.84,
+   "publicPct": 26.16,
+   "recordId": "205469",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600173_13012026061614_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.62,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 5.82,
+   "fpiShares": null,
+   "promoterPct": 73.84,
+   "publicPct": 26.16,
+   "recordId": "207527",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646673_07042026034349_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.94,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 6.08,
+   "fpiShares": null,
+   "promoterPct": 73.84,
+   "publicPct": 26.16,
+   "recordId": "210498",
+   "source": "nse",
+   "submittedOn": "2026-07-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688100_04072026120445_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.62,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 6.79,
+   "fpiShares": null,
+   "promoterPct": 73.84,
+   "publicPct": 26.16,
+   "recordId": "213435",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734139_08102026122540_WEB.xml"
+  }
+ },
+ "symbol": "INDIANB"
+}

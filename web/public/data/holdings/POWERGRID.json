@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Power Grid Corporation of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.96,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 24.73,
+   "fpiShares": null,
+   "promoterPct": 51.34,
+   "publicPct": 48.66,
+   "recordId": "205594",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601066_14012026063807_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.25,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 25.02,
+   "fpiShares": null,
+   "promoterPct": 51.34,
+   "publicPct": 48.66,
+   "recordId": "208679",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652082_16042026023752_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.58,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 24.33,
+   "fpiShares": null,
+   "promoterPct": 51.34,
+   "publicPct": 48.66,
+   "recordId": "211142",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692743_14072026111454_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.22,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 24.03,
+   "fpiShares": null,
+   "promoterPct": 51.34,
+   "publicPct": 48.66,
+   "recordId": "214476",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738451_15102026105019_WEB.xml"
+  }
+ },
+ "symbol": "POWERGRID"
+}

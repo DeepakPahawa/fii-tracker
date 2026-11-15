@@ -1,0 +1,46 @@
+{
+ "industry": "Financial Services",
+ "name": "Canara Bank",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.58,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 14.23,
+   "fpiShares": null,
+   "promoterPct": 62.93,
+   "publicPct": 37.07,
+   "recordId": "207390",
+   "source": "nse",
+   "submittedOn": "2026-04-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1645570_02042026071027_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.04,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 12.67,
+   "fpiShares": null,
+   "promoterPct": 62.93,
+   "publicPct": 37.07,
+   "recordId": "210571",
+   "source": "nse",
+   "submittedOn": "2026-07-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688972_07072026061825_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.82,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 12.26,
+   "fpiShares": null,
+   "promoterPct": 62.93,
+   "publicPct": 37.07,
+   "recordId": "213248",
+   "source": "nse",
+   "submittedOn": "2026-10-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1732749_03102026042915_WEB.xml"
+  }
+ },
+ "symbol": "CANBK"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "HDFC Asset Management Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.21,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 23.99,
+   "fpiShares": null,
+   "promoterPct": 52.38,
+   "publicPct": 47.62,
+   "recordId": "206085",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603872_19012026125839_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.7,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 24.45,
+   "fpiShares": null,
+   "promoterPct": 52.37,
+   "publicPct": 47.63,
+   "recordId": "208470",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651307_15042026033420_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.44,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 24.1,
+   "fpiShares": null,
+   "promoterPct": 52.34,
+   "publicPct": 47.66,
+   "recordId": "211085",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692291_14072026042623_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.51,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 24.07,
+   "fpiShares": null,
+   "promoterPct": 52.29,
+   "publicPct": 47.71,
+   "recordId": "214034",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736786_13102026022428_WEB.xml"
+  }
+ },
+ "symbol": "HDFCAMC"
+}

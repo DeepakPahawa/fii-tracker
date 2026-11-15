@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Aavas Financiers Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.3,
+   "fpiCat2Pct": 1.42,
+   "fpiPct": 24.72,
+   "fpiShares": null,
+   "promoterPct": 48.95,
+   "publicPct": 51.05,
+   "recordId": "206714",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606271_20012026072621_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.78,
+   "fpiCat2Pct": 0.96,
+   "fpiPct": 16.74,
+   "fpiShares": null,
+   "promoterPct": 48.88,
+   "publicPct": 51.12,
+   "recordId": "209172",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653501_17042026062759_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.52,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 16.28,
+   "fpiShares": null,
+   "promoterPct": 48.88,
+   "publicPct": 51.12,
+   "recordId": "210728",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689981_09072026061648_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.93,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 15.2,
+   "fpiShares": null,
+   "promoterPct": 48.88,
+   "publicPct": 51.12,
+   "recordId": "213473",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734271_08102026032250_WEB.xml"
+  }
+ },
+ "symbol": "AAVAS"
+}

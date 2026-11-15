@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Bharat Electronics Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.87,
+   "fpiCat2Pct": 0.64,
+   "fpiPct": 18.51,
+   "fpiShares": null,
+   "promoterPct": 51.14,
+   "publicPct": 48.86,
+   "recordId": "205578",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600893_14012026051202_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.85,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 19.51,
+   "fpiShares": null,
+   "promoterPct": 51.14,
+   "publicPct": 48.86,
+   "recordId": "208726",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652189_16042026034627_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.47,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 18.02,
+   "fpiShares": null,
+   "promoterPct": 51.14,
+   "publicPct": 48.86,
+   "recordId": "210952",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691499_13072026045050_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.52,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 16.99,
+   "fpiShares": null,
+   "promoterPct": 51.14,
+   "publicPct": 48.86,
+   "recordId": "214286",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737569_14102026015942_WEB.xml"
+  }
+ },
+ "symbol": "BEL"
+}

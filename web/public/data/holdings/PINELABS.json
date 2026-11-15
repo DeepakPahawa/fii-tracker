@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Pine Labs Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.23,
+   "fpiCat2Pct": null,
+   "fpiPct": 5.23,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "206500",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605546_20012026035550_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.79,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 4.8,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "208545",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651550_15042026054717_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.11,
+   "fpiCat2Pct": 1.38,
+   "fpiPct": 9.49,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "212696",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698121_21072026030805_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.01,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 13.18,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "214221",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737372_14102026103557_WEB.xml"
+  }
+ },
+ "symbol": "PINELABS"
+}

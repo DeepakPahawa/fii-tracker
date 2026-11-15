@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "IFCI Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.48,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.58,
+   "fpiShares": null,
+   "promoterPct": 72.57,
+   "publicPct": 27.43,
+   "recordId": "205501",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600462_14012026121701_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.53,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 2.65,
+   "fpiShares": null,
+   "promoterPct": 72.57,
+   "publicPct": 27.43,
+   "recordId": "208585",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651812_16042026102927_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.7,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 3.5,
+   "fpiShares": null,
+   "promoterPct": 72.57,
+   "publicPct": 27.43,
+   "recordId": "211453",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694043_16072026024916_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.85,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 3.42,
+   "fpiShares": null,
+   "promoterPct": 72.57,
+   "publicPct": 27.43,
+   "recordId": "214583",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738784_15102026031334_WEB.xml"
+  }
+ },
+ "symbol": "IFCI"
+}

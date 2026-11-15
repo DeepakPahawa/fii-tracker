@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Aditya Birla Capital Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.73,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 7.01,
+   "fpiShares": null,
+   "promoterPct": 68.51,
+   "publicPct": 31.49,
+   "recordId": "207428",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654839_20042026030112_WEB.xml"
+  },
+  "2026-06-23": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.42,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 7.76,
+   "fpiShares": null,
+   "promoterPct": 68.81,
+   "publicPct": 31.19,
+   "recordId": "210423",
+   "source": "nse",
+   "submittedOn": "2026-06-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1683779_23062026082305_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.59,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 7.94,
+   "fpiShares": null,
+   "promoterPct": 68.81,
+   "publicPct": 31.19,
+   "recordId": "212801",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698450_21072026052022_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.02,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.26,
+   "fpiShares": null,
+   "promoterPct": 68.82,
+   "publicPct": 31.18,
+   "recordId": "216095",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743057_21102026044315_WEB.xml"
+  }
+ },
+ "symbol": "ABCAPITAL"
+}

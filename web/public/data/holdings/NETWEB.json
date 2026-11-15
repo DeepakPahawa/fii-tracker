@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Netweb Technologies India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.75,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 9.55,
+   "fpiShares": null,
+   "promoterPct": 71.0,
+   "publicPct": 29.0,
+   "recordId": "205790",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602275_16012026035144_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.48,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 9.29,
+   "fpiShares": null,
+   "promoterPct": 66.98,
+   "publicPct": 33.02,
+   "recordId": "207750",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648051_09042026042759_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.5,
+   "fpiCat2Pct": 1.77,
+   "fpiPct": 9.27,
+   "fpiShares": null,
+   "promoterPct": 66.98,
+   "publicPct": 33.02,
+   "recordId": "211725",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695197_17072026040223_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.14,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 9.47,
+   "fpiShares": null,
+   "promoterPct": 64.16,
+   "publicPct": 35.84,
+   "recordId": "215022",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740134_16102026051345_WEB.xml"
+  }
+ },
+ "symbol": "NETWEB"
+}

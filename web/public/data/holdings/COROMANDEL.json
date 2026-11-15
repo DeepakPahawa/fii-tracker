@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Coromandel International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.15,
+   "fpiCat2Pct": 0.64,
+   "fpiPct": 13.79,
+   "fpiShares": null,
+   "promoterPct": 56.86,
+   "publicPct": 43.04,
+   "recordId": "207023",
+   "source": "nse",
+   "submittedOn": "2026-03-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1635589_13032026053352_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.42,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 13.02,
+   "fpiShares": null,
+   "promoterPct": 56.35,
+   "publicPct": 43.47,
+   "recordId": "210220",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698949_21072026093232_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.95,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 11.5,
+   "fpiShares": null,
+   "promoterPct": 56.35,
+   "publicPct": 43.48,
+   "recordId": "212939",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698951_21072026093448_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.82,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 11.34,
+   "fpiShares": null,
+   "promoterPct": 56.34,
+   "publicPct": 43.49,
+   "recordId": "216274",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743599_21102026091803_WEB.xml"
+  }
+ },
+ "symbol": "COROMANDEL"
+}

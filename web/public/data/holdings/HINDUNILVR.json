@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Hindustan Unilever Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.4,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 10.71,
+   "fpiShares": null,
+   "promoterPct": 61.9,
+   "publicPct": 38.1,
+   "recordId": "206722",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606287_20012026073543_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.84,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 10.1,
+   "fpiShares": null,
+   "promoterPct": 61.9,
+   "publicPct": 38.1,
+   "recordId": "209432",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654510_20042026110214_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.27,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 9.5,
+   "fpiShares": null,
+   "promoterPct": 61.9,
+   "publicPct": 38.1,
+   "recordId": "212596",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697830_21072026121013_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.02,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 9.26,
+   "fpiShares": null,
+   "promoterPct": 61.9,
+   "publicPct": 38.1,
+   "recordId": "215725",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742125_19102026102752_WEB.xml"
+  }
+ },
+ "symbol": "HINDUNILVR"
+}

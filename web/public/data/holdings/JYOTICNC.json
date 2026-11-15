@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Jyoti CNC Automation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.3,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 9.7,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "205653",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601470_15012026024516_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.57,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 8.95,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "208899",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652801_17042026103951_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.92,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 6.29,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "211286",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693247_15072026042441_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.05,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 5.26,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "213483",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734330_08102026042053_WEB.xml"
+  }
+ },
+ "symbol": "JYOTICNC"
+}

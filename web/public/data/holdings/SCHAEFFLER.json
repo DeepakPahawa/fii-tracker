@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Schaeffler India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.42,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 4.45,
+   "fpiShares": null,
+   "promoterPct": 74.13,
+   "publicPct": 25.87,
+   "recordId": "205716",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601874_16012026102832_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.24,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 4.25,
+   "fpiShares": null,
+   "promoterPct": 74.13,
+   "publicPct": 25.87,
+   "recordId": "209754",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655353_20042026062135_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.34,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 4.36,
+   "fpiShares": null,
+   "promoterPct": 74.13,
+   "publicPct": 25.87,
+   "recordId": "211002",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691866_14072026100100_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.29,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 4.29,
+   "fpiShares": null,
+   "promoterPct": 74.13,
+   "publicPct": 25.87,
+   "recordId": "216115",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743112_21102026050149_WEB.xml"
+  }
+ },
+ "symbol": "SCHAEFFLER"
+}

@@ -1,0 +1,46 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Vedanta Iron and Steel Ltd.",
+ "quarters": {
+  "2026-06-12": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.47,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 14.05,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "210405",
+   "source": "nse",
+   "submittedOn": "2026-06-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682024_16062026035817_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.15,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 5.38,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "211116",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692523_14072026061806_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.52,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 4.11,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "215291",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740959_17102026062957_WEB.xml"
+  }
+ },
+ "symbol": "VISL"
+}

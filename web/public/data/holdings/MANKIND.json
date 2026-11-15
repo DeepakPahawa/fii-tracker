@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Mankind Pharma Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.15,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 11.34,
+   "fpiShares": null,
+   "promoterPct": 72.66,
+   "publicPct": 27.34,
+   "recordId": "205345",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599426_13012026121802_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.04,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 10.24,
+   "fpiShares": null,
+   "promoterPct": 72.66,
+   "publicPct": 27.34,
+   "recordId": "209422",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654490_20042026103025_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.26,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 9.45,
+   "fpiShares": null,
+   "promoterPct": 72.63,
+   "publicPct": 27.37,
+   "recordId": "212536",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697698_21072026100612_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.18,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 9.37,
+   "fpiShares": null,
+   "promoterPct": 72.62,
+   "publicPct": 27.38,
+   "recordId": "215027",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740145_16102026052126_WEB.xml"
+  }
+ },
+ "symbol": "MANKIND"
+}

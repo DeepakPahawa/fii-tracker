@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Cochin Shipyard Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.73,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 2.74,
+   "fpiShares": null,
+   "promoterPct": 67.91,
+   "publicPct": 32.09,
+   "recordId": "205919",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603224_17012026034808_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.07,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 3.1,
+   "fpiShares": null,
+   "promoterPct": 67.91,
+   "publicPct": 32.09,
+   "recordId": "209325",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654177_18042026041151_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.82,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 2.83,
+   "fpiShares": null,
+   "promoterPct": 67.91,
+   "publicPct": 32.09,
+   "recordId": "212013",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696144_18072026042209_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.07,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 3.07,
+   "fpiShares": null,
+   "promoterPct": 63.33,
+   "publicPct": 36.67,
+   "recordId": "215149",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740537_17102026093742_WEB.xml"
+  }
+ },
+ "symbol": "COCHINSHIP"
+}

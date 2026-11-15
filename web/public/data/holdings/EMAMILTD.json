@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Emami Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.51,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 9.03,
+   "fpiShares": null,
+   "promoterPct": 54.84,
+   "publicPct": 45.16,
+   "recordId": "205460",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600076_13012026054712_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.06,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 8.57,
+   "fpiShares": null,
+   "promoterPct": 54.84,
+   "publicPct": 45.16,
+   "recordId": "209603",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654971_20042026035840_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.34,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 7.87,
+   "fpiShares": null,
+   "promoterPct": 54.84,
+   "publicPct": 45.16,
+   "recordId": "211832",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695544_17072026055942_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.34,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 9.02,
+   "fpiShares": null,
+   "promoterPct": 54.84,
+   "publicPct": 45.16,
+   "recordId": "214343",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737769_14102026041654_WEB.xml"
+  }
+ },
+ "symbol": "EMAMILTD"
+}

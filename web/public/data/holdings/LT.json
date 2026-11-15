@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Larsen & Toubro Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.26,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 20.03,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "207002",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607244_21012026050656_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.92,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 18.75,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "208842",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652548_16042026061922_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.4,
+   "fpiCat2Pct": 0.7,
+   "fpiPct": 19.1,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "211487",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694210_16072026041111_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.47,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 19.18,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "215152",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740540_17102026101104_WEB.xml"
+  }
+ },
+ "symbol": "LT"
+}

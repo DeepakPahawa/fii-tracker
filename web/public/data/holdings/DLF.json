@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "DLF Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.43,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 14.81,
+   "fpiShares": null,
+   "promoterPct": 74.08,
+   "publicPct": 25.92,
+   "recordId": "205877",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602668_16012026060241_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.21,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 13.54,
+   "fpiShares": null,
+   "promoterPct": 74.08,
+   "publicPct": 25.92,
+   "recordId": "207568",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646997_07042026090031_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.92,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 12.31,
+   "fpiShares": null,
+   "promoterPct": 74.08,
+   "publicPct": 25.92,
+   "recordId": "210537",
+   "source": "nse",
+   "submittedOn": "2026-07-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688574_06072026065528_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.07,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 11.43,
+   "fpiShares": null,
+   "promoterPct": 74.08,
+   "publicPct": 25.92,
+   "recordId": "213277",
+   "source": "nse",
+   "submittedOn": "2026-10-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733186_05102026073938_WEB.xml"
+  }
+ },
+ "symbol": "DLF"
+}

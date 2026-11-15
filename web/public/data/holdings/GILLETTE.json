@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Gillette India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.57,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 4.77,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "206304",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604880_19012026081321_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.24,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 4.36,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "209704",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655241_20042026053931_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.21,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 4.33,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "212578",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697792_21072026113643_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.92,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 4.01,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "215747",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742188_20102026113335_WEB.xml"
+  }
+ },
+ "symbol": "GILLETTE"
+}

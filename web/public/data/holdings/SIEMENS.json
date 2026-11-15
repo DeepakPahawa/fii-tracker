@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Siemens Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.61,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.85,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "206913",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606929_21012026031349_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.55,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.8,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "209886",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655715_21042026105109_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.23,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.47,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "212652",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697998_21072026013957_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.52,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.76,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "216121",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743120_21102026050613_WEB.xml"
+  }
+ },
+ "symbol": "SIEMENS"
+}

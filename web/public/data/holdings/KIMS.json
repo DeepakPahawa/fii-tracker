@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Krishna Institute of Medical Sciences Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.01,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 14.57,
+   "fpiShares": null,
+   "promoterPct": 34.11,
+   "publicPct": 65.89,
+   "recordId": "210141",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656428_21042026053342_WEB.xml"
+  },
+  "2026-06-19": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.94,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 14.44,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "213014",
+   "source": "nse",
+   "submittedOn": "2026-08-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1708060_04082026112223_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.25,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 14.75,
+   "fpiShares": null,
+   "promoterPct": 32.5,
+   "publicPct": 67.5,
+   "recordId": "212560",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697747_21072026110424_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.49,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 15.01,
+   "fpiShares": null,
+   "promoterPct": 32.66,
+   "publicPct": 67.34,
+   "recordId": "215889",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742469_21102026111715_WEB.xml"
+  }
+ },
+ "symbol": "KIMS"
+}

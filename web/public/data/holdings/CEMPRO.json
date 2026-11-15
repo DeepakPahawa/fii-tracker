@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Cemindia Projects Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.93,
+   "fpiCat2Pct": 1.38,
+   "fpiPct": 7.31,
+   "fpiShares": null,
+   "promoterPct": 67.46,
+   "publicPct": 32.54,
+   "recordId": "207690",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647723_09042026110414_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.83,
+   "fpiCat2Pct": 1.43,
+   "fpiPct": 7.26,
+   "fpiShares": null,
+   "promoterPct": 67.46,
+   "publicPct": 32.54,
+   "recordId": "210764",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690337_10072026030637_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.08,
+   "fpiCat2Pct": 1.57,
+   "fpiPct": 6.65,
+   "fpiShares": null,
+   "promoterPct": 67.46,
+   "publicPct": 32.54,
+   "recordId": "213628",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735008_09102026050509_WEB.xml"
+  },
+  "2026-10-19": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.72,
+   "fpiCat2Pct": 1.51,
+   "fpiPct": 6.23,
+   "fpiShares": null,
+   "promoterPct": 62.84,
+   "publicPct": 37.16,
+   "recordId": "216316",
+   "source": "nse",
+   "submittedOn": "2026-10-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1744487_23102026022417_WEB.xml"
+  }
+ },
+ "symbol": "CEMPRO"
+}

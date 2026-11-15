@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Union Bank of India",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.92,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 8.14,
+   "fpiShares": null,
+   "promoterPct": 74.76,
+   "publicPct": 25.24,
+   "recordId": "206219",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604468_19012026052257_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.03,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 9.37,
+   "fpiShares": null,
+   "promoterPct": 74.76,
+   "publicPct": 25.24,
+   "recordId": "208893",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652792_17042026101714_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.41,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 8.63,
+   "fpiShares": null,
+   "promoterPct": 74.76,
+   "publicPct": 25.24,
+   "recordId": "212365",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697202_20072026055434_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.18,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 9.4,
+   "fpiShares": null,
+   "promoterPct": 74.76,
+   "publicPct": 25.24,
+   "recordId": "215440",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741370_19102026024233_WEB.xml"
+  }
+ },
+ "symbol": "UNIONBANK"
+}

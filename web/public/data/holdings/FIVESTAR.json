@@ -1,0 +1,46 @@
+{
+ "industry": "Financial Services",
+ "name": "Five-Star Business Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.48,
+   "fpiCat2Pct": 2.19,
+   "fpiPct": 37.67,
+   "fpiShares": null,
+   "promoterPct": 18.56,
+   "publicPct": 81.44,
+   "recordId": "204897",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596463_08012026105941_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.69,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 28.72,
+   "fpiShares": null,
+   "promoterPct": 18.61,
+   "publicPct": 81.39,
+   "recordId": "211624",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694873_17072026121250_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.41,
+   "fpiCat2Pct": 0.88,
+   "fpiPct": 28.29,
+   "fpiShares": null,
+   "promoterPct": 18.61,
+   "publicPct": 81.39,
+   "recordId": "214999",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740072_16102026044922_WEB.xml"
+  }
+ },
+ "symbol": "FIVESTAR"
+}

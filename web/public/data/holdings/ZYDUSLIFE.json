@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Zydus Lifesciences Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.77,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 6.95,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "207714",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647863_09042026020206_WEB.xml"
+  },
+  "2026-06-18": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.71,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 6.89,
+   "fpiShares": null,
+   "promoterPct": 75.01,
+   "publicPct": 24.99,
+   "recordId": "210426",
+   "source": "nse",
+   "submittedOn": "2026-06-24",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1684049_24062026052346_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.7,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 6.89,
+   "fpiShares": null,
+   "promoterPct": 75.01,
+   "publicPct": 24.99,
+   "recordId": "210851",
+   "source": "nse",
+   "submittedOn": "2026-07-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690961_11072026025816_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.84,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 7.05,
+   "fpiShares": null,
+   "promoterPct": 75.01,
+   "publicPct": 24.99,
+   "recordId": "213404",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733872_07102026051035_WEB.xml"
+  }
+ },
+ "symbol": "ZYDUSLIFE"
+}

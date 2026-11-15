@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "DOMS Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.15,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.38,
+   "fpiShares": null,
+   "promoterPct": 70.39,
+   "publicPct": 29.61,
+   "recordId": "206102",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603965_19012026014725_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.38,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 7.62,
+   "fpiShares": null,
+   "promoterPct": 70.39,
+   "publicPct": 29.61,
+   "recordId": "208794",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652398_16042026051910_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.23,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 7.5,
+   "fpiShares": null,
+   "promoterPct": 63.39,
+   "publicPct": 36.61,
+   "recordId": "212329",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697113_20072026052917_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.17,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 7.31,
+   "fpiShares": null,
+   "promoterPct": 63.39,
+   "publicPct": 36.61,
+   "recordId": "215672",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741957_19102026070903_WEB.xml"
+  }
+ },
+ "symbol": "DOMS"
+}

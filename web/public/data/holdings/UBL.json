@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "United Breweries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.02,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 5.5,
+   "fpiShares": null,
+   "promoterPct": 70.83,
+   "publicPct": 29.17,
+   "recordId": "205837",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602523_16012026051626_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.7,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 4.94,
+   "fpiShares": null,
+   "promoterPct": 70.83,
+   "publicPct": 29.17,
+   "recordId": "208600",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651854_16042026111453_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.64,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 4.87,
+   "fpiShares": null,
+   "promoterPct": 70.83,
+   "publicPct": 29.17,
+   "recordId": "211880",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695686_17072026071639_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.33,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 5.36,
+   "fpiShares": null,
+   "promoterPct": 70.83,
+   "publicPct": 29.17,
+   "recordId": "214070",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736891_13102026033642_WEB.xml"
+  }
+ },
+ "symbol": "UBL"
+}

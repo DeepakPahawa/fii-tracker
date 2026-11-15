@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.47,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 4.63,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "205121",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597735_09012026054849_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.47,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 4.62,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "207913",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648858_10042026051156_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.66,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 4.79,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "211372",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693743_16072026094817_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.61,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 4.75,
+   "fpiShares": null,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "214559",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738702_15102026021804_WEB.xml"
+  }
+ },
+ "symbol": "GLAXO"
+}

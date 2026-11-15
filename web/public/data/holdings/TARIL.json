@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Transformers And Rectifiers (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.84,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 7.01,
+   "fpiShares": null,
+   "promoterPct": 64.36,
+   "publicPct": 35.64,
+   "recordId": "206654",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606086_20012026062321_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.15,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 8.33,
+   "fpiShares": null,
+   "promoterPct": 64.36,
+   "publicPct": 35.64,
+   "recordId": "207642",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647363_08042026041157_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.41,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 7.8,
+   "fpiShares": null,
+   "promoterPct": 64.36,
+   "publicPct": 35.64,
+   "recordId": "211212",
+   "source": "nse",
+   "submittedOn": "2026-07-27",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1701782_27072026122910_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.81,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 6.98,
+   "fpiShares": null,
+   "promoterPct": 64.36,
+   "publicPct": 35.64,
+   "recordId": "213420",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734076_08102026101824_WEB.xml"
+  }
+ },
+ "symbol": "TARIL"
+}

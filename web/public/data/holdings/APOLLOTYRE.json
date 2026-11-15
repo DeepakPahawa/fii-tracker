@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Apollo Tyres Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.93,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 12.18,
+   "fpiShares": null,
+   "promoterPct": 36.93,
+   "publicPct": 62.79,
+   "recordId": "205858",
+   "source": "nse",
+   "submittedOn": "2026-08-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1712714_12082026054050_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.79,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 12.07,
+   "fpiShares": null,
+   "promoterPct": 36.93,
+   "publicPct": 62.67,
+   "recordId": "209042",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653187_17042026040928_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.71,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 10.01,
+   "fpiShares": null,
+   "promoterPct": 36.93,
+   "publicPct": 62.67,
+   "recordId": "212356",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697178_20072026054905_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.73,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 10.0,
+   "fpiShares": null,
+   "promoterPct": 36.93,
+   "publicPct": 62.67,
+   "recordId": "215503",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741514_19102026040010_WEB.xml"
+  }
+ },
+ "symbol": "APOLLOTYRE"
+}

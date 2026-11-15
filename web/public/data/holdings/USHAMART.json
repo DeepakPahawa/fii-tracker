@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Usha Martin Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.31,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 14.62,
+   "fpiShares": null,
+   "promoterPct": 40.52,
+   "publicPct": 59.37,
+   "recordId": "206720",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606285_20012026073406_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.47,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 14.77,
+   "fpiShares": null,
+   "promoterPct": 40.52,
+   "publicPct": 59.37,
+   "recordId": "209837",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655578_20042026080003_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.52,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 15.1,
+   "fpiShares": null,
+   "promoterPct": 40.28,
+   "publicPct": 59.6,
+   "recordId": "212288",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696991_20072026045339_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.9,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 15.34,
+   "fpiShares": null,
+   "promoterPct": 40.09,
+   "publicPct": 59.8,
+   "recordId": "215855",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742404_21102026013221_WEB.xml"
+  }
+ },
+ "symbol": "USHAMART"
+}

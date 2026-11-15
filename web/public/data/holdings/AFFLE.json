@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Affle 3i Ltd.",
+ "quarters": {
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.14,
+   "fpiCat2Pct": 1.23,
+   "fpiPct": 15.37,
+   "fpiShares": null,
+   "promoterPct": 54.91,
+   "publicPct": 44.97,
+   "recordId": "211069",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692195_14072026033428_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.6,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 14.6,
+   "fpiShares": null,
+   "promoterPct": 54.87,
+   "publicPct": 44.97,
+   "recordId": "213303",
+   "source": "nse",
+   "submittedOn": "2026-10-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733379_06102026031849_WEB.xml"
+  },
+  "2026-10-19": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.37,
+   "fpiCat2Pct": 0.99,
+   "fpiPct": 14.36,
+   "fpiShares": null,
+   "promoterPct": 55.42,
+   "publicPct": 44.42,
+   "recordId": "216329",
+   "source": "nse",
+   "submittedOn": "2026-10-26",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1745817_26102026040302_WEB.xml"
+  },
+  "2026-10-21": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.25,
+   "fpiCat2Pct": 0.98,
+   "fpiPct": 14.23,
+   "fpiShares": null,
+   "promoterPct": 55.82,
+   "publicPct": 44.02,
+   "recordId": "216338",
+   "source": "nse",
+   "submittedOn": "2026-10-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1747485_28102026011120_WEB.xml"
+  }
+ },
+ "symbol": "AFFLE"
+}

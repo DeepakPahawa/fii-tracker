@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Bosch Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.18,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 7.34,
+   "fpiShares": null,
+   "promoterPct": 70.54,
+   "publicPct": 29.46,
+   "recordId": "206147",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604184_19012026034741_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.06,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 7.22,
+   "fpiShares": null,
+   "promoterPct": 70.54,
+   "publicPct": 29.46,
+   "recordId": "208562",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651628_15042026062230_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.94,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 7.1,
+   "fpiShares": null,
+   "promoterPct": 70.54,
+   "publicPct": 29.46,
+   "recordId": "212119",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696511_20072026122702_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.05,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 7.21,
+   "fpiShares": null,
+   "promoterPct": 70.54,
+   "publicPct": 29.46,
+   "recordId": "214327",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737716_14102026034514_WEB.xml"
+  }
+ },
+ "symbol": "BOSCHLTD"
+}

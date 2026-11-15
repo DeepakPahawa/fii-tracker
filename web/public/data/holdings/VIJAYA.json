@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Vijaya Diagnostic Centre Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.54,
+   "fpiCat2Pct": 2.56,
+   "fpiPct": 15.1,
+   "fpiShares": null,
+   "promoterPct": 52.6,
+   "publicPct": 47.4,
+   "recordId": "204954",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596796_08012026042753_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.13,
+   "fpiCat2Pct": 2.25,
+   "fpiPct": 13.38,
+   "fpiShares": null,
+   "promoterPct": 52.51,
+   "publicPct": 47.49,
+   "recordId": "207536",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646709_07042026041336_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.77,
+   "fpiCat2Pct": 1.88,
+   "fpiPct": 11.65,
+   "fpiShares": null,
+   "promoterPct": 52.51,
+   "publicPct": 47.49,
+   "recordId": "211762",
+   "source": "nse",
+   "submittedOn": "2026-09-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1721991_07092026123813_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.13,
+   "fpiCat2Pct": 1.54,
+   "fpiPct": 10.67,
+   "fpiShares": null,
+   "promoterPct": 52.46,
+   "publicPct": 47.54,
+   "recordId": "213805",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735976_12102026015530_WEB.xml"
+  }
+ },
+ "symbol": "VIJAYA"
+}

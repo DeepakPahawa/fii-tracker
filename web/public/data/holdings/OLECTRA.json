@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Olectra Greentech Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.64,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 6.9,
+   "fpiShares": null,
+   "promoterPct": 50.02,
+   "publicPct": 49.98,
+   "recordId": "205840",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602546_16012026052530_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.85,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 7.11,
+   "fpiShares": null,
+   "promoterPct": 50.02,
+   "publicPct": 49.98,
+   "recordId": "208906",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652816_17042026105720_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.23,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 7.95,
+   "fpiShares": null,
+   "promoterPct": 50.02,
+   "publicPct": 49.98,
+   "recordId": "211825",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695518_17072026055130_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.12,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 7.35,
+   "fpiShares": null,
+   "promoterPct": 50.02,
+   "publicPct": 49.98,
+   "recordId": "214671",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739053_15102026050851_WEB.xml"
+  }
+ },
+ "symbol": "OLECTRA"
+}

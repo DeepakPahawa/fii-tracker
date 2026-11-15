@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Power Finance Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.54,
+   "fpiCat2Pct": 0.79,
+   "fpiPct": 18.33,
+   "fpiShares": null,
+   "promoterPct": 55.99,
+   "publicPct": 44.01,
+   "recordId": "204766",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595389_06012026011608_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.7,
+   "fpiCat2Pct": 0.94,
+   "fpiPct": 19.64,
+   "fpiShares": null,
+   "promoterPct": 55.99,
+   "publicPct": 44.01,
+   "recordId": "210074",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656255_21042026040445_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.45,
+   "fpiCat2Pct": 1.09,
+   "fpiPct": 20.54,
+   "fpiShares": null,
+   "promoterPct": 55.99,
+   "publicPct": 44.01,
+   "recordId": "212957",
+   "source": "nse",
+   "submittedOn": "2026-07-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699178_22072026025901_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.01,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 17.83,
+   "fpiShares": null,
+   "promoterPct": 55.99,
+   "publicPct": 44.01,
+   "recordId": "214853",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739709_16102026020525_WEB.xml"
+  }
+ },
+ "symbol": "PFC"
+}

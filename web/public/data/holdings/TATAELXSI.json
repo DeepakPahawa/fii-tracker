@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Tata Elxsi Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.32,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.56,
+   "fpiShares": null,
+   "promoterPct": 43.9,
+   "publicPct": 56.1,
+   "recordId": "206933",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607009_21012026034644_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.79,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 11.08,
+   "fpiShares": null,
+   "promoterPct": 43.9,
+   "publicPct": 56.1,
+   "recordId": "208832",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652507_16042026060337_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.54,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 9.85,
+   "fpiShares": null,
+   "promoterPct": 43.9,
+   "publicPct": 56.1,
+   "recordId": "212212",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696752_20072026032257_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.72,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 8.0,
+   "fpiShares": null,
+   "promoterPct": 43.89,
+   "publicPct": 56.11,
+   "recordId": "214976",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740023_16102026043243_WEB.xml"
+  }
+ },
+ "symbol": "TATAELXSI"
+}

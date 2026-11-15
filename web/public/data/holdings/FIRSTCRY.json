@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Brainbees Solutions Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.8,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 3.88,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 92.91,
+   "recordId": "206462",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605421_20012026030349_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.46,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 3.52,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 92.94,
+   "recordId": "210162",
+   "source": "nse",
+   "submittedOn": "2026-06-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680710_10062026045528_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.53,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 3.61,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 93.02,
+   "recordId": "211468",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694104_16072026032035_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.42,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 5.63,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 93.05,
+   "recordId": "214174",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737199_13102026061712_WEB.xml"
+  }
+ },
+ "symbol": "FIRSTCRY"
+}

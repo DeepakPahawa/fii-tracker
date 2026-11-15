@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "InterGlobe Aviation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.14,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 24.99,
+   "fpiShares": null,
+   "promoterPct": 41.58,
+   "publicPct": 58.42,
+   "recordId": "206392",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605220_20012026125555_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.89,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 21.64,
+   "fpiShares": null,
+   "promoterPct": 41.57,
+   "publicPct": 58.43,
+   "recordId": "210003",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656028_21042026021525_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.25,
+   "fpiCat2Pct": 1.07,
+   "fpiPct": 20.32,
+   "fpiShares": null,
+   "promoterPct": 41.57,
+   "publicPct": 58.43,
+   "recordId": "212687",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698091_21072026025421_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.97,
+   "fpiCat2Pct": 0.93,
+   "fpiPct": 19.9,
+   "fpiShares": null,
+   "promoterPct": 41.57,
+   "publicPct": 58.43,
+   "recordId": "215597",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741759_19102026053811_WEB.xml"
+  }
+ },
+ "symbol": "INDIGO"
+}

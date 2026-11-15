@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.79,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 2.96,
+   "fpiShares": null,
+   "promoterPct": 74.5,
+   "publicPct": 25.5,
+   "recordId": "205677",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601598_15012026043555_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.36,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.51,
+   "fpiShares": null,
+   "promoterPct": 74.5,
+   "publicPct": 25.5,
+   "recordId": "207514",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646629_07042026025757_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.09,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 3.21,
+   "fpiShares": null,
+   "promoterPct": 74.5,
+   "publicPct": 25.5,
+   "recordId": "211090",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692347_14072026045422_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.04,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 3.17,
+   "fpiShares": null,
+   "promoterPct": 74.5,
+   "publicPct": 25.5,
+   "recordId": "213292",
+   "source": "nse",
+   "submittedOn": "2026-10-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733301_06102026124203_WEB.xml"
+  }
+ },
+ "symbol": "GRSE"
+}

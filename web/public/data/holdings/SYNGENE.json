@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Syngene International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.21,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 14.96,
+   "fpiShares": null,
+   "promoterPct": 52.68,
+   "publicPct": 47.02,
+   "recordId": "206010",
+   "source": "nse",
+   "submittedOn": "2026-01-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603615_18012026115720_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.34,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 13.91,
+   "fpiShares": null,
+   "promoterPct": 52.68,
+   "publicPct": 47.03,
+   "recordId": "209193",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653668_17042026072022_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.21,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 11.82,
+   "fpiShares": null,
+   "promoterPct": 52.59,
+   "publicPct": 46.98,
+   "recordId": "211872",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695662_17072026070132_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.61,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 10.13,
+   "fpiShares": null,
+   "promoterPct": 52.59,
+   "publicPct": 47.0,
+   "recordId": "214753",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739456_15102026103042_WEB.xml"
+  }
+ },
+ "symbol": "SYNGENE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Muthoot Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.34,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 11.75,
+   "fpiShares": null,
+   "promoterPct": 73.35,
+   "publicPct": 26.65,
+   "recordId": "206518",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605617_20012026041748_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.9,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 12.31,
+   "fpiShares": null,
+   "promoterPct": 73.35,
+   "publicPct": 26.65,
+   "recordId": "209978",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655952_21042026011910_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.19,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 11.61,
+   "fpiShares": null,
+   "promoterPct": 73.35,
+   "publicPct": 26.65,
+   "recordId": "212048",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696264_18072026060746_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.32,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 9.72,
+   "fpiShares": null,
+   "promoterPct": 73.35,
+   "publicPct": 26.65,
+   "recordId": "215821",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742333_20102026052323_WEB.xml"
+  }
+ },
+ "symbol": "MUTHOOTFIN"
+}

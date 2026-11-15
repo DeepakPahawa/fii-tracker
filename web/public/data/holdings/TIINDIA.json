@@ -1,0 +1,46 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Tube Investments of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.0,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 23.02,
+   "fpiShares": null,
+   "promoterPct": 44.05,
+   "publicPct": 55.95,
+   "recordId": "206690",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606200_20012026070417_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.13,
+   "fpiCat2Pct": 1.16,
+   "fpiPct": 21.29,
+   "fpiShares": null,
+   "promoterPct": 44.04,
+   "publicPct": 55.96,
+   "recordId": "210021",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656076_21042026024148_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.67,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 21.38,
+   "fpiShares": null,
+   "promoterPct": 44.1,
+   "publicPct": 55.9,
+   "recordId": "215787",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742269_20102026031745_WEB.xml"
+  }
+ },
+ "symbol": "TIINDIA"
+}

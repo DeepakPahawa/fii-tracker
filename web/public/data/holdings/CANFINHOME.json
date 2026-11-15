@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Can Fin Homes Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.55,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 13.24,
+   "fpiShares": null,
+   "promoterPct": 29.99,
+   "publicPct": 70.01,
+   "recordId": "204935",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596706_08012026032209_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.71,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 13.37,
+   "fpiShares": null,
+   "promoterPct": 29.99,
+   "publicPct": 70.01,
+   "recordId": "207629",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647303_08042026033028_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.36,
+   "fpiCat2Pct": 0.87,
+   "fpiPct": 13.23,
+   "fpiShares": null,
+   "promoterPct": 29.99,
+   "publicPct": 70.01,
+   "recordId": "211113",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692508_14072026061043_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.81,
+   "fpiCat2Pct": 0.7,
+   "fpiPct": 12.51,
+   "fpiShares": null,
+   "promoterPct": 29.99,
+   "publicPct": 70.01,
+   "recordId": "214610",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738875_15102026035729_WEB.xml"
+  }
+ },
+ "symbol": "CANFINHOME"
+}

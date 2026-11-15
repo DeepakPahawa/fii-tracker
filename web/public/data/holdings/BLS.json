@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "BLS International Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.21,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 6.37,
+   "fpiShares": null,
+   "promoterPct": 70.39,
+   "publicPct": 29.59,
+   "recordId": "206998",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607222_21012026050230_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.0,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 6.14,
+   "fpiShares": null,
+   "promoterPct": 70.39,
+   "publicPct": 29.56,
+   "recordId": "210136",
+   "source": "nse",
+   "submittedOn": "2026-08-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1707797_04082026061357_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.96,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 4.14,
+   "fpiShares": null,
+   "promoterPct": 70.39,
+   "publicPct": 29.57,
+   "recordId": "212769",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698333_21072026043633_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.73,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.88,
+   "fpiShares": null,
+   "promoterPct": 70.41,
+   "publicPct": 29.53,
+   "recordId": "216092",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743046_21102026044149_WEB.xml"
+  }
+ },
+ "symbol": "BLS"
+}

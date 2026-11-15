@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "RHI MAGNESITA INDIA LTD.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.09,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 4.64,
+   "fpiShares": null,
+   "promoterPct": 56.07,
+   "publicPct": 43.93,
+   "recordId": "206069",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603801_19012026122051_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.81,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 4.38,
+   "fpiShares": null,
+   "promoterPct": 56.07,
+   "publicPct": 43.93,
+   "recordId": "208800",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652408_16042026052404_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.6,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 3.98,
+   "fpiShares": null,
+   "promoterPct": 56.07,
+   "publicPct": 43.93,
+   "recordId": "211467",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694094_16072026031806_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.93,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 3.09,
+   "fpiShares": null,
+   "promoterPct": 56.07,
+   "publicPct": 43.93,
+   "recordId": "214235",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737404_14102026112540_WEB.xml"
+  }
+ },
+ "symbol": "RHIM"
+}

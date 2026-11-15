@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Poly Medicure Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.84,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 9.41,
+   "fpiShares": null,
+   "promoterPct": 62.42,
+   "publicPct": 37.58,
+   "recordId": "206616",
+   "source": "nse",
+   "submittedOn": "2026-05-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667776_15052026051048_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.68,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 5.92,
+   "fpiShares": null,
+   "promoterPct": 62.42,
+   "publicPct": 37.58,
+   "recordId": "209885",
+   "source": "nse",
+   "submittedOn": "2026-06-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682456_18062026031936_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.4,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 5.56,
+   "fpiShares": null,
+   "promoterPct": 62.42,
+   "publicPct": 37.58,
+   "recordId": "212800",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698448_21072026051900_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.09,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 5.36,
+   "fpiShares": null,
+   "promoterPct": 62.42,
+   "publicPct": 37.58,
+   "recordId": "215423",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741316_19102026015553_WEB.xml"
+  }
+ },
+ "symbol": "POLYMED"
+}

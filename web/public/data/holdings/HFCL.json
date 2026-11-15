@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "HFCL Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.25,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 7.48,
+   "fpiShares": null,
+   "promoterPct": 28.29,
+   "publicPct": 71.68,
+   "recordId": "205998",
+   "source": "nse",
+   "submittedOn": "2026-01-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603586_18012026122946_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.77,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 7.08,
+   "fpiShares": null,
+   "promoterPct": 28.29,
+   "publicPct": 71.69,
+   "recordId": "209414",
+   "source": "nse",
+   "submittedOn": "2026-04-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654467_19042026105442_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.26,
+   "fpiCat2Pct": 1.48,
+   "fpiPct": 15.74,
+   "fpiShares": null,
+   "promoterPct": 28.29,
+   "publicPct": 71.69,
+   "recordId": "211395",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693810_16072026113543_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.39,
+   "fpiCat2Pct": 1.85,
+   "fpiPct": 17.24,
+   "fpiShares": null,
+   "promoterPct": 28.29,
+   "publicPct": 71.69,
+   "recordId": "214780",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739523_16102026112900_WEB.xml"
+  }
+ },
+ "symbol": "HFCL"
+}

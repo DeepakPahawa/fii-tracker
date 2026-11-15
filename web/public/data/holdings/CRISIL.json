@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "CRISIL Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.04,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 7.67,
+   "fpiShares": null,
+   "promoterPct": 66.64,
+   "publicPct": 33.36,
+   "recordId": "206895",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606877_21012026025333_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.74,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 7.18,
+   "fpiShares": null,
+   "promoterPct": 66.64,
+   "publicPct": 33.36,
+   "recordId": "209961",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655915_21042026125511_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.02,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 6.38,
+   "fpiShares": null,
+   "promoterPct": 66.64,
+   "publicPct": 33.36,
+   "recordId": "212666",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698042_21072026022318_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.55,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 6.94,
+   "fpiShares": null,
+   "promoterPct": 66.64,
+   "publicPct": 33.36,
+   "recordId": "216036",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742882_21102026034110_WEB.xml"
+  }
+ },
+ "symbol": "CRISIL"
+}

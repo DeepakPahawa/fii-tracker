@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Himadri Speciality Chemical Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.6,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 5.75,
+   "fpiShares": null,
+   "promoterPct": 52.5,
+   "publicPct": 47.5,
+   "recordId": "205708",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601819_15012026075408_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.83,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 5.98,
+   "fpiShares": null,
+   "promoterPct": 52.5,
+   "publicPct": 47.5,
+   "recordId": "207952",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649080_10042026065524_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.41,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 6.8,
+   "fpiShares": null,
+   "promoterPct": 52.5,
+   "publicPct": 47.5,
+   "recordId": "210854",
+   "source": "nse",
+   "submittedOn": "2026-07-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690977_11072026032909_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.92,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 7.33,
+   "fpiShares": null,
+   "promoterPct": 52.49,
+   "publicPct": 47.51,
+   "recordId": "214057",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736844_13102026031321_WEB.xml"
+  }
+ },
+ "symbol": "HSCL"
+}

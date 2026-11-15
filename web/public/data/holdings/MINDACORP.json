@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Minda Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.93,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 9.08,
+   "fpiShares": null,
+   "promoterPct": 64.84,
+   "publicPct": 33.6,
+   "recordId": "205412",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599772_13012026040252_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.64,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 8.79,
+   "fpiShares": null,
+   "promoterPct": 64.84,
+   "publicPct": 33.6,
+   "recordId": "208774",
+   "source": "nse",
+   "submittedOn": "2026-06-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682191_17062026111929_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.03,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 9.29,
+   "fpiShares": null,
+   "promoterPct": 64.84,
+   "publicPct": 33.6,
+   "recordId": "211032",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692006_14072026010427_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.93,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 9.35,
+   "fpiShares": null,
+   "promoterPct": 64.84,
+   "publicPct": 33.6,
+   "recordId": "215860",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742411_21102026094206_WEB.xml"
+  }
+ },
+ "symbol": "MINDACORP"
+}

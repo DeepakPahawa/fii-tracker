@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "NATCO Pharma Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.96,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 17.37,
+   "fpiShares": null,
+   "promoterPct": 49.42,
+   "publicPct": 50.58,
+   "recordId": "207686",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647709_09042026102912_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.55,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 16.99,
+   "fpiShares": null,
+   "promoterPct": 49.42,
+   "publicPct": 50.58,
+   "recordId": "210724",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689944_09072026054425_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.56,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 15.99,
+   "fpiShares": null,
+   "promoterPct": 49.39,
+   "publicPct": 50.61,
+   "recordId": "215000",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740079_16102026045222_WEB.xml"
+  },
+  "2026-10-23": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.01,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 15.37,
+   "fpiShares": null,
+   "promoterPct": 46.22,
+   "publicPct": 53.78,
+   "recordId": "216351",
+   "source": "nse",
+   "submittedOn": "2026-11-01",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1750875_01112026105327_WEB.xml"
+  }
+ },
+ "symbol": "NATCOPHARM"
+}

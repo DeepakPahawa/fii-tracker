@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Anand Rathi Wealth Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.33,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 5.78,
+   "fpiShares": null,
+   "promoterPct": 43.11,
+   "publicPct": 56.89,
+   "recordId": "208875",
+   "source": "nse",
+   "submittedOn": "2026-08-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1711664_11082026035944_WEB.xml"
+  },
+  "2026-06-04": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.84,
+   "fpiCat2Pct": 0.94,
+   "fpiPct": 6.78,
+   "fpiShares": null,
+   "promoterPct": 41.37,
+   "publicPct": 58.63,
+   "recordId": "210387",
+   "source": "nse",
+   "submittedOn": "2026-06-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680856_11062026122652_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.62,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 6.37,
+   "fpiShares": null,
+   "promoterPct": 41.37,
+   "publicPct": 58.63,
+   "recordId": "211358",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693635_15072026073252_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.86,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 6.64,
+   "fpiShares": null,
+   "promoterPct": 40.95,
+   "publicPct": 59.05,
+   "recordId": "214187",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737231_13102026064115_WEB.xml"
+  }
+ },
+ "symbol": "ANANDRATHI"
+}

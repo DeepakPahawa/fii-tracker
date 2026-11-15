@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "PG Electroplast Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.8,
+   "fpiCat2Pct": 0.79,
+   "fpiPct": 10.59,
+   "fpiShares": null,
+   "promoterPct": 43.41,
+   "publicPct": 56.32,
+   "recordId": "206317",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604962_20012026095631_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.95,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 9.75,
+   "fpiShares": null,
+   "promoterPct": 43.41,
+   "publicPct": 56.58,
+   "recordId": "207986",
+   "source": "nse",
+   "submittedOn": "2026-04-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649293_11042026010928_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.05,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 9.95,
+   "fpiShares": null,
+   "promoterPct": 43.37,
+   "publicPct": 56.54,
+   "recordId": "210692",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689737_09072026034208_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.92,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 8.72,
+   "fpiShares": null,
+   "promoterPct": 43.2,
+   "publicPct": 56.68,
+   "recordId": "213740",
+   "source": "nse",
+   "submittedOn": "2026-10-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735493_10102026064831_WEB.xml"
+  }
+ },
+ "symbol": "PGEL"
+}

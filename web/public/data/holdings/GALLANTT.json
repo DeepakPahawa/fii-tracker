@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Gallantt Ispat Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.13,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 0.15,
+   "fpiShares": null,
+   "promoterPct": 69.83,
+   "publicPct": 30.17,
+   "recordId": "206135",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604152_19012026033323_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.09,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.09,
+   "fpiShares": null,
+   "promoterPct": 70.0,
+   "publicPct": 30.0,
+   "recordId": "210194",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656636_21042026065120_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.02,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.02,
+   "fpiShares": null,
+   "promoterPct": 70.03,
+   "publicPct": 29.97,
+   "recordId": "212454",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697492_20072026073715_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.01,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 0.03,
+   "fpiShares": null,
+   "promoterPct": 70.98,
+   "publicPct": 29.02,
+   "recordId": "214694",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739147_15102026054243_WEB.xml"
+  }
+ },
+ "symbol": "GALLANTT"
+}

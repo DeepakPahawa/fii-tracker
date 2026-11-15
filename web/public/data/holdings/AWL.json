@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "AWL Agri Business Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.03,
+   "fpiCat2Pct": 10.12,
+   "fpiPct": 21.15,
+   "fpiShares": null,
+   "promoterPct": 56.94,
+   "publicPct": 42.73,
+   "recordId": "204796",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604246_19012026040845_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.6,
+   "fpiCat2Pct": 10.26,
+   "fpiPct": 21.86,
+   "fpiShares": null,
+   "promoterPct": 56.94,
+   "publicPct": 42.61,
+   "recordId": "207842",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648510_10042026122209_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.84,
+   "fpiCat2Pct": 10.26,
+   "fpiPct": 21.1,
+   "fpiShares": null,
+   "promoterPct": 56.94,
+   "publicPct": 42.46,
+   "recordId": "211094",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692368_14072026050220_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.31,
+   "fpiCat2Pct": 10.19,
+   "fpiPct": 19.5,
+   "fpiShares": null,
+   "promoterPct": 56.94,
+   "publicPct": 42.46,
+   "recordId": "213475",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734273_08102026033216_WEB.xml"
+  }
+ },
+ "symbol": "AWL"
+}

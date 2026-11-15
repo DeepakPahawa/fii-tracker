@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Tata Capital Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.67,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 3.79,
+   "fpiShares": null,
+   "promoterPct": 85.41,
+   "publicPct": 13.93,
+   "recordId": "206939",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607031_21012026035559_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.99,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 4.04,
+   "fpiShares": null,
+   "promoterPct": 85.41,
+   "publicPct": 13.93,
+   "recordId": "208621",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651919_16042026120409_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.28,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 4.33,
+   "fpiShares": null,
+   "promoterPct": 85.41,
+   "publicPct": 13.94,
+   "recordId": "211522",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694391_16072026052507_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.16,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 4.22,
+   "fpiShares": null,
+   "promoterPct": 85.41,
+   "publicPct": 13.95,
+   "recordId": "214487",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738473_15102026111049_WEB.xml"
+  }
+ },
+ "symbol": "TATACAP"
+}

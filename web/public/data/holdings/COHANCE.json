@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Cohance Lifesciences Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.66,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 6.01,
+   "fpiShares": null,
+   "promoterPct": 57.49,
+   "publicPct": 42.51,
+   "recordId": "206969",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607146_21012026043514_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.34,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 5.59,
+   "fpiShares": null,
+   "promoterPct": 57.49,
+   "publicPct": 42.51,
+   "recordId": "210121",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656383_21042026050916_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.32,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 6.5,
+   "fpiShares": null,
+   "promoterPct": 57.49,
+   "publicPct": 42.51,
+   "recordId": "211901",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695778_17072026082832_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.22,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 7.71,
+   "fpiShares": null,
+   "promoterPct": 57.48,
+   "publicPct": 42.52,
+   "recordId": "214743",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739335_15102026071315_WEB.xml"
+  }
+ },
+ "symbol": "COHANCE"
+}

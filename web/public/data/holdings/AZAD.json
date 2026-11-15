@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Azad Engineering Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.32,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 15.33,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "205789",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602270_16012026035046_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.26,
+   "fpiCat2Pct": 1.49,
+   "fpiPct": 14.75,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "208735",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652217_16042026040631_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.97,
+   "fpiCat2Pct": 2.33,
+   "fpiPct": 13.3,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "211250",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693098_15072026031607_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.84,
+   "fpiCat2Pct": 2.86,
+   "fpiPct": 12.7,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "214229",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737385_14102026110317_WEB.xml"
+  }
+ },
+ "symbol": "AZAD"
+}

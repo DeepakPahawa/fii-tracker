@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Tenneco Clean Air India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.36,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 8.41,
+   "fpiShares": null,
+   "promoterPct": 74.79,
+   "publicPct": 25.21,
+   "recordId": "206302",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604876_19012026081128_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.94,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 8.94,
+   "fpiShares": null,
+   "promoterPct": 74.79,
+   "publicPct": 25.21,
+   "recordId": "209942",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655869_21042026122057_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.52,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 9.69,
+   "fpiShares": null,
+   "promoterPct": 74.79,
+   "publicPct": 25.21,
+   "recordId": "212398",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697324_20072026062908_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.49,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 11.9,
+   "fpiShares": null,
+   "promoterPct": 59.79,
+   "publicPct": 40.21,
+   "recordId": "215639",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741878_19102026062441_WEB.xml"
+  }
+ },
+ "symbol": "TENNIND"
+}

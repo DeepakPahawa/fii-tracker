@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Vodafone Idea Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.7,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 5.99,
+   "fpiShares": null,
+   "promoterPct": 25.57,
+   "publicPct": 74.43,
+   "recordId": "206883",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606823_21012026021113_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.38,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 5.56,
+   "fpiShares": null,
+   "promoterPct": 25.64,
+   "publicPct": 74.36,
+   "recordId": "207875",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648696_10042026032828_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 6.17,
+   "fpiShares": null,
+   "promoterPct": 25.64,
+   "publicPct": 74.36,
+   "recordId": "212776",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698353_21072026044315_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.44,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 5.83,
+   "fpiShares": null,
+   "promoterPct": 25.64,
+   "publicPct": 74.36,
+   "recordId": "215651",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741899_19102026063613_WEB.xml"
+  }
+ },
+ "symbol": "IDEA"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Suzlon Energy Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.34,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 22.84,
+   "fpiShares": null,
+   "promoterPct": 11.73,
+   "publicPct": 88.27,
+   "recordId": "205122",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597748_09012026055257_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.42,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 22.96,
+   "fpiShares": null,
+   "promoterPct": 11.73,
+   "publicPct": 88.27,
+   "recordId": "207854",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648592_10042026015549_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.72,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 23.26,
+   "fpiShares": null,
+   "promoterPct": 11.71,
+   "publicPct": 88.29,
+   "recordId": "211061",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692158_14072026031256_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.2,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 22.74,
+   "fpiShares": null,
+   "promoterPct": 11.7,
+   "publicPct": 88.3,
+   "recordId": "214677",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739068_15102026051415_WEB.xml"
+  }
+ },
+ "symbol": "SUZLON"
+}

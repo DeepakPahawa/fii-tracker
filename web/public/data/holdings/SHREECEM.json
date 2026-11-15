@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "Shree Cement Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.58,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 10.07,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "205585",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600977_14012026054235_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.45,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 8.94,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "207643",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647364_08042026041157_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.73,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 8.21,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "210882",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691144_13072026112515_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.95,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 8.45,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.45,
+   "recordId": "215654",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741906_19102026063859_WEB.xml"
+  }
+ },
+ "symbol": "SHREECEM"
+}

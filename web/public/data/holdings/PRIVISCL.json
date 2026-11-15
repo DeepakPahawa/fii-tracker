@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Privi Speciality Chemicals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.01,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 1.64,
+   "fpiShares": null,
+   "promoterPct": 60.6,
+   "publicPct": 39.4,
+   "recordId": "206018",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603650_19012026102738_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.14,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 1.37,
+   "fpiShares": null,
+   "promoterPct": 60.6,
+   "publicPct": 39.4,
+   "recordId": "207833",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648483_10042026115340_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.39,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 1.94,
+   "fpiShares": null,
+   "promoterPct": 60.6,
+   "publicPct": 39.4,
+   "recordId": "211230",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693032_15072026023709_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.0,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 2.78,
+   "fpiShares": null,
+   "promoterPct": 60.6,
+   "publicPct": 39.4,
+   "recordId": "214044",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736808_13102026024532_WEB.xml"
+  }
+ },
+ "symbol": "PRIVISCL"
+}

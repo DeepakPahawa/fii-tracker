@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Tata Investment Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.44,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.54,
+   "fpiShares": null,
+   "promoterPct": 73.38,
+   "publicPct": 26.62,
+   "recordId": "206942",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607055_21012026040535_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.52,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.62,
+   "fpiShares": null,
+   "promoterPct": 73.38,
+   "publicPct": 26.62,
+   "recordId": "208911",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652831_17042026111101_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.56,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.66,
+   "fpiShares": null,
+   "promoterPct": 73.38,
+   "publicPct": 26.62,
+   "recordId": "212555",
+   "source": "nse",
+   "submittedOn": "2026-07-30",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1705209_30072026044751_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.81,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.91,
+   "fpiShares": null,
+   "promoterPct": 73.38,
+   "publicPct": 26.62,
+   "recordId": "215516",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741549_19102026041615_WEB.xml"
+  }
+ },
+ "symbol": "TATAINVEST"
+}

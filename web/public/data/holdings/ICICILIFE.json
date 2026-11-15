@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "ICICI Life Insurance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.33,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 11.48,
+   "fpiShares": null,
+   "promoterPct": 72.88,
+   "publicPct": 27.12,
+   "recordId": "207029",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607365_21012026054505_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.74,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 10.89,
+   "fpiShares": null,
+   "promoterPct": 72.8,
+   "publicPct": 27.2,
+   "recordId": "210232",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656759_21042026074845_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.07,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 10.22,
+   "fpiShares": null,
+   "promoterPct": 72.73,
+   "publicPct": 27.27,
+   "recordId": "212919",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698883_21072026081048_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.07,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 9.26,
+   "fpiShares": null,
+   "promoterPct": 74.7,
+   "publicPct": 25.3,
+   "recordId": "216256",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743528_21102026080538_WEB.xml"
+  }
+ },
+ "symbol": "ICICILIFE"
+}

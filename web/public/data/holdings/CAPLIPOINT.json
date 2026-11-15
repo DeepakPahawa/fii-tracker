@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Caplin Point Laboratories Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.28,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 6.55,
+   "fpiShares": null,
+   "promoterPct": 70.57,
+   "publicPct": 29.43,
+   "recordId": "206053",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603760_19012026115208_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.79,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 6.15,
+   "fpiShares": null,
+   "promoterPct": 70.57,
+   "publicPct": 29.43,
+   "recordId": "210035",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656117_21042026025852_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.24,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 5.76,
+   "fpiShares": null,
+   "promoterPct": 70.57,
+   "publicPct": 29.43,
+   "recordId": "212662",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698023_21072026020631_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.28,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 5.72,
+   "fpiShares": null,
+   "promoterPct": 70.57,
+   "publicPct": 29.43,
+   "recordId": "216028",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742873_21102026033543_WEB.xml"
+  }
+ },
+ "symbol": "CAPLIPOINT"
+}

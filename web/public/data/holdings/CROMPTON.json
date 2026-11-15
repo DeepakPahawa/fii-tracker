@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Crompton Greaves Consumer Electricals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.99,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 20.54,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "206148",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604186_19012026034810_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.03,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 20.48,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "209530",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654768_20042026020548_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.39,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 19.88,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "212107",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696472_20072026115649_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.76,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 19.2,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "216164",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743188_21102026054422_WEB.xml"
+  }
+ },
+ "symbol": "CROMPTON"
+}

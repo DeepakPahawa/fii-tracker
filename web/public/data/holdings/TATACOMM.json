@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Tata Communications Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.05,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 14.46,
+   "fpiShares": null,
+   "promoterPct": 58.86,
+   "publicPct": 41.14,
+   "recordId": "207006",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607266_21012026051226_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.1,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 14.44,
+   "fpiShares": null,
+   "promoterPct": 58.86,
+   "publicPct": 41.14,
+   "recordId": "210252",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656802_21042026082947_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.4,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 13.75,
+   "fpiShares": null,
+   "promoterPct": 58.86,
+   "publicPct": 41.14,
+   "recordId": "212758",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698308_21072026042805_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.28,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 13.55,
+   "fpiShares": null,
+   "promoterPct": 58.85,
+   "publicPct": 41.15,
+   "recordId": "215115",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740422_16102026072955_WEB.xml"
+  }
+ },
+ "symbol": "TATACOMM"
+}

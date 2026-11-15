@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "HBL Engineering Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.19,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 5.87,
+   "fpiShares": null,
+   "promoterPct": 59.11,
+   "publicPct": 40.89,
+   "recordId": "206769",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606471_21012026095631_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.47,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 5.94,
+   "fpiShares": null,
+   "promoterPct": 59.11,
+   "publicPct": 40.89,
+   "recordId": "210265",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656862_21042026093027_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.36,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 5.62,
+   "fpiShares": null,
+   "promoterPct": 59.11,
+   "publicPct": 40.89,
+   "recordId": "212965",
+   "source": "nse",
+   "submittedOn": "2026-07-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699697_23072026103348_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.92,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 5.33,
+   "fpiShares": null,
+   "promoterPct": 59.11,
+   "publicPct": 40.89,
+   "recordId": "216263",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743556_21102026082148_WEB.xml"
+  }
+ },
+ "symbol": "HBLENGINE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Oracle Financial Services Software Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.18,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 8.36,
+   "fpiShares": null,
+   "promoterPct": 72.46,
+   "publicPct": 27.54,
+   "recordId": "205430",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599904_13012026044942_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.85,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 8.04,
+   "fpiShares": null,
+   "promoterPct": 72.44,
+   "publicPct": 27.56,
+   "recordId": "208309",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650589_14042026033848_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.31,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 9.7,
+   "fpiShares": null,
+   "promoterPct": 72.41,
+   "publicPct": 27.59,
+   "recordId": "210738",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690146_10072026111008_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.1,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 11.43,
+   "fpiShares": null,
+   "promoterPct": 72.39,
+   "publicPct": 27.61,
+   "recordId": "213881",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736248_12102026051824_WEB.xml"
+  }
+ },
+ "symbol": "OFSS"
+}

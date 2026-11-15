@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Persistent Systems Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.4,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 22.11,
+   "fpiShares": null,
+   "promoterPct": 30.29,
+   "publicPct": 68.74,
+   "recordId": "208879",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652714_16042026081425_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.23,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 20.79,
+   "fpiShares": null,
+   "promoterPct": 30.29,
+   "publicPct": 69.04,
+   "recordId": "211627",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694885_17072026122044_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.23,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 20.79,
+   "fpiShares": null,
+   "promoterPct": 30.29,
+   "publicPct": 69.15,
+   "recordId": "213531",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734591_08102026075708_WEB.xml"
+  },
+  "2026-10-26": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.75,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 21.3,
+   "fpiShares": null,
+   "promoterPct": 28.82,
+   "publicPct": 70.43,
+   "recordId": "216347",
+   "source": "nse",
+   "submittedOn": "2026-10-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1749301_29102026073600_WEB.xml"
+  }
+ },
+ "symbol": "PERSISTENT"
+}

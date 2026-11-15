@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Titagarh Rail Systems Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.05,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 10.66,
+   "fpiShares": null,
+   "promoterPct": 40.46,
+   "publicPct": 59.54,
+   "recordId": "206282",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604786_19012026070642_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.1,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 10.67,
+   "fpiShares": null,
+   "promoterPct": 40.46,
+   "publicPct": 59.54,
+   "recordId": "208116",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649747_13042026031546_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.35,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 10.87,
+   "fpiShares": null,
+   "promoterPct": 40.46,
+   "publicPct": 59.54,
+   "recordId": "210722",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689938_09072026053948_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.2,
+   "fpiCat2Pct": 1.19,
+   "fpiPct": 11.39,
+   "fpiShares": null,
+   "promoterPct": 40.46,
+   "publicPct": 59.54,
+   "recordId": "214074",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736913_13102026035219_WEB.xml"
+  }
+ },
+ "symbol": "TITAGARH"
+}

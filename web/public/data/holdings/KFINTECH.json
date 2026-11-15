@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Kfin Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.27,
+   "fpiCat2Pct": 2.89,
+   "fpiPct": 26.16,
+   "fpiShares": null,
+   "promoterPct": 22.87,
+   "publicPct": 77.13,
+   "recordId": "205846",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602559_16012026052923_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.16,
+   "fpiCat2Pct": 3.1,
+   "fpiPct": 26.26,
+   "fpiShares": null,
+   "promoterPct": 22.86,
+   "publicPct": 77.14,
+   "recordId": "209957",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655911_21042026125145_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.08,
+   "fpiCat2Pct": 2.65,
+   "fpiPct": 20.73,
+   "fpiShares": null,
+   "promoterPct": 22.82,
+   "publicPct": 77.18,
+   "recordId": "212785",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698390_21072026045844_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.04,
+   "fpiCat2Pct": 2.03,
+   "fpiPct": 20.07,
+   "fpiShares": null,
+   "promoterPct": 14.06,
+   "publicPct": 85.94,
+   "recordId": "216254",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743521_21102026075922_WEB.xml"
+  }
+ },
+ "symbol": "KFINTECH"
+}

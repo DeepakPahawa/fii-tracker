@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Eternal Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 32.68,
+   "fpiCat2Pct": 1.71,
+   "fpiPct": 34.39,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 94.42,
+   "recordId": "205270",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598777_12012026040707_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.22,
+   "fpiCat2Pct": 1.62,
+   "fpiPct": 30.84,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 95.27,
+   "recordId": "207393",
+   "source": "nse",
+   "submittedOn": "2026-04-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1645714_03042026011438_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.98,
+   "fpiCat2Pct": 1.46,
+   "fpiPct": 27.44,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 95.39,
+   "recordId": "210647",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689462_08072026071407_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.8,
+   "fpiCat2Pct": 1.66,
+   "fpiPct": 31.46,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 95.47,
+   "recordId": "213995",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736668_13102026124040_WEB.xml"
+  }
+ },
+ "symbol": "ETERNAL"
+}

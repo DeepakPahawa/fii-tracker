@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "EIH Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.97,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 6.16,
+   "fpiShares": null,
+   "promoterPct": 32.85,
+   "publicPct": 67.15,
+   "recordId": "205397",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599671_13012026032438_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.43,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 6.62,
+   "fpiShares": null,
+   "promoterPct": 32.85,
+   "publicPct": 67.15,
+   "recordId": "209066",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653258_17042026043648_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.44,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 6.65,
+   "fpiShares": null,
+   "promoterPct": 32.85,
+   "publicPct": 67.15,
+   "recordId": "212594",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697827_21072026120829_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.49,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 7.68,
+   "fpiShares": null,
+   "promoterPct": 32.85,
+   "publicPct": 67.15,
+   "recordId": "214990",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740050_16102026044132_WEB.xml"
+  }
+ },
+ "symbol": "EIHOTEL"
+}

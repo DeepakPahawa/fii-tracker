@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Hexaware Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.81,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 8.15,
+   "fpiShares": null,
+   "promoterPct": 74.3,
+   "publicPct": 25.43,
+   "recordId": "206847",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606719_21012026125749_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.06,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 4.2,
+   "fpiShares": null,
+   "promoterPct": 74.3,
+   "publicPct": 25.44,
+   "recordId": "209790",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655455_20042026065948_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.05,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 3.19,
+   "fpiShares": null,
+   "promoterPct": 74.3,
+   "publicPct": 25.5,
+   "recordId": "212255",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696890_20072026042305_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.12,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 3.25,
+   "fpiShares": null,
+   "promoterPct": 74.3,
+   "publicPct": 25.52,
+   "recordId": "214810",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739594_16102026122435_WEB.xml"
+  }
+ },
+ "symbol": "HEXT"
+}

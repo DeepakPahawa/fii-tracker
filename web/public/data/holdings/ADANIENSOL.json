@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Adani Energy Solutions Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.88,
+   "fpiCat2Pct": 1.35,
+   "fpiPct": 12.23,
+   "fpiShares": null,
+   "promoterPct": 72.73,
+   "publicPct": 27.27,
+   "recordId": "207824",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648455_10042026112635_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.88,
+   "fpiCat2Pct": 1.26,
+   "fpiPct": 10.14,
+   "fpiShares": null,
+   "promoterPct": 74.71,
+   "publicPct": 25.29,
+   "recordId": "211135",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692674_14072026080027_WEB.xml"
+  },
+  "2026-07-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.08,
+   "fpiCat2Pct": 1.23,
+   "fpiPct": 10.31,
+   "fpiShares": null,
+   "promoterPct": 73.39,
+   "publicPct": 26.61,
+   "recordId": "213013",
+   "source": "nse",
+   "submittedOn": "2026-08-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1707811_04082026062018_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.61,
+   "fpiCat2Pct": 0.96,
+   "fpiPct": 9.57,
+   "fpiShares": null,
+   "promoterPct": 73.39,
+   "publicPct": 26.61,
+   "recordId": "213704",
+   "source": "nse",
+   "submittedOn": "2026-10-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735355_10102026020737_WEB.xml"
+  }
+ },
+ "symbol": "ADANIENSOL"
+}

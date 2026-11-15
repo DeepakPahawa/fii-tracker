@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Inventurus Knowledge Solutions Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.32,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 7.56,
+   "fpiShares": null,
+   "promoterPct": 63.72,
+   "publicPct": 33.91,
+   "recordId": "206158",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604219_19012026035830_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.95,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.19,
+   "fpiShares": null,
+   "promoterPct": 63.72,
+   "publicPct": 33.97,
+   "recordId": "208960",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652946_17042026010402_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.84,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 8.01,
+   "fpiShares": null,
+   "promoterPct": 63.72,
+   "publicPct": 34.05,
+   "recordId": "211699",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695112_17072026032044_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.87,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.1,
+   "fpiShares": null,
+   "promoterPct": 63.72,
+   "publicPct": 34.09,
+   "recordId": "214850",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739706_16102026020213_WEB.xml"
+  }
+ },
+ "symbol": "IKS"
+}

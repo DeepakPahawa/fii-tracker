@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Vedanta Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.5,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 12.15,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.56,
+   "recordId": "206853",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606736_21012026010357_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.36,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 13.93,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.47,
+   "recordId": "208897",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652799_17042026103831_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.95,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 15.78,
+   "fpiShares": null,
+   "promoterPct": 54.72,
+   "publicPct": 45.12,
+   "recordId": "212112",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696479_20072026120029_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.96,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 15.78,
+   "fpiShares": null,
+   "promoterPct": 54.72,
+   "publicPct": 45.12,
+   "recordId": "215030",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740148_16102026052137_WEB.xml"
+  }
+ },
+ "symbol": "VEDL"
+}

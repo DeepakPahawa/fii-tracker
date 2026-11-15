@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "LTM Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.3,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 6.51,
+   "fpiShares": null,
+   "promoterPct": 68.53,
+   "publicPct": 31.45,
+   "recordId": "206814",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606605_21012026115314_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.38,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.63,
+   "fpiShares": null,
+   "promoterPct": 68.52,
+   "publicPct": 31.47,
+   "recordId": "209665",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655112_20042026045943_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.03,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 6.31,
+   "fpiShares": null,
+   "promoterPct": 68.49,
+   "publicPct": 31.46,
+   "recordId": "211826",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695519_17072026055202_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.93,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 6.15,
+   "fpiShares": null,
+   "promoterPct": 69.01,
+   "publicPct": 30.95,
+   "recordId": "216084",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743015_21102026043212_WEB.xml"
+  }
+ },
+ "symbol": "LTM"
+}

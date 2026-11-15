@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Radico Khaitan Ltd",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.82,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 19.82,
+   "fpiShares": null,
+   "promoterPct": 40.2,
+   "publicPct": 59.8,
+   "recordId": "205577",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600866_14012026050230_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.96,
+   "fpiCat2Pct": 0.67,
+   "fpiPct": 17.63,
+   "fpiShares": null,
+   "promoterPct": 40.2,
+   "publicPct": 59.8,
+   "recordId": "210288",
+   "source": "nse",
+   "submittedOn": "2026-04-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656967_22042026104844_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.29,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 18.2,
+   "fpiShares": null,
+   "promoterPct": 40.19,
+   "publicPct": 59.81,
+   "recordId": "211692",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695091_17072026030527_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.43,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 19.43,
+   "fpiShares": null,
+   "promoterPct": 40.17,
+   "publicPct": 59.83,
+   "recordId": "213503",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734404_08102026050721_WEB.xml"
+  }
+ },
+ "symbol": "RADICO"
+}

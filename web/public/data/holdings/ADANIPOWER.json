@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Adani Power Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.34,
+   "fpiCat2Pct": 1.3,
+   "fpiPct": 11.64,
+   "fpiShares": null,
+   "promoterPct": 74.96,
+   "publicPct": 25.04,
+   "recordId": "205015",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597182_09012026112628_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.35,
+   "fpiCat2Pct": 1.38,
+   "fpiPct": 11.73,
+   "fpiShares": null,
+   "promoterPct": 74.96,
+   "publicPct": 25.04,
+   "recordId": "207910",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648849_10042026050852_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.46,
+   "fpiCat2Pct": 1.3,
+   "fpiPct": 11.76,
+   "fpiShares": null,
+   "promoterPct": 74.96,
+   "publicPct": 25.04,
+   "recordId": "210511",
+   "source": "nse",
+   "submittedOn": "2026-07-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688309_05072026044522_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.9,
+   "fpiCat2Pct": 1.13,
+   "fpiPct": 11.03,
+   "fpiShares": null,
+   "promoterPct": 74.96,
+   "publicPct": 25.04,
+   "recordId": "213583",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734827_09102026030625_WEB.xml"
+  }
+ },
+ "symbol": "ADANIPOWER"
+}

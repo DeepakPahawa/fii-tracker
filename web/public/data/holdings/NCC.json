@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "NCC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.13,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 11.49,
+   "fpiShares": null,
+   "promoterPct": 22.25,
+   "publicPct": 77.75,
+   "recordId": "205004",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597139_09012026102543_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.73,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 12.11,
+   "fpiShares": null,
+   "promoterPct": 22.81,
+   "publicPct": 77.19,
+   "recordId": "208255",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650418_14042026125258_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.69,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 11.29,
+   "fpiShares": null,
+   "promoterPct": 23.08,
+   "publicPct": 76.92,
+   "recordId": "210885",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691163_13072026115115_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.08,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 10.44,
+   "fpiShares": null,
+   "promoterPct": 23.19,
+   "publicPct": 76.81,
+   "recordId": "213358",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733674_07102026121837_WEB.xml"
+  }
+ },
+ "symbol": "NCC"
+}

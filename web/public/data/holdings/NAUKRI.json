@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Info Edge (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.63,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 29.66,
+   "fpiShares": null,
+   "promoterPct": 37.59,
+   "publicPct": 62.27,
+   "recordId": "206045",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603728_19012026112714_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.85,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 27.97,
+   "fpiShares": null,
+   "promoterPct": 37.5,
+   "publicPct": 62.4,
+   "recordId": "209469",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654599_20042026115924_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.64,
+   "fpiCat2Pct": 1.08,
+   "fpiPct": 23.72,
+   "fpiShares": null,
+   "promoterPct": 37.47,
+   "publicPct": 62.44,
+   "recordId": "212621",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697876_21072026123605_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.35,
+   "fpiCat2Pct": 1.11,
+   "fpiPct": 25.46,
+   "fpiShares": null,
+   "promoterPct": 37.19,
+   "publicPct": 62.75,
+   "recordId": "215908",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742520_21102026115715_WEB.xml"
+  }
+ },
+ "symbol": "NAUKRI"
+}

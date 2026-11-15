@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Adani Green Energy Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.02,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 11.42,
+   "fpiShares": null,
+   "promoterPct": 62.43,
+   "publicPct": 37.57,
+   "recordId": "205723",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601910_16012026110829_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.65,
+   "fpiCat2Pct": 1.45,
+   "fpiPct": 11.1,
+   "fpiShares": null,
+   "promoterPct": 62.43,
+   "publicPct": 37.57,
+   "recordId": "207395",
+   "source": "nse",
+   "submittedOn": "2026-04-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1645769_03042026035429_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.82,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 11.84,
+   "fpiShares": null,
+   "promoterPct": 62.43,
+   "publicPct": 37.57,
+   "recordId": "210621",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689243_08072026033126_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.47,
+   "fpiCat2Pct": 0.86,
+   "fpiPct": 11.33,
+   "fpiShares": null,
+   "promoterPct": 62.43,
+   "publicPct": 37.57,
+   "recordId": "213249",
+   "source": "nse",
+   "submittedOn": "2026-10-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1732768_03102026054652_WEB.xml"
+  }
+ },
+ "symbol": "ADANIGREEN"
+}

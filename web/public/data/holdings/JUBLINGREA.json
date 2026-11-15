@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Jubilant Ingrevia Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.89,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 6.15,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 53.98,
+   "recordId": "206209",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604437_19012026051351_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.22,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 6.49,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 53.79,
+   "recordId": "208350",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693805_16072026113318_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.09,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 6.49,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 53.79,
+   "recordId": "211187",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692843_15072026114851_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.36,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 6.93,
+   "fpiShares": null,
+   "promoterPct": 45.22,
+   "publicPct": 53.82,
+   "recordId": "215837",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742361_20102026065019_WEB.xml"
+  }
+ },
+ "symbol": "JUBLINGREA"
+}

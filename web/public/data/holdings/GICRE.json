@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "General Insurance Corporation of India",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.09,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 2.12,
+   "fpiShares": null,
+   "promoterPct": 82.4,
+   "publicPct": 17.6,
+   "recordId": "206461",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605418_20012026030235_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.02,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 2.05,
+   "fpiShares": null,
+   "promoterPct": 82.4,
+   "publicPct": 17.6,
+   "recordId": "209472",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654618_20042026121207_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.39,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 2.43,
+   "fpiShares": null,
+   "promoterPct": 77.4,
+   "publicPct": 22.6,
+   "recordId": "212749",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698286_21072026041543_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.37,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 2.4,
+   "fpiShares": null,
+   "promoterPct": 77.4,
+   "publicPct": 22.6,
+   "recordId": "215392",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741246_19102026124915_WEB.xml"
+  }
+ },
+ "symbol": "GICRE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Titan Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.05,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 15.54,
+   "fpiShares": null,
+   "promoterPct": 52.9,
+   "publicPct": 47.02,
+   "recordId": "206889",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606864_21012026024634_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.15,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 15.65,
+   "fpiShares": null,
+   "promoterPct": 52.9,
+   "publicPct": 47.02,
+   "recordId": "208455",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651245_15042026031123_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.92,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 15.39,
+   "fpiShares": null,
+   "promoterPct": 52.9,
+   "publicPct": 47.05,
+   "recordId": "211500",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694281_16072026043845_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.89,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 16.37,
+   "fpiShares": null,
+   "promoterPct": 52.9,
+   "publicPct": 47.0,
+   "recordId": "214611",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738880_15102026035926_WEB.xml"
+  }
+ },
+ "symbol": "TITAN"
+}

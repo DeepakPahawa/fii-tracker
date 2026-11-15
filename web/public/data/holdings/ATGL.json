@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Adani Total Gas Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.99,
+   "fpiCat2Pct": 6.82,
+   "fpiPct": 12.81,
+   "fpiShares": null,
+   "promoterPct": 74.8,
+   "publicPct": 25.2,
+   "recordId": "205182",
+   "source": "nse",
+   "submittedOn": "2026-01-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598289_10012026062618_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.93,
+   "fpiCat2Pct": 6.82,
+   "fpiPct": 12.75,
+   "fpiShares": null,
+   "promoterPct": 74.8,
+   "publicPct": 25.2,
+   "recordId": "207878",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648703_10042026033150_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.07,
+   "fpiCat2Pct": 6.7,
+   "fpiPct": 12.77,
+   "fpiShares": null,
+   "promoterPct": 74.8,
+   "publicPct": 25.2,
+   "recordId": "210819",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690709_10072026065544_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.09,
+   "fpiCat2Pct": 6.75,
+   "fpiPct": 12.84,
+   "fpiShares": null,
+   "promoterPct": 74.8,
+   "publicPct": 25.2,
+   "recordId": "213702",
+   "source": "nse",
+   "submittedOn": "2026-10-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735353_10102026015343_WEB.xml"
+  }
+ },
+ "symbol": "ATGL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Bata India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.02,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 6.18,
+   "fpiShares": null,
+   "promoterPct": 50.16,
+   "publicPct": 49.84,
+   "recordId": "206303",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604877_19012026081158_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.17,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 6.43,
+   "fpiShares": null,
+   "promoterPct": 50.16,
+   "publicPct": 49.84,
+   "recordId": "209750",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655341_20042026061817_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.13,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.38,
+   "fpiShares": null,
+   "promoterPct": 50.16,
+   "publicPct": 49.84,
+   "recordId": "211639",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694924_17072026125457_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.55,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 5.75,
+   "fpiShares": null,
+   "promoterPct": 50.16,
+   "publicPct": 49.84,
+   "recordId": "215421",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741313_19102026014658_WEB.xml"
+  }
+ },
+ "symbol": "BATAINDIA"
+}

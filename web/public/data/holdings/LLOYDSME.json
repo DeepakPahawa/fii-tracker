@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Lloyds Metals And Energy Ltd.",
+ "quarters": {
+  "2026-03-13": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.21,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 2.23,
+   "fpiShares": null,
+   "promoterPct": 61.64,
+   "publicPct": 38.32,
+   "recordId": "207334",
+   "source": "nse",
+   "submittedOn": "2026-03-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1637405_19032026115800_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.24,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 2.26,
+   "fpiShares": null,
+   "promoterPct": 61.64,
+   "publicPct": 38.32,
+   "recordId": "207723",
+   "source": "nse",
+   "submittedOn": "2026-09-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722856_09092026125514_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.83,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.85,
+   "fpiShares": null,
+   "promoterPct": 61.63,
+   "publicPct": 38.31,
+   "recordId": "211671",
+   "source": "nse",
+   "submittedOn": "2026-09-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722860_09092026125828_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.84,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 1.93,
+   "fpiShares": null,
+   "promoterPct": 61.61,
+   "publicPct": 38.34,
+   "recordId": "213480",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734633_09102026103829_WEB.xml"
+  }
+ },
+ "symbol": "LLOYDSME"
+}

@@ -1,0 +1,46 @@
+{
+ "industry": "Power",
+ "name": "Vedanta Power Ltd.",
+ "quarters": {
+  "2026-06-12": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.47,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 14.05,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "210404",
+   "source": "nse",
+   "submittedOn": "2026-06-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682023_16062026035619_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.13,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 8.51,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "212021",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696163_18072026043611_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.55,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.8,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "215913",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742537_21102026121042_WEB.xml"
+  }
+ },
+ "symbol": "VEDPOWER"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Onesource Specialty Pharma Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.45,
+   "fpiCat2Pct": 0.79,
+   "fpiPct": 19.24,
+   "fpiShares": null,
+   "promoterPct": 29.93,
+   "publicPct": 70.07,
+   "recordId": "206587",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605870_20012026052826_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.89,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 17.5,
+   "fpiShares": null,
+   "promoterPct": 30.48,
+   "publicPct": 69.52,
+   "recordId": "209661",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655101_20042026045414_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.02,
+   "fpiCat2Pct": 1.17,
+   "fpiPct": 19.19,
+   "fpiShares": null,
+   "promoterPct": 30.48,
+   "publicPct": 69.52,
+   "recordId": "212917",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698877_21072026080714_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.31,
+   "fpiCat2Pct": 2.14,
+   "fpiPct": 19.45,
+   "fpiShares": null,
+   "promoterPct": 30.47,
+   "publicPct": 69.53,
+   "recordId": "216015",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742818_21102026031128_WEB.xml"
+  }
+ },
+ "symbol": "ONESOURCE"
+}

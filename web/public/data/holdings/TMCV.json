@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Tata Motors Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.67,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 18.29,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "207084",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607589_21012026065811_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.44,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 19.03,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "209218",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653814_17042026104439_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.01,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 18.58,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "212947",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698977_21072026110529_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.47,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 19.02,
+   "fpiShares": null,
+   "promoterPct": 42.51,
+   "publicPct": 57.49,
+   "recordId": "215711",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742077_19102026083235_WEB.xml"
+  }
+ },
+ "symbol": "TMCV"
+}

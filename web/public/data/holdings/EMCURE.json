@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Emcure Pharmaceuticals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.51,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 3.59,
+   "fpiShares": null,
+   "promoterPct": 77.87,
+   "publicPct": 22.13,
+   "recordId": "206668",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606131_20012026063915_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.25,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 3.35,
+   "fpiShares": null,
+   "promoterPct": 77.87,
+   "publicPct": 22.13,
+   "recordId": "209179",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653522_17042026063721_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.71,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 4.87,
+   "fpiShares": null,
+   "promoterPct": 77.83,
+   "publicPct": 22.17,
+   "recordId": "212660",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698017_21072026020152_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.79,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 4.94,
+   "fpiShares": null,
+   "promoterPct": 77.82,
+   "publicPct": 22.18,
+   "recordId": "215492",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741485_19102026034802_WEB.xml"
+  }
+ },
+ "symbol": "EMCURE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Brigade Enterprises Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.27,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 16.75,
+   "fpiShares": null,
+   "promoterPct": 41.11,
+   "publicPct": 58.89,
+   "recordId": "207791",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648242_09042026060158_WEB.xml"
+  },
+  "2026-06-18": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.44,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 15.83,
+   "fpiShares": null,
+   "promoterPct": 41.1,
+   "publicPct": 58.9,
+   "recordId": "210430",
+   "source": "nse",
+   "submittedOn": "2026-07-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688115_04072026010121_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.24,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 15.63,
+   "fpiShares": null,
+   "promoterPct": 41.1,
+   "publicPct": 58.9,
+   "recordId": "211577",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694669_16072026082123_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.18,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 14.46,
+   "fpiShares": null,
+   "promoterPct": 41.09,
+   "publicPct": 58.91,
+   "recordId": "214672",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739055_15102026050920_WEB.xml"
+  }
+ },
+ "symbol": "BRIGADE"
+}

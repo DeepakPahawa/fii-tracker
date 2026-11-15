@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Jindal Stainless Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.23,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 21.53,
+   "fpiShares": null,
+   "promoterPct": 61.23,
+   "publicPct": 38.69,
+   "recordId": "206107",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603989_19012026021000_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.55,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 20.87,
+   "fpiShares": null,
+   "promoterPct": 62.05,
+   "publicPct": 37.9,
+   "recordId": "208168",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649966_13042026051224_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.15,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 20.45,
+   "fpiShares": null,
+   "promoterPct": 62.05,
+   "publicPct": 37.92,
+   "recordId": "211184",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692838_15072026114533_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.78,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 20.07,
+   "fpiShares": null,
+   "promoterPct": 62.55,
+   "publicPct": 37.42,
+   "recordId": "213708",
+   "source": "nse",
+   "submittedOn": "2026-10-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735365_10102026025011_WEB.xml"
+  }
+ },
+ "symbol": "JSL"
+}

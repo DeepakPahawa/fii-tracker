@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Navin Fluorine International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.73,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 23.74,
+   "fpiShares": null,
+   "promoterPct": 27.11,
+   "publicPct": 72.89,
+   "recordId": "206594",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605894_20012026053236_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.77,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 23.78,
+   "fpiShares": null,
+   "promoterPct": 27.11,
+   "publicPct": 72.89,
+   "recordId": "209830",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655567_20042026075302_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.72,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 23.73,
+   "fpiShares": null,
+   "promoterPct": 27.08,
+   "publicPct": 72.92,
+   "recordId": "212279",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696963_20072026044651_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.36,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 23.38,
+   "fpiShares": null,
+   "promoterPct": 27.08,
+   "publicPct": 72.92,
+   "recordId": "215936",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742609_21102026124907_WEB.xml"
+  }
+ },
+ "symbol": "NAVINFLUOR"
+}

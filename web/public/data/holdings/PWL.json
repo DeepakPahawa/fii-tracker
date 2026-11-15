@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Physicswallah Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.74,
+   "fpiCat2Pct": null,
+   "fpiPct": 3.74,
+   "fpiShares": null,
+   "promoterPct": 72.3,
+   "publicPct": 27.7,
+   "recordId": "207090",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607613_21012026070632_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.9,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 2.9,
+   "fpiShares": null,
+   "promoterPct": 72.3,
+   "publicPct": 27.7,
+   "recordId": "209280",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654043_18042026024419_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.43,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 3.48,
+   "fpiShares": null,
+   "promoterPct": 71.27,
+   "publicPct": 28.73,
+   "recordId": "212952",
+   "source": "nse",
+   "submittedOn": "2026-07-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699042_22072026113705_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.06,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 4.23,
+   "fpiShares": null,
+   "promoterPct": 71.17,
+   "publicPct": 28.83,
+   "recordId": "215760",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742214_20102026123105_WEB.xml"
+  }
+ },
+ "symbol": "PWL"
+}

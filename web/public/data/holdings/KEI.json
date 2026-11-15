@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "KEI Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.93,
+   "fpiCat2Pct": 1.56,
+   "fpiPct": 25.49,
+   "fpiShares": null,
+   "promoterPct": 35.0,
+   "publicPct": 65.0,
+   "recordId": "205964",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603656_19012026103235_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.73,
+   "fpiCat2Pct": 1.54,
+   "fpiPct": 27.27,
+   "fpiShares": null,
+   "promoterPct": 35.0,
+   "publicPct": 65.0,
+   "recordId": "209359",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654283_18042026052606_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.78,
+   "fpiCat2Pct": 1.54,
+   "fpiPct": 27.32,
+   "fpiShares": null,
+   "promoterPct": 35.0,
+   "publicPct": 65.0,
+   "recordId": "212205",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696739_20072026031837_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.91,
+   "fpiCat2Pct": 1.23,
+   "fpiPct": 26.14,
+   "fpiShares": null,
+   "promoterPct": 35.0,
+   "publicPct": 65.0,
+   "recordId": "214900",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739839_16102026031946_WEB.xml"
+  }
+ },
+ "symbol": "KEI"
+}

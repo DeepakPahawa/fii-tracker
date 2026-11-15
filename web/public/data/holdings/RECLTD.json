@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "REC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.08,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 16.46,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.37,
+   "recordId": "205721",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601899_16012026105628_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.36,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 15.79,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.37,
+   "recordId": "208709",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652160_16042026032934_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.29,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 15.76,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.37,
+   "recordId": "211351",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693602_15072026070101_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.28,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 16.78,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.37,
+   "recordId": "214249",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737442_14102026120015_WEB.xml"
+  }
+ },
+ "symbol": "RECLTD"
+}

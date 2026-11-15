@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Anthem Biosciences Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.32,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 1.37,
+   "fpiShares": null,
+   "promoterPct": 74.69,
+   "publicPct": 25.31,
+   "recordId": "205794",
+   "source": "nse",
+   "submittedOn": "2026-08-24",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1717456_24082026064738_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.23,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 1.28,
+   "fpiShares": null,
+   "promoterPct": 74.68,
+   "publicPct": 25.32,
+   "recordId": "209836",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655577_20042026075836_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.41,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 2.57,
+   "fpiShares": null,
+   "promoterPct": 71.42,
+   "publicPct": 28.58,
+   "recordId": "211905",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695787_17072026084356_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.61,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 3.79,
+   "fpiShares": null,
+   "promoterPct": 71.4,
+   "publicPct": 28.6,
+   "recordId": "214047",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736823_13102026025758_WEB.xml"
+  }
+ },
+ "symbol": "ANTHEM"
+}

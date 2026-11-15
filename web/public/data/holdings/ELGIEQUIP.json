@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Elgi Equipments Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.53,
+   "fpiCat2Pct": 1.83,
+   "fpiPct": 22.36,
+   "fpiShares": null,
+   "promoterPct": 31.19,
+   "publicPct": 68.45,
+   "recordId": "206630",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606005_20012026060101_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.6,
+   "fpiCat2Pct": 1.85,
+   "fpiPct": 21.45,
+   "fpiShares": null,
+   "promoterPct": 31.19,
+   "publicPct": 68.28,
+   "recordId": "208357",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650781_14042026054032_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.64,
+   "fpiCat2Pct": 2.25,
+   "fpiPct": 21.89,
+   "fpiShares": null,
+   "promoterPct": 31.19,
+   "publicPct": 68.32,
+   "recordId": "211488",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694212_16072026041137_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.63,
+   "fpiCat2Pct": 1.56,
+   "fpiPct": 20.19,
+   "fpiShares": null,
+   "promoterPct": 31.19,
+   "publicPct": 68.33,
+   "recordId": "215579",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741705_19102026051704_WEB.xml"
+  }
+ },
+ "symbol": "ELGIEQUIP"
+}

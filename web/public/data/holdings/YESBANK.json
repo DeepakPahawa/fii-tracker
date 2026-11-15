@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Yes Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.97,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 12.34,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "205988",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603535_17012026070503_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.72,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 13.02,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "209390",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654397_18042026074005_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.32,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 12.73,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "212794",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698430_21072026051201_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.07,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 14.44,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "214135",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737065_13102026050518_WEB.xml"
+  }
+ },
+ "symbol": "YESBANK"
+}

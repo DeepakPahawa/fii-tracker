@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Birlasoft Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.65,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 10.91,
+   "fpiShares": null,
+   "promoterPct": 40.51,
+   "publicPct": 59.48,
+   "recordId": "206634",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606016_20012026060414_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.26,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 13.64,
+   "fpiShares": null,
+   "promoterPct": 40.39,
+   "publicPct": 59.61,
+   "recordId": "209417",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654480_20042026100553_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.52,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 12.78,
+   "fpiShares": null,
+   "promoterPct": 40.38,
+   "publicPct": 59.62,
+   "recordId": "212846",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698627_21072026061914_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.57,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 12.33,
+   "fpiShares": null,
+   "promoterPct": 40.37,
+   "publicPct": 59.63,
+   "recordId": "215735",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742171_20102026100017_WEB.xml"
+  }
+ },
+ "symbol": "BSOFT"
+}

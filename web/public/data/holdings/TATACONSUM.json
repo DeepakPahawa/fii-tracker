@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Tata Consumer Products Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.62,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 21.18,
+   "fpiShares": null,
+   "promoterPct": 33.84,
+   "publicPct": 66.16,
+   "recordId": "206918",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606946_21012026032234_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.23,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 20.79,
+   "fpiShares": null,
+   "promoterPct": 33.83,
+   "publicPct": 66.17,
+   "recordId": "209654",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655090_20042026045147_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.58,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 20.08,
+   "fpiShares": null,
+   "promoterPct": 33.83,
+   "publicPct": 66.17,
+   "recordId": "211743",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695255_17072026042249_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.26,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 19.76,
+   "fpiShares": null,
+   "promoterPct": 33.83,
+   "publicPct": 66.17,
+   "recordId": "215355",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741158_19102026112604_WEB.xml"
+  }
+ },
+ "symbol": "TATACONSUM"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Central Mine Planning & Design Institute Ltd.",
+ "quarters": {
+  "2026-03-25": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.21,
+   "fpiCat2Pct": null,
+   "fpiPct": 1.21,
+   "fpiShares": null,
+   "promoterPct": 85.0,
+   "publicPct": 15.0,
+   "recordId": "207369",
+   "source": "nse",
+   "submittedOn": "2026-03-30",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1643664_30032026100841_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.21,
+   "fpiCat2Pct": null,
+   "fpiPct": 1.21,
+   "fpiShares": null,
+   "promoterPct": 85.0,
+   "publicPct": 15.0,
+   "recordId": "209052",
+   "source": "nse",
+   "submittedOn": "2026-05-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1664037_06052026035054_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.46,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 0.5,
+   "fpiShares": null,
+   "promoterPct": 85.0,
+   "publicPct": 15.0,
+   "recordId": "211490",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694240_16072026042232_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.18,
+   "fpiCat2Pct": 0.07,
+   "fpiPct": 0.25,
+   "fpiShares": null,
+   "promoterPct": 85.0,
+   "publicPct": 15.0,
+   "recordId": "213872",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736201_12102026044611_WEB.xml"
+  }
+ },
+ "symbol": "CMPDI"
+}

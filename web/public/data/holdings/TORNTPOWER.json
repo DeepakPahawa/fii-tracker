@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "Torrent Power Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.1,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 8.32,
+   "fpiShares": null,
+   "promoterPct": 51.09,
+   "publicPct": 48.91,
+   "recordId": "204997",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597059_08012026071235_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.16,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.4,
+   "fpiShares": null,
+   "promoterPct": 51.09,
+   "publicPct": 48.91,
+   "recordId": "209644",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697326_20072026063003_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.29,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.53,
+   "fpiShares": null,
+   "promoterPct": 51.09,
+   "publicPct": 48.91,
+   "recordId": "212625",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697887_21072026124035_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.13,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.36,
+   "fpiShares": null,
+   "promoterPct": 51.09,
+   "publicPct": 48.91,
+   "recordId": "216226",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743436_21102026070322_WEB.xml"
+  }
+ },
+ "symbol": "TORNTPOWER"
+}

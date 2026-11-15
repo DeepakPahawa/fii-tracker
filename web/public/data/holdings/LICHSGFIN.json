@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "LIC Housing Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.85,
+   "fpiCat2Pct": 2.51,
+   "fpiPct": 20.36,
+   "fpiShares": null,
+   "promoterPct": 45.24,
+   "publicPct": 54.76,
+   "recordId": "205747",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602019_16012026125158_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.81,
+   "fpiCat2Pct": 2.58,
+   "fpiPct": 21.39,
+   "fpiShares": null,
+   "promoterPct": 45.24,
+   "publicPct": 54.76,
+   "recordId": "208640",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651986_16042026125558_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.82,
+   "fpiCat2Pct": 2.65,
+   "fpiPct": 21.47,
+   "fpiShares": null,
+   "promoterPct": 45.24,
+   "publicPct": 54.76,
+   "recordId": "211732",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695227_17072026041211_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.1,
+   "fpiCat2Pct": 2.83,
+   "fpiPct": 18.93,
+   "fpiShares": null,
+   "promoterPct": 45.24,
+   "publicPct": 54.76,
+   "recordId": "214467",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738422_15102026094914_WEB.xml"
+  }
+ },
+ "symbol": "LICHSGFIN"
+}

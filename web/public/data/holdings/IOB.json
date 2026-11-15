@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Indian Overseas Bank",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.35,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.35,
+   "fpiShares": null,
+   "promoterPct": 92.44,
+   "publicPct": 7.56,
+   "recordId": "205187",
+   "source": "nse",
+   "submittedOn": "2026-01-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598344_11012026053049_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.43,
+   "fpiCat2Pct": null,
+   "fpiPct": 0.43,
+   "fpiShares": null,
+   "promoterPct": 92.44,
+   "publicPct": 7.56,
+   "recordId": "207563",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646941_07042026064654_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.47,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.47,
+   "fpiShares": null,
+   "promoterPct": 92.44,
+   "publicPct": 7.56,
+   "recordId": "210963",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691544_13072026051036_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.48,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.48,
+   "fpiShares": null,
+   "promoterPct": 92.44,
+   "publicPct": 7.56,
+   "recordId": "215939",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742616_21102026125144_WEB.xml"
+  }
+ },
+ "symbol": "IOB"
+}

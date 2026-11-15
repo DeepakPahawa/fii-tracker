@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "JSW Energy Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.48,
+   "fpiCat2Pct": 1.26,
+   "fpiPct": 9.74,
+   "fpiShares": null,
+   "promoterPct": 69.41,
+   "publicPct": 30.52,
+   "recordId": "210254",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656820_21042026084245_WEB.xml"
+  },
+  "2026-05-25": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.81,
+   "fpiCat2Pct": 1.5,
+   "fpiPct": 11.31,
+   "fpiShares": null,
+   "promoterPct": 66.53,
+   "publicPct": 33.41,
+   "recordId": "210372",
+   "source": "nse",
+   "submittedOn": "2026-06-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679309_03062026072249_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.86,
+   "fpiCat2Pct": 1.55,
+   "fpiPct": 11.41,
+   "fpiShares": null,
+   "promoterPct": 66.53,
+   "publicPct": 33.41,
+   "recordId": "211900",
+   "source": "nse",
+   "submittedOn": "2026-08-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1708681_05082026084803_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.39,
+   "fpiCat2Pct": 1.52,
+   "fpiPct": 10.91,
+   "fpiShares": null,
+   "promoterPct": 66.53,
+   "publicPct": 33.44,
+   "recordId": "216248",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743505_21102026074527_WEB.xml"
+  }
+ },
+ "symbol": "JSWENERGY"
+}

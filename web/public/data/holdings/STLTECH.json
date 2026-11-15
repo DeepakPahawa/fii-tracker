@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Sterlite Technologies Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.03,
+   "fpiCat2Pct": 2.44,
+   "fpiPct": 11.47,
+   "fpiShares": null,
+   "promoterPct": 44.44,
+   "publicPct": 55.56,
+   "recordId": "208639",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651985_16042026125543_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.58,
+   "fpiCat2Pct": 1.64,
+   "fpiPct": 18.22,
+   "fpiShares": null,
+   "promoterPct": 44.51,
+   "publicPct": 55.49,
+   "recordId": "211160",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692793_15072026105956_WEB.xml"
+  },
+  "2026-07-01": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.01,
+   "fpiCat2Pct": 1.7,
+   "fpiPct": 19.71,
+   "fpiShares": null,
+   "promoterPct": 42.29,
+   "publicPct": 57.71,
+   "recordId": "210822",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690740_10072026073224_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.21,
+   "fpiCat2Pct": 1.55,
+   "fpiPct": 17.76,
+   "fpiShares": null,
+   "promoterPct": 42.28,
+   "publicPct": 57.72,
+   "recordId": "214363",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737819_14102026043803_WEB.xml"
+  }
+ },
+ "symbol": "STLTECH"
+}

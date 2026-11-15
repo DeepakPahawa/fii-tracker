@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Rainbow Childrens Medicare Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.42,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 19.24,
+   "fpiShares": null,
+   "promoterPct": 49.84,
+   "publicPct": 50.12,
+   "recordId": "206701",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606237_20012026071502_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.61,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 17.24,
+   "fpiShares": null,
+   "promoterPct": 49.84,
+   "publicPct": 50.04,
+   "recordId": "208654",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652020_16042026013012_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.45,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 16.03,
+   "fpiShares": null,
+   "promoterPct": 49.84,
+   "publicPct": 49.98,
+   "recordId": "211081",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692259_14072026041239_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.07,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 14.66,
+   "fpiShares": null,
+   "promoterPct": 49.83,
+   "publicPct": 49.77,
+   "recordId": "214215",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737357_14102026101847_WEB.xml"
+  }
+ },
+ "symbol": "RAINBOW"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "CG Power and Industrial Solutions Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.49,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 12.02,
+   "fpiShares": null,
+   "promoterPct": 56.36,
+   "publicPct": 43.64,
+   "recordId": "206752",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606407_20012026092031_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.52,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 12.03,
+   "fpiShares": null,
+   "promoterPct": 56.36,
+   "publicPct": 43.64,
+   "recordId": "209860",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655656_20042026103800_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.43,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 11.97,
+   "fpiShares": null,
+   "promoterPct": 56.36,
+   "publicPct": 43.64,
+   "recordId": "212526",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697681_20072026115513_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.71,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 11.08,
+   "fpiShares": null,
+   "promoterPct": 56.34,
+   "publicPct": 43.66,
+   "recordId": "216258",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743540_21102026081221_WEB.xml"
+  }
+ },
+ "symbol": "CGPOWER"
+}

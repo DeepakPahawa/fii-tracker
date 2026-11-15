@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Sona BLW Precision Forgings Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.17,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 23.89,
+   "fpiShares": null,
+   "promoterPct": 28.02,
+   "publicPct": 71.98,
+   "recordId": "205766",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605147_20012026122515_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.86,
+   "fpiCat2Pct": 0.84,
+   "fpiPct": 23.7,
+   "fpiShares": null,
+   "promoterPct": 28.02,
+   "publicPct": 71.98,
+   "recordId": "209240",
+   "source": "nse",
+   "submittedOn": "2026-04-27",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1659262_27042026025658_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.83,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 23.61,
+   "fpiShares": null,
+   "promoterPct": 28.01,
+   "publicPct": 71.99,
+   "recordId": "212511",
+   "source": "nse",
+   "submittedOn": "2026-07-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1704131_29072026052053_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.01,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 23.86,
+   "fpiShares": null,
+   "promoterPct": 27.91,
+   "publicPct": 72.09,
+   "recordId": "216278",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743608_21102026092126_WEB.xml"
+  }
+ },
+ "symbol": "SONACOMS"
+}

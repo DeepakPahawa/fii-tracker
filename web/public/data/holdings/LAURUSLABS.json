@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Laurus Labs Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.22,
+   "fpiCat2Pct": 1.3,
+   "fpiPct": 26.52,
+   "fpiShares": null,
+   "promoterPct": 27.49,
+   "publicPct": 72.51,
+   "recordId": "206778",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606487_21012026102425_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.78,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 25.82,
+   "fpiShares": null,
+   "promoterPct": 27.49,
+   "publicPct": 72.51,
+   "recordId": "209811",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655519_20042026072131_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.65,
+   "fpiCat2Pct": 1.35,
+   "fpiPct": 28.0,
+   "fpiShares": null,
+   "promoterPct": 27.47,
+   "publicPct": 72.53,
+   "recordId": "212906",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698821_21072026073746_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.38,
+   "fpiCat2Pct": 1.46,
+   "fpiPct": 30.84,
+   "fpiShares": null,
+   "promoterPct": 27.47,
+   "publicPct": 72.53,
+   "recordId": "216008",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742798_21102026030442_WEB.xml"
+  }
+ },
+ "symbol": "LAURUSLABS"
+}

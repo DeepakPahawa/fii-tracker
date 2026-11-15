@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Ashok Leyland Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.62,
+   "fpiCat2Pct": 0.79,
+   "fpiPct": 24.41,
+   "fpiShares": null,
+   "promoterPct": 51.51,
+   "publicPct": 48.49,
+   "recordId": "206002",
+   "source": "nse",
+   "submittedOn": "2026-01-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1612779_29012026025157_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.85,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 24.57,
+   "fpiShares": null,
+   "promoterPct": 51.51,
+   "publicPct": 48.49,
+   "recordId": "210017",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656064_21042026023508_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.15,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 20.67,
+   "fpiShares": null,
+   "promoterPct": 51.51,
+   "publicPct": 48.49,
+   "recordId": "212443",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697453_20072026072032_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.35,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 19.89,
+   "fpiShares": null,
+   "promoterPct": 51.51,
+   "publicPct": 48.49,
+   "recordId": "215781",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742256_20102026024923_WEB.xml"
+  }
+ },
+ "symbol": "ASHOKLEY"
+}

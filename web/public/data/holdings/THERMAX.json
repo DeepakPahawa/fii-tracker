@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Thermax Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.18,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 12.36,
+   "fpiShares": null,
+   "promoterPct": 61.98,
+   "publicPct": 32.56,
+   "recordId": "204979",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596903_08012026054307_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.07,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 11.25,
+   "fpiShares": null,
+   "promoterPct": 61.98,
+   "publicPct": 32.56,
+   "recordId": "208147",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649877_13042026043353_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.25,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 11.46,
+   "fpiShares": null,
+   "promoterPct": 61.98,
+   "publicPct": 32.56,
+   "recordId": "211530",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694407_16072026054011_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.76,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 11.3,
+   "fpiShares": null,
+   "promoterPct": 61.98,
+   "publicPct": 32.57,
+   "recordId": "214636",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738963_15102026043101_WEB.xml"
+  }
+ },
+ "symbol": "THERMAX"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "NTPC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.73,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 16.24,
+   "fpiShares": null,
+   "promoterPct": 51.1,
+   "publicPct": 48.9,
+   "recordId": "205588",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600995_14012026055347_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.96,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 16.54,
+   "fpiShares": null,
+   "promoterPct": 51.1,
+   "publicPct": 48.9,
+   "recordId": "208493",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651378_15042026041205_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.74,
+   "fpiCat2Pct": 0.56,
+   "fpiPct": 16.3,
+   "fpiShares": null,
+   "promoterPct": 51.1,
+   "publicPct": 48.9,
+   "recordId": "211111",
+   "source": "nse",
+   "submittedOn": "2026-07-29",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1703673_29072026123744_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.28,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 15.79,
+   "fpiShares": null,
+   "promoterPct": 51.1,
+   "publicPct": 48.9,
+   "recordId": "214480",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738456_15102026105458_WEB.xml"
+  }
+ },
+ "symbol": "NTPC"
+}

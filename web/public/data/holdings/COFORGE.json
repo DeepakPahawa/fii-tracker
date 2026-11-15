@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Coforge Ltd.",
+ "quarters": {
+  "2026-04-23": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.89,
+   "fpiCat2Pct": 1.43,
+   "fpiPct": 23.32,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "210307",
+   "source": "nse",
+   "submittedOn": "2026-05-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1666825_13052026112514_WEB.xml"
+  },
+  "2026-06-03": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.44,
+   "fpiCat2Pct": 1.22,
+   "fpiPct": 24.66,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "210401",
+   "source": "nse",
+   "submittedOn": "2026-06-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1681902_15062026091703_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.21,
+   "fpiCat2Pct": 1.1,
+   "fpiPct": 24.31,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "212513",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697638_20072026102839_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.76,
+   "fpiCat2Pct": 0.99,
+   "fpiPct": 24.75,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "216293",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743643_21102026105431_WEB.xml"
+  }
+ },
+ "symbol": "COFORGE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Aster DM Quality Care Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.04,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 10.31,
+   "fpiShares": null,
+   "promoterPct": 40.39,
+   "publicPct": 59.38,
+   "recordId": "210119",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656380_21042026050845_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.06,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 10.53,
+   "fpiShares": null,
+   "promoterPct": 40.39,
+   "publicPct": 59.61,
+   "recordId": "211893",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695732_17072026074455_WEB.xml"
+  },
+  "2026-07-13": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.96,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 6.24,
+   "fpiShares": null,
+   "promoterPct": 53.72,
+   "publicPct": 46.28,
+   "recordId": "212973",
+   "source": "nse",
+   "submittedOn": "2026-07-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1700384_23072026082445_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.75,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 8.18,
+   "fpiShares": null,
+   "promoterPct": 53.79,
+   "publicPct": 46.1,
+   "recordId": "216019",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742841_21102026031953_WEB.xml"
+  }
+ },
+ "symbol": "ASTERDM"
+}

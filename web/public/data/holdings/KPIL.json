@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Kalpataru Projects International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.12,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 11.73,
+   "fpiShares": null,
+   "promoterPct": 33.57,
+   "publicPct": 66.43,
+   "recordId": "206751",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606405_20012026091905_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.53,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 10.92,
+   "fpiShares": null,
+   "promoterPct": 33.58,
+   "publicPct": 66.42,
+   "recordId": "208872",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652683_16042026074959_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.28,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 10.77,
+   "fpiShares": null,
+   "promoterPct": 33.58,
+   "publicPct": 66.42,
+   "recordId": "211811",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695473_17072026053831_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.34,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 10.75,
+   "fpiShares": null,
+   "promoterPct": 33.58,
+   "publicPct": 66.42,
+   "recordId": "214995",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740058_16102026044355_WEB.xml"
+  }
+ },
+ "symbol": "KPIL"
+}

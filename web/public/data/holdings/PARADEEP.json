@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Paradeep Phosphates Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.92,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 11.43,
+   "fpiShares": null,
+   "promoterPct": 57.7,
+   "publicPct": 42.3,
+   "recordId": "206529",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605662_20012026042954_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.9,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 8.36,
+   "fpiShares": null,
+   "promoterPct": 57.8,
+   "publicPct": 42.2,
+   "recordId": "209128",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653387_17042026053720_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.89,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 5.1,
+   "fpiShares": null,
+   "promoterPct": 57.86,
+   "publicPct": 42.14,
+   "recordId": "211311",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693362_15072026051447_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.61,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 4.79,
+   "fpiShares": null,
+   "promoterPct": 57.85,
+   "publicPct": 42.15,
+   "recordId": "214108",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736997_13102026043703_WEB.xml"
+  }
+ },
+ "symbol": "PARADEEP"
+}

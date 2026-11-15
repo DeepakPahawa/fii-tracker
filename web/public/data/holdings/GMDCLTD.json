@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Gujarat Mineral Development Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.11,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 2.3,
+   "fpiShares": null,
+   "promoterPct": 74.0,
+   "publicPct": 26.0,
+   "recordId": "205304",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599033_12012026062226_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.61,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.76,
+   "fpiShares": null,
+   "promoterPct": 74.0,
+   "publicPct": 26.0,
+   "recordId": "207558",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646901_07042026062119_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.52,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 3.66,
+   "fpiShares": null,
+   "promoterPct": 74.0,
+   "publicPct": 26.0,
+   "recordId": "210594",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689144_08072026124621_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.6,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 3.72,
+   "fpiShares": null,
+   "promoterPct": 74.0,
+   "publicPct": 26.0,
+   "recordId": "213814",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736001_12102026023856_WEB.xml"
+  }
+ },
+ "symbol": "GMDCLTD"
+}

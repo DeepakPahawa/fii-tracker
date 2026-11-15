@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "SRF Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.12,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 17.48,
+   "fpiShares": null,
+   "promoterPct": 50.26,
+   "publicPct": 49.74,
+   "recordId": "206440",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605373_20012026023811_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.31,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 16.67,
+   "fpiShares": null,
+   "promoterPct": 50.26,
+   "publicPct": 49.73,
+   "recordId": "208833",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652509_16042026060518_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.11,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 15.45,
+   "fpiShares": null,
+   "promoterPct": 50.26,
+   "publicPct": 49.73,
+   "recordId": "211062",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692164_14072026031700_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.86,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 15.2,
+   "fpiShares": null,
+   "promoterPct": 50.26,
+   "publicPct": 49.74,
+   "recordId": "214486",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738472_15102026111004_WEB.xml"
+  }
+ },
+ "symbol": "SRF"
+}

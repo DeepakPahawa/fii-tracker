@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Tejas Networks Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.78,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 5.95,
+   "fpiShares": null,
+   "promoterPct": 53.46,
+   "publicPct": 46.34,
+   "recordId": "206991",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607205_21012026045527_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.05,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 5.29,
+   "fpiShares": null,
+   "promoterPct": 53.4,
+   "publicPct": 46.47,
+   "recordId": "210063",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656195_21042026034851_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.96,
+   "fpiCat2Pct": 0.86,
+   "fpiPct": 5.82,
+   "fpiShares": null,
+   "promoterPct": 53.33,
+   "publicPct": 46.56,
+   "recordId": "212725",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698225_21072026035203_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.36,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 6.63,
+   "fpiShares": null,
+   "promoterPct": 53.28,
+   "publicPct": 46.63,
+   "recordId": "215136",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740492_16102026090805_WEB.xml"
+  }
+ },
+ "symbol": "TEJASNET"
+}

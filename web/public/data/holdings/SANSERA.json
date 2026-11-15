@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Sansera Engineering Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.86,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 19.36,
+   "fpiShares": null,
+   "promoterPct": 30.18,
+   "publicPct": 69.82,
+   "recordId": "205419",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599821_13012026041808_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.16,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 18.79,
+   "fpiShares": null,
+   "promoterPct": 30.1,
+   "publicPct": 69.9,
+   "recordId": "208577",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651801_16042026095232_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.15,
+   "fpiCat2Pct": 1.37,
+   "fpiPct": 21.52,
+   "fpiShares": null,
+   "promoterPct": 29.21,
+   "publicPct": 70.79,
+   "recordId": "210825",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690792_10072026080854_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.27,
+   "fpiCat2Pct": 1.69,
+   "fpiPct": 22.96,
+   "fpiShares": null,
+   "promoterPct": 29.04,
+   "publicPct": 70.96,
+   "recordId": "214664",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739030_15102026045753_WEB.xml"
+  }
+ },
+ "symbol": "SANSERA"
+}

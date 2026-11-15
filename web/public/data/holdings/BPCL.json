@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Bharat Petroleum Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.93,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 18.46,
+   "fpiShares": null,
+   "promoterPct": 52.98,
+   "publicPct": 47.02,
+   "recordId": "206422",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605322_20012026015722_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.7,
+   "fpiCat2Pct": 0.87,
+   "fpiPct": 19.57,
+   "fpiShares": null,
+   "promoterPct": 52.98,
+   "publicPct": 47.02,
+   "recordId": "209456",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654570_20042026114307_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.22,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 16.84,
+   "fpiShares": null,
+   "promoterPct": 52.98,
+   "publicPct": 47.02,
+   "recordId": "211657",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694990_17072026020005_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.01,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 16.66,
+   "fpiShares": null,
+   "promoterPct": 52.98,
+   "publicPct": 47.02,
+   "recordId": "214364",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737821_14102026043852_WEB.xml"
+  }
+ },
+ "symbol": "BPCL"
+}

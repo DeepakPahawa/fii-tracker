@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Oil India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.28,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 7.54,
+   "fpiShares": null,
+   "promoterPct": 56.66,
+   "publicPct": 43.34,
+   "recordId": "206861",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606770_21012026012045_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.34,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 7.67,
+   "fpiShares": null,
+   "promoterPct": 56.66,
+   "publicPct": 43.34,
+   "recordId": "207871",
+   "source": "nse",
+   "submittedOn": "2026-09-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1721627_04092026085126_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.06,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 7.28,
+   "fpiShares": null,
+   "promoterPct": 56.66,
+   "publicPct": 43.34,
+   "recordId": "212287",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696989_20072026045300_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.92,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 7.15,
+   "fpiShares": null,
+   "promoterPct": 56.66,
+   "publicPct": 43.34,
+   "recordId": "215980",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742722_21102026022457_WEB.xml"
+  }
+ },
+ "symbol": "OIL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 5.79,
+   "fpiShares": null,
+   "promoterPct": 60.0,
+   "publicPct": 40.0,
+   "recordId": "208434",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651128_15042026125545_WEB.xml"
+  },
+  "2026-06-25": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.6,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 5.99,
+   "fpiShares": null,
+   "promoterPct": 60.0,
+   "publicPct": 40.0,
+   "recordId": "210496",
+   "source": "nse",
+   "submittedOn": "2026-07-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688748_07072026030246_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 5.93,
+   "fpiShares": null,
+   "promoterPct": 60.0,
+   "publicPct": 40.0,
+   "recordId": "212136",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696547_20072026124750_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.75,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 5.07,
+   "fpiShares": null,
+   "promoterPct": 60.0,
+   "publicPct": 40.0,
+   "recordId": "215805",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742307_20102026042404_WEB.xml"
+  }
+ },
+ "symbol": "ZFCVINDIA"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Voltas Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.89,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 18.41,
+   "fpiShares": null,
+   "promoterPct": 30.3,
+   "publicPct": 69.7,
+   "recordId": "207133",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607773_21012026090536_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.91,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 18.44,
+   "fpiShares": null,
+   "promoterPct": 30.3,
+   "publicPct": 69.7,
+   "recordId": "209853",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655631_20042026092159_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.43,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 16.94,
+   "fpiShares": null,
+   "promoterPct": 30.3,
+   "publicPct": 69.7,
+   "recordId": "212798",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698441_21072026051656_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.41,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 16.94,
+   "fpiShares": null,
+   "promoterPct": 30.3,
+   "publicPct": 69.7,
+   "recordId": "215897",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742483_21102026113019_WEB.xml"
+  }
+ },
+ "symbol": "VOLTAS"
+}

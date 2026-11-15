@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Hero MotoCorp Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 26.02,
+   "fpiCat2Pct": 3.4,
+   "fpiPct": 29.42,
+   "fpiShares": null,
+   "promoterPct": 34.73,
+   "publicPct": 65.27,
+   "recordId": "206657",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606098_20012026062645_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.73,
+   "fpiCat2Pct": 3.41,
+   "fpiPct": 31.14,
+   "fpiShares": null,
+   "promoterPct": 34.73,
+   "publicPct": 65.27,
+   "recordId": "210229",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656751_21042026074633_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.68,
+   "fpiCat2Pct": 3.4,
+   "fpiPct": 31.08,
+   "fpiShares": null,
+   "promoterPct": 34.73,
+   "publicPct": 65.27,
+   "recordId": "212901",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698812_21072026073358_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.91,
+   "fpiCat2Pct": 3.31,
+   "fpiPct": 32.22,
+   "fpiShares": null,
+   "promoterPct": 34.72,
+   "publicPct": 65.28,
+   "recordId": "215527",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741580_19102026043440_WEB.xml"
+  }
+ },
+ "symbol": "HEROMOTOCO"
+}

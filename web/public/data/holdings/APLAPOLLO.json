@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "APL Apollo Tubes Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 32.34,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 33.1,
+   "fpiShares": null,
+   "promoterPct": 28.27,
+   "publicPct": 71.73,
+   "recordId": "205147",
+   "source": "nse",
+   "submittedOn": "2026-01-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598040_10012026115141_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 36.5,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 37.5,
+   "fpiShares": null,
+   "promoterPct": 28.25,
+   "publicPct": 71.75,
+   "recordId": "208489",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651360_15042026040250_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 34.28,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 35.1,
+   "fpiShares": null,
+   "promoterPct": 28.25,
+   "publicPct": 71.75,
+   "recordId": "212740",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698262_21072026040733_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 33.31,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 34.13,
+   "fpiShares": null,
+   "promoterPct": 28.18,
+   "publicPct": 71.82,
+   "recordId": "213850",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736137_12102026041019_WEB.xml"
+  }
+ },
+ "symbol": "APLAPOLLO"
+}

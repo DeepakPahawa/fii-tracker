@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Billionbrains Garage Ventures Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.98,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 3.13,
+   "fpiShares": null,
+   "promoterPct": 27.81,
+   "publicPct": 72.19,
+   "recordId": "206131",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604121_19012026032543_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.3,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 2.51,
+   "fpiShares": null,
+   "promoterPct": 27.38,
+   "publicPct": 71.31,
+   "recordId": "208498",
+   "source": "nse",
+   "submittedOn": "2026-07-26",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1701671_26072026020613_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.18,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 6.89,
+   "fpiShares": null,
+   "promoterPct": 27.14,
+   "publicPct": 71.75,
+   "recordId": "210761",
+   "source": "nse",
+   "submittedOn": "2026-07-26",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1701670_26072026014738_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.44,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 10.9,
+   "fpiShares": null,
+   "promoterPct": 27.13,
+   "publicPct": 71.87,
+   "recordId": "213378",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733744_07102026023207_WEB.xml"
+  }
+ },
+ "symbol": "GROWW"
+}

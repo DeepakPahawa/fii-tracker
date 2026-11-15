@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Gravita India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.16,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 15.75,
+   "fpiShares": null,
+   "promoterPct": 55.88,
+   "publicPct": 42.79,
+   "recordId": "206736",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606343_20012026080843_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.63,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 13.94,
+   "fpiShares": null,
+   "promoterPct": 55.88,
+   "publicPct": 42.79,
+   "recordId": "209685",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655190_20042026052003_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.35,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 12.86,
+   "fpiShares": null,
+   "promoterPct": 55.88,
+   "publicPct": 42.8,
+   "recordId": "212411",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697360_20072026064031_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.47,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 11.78,
+   "fpiShares": null,
+   "promoterPct": 55.88,
+   "publicPct": 42.82,
+   "recordId": "216286",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743625_21102026095332_WEB.xml"
+  }
+ },
+ "symbol": "GRAVITA"
+}

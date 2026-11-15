@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "UNO Minda Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.3,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 9.83,
+   "fpiShares": null,
+   "promoterPct": 68.41,
+   "publicPct": 31.59,
+   "recordId": "205980",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603473_17012026055950_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.42,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 8.96,
+   "fpiShares": null,
+   "promoterPct": 68.37,
+   "publicPct": 31.63,
+   "recordId": "209276",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654027_18042026022417_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.67,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 8.15,
+   "fpiShares": null,
+   "promoterPct": 68.36,
+   "publicPct": 31.64,
+   "recordId": "211926",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695885_18072026111418_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.33,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 8.78,
+   "fpiShares": null,
+   "promoterPct": 68.36,
+   "publicPct": 31.64,
+   "recordId": "215424",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741318_19102026015727_WEB.xml"
+  }
+ },
+ "symbol": "UNOMINDA"
+}

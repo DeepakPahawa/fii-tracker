@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Rail Vikas Nigam Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.78,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 4.97,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "206368",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605135_20012026121731_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.71,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 4.86,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "208972",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652990_17042026013727_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.38,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 2.41,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "212290",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696996_20072026045622_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.37,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 2.38,
+   "fpiShares": null,
+   "promoterPct": 72.84,
+   "publicPct": 27.16,
+   "recordId": "215416",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741297_19102026013046_WEB.xml"
+  }
+ },
+ "symbol": "RVNL"
+}

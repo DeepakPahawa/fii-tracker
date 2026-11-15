@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Bank of Baroda",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.24,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 9.84,
+   "fpiShares": null,
+   "promoterPct": 63.97,
+   "publicPct": 36.03,
+   "recordId": "205736",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601986_16012026122154_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.16,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 9.69,
+   "fpiShares": null,
+   "promoterPct": 63.97,
+   "publicPct": 36.03,
+   "recordId": "207653",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647424_08042026045921_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.54,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 10.14,
+   "fpiShares": null,
+   "promoterPct": 63.97,
+   "publicPct": 36.03,
+   "recordId": "210623",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689248_08072026033602_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.68,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 10.29,
+   "fpiShares": null,
+   "promoterPct": 63.97,
+   "publicPct": 36.03,
+   "recordId": "213665",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735143_09102026062755_WEB.xml"
+  }
+ },
+ "symbol": "BANKBARODA"
+}

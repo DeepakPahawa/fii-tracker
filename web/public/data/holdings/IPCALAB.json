@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Ipca Laboratories Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.34,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 10.62,
+   "fpiShares": null,
+   "promoterPct": 44.72,
+   "publicPct": 55.28,
+   "recordId": "205547",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600704_14012026034809_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.31,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 10.63,
+   "fpiShares": null,
+   "promoterPct": 44.72,
+   "publicPct": 55.28,
+   "recordId": "207589",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647122_08042026120805_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.34,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 10.72,
+   "fpiShares": null,
+   "promoterPct": 44.72,
+   "publicPct": 55.28,
+   "recordId": "211599",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694779_17072026104110_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.19,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 11.52,
+   "fpiShares": null,
+   "promoterPct": 44.72,
+   "publicPct": 55.28,
+   "recordId": "214015",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736726_13102026011741_WEB.xml"
+  }
+ },
+ "symbol": "IPCALAB"
+}

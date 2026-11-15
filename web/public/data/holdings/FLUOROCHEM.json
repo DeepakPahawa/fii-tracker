@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Gujarat Fluorochemicals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.12,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 4.31,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "204754",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646475_07042026095920_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.1,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 4.28,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "207479",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646478_07042026100259_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.2,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 4.41,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "210926",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691380_13072026034028_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.27,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 4.53,
+   "fpiShares": null,
+   "promoterPct": 61.39,
+   "publicPct": 38.61,
+   "recordId": "213587",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734845_09102026031625_WEB.xml"
+  }
+ },
+ "symbol": "FLUOROCHEM"
+}

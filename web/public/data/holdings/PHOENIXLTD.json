@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Phoenix Mills Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 32.69,
+   "fpiCat2Pct": 1.16,
+   "fpiPct": 33.85,
+   "fpiShares": null,
+   "promoterPct": 47.25,
+   "publicPct": 52.75,
+   "recordId": "205398",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599687_13012026033230_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 31.93,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 32.97,
+   "fpiShares": null,
+   "promoterPct": 47.25,
+   "publicPct": 52.75,
+   "recordId": "208490",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651365_15042026040508_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 30.69,
+   "fpiCat2Pct": 1.04,
+   "fpiPct": 31.73,
+   "fpiShares": null,
+   "promoterPct": 47.25,
+   "publicPct": 52.75,
+   "recordId": "211000",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691843_13072026101540_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 30.59,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 31.62,
+   "fpiShares": null,
+   "promoterPct": 47.24,
+   "publicPct": 52.76,
+   "recordId": "214571",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738741_15102026024843_WEB.xml"
+  }
+ },
+ "symbol": "PHOENIXLTD"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Container Corporation of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.82,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 9.05,
+   "fpiShares": null,
+   "promoterPct": 54.8,
+   "publicPct": 45.2,
+   "recordId": "206804",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606569_21012026112538_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.0,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 8.32,
+   "fpiShares": null,
+   "promoterPct": 54.8,
+   "publicPct": 45.2,
+   "recordId": "210047",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656147_21042026031955_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.67,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 7.85,
+   "fpiShares": null,
+   "promoterPct": 54.8,
+   "publicPct": 45.2,
+   "recordId": "212646",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697975_21072026012801_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.93,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 8.09,
+   "fpiShares": null,
+   "promoterPct": 54.8,
+   "publicPct": 45.2,
+   "recordId": "215547",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741633_19102026045114_WEB.xml"
+  }
+ },
+ "symbol": "CONCOR"
+}

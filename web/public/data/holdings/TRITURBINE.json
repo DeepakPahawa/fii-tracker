@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Triveni Turbine Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.44,
+   "fpiCat2Pct": 1.94,
+   "fpiPct": 22.38,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "206410",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605285_20012026011959_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.06,
+   "fpiCat2Pct": 1.75,
+   "fpiPct": 20.81,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "209137",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656180_21042026034228_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.52,
+   "fpiCat2Pct": 2.06,
+   "fpiPct": 20.58,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "211502",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694284_16072026043945_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.0,
+   "fpiCat2Pct": 1.39,
+   "fpiPct": 18.39,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "215012",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740105_16102026050119_WEB.xml"
+  }
+ },
+ "symbol": "TRITURBINE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "KPIT Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.17,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 13.57,
+   "fpiShares": null,
+   "promoterPct": 39.42,
+   "publicPct": 59.85,
+   "recordId": "206413",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605298_20012026012839_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.49,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 13.25,
+   "fpiShares": null,
+   "promoterPct": 39.42,
+   "publicPct": 59.88,
+   "recordId": "208060",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649543_13042026120349_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.89,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 13.22,
+   "fpiShares": null,
+   "promoterPct": 38.6,
+   "publicPct": 60.78,
+   "recordId": "211892",
+   "source": "nse",
+   "submittedOn": "2026-09-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1724959_17092026033128_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.6,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 9.09,
+   "fpiShares": null,
+   "promoterPct": 38.6,
+   "publicPct": 60.82,
+   "recordId": "214717",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739221_15102026060712_WEB.xml"
+  }
+ },
+ "symbol": "KPITTECH"
+}

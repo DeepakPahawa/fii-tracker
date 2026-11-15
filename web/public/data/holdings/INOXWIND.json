@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Inox Wind Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.41,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 14.16,
+   "fpiShares": null,
+   "promoterPct": 44.18,
+   "publicPct": 55.82,
+   "recordId": "207038",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647060_08042026105453_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.57,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 14.6,
+   "fpiShares": null,
+   "promoterPct": 44.18,
+   "publicPct": 55.82,
+   "recordId": "209800",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655491_20042026070912_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.61,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 14.53,
+   "fpiShares": null,
+   "promoterPct": 44.18,
+   "publicPct": 55.82,
+   "recordId": "211833",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695550_17072026060417_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.18,
+   "fpiCat2Pct": 0.99,
+   "fpiPct": 12.17,
+   "fpiShares": null,
+   "promoterPct": 44.18,
+   "publicPct": 55.82,
+   "recordId": "215309",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741002_17102026081653_WEB.xml"
+  }
+ },
+ "symbol": "INOXWIND"
+}

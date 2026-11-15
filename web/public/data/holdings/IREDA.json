@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Indian Renewable Energy Development Agency Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.05,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 2.07,
+   "fpiShares": null,
+   "promoterPct": 71.76,
+   "publicPct": 28.24,
+   "recordId": "204773",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595440_06012026030625_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.14,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 2.14,
+   "fpiShares": null,
+   "promoterPct": 71.76,
+   "publicPct": 28.24,
+   "recordId": "207925",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648932_10042026053843_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.44,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 2.48,
+   "fpiShares": null,
+   "promoterPct": 71.76,
+   "publicPct": 28.24,
+   "recordId": "211709",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695149_17072026033942_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.52,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 2.57,
+   "fpiShares": null,
+   "promoterPct": 71.76,
+   "publicPct": 28.24,
+   "recordId": "214794",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739554_16102026115308_WEB.xml"
+  }
+ },
+ "symbol": "IREDA"
+}

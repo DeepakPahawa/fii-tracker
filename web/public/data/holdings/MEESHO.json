@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Meesho Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.9,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 4.31,
+   "fpiShares": null,
+   "promoterPct": 16.76,
+   "publicPct": 83.24,
+   "recordId": "206729",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606308_20012026074932_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.64,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 4.17,
+   "fpiShares": null,
+   "promoterPct": 16.57,
+   "publicPct": 83.43,
+   "recordId": "207964",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649195_10042026095234_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.07,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 5.19,
+   "fpiShares": null,
+   "promoterPct": 16.41,
+   "publicPct": 83.59,
+   "recordId": "211108",
+   "source": "nse",
+   "submittedOn": "2026-08-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1714225_14082026110947_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.39,
+   "fpiCat2Pct": 1.45,
+   "fpiPct": 9.84,
+   "fpiShares": null,
+   "promoterPct": 16.34,
+   "publicPct": 83.66,
+   "recordId": "213275",
+   "source": "nse",
+   "submittedOn": "2026-10-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733161_05102026071536_WEB.xml"
+  }
+ },
+ "symbol": "MEESHO"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Cipla Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.18,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 23.93,
+   "fpiShares": null,
+   "promoterPct": 29.21,
+   "publicPct": 70.79,
+   "recordId": "207134",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607774_21012026090606_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.84,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 22.55,
+   "fpiShares": null,
+   "promoterPct": 29.21,
+   "publicPct": 70.79,
+   "recordId": "210242",
+   "source": "nse",
+   "submittedOn": "2026-08-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1712107_11082026072853_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.61,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 20.2,
+   "fpiShares": null,
+   "promoterPct": 29.21,
+   "publicPct": 70.79,
+   "recordId": "212668",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698044_21072026022401_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.66,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 20.24,
+   "fpiShares": null,
+   "promoterPct": 29.21,
+   "publicPct": 70.79,
+   "recordId": "216280",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743615_21102026092948_WEB.xml"
+  }
+ },
+ "symbol": "CIPLA"
+}

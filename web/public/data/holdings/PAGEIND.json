@@ -1,0 +1,59 @@
+{
+ "industry": "Textiles",
+ "name": "Page Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.98,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 20.71,
+   "fpiShares": null,
+   "promoterPct": 42.89,
+   "publicPct": 57.11,
+   "recordId": "205579",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600894_14012026051205_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.53,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 19.0,
+   "fpiShares": null,
+   "promoterPct": 42.89,
+   "publicPct": 57.11,
+   "recordId": "208549",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651571_15042026060023_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.5,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 18.91,
+   "fpiShares": null,
+   "promoterPct": 42.89,
+   "publicPct": 57.11,
+   "recordId": "211738",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695246_17072026041822_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.4,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 18.79,
+   "fpiShares": null,
+   "promoterPct": 42.89,
+   "publicPct": 57.11,
+   "recordId": "215807",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742311_20102026042929_WEB.xml"
+  }
+ },
+ "symbol": "PAGEIND"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Bharat Forge Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.68,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 14.15,
+   "fpiShares": null,
+   "promoterPct": 44.07,
+   "publicPct": 55.93,
+   "recordId": "208804",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652417_16042026052809_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.38,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 15.04,
+   "fpiShares": null,
+   "promoterPct": 44.07,
+   "publicPct": 55.93,
+   "recordId": "211417",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693867_16072026122503_WEB.xml"
+  },
+  "2026-09-22": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.67,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 15.18,
+   "fpiShares": null,
+   "promoterPct": 43.12,
+   "publicPct": 56.88,
+   "recordId": "213213",
+   "source": "nse",
+   "submittedOn": "2026-09-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1727121_23092026072237_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.68,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 15.2,
+   "fpiShares": null,
+   "promoterPct": 43.12,
+   "publicPct": 56.88,
+   "recordId": "214861",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739723_16102026021746_WEB.xml"
+  }
+ },
+ "symbol": "BHARATFORG"
+}

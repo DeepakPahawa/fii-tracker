@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Waaree Energies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.69,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 6.91,
+   "fpiShares": null,
+   "promoterPct": 64.22,
+   "publicPct": 35.78,
+   "recordId": "205132",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597909_09012026071750_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.82,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 7.06,
+   "fpiShares": null,
+   "promoterPct": 64.19,
+   "publicPct": 35.81,
+   "recordId": "208205",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650245_13042026085230_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.34,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 8.57,
+   "fpiShares": null,
+   "promoterPct": 64.12,
+   "publicPct": 35.88,
+   "recordId": "210645",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689454_08072026065807_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.32,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 8.57,
+   "fpiShares": null,
+   "promoterPct": 64.12,
+   "publicPct": 35.88,
+   "recordId": "214503",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738518_15102026120211_WEB.xml"
+  }
+ },
+ "symbol": "WAAREEENER"
+}

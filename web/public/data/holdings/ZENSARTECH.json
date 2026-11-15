@@ -1,0 +1,46 @@
+{
+ "industry": "Information Technology",
+ "name": "Zensar Technolgies Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.24,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 10.51,
+   "fpiShares": null,
+   "promoterPct": 49.0,
+   "publicPct": 50.65,
+   "recordId": "210016",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656060_21042026023228_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.45,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 10.73,
+   "fpiShares": null,
+   "promoterPct": 48.99,
+   "publicPct": 50.66,
+   "recordId": "211419",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693883_16072026123632_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.72,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 10.21,
+   "fpiShares": null,
+   "promoterPct": 48.98,
+   "publicPct": 50.74,
+   "recordId": "216039",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742890_21102026034402_WEB.xml"
+  }
+ },
+ "symbol": "ZENSARTECH"
+}

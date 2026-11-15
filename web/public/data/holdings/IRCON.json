@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "IRCON International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.39,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 4.54,
+   "fpiShares": null,
+   "promoterPct": 65.17,
+   "publicPct": 34.83,
+   "recordId": "205339",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599410_13012026120724_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.62,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 4.78,
+   "fpiShares": null,
+   "promoterPct": 65.17,
+   "publicPct": 34.83,
+   "recordId": "208179",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650021_13042026053913_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.44,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 4.61,
+   "fpiShares": null,
+   "promoterPct": 65.17,
+   "publicPct": 34.83,
+   "recordId": "210619",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689236_08072026032530_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.26,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 4.62,
+   "fpiShares": null,
+   "promoterPct": 65.17,
+   "publicPct": 34.83,
+   "recordId": "213408",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733881_07102026052257_WEB.xml"
+  }
+ },
+ "symbol": "IRCON"
+}

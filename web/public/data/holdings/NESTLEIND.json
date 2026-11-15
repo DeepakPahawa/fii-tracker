@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Nestle India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.54,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 9.81,
+   "fpiShares": null,
+   "promoterPct": 62.76,
+   "publicPct": 37.24,
+   "recordId": "207099",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607636_21012026071752_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.47,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 9.74,
+   "fpiShares": null,
+   "promoterPct": 62.76,
+   "publicPct": 37.24,
+   "recordId": "209873",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655682_21042026092925_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.03,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 10.3,
+   "fpiShares": null,
+   "promoterPct": 62.76,
+   "publicPct": 37.24,
+   "recordId": "212765",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698320_21072026043337_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.39,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 11.7,
+   "fpiShares": null,
+   "promoterPct": 62.76,
+   "publicPct": 37.24,
+   "recordId": "213675",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735218_09102026073948_WEB.xml"
+  }
+ },
+ "symbol": "NESTLEIND"
+}

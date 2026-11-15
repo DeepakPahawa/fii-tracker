@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Hitachi Energy India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.33,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 10.69,
+   "fpiShares": null,
+   "promoterPct": 71.31,
+   "publicPct": 28.69,
+   "recordId": "205120",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597730_09012026054700_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.17,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 11.68,
+   "fpiShares": null,
+   "promoterPct": 71.31,
+   "publicPct": 28.69,
+   "recordId": "208885",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652762_16042026100320_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.87,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 12.44,
+   "fpiShares": null,
+   "promoterPct": 71.31,
+   "publicPct": 28.69,
+   "recordId": "211363",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693658_15072026075524_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.53,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 11.96,
+   "fpiShares": null,
+   "promoterPct": 71.31,
+   "publicPct": 28.69,
+   "recordId": "213640",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735055_09102026053840_WEB.xml"
+  }
+ },
+ "symbol": "POWERINDIA"
+}

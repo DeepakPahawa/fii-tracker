@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Tata Teleservices (Maharashtra) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.54,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.64,
+   "fpiShares": null,
+   "promoterPct": 74.36,
+   "publicPct": 25.64,
+   "recordId": "206928",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606986_21012026033852_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.45,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 2.6,
+   "fpiShares": null,
+   "promoterPct": 74.36,
+   "publicPct": 25.64,
+   "recordId": "208859",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652617_16042026065159_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.42,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 2.52,
+   "fpiShares": null,
+   "promoterPct": 74.36,
+   "publicPct": 25.64,
+   "recordId": "212907",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698824_21072026073836_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.32,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 2.43,
+   "fpiShares": null,
+   "promoterPct": 74.36,
+   "publicPct": 25.64,
+   "recordId": "214453",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738192_14102026100812_WEB.xml"
+  }
+ },
+ "symbol": "TTML"
+}

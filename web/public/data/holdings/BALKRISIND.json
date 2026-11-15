@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Balkrishna Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.75,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 11.0,
+   "fpiShares": null,
+   "promoterPct": 58.29,
+   "publicPct": 41.71,
+   "recordId": "206545",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605725_20012026044825_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.87,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 11.13,
+   "fpiShares": null,
+   "promoterPct": 58.29,
+   "publicPct": 41.71,
+   "recordId": "209527",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654765_20042026020423_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.03,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 10.33,
+   "fpiShares": null,
+   "promoterPct": 58.29,
+   "publicPct": 41.71,
+   "recordId": "212384",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697264_20072026061328_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.52,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 9.06,
+   "fpiShares": null,
+   "promoterPct": 58.29,
+   "publicPct": 41.71,
+   "recordId": "215085",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740308_16102026062546_WEB.xml"
+  }
+ },
+ "symbol": "BALKRISIND"
+}

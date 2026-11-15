@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Techno Electric & Engineering Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.23,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 8.53,
+   "fpiShares": null,
+   "promoterPct": 56.92,
+   "publicPct": 43.08,
+   "recordId": "204944",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596734_08012026034652_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.45,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 8.65,
+   "fpiShares": null,
+   "promoterPct": 56.92,
+   "publicPct": 43.08,
+   "recordId": "209056",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653233_17042026042831_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.89,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 8.08,
+   "fpiShares": null,
+   "promoterPct": 56.92,
+   "publicPct": 43.08,
+   "recordId": "211733",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695228_17072026041220_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.9,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 8.09,
+   "fpiShares": null,
+   "promoterPct": 56.92,
+   "publicPct": 43.08,
+   "recordId": "213789",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735913_12102026010105_WEB.xml"
+  }
+ },
+ "symbol": "TECHNOE"
+}

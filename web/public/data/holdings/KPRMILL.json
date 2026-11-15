@@ -1,0 +1,59 @@
+{
+ "industry": "Textiles",
+ "name": "K.P.R. Mill Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.21,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 6.49,
+   "fpiShares": null,
+   "promoterPct": 67.52,
+   "publicPct": 32.48,
+   "recordId": "205494",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600418_14012026114024_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.34,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 6.64,
+   "fpiShares": null,
+   "promoterPct": 67.52,
+   "publicPct": 32.48,
+   "recordId": "208158",
+   "source": "nse",
+   "submittedOn": "2026-09-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722576_08092026053005_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.75,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 7.02,
+   "fpiShares": null,
+   "promoterPct": 67.52,
+   "publicPct": 32.48,
+   "recordId": "211518",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694369_16072026051629_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.72,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 7.01,
+   "fpiShares": null,
+   "promoterPct": 67.52,
+   "publicPct": 32.48,
+   "recordId": "214350",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737786_14102026042332_WEB.xml"
+  }
+ },
+ "symbol": "KPRMILL"
+}

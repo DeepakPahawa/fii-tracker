@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Piramal Pharma Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.47,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 11.71,
+   "fpiShares": null,
+   "promoterPct": 34.86,
+   "publicPct": 64.7,
+   "recordId": "206551",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605746_20012026045511_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.98,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 12.22,
+   "fpiShares": null,
+   "promoterPct": 34.86,
+   "publicPct": 64.81,
+   "recordId": "209468",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654598_20042026115851_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.21,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 12.51,
+   "fpiShares": null,
+   "promoterPct": 34.8,
+   "publicPct": 64.72,
+   "recordId": "212373",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697240_20072026060616_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.35,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 13.65,
+   "fpiShares": null,
+   "promoterPct": 34.8,
+   "publicPct": 64.8,
+   "recordId": "216023",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742857_21102026032628_WEB.xml"
+  }
+ },
+ "symbol": "PPLPHARMA"
+}

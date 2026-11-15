@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "CCL Products (I) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.09,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 11.01,
+   "fpiShares": null,
+   "promoterPct": 46.11,
+   "publicPct": 53.64,
+   "recordId": "206710",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606267_20012026072527_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.65,
+   "fpiCat2Pct": 0.59,
+   "fpiPct": 11.24,
+   "fpiShares": null,
+   "promoterPct": 46.11,
+   "publicPct": 53.64,
+   "recordId": "207716",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647877_09042026022126_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.36,
+   "fpiCat2Pct": 0.71,
+   "fpiPct": 12.07,
+   "fpiShares": null,
+   "promoterPct": 46.14,
+   "publicPct": 53.71,
+   "recordId": "210989",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691699_13072026062725_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.41,
+   "fpiCat2Pct": 0.7,
+   "fpiPct": 12.11,
+   "fpiShares": null,
+   "promoterPct": 46.16,
+   "publicPct": 53.7,
+   "recordId": "213527",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734566_08102026071456_WEB.xml"
+  }
+ },
+ "symbol": "CCL"
+}

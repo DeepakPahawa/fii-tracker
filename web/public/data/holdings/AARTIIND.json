@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Aarti Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.5,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 6.7,
+   "fpiShares": null,
+   "promoterPct": 42.14,
+   "publicPct": 57.86,
+   "recordId": "206856",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606745_21012026010919_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.0,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 7.38,
+   "fpiShares": null,
+   "promoterPct": 42.09,
+   "publicPct": 57.91,
+   "recordId": "209018",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653134_17042026034703_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.66,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 7.0,
+   "fpiShares": null,
+   "promoterPct": 41.82,
+   "publicPct": 58.18,
+   "recordId": "211806",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695456_17072026053403_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.7,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 6.96,
+   "fpiShares": null,
+   "promoterPct": 41.82,
+   "publicPct": 58.18,
+   "recordId": "214998",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740069_16102026044804_WEB.xml"
+  }
+ },
+ "symbol": "AARTIIND"
+}

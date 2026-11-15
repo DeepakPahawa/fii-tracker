@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Kirloskar Oil Eng Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.21,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 8.45,
+   "fpiShares": null,
+   "promoterPct": 41.08,
+   "publicPct": 58.92,
+   "recordId": "207077",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607577_21012026065328_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.46,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 10.79,
+   "fpiShares": null,
+   "promoterPct": 41.07,
+   "publicPct": 58.93,
+   "recordId": "210129",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656405_21042026052106_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.64,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 11.33,
+   "fpiShares": null,
+   "promoterPct": 41.07,
+   "publicPct": 58.93,
+   "recordId": "212714",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698188_21072026033833_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.63,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 11.06,
+   "fpiShares": null,
+   "promoterPct": 41.03,
+   "publicPct": 58.97,
+   "recordId": "216243",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743494_21102026073729_WEB.xml"
+  }
+ },
+ "symbol": "KIRLOSENG"
+}

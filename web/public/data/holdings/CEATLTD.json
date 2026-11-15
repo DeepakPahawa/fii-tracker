@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Ceat Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.0,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 16.91,
+   "fpiShares": null,
+   "promoterPct": 47.21,
+   "publicPct": 52.52,
+   "recordId": "206691",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606210_20012026070752_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.93,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 16.54,
+   "fpiShares": null,
+   "promoterPct": 47.29,
+   "publicPct": 52.44,
+   "recordId": "209636",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655052_20042026043311_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.54,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 13.81,
+   "fpiShares": null,
+   "promoterPct": 47.29,
+   "publicPct": 52.44,
+   "recordId": "212237",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696839_20072026040025_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.1,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 13.4,
+   "fpiShares": null,
+   "promoterPct": 47.29,
+   "publicPct": 52.37,
+   "recordId": "214390",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737895_14102026051722_WEB.xml"
+  }
+ },
+ "symbol": "CEATLTD"
+}

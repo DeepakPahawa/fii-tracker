@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Hyundai Motor India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.28,
+   "fpiCat2Pct": 0.15,
+   "fpiPct": 6.43,
+   "fpiShares": null,
+   "promoterPct": 82.5,
+   "publicPct": 17.5,
+   "recordId": "206495",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605535_20012026035131_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.29,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 5.43,
+   "fpiShares": null,
+   "promoterPct": 82.5,
+   "publicPct": 17.5,
+   "recordId": "209642",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655061_20042026043814_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.26,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 3.28,
+   "fpiShares": null,
+   "promoterPct": 82.5,
+   "publicPct": 17.5,
+   "recordId": "212214",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696768_20072026033003_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.18,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 3.19,
+   "fpiShares": null,
+   "promoterPct": 82.5,
+   "publicPct": 17.5,
+   "recordId": "214951",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739965_16102026041555_WEB.xml"
+  }
+ },
+ "symbol": "HYUNDAI"
+}

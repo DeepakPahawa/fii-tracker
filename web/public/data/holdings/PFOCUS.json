@@ -1,0 +1,59 @@
+{
+ "industry": "Media Entertainment & Publication",
+ "name": "Prime Focus Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.89,
+   "fpiCat2Pct": 2.46,
+   "fpiPct": 3.35,
+   "fpiShares": null,
+   "promoterPct": 60.77,
+   "publicPct": 39.23,
+   "recordId": "205783",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602224_16012026032802_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.21,
+   "fpiCat2Pct": 2.46,
+   "fpiPct": 3.67,
+   "fpiShares": null,
+   "promoterPct": 60.77,
+   "publicPct": 39.23,
+   "recordId": "208867",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652657_16042026071800_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.12,
+   "fpiCat2Pct": 2.29,
+   "fpiPct": 3.41,
+   "fpiShares": null,
+   "promoterPct": 60.73,
+   "publicPct": 39.27,
+   "recordId": "211703",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695128_17072026032906_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.68,
+   "fpiCat2Pct": 2.29,
+   "fpiPct": 2.97,
+   "fpiShares": null,
+   "promoterPct": 60.55,
+   "publicPct": 39.45,
+   "recordId": "215598",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741760_19102026053815_WEB.xml"
+  }
+ },
+ "symbol": "PFOCUS"
+}

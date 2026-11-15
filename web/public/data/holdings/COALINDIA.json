@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Coal India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.68,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 8.22,
+   "fpiShares": null,
+   "promoterPct": 63.13,
+   "publicPct": 36.87,
+   "recordId": "204908",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596533_08012026121812_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.83,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 8.38,
+   "fpiShares": null,
+   "promoterPct": 63.13,
+   "publicPct": 36.87,
+   "recordId": "207896",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648798_10042026043546_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.38,
+   "fpiCat2Pct": 0.99,
+   "fpiPct": 10.37,
+   "fpiShares": null,
+   "promoterPct": 61.13,
+   "publicPct": 38.87,
+   "recordId": "212915",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698873_21072026080407_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.76,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 9.59,
+   "fpiShares": null,
+   "promoterPct": 61.13,
+   "publicPct": 38.87,
+   "recordId": "213472",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734270_08102026032238_WEB.xml"
+  }
+ },
+ "symbol": "COALINDIA"
+}

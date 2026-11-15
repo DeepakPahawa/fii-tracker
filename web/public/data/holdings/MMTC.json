@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "MMTC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.02,
+   "fpiCat2Pct": null,
+   "fpiPct": 0.02,
+   "fpiShares": null,
+   "promoterPct": 89.93,
+   "publicPct": 10.07,
+   "recordId": "204767",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595390_06012026011629_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.13,
+   "fpiCat2Pct": null,
+   "fpiPct": 0.13,
+   "fpiShares": null,
+   "promoterPct": 89.93,
+   "publicPct": 10.07,
+   "recordId": "207636",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647334_08042026035451_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.14,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 0.16,
+   "fpiShares": null,
+   "promoterPct": 89.93,
+   "publicPct": 10.07,
+   "recordId": "210530",
+   "source": "nse",
+   "submittedOn": "2026-07-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688438_06072026041925_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.07,
+   "fpiCat2Pct": null,
+   "fpiPct": 0.07,
+   "fpiShares": null,
+   "promoterPct": 89.93,
+   "publicPct": 10.07,
+   "recordId": "213263",
+   "source": "nse",
+   "submittedOn": "2026-10-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1732944_05102026033120_WEB.xml"
+  }
+ },
+ "symbol": "MMTC"
+}

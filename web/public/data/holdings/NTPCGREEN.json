@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "NTPC Green Energy Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.59,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.61,
+   "fpiShares": null,
+   "promoterPct": 89.01,
+   "publicPct": 10.99,
+   "recordId": "205093",
+   "source": "nse",
+   "submittedOn": "2026-02-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1626449_16022026023730_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.59,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.61,
+   "fpiShares": null,
+   "promoterPct": 89.01,
+   "publicPct": 10.99,
+   "recordId": "209487",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654651_20042026123254_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.65,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.67,
+   "fpiShares": null,
+   "promoterPct": 89.01,
+   "publicPct": 10.99,
+   "recordId": "211398",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693814_16072026114006_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.56,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.58,
+   "fpiShares": null,
+   "promoterPct": 89.01,
+   "publicPct": 10.99,
+   "recordId": "214008",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736696_13102026125628_WEB.xml"
+  }
+ },
+ "symbol": "NTPCGREEN"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Tata Consultancy Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.6,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 10.37,
+   "fpiShares": null,
+   "promoterPct": 71.77,
+   "publicPct": 28.23,
+   "recordId": "207082",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607586_21012026065700_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.86,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 9.66,
+   "fpiShares": null,
+   "promoterPct": 71.77,
+   "publicPct": 28.23,
+   "recordId": "210064",
+   "source": "nse",
+   "submittedOn": "2026-09-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1724789_16092026073806_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.23,
+   "fpiCat2Pct": 0.84,
+   "fpiPct": 9.07,
+   "fpiShares": null,
+   "promoterPct": 71.77,
+   "publicPct": 28.23,
+   "recordId": "212719",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698205_21072026034350_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.24,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 9.01,
+   "fpiShares": null,
+   "promoterPct": 71.77,
+   "publicPct": 28.23,
+   "recordId": "215653",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741905_19102026063741_WEB.xml"
+  }
+ },
+ "symbol": "TCS"
+}

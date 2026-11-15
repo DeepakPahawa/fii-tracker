@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Mangalore Refinery & Petrochemicals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.99,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 2.05,
+   "fpiShares": null,
+   "promoterPct": 88.58,
+   "publicPct": 11.42,
+   "recordId": "204749",
+   "source": "nse",
+   "submittedOn": "2026-01-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595296_06012026112104_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.31,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 3.41,
+   "fpiShares": null,
+   "promoterPct": 88.58,
+   "publicPct": 11.42,
+   "recordId": "207495",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646546_07042026121603_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.11,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 2.17,
+   "fpiShares": null,
+   "promoterPct": 88.58,
+   "publicPct": 11.42,
+   "recordId": "210561",
+   "source": "nse",
+   "submittedOn": "2026-07-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688822_07072026035515_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.94,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 2.45,
+   "fpiShares": null,
+   "promoterPct": 88.58,
+   "publicPct": 11.42,
+   "recordId": "213399",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733841_07102026043054_WEB.xml"
+  }
+ },
+ "symbol": "MRPL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Chennai Petroleum Corporation Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.05,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 12.87,
+   "fpiShares": null,
+   "promoterPct": 67.29,
+   "publicPct": 32.71,
+   "recordId": "205876",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602667_16012026060240_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.86,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 12.59,
+   "fpiShares": null,
+   "promoterPct": 67.29,
+   "publicPct": 32.71,
+   "recordId": "207385",
+   "source": "nse",
+   "submittedOn": "2026-04-02",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1645353_02042026040048_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.15,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 14.98,
+   "fpiShares": null,
+   "promoterPct": 67.29,
+   "publicPct": 32.71,
+   "recordId": "210497",
+   "source": "nse",
+   "submittedOn": "2026-07-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1688017_03072026094801_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.63,
+   "fpiCat2Pct": 1.16,
+   "fpiPct": 15.79,
+   "fpiShares": null,
+   "promoterPct": 67.29,
+   "publicPct": 32.71,
+   "recordId": "213264",
+   "source": "nse",
+   "submittedOn": "2026-10-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1732947_05102026034747_WEB.xml"
+  }
+ },
+ "symbol": "CHENNPETRO"
+}

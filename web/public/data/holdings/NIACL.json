@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "The New India Assurance Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.99,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 1.0,
+   "fpiShares": null,
+   "promoterPct": 85.44,
+   "publicPct": 14.56,
+   "recordId": "206058",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603779_19012026120439_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.98,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 1.01,
+   "fpiShares": null,
+   "promoterPct": 85.44,
+   "publicPct": 14.56,
+   "recordId": "207734",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647971_09042026033922_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.97,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 1.02,
+   "fpiShares": null,
+   "promoterPct": 85.44,
+   "publicPct": 14.56,
+   "recordId": "210600",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689154_08072026010320_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.89,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 0.91,
+   "fpiShares": null,
+   "promoterPct": 85.44,
+   "publicPct": 14.56,
+   "recordId": "213539",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734639_09102026105613_WEB.xml"
+  }
+ },
+ "symbol": "NIACL"
+}

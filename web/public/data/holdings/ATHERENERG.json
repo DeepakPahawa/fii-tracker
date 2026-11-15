@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Ather Energy Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.87,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 7.96,
+   "fpiShares": null,
+   "promoterPct": 40.77,
+   "publicPct": 59.23,
+   "recordId": "209625",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655024_20042026042334_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.56,
+   "fpiCat2Pct": 1.11,
+   "fpiPct": 8.67,
+   "fpiShares": null,
+   "promoterPct": 40.72,
+   "publicPct": 59.28,
+   "recordId": "210817",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690687_10072026062802_WEB.xml"
+  },
+  "2026-07-20": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.55,
+   "fpiCat2Pct": 1.35,
+   "fpiPct": 9.9,
+   "fpiShares": null,
+   "promoterPct": 39.58,
+   "publicPct": 60.42,
+   "recordId": "212991",
+   "source": "nse",
+   "submittedOn": "2026-07-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1703091_28072026045841_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.84,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 11.85,
+   "fpiShares": null,
+   "promoterPct": 42.33,
+   "publicPct": 57.67,
+   "recordId": "214663",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739029_15102026045742_WEB.xml"
+  }
+ },
+ "symbol": "ATHERENERG"
+}

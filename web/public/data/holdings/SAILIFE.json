@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Sai Life Sciences Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.54,
+   "fpiCat2Pct": 0.87,
+   "fpiPct": 21.41,
+   "fpiShares": null,
+   "promoterPct": 34.7,
+   "publicPct": 65.3,
+   "recordId": "206419",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605318_20012026015051_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.94,
+   "fpiCat2Pct": 1.23,
+   "fpiPct": 21.17,
+   "fpiShares": null,
+   "promoterPct": 34.61,
+   "publicPct": 65.39,
+   "recordId": "208352",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650758_14042026052722_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.62,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 19.65,
+   "fpiShares": null,
+   "promoterPct": 34.53,
+   "publicPct": 65.47,
+   "recordId": "212301",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697026_20072026050427_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.8,
+   "fpiCat2Pct": 1.11,
+   "fpiPct": 19.91,
+   "fpiShares": null,
+   "promoterPct": 34.5,
+   "publicPct": 65.5,
+   "recordId": "213414",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733965_07102026063003_WEB.xml"
+  }
+ },
+ "symbol": "SAILIFE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Kotak Mahindra Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.33,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 29.35,
+   "fpiShares": null,
+   "promoterPct": 25.87,
+   "publicPct": 74.13,
+   "recordId": "205820",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602447_16012026044851_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 25.37,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 26.39,
+   "fpiShares": null,
+   "promoterPct": 25.87,
+   "publicPct": 74.13,
+   "recordId": "208880",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652717_16042026082240_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.26,
+   "fpiCat2Pct": 0.94,
+   "fpiPct": 25.2,
+   "fpiShares": null,
+   "promoterPct": 25.87,
+   "publicPct": 74.13,
+   "recordId": "211137",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692686_14072026081830_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.83,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 24.64,
+   "fpiShares": null,
+   "promoterPct": 25.87,
+   "publicPct": 74.13,
+   "recordId": "214609",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738874_15102026035632_WEB.xml"
+  }
+ },
+ "symbol": "KOTAKBANK"
+}

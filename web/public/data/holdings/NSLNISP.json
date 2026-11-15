@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "NMDC Steel Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.49,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 4.81,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "205344",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599425_13012026121753_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.54,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 4.85,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "209305",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654113_18042026033210_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.84,
+   "fpiCat2Pct": 0.64,
+   "fpiPct": 5.48,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "212180",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696666_20072026023855_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.59,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 4.93,
+   "fpiShares": null,
+   "promoterPct": 60.79,
+   "publicPct": 39.21,
+   "recordId": "214615",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738893_15102026040407_WEB.xml"
+  }
+ },
+ "symbol": "NSLNISP"
+}

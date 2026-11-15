@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Craftsman Automation Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.59,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 15.19,
+   "fpiShares": null,
+   "promoterPct": 48.7,
+   "publicPct": 51.3,
+   "recordId": "208628",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651938_16042026122012_WEB.xml"
+  },
+  "2026-06-18": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.41,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 17.15,
+   "fpiShares": null,
+   "promoterPct": 44.42,
+   "publicPct": 55.58,
+   "recordId": "210419",
+   "source": "nse",
+   "submittedOn": "2026-06-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1683533_23062026025410_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.43,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 17.28,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "210832",
+   "source": "nse",
+   "submittedOn": "2026-07-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690883_11072026111837_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.56,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 16.46,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "214462",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738411_15102026090509_WEB.xml"
+  }
+ },
+ "symbol": "CRAFTSMAN"
+}

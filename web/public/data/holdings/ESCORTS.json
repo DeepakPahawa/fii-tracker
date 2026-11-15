@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Escorts Kubota Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.99,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 5.25,
+   "fpiShares": null,
+   "promoterPct": 68.04,
+   "publicPct": 30.3,
+   "recordId": "205428",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599892_13012026044438_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.39,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 5.71,
+   "fpiShares": null,
+   "promoterPct": 68.04,
+   "publicPct": 30.3,
+   "recordId": "209745",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655333_20042026061412_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.31,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 6.36,
+   "fpiShares": null,
+   "promoterPct": 68.04,
+   "publicPct": 30.31,
+   "recordId": "211824",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695516_17072026055043_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.99,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 7.08,
+   "fpiShares": null,
+   "promoterPct": 68.04,
+   "publicPct": 30.32,
+   "recordId": "215877",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742447_21102026105846_WEB.xml"
+  }
+ },
+ "symbol": "ESCORTS"
+}

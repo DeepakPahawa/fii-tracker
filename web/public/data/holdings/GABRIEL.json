@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Gabriel India Ltd.",
+ "quarters": {
+  "2026-06-09": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.16,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 6.51,
+   "fpiShares": null,
+   "promoterPct": 63.55,
+   "publicPct": 36.45,
+   "recordId": "210408",
+   "source": "nse",
+   "submittedOn": "2026-06-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682550_18062026055437_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.06,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 6.35,
+   "fpiShares": null,
+   "promoterPct": 63.55,
+   "publicPct": 36.45,
+   "recordId": "212962",
+   "source": "nse",
+   "submittedOn": "2026-07-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699568_22072026070907_WEB.xml"
+  },
+  "2026-09-11": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.75,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 6.0,
+   "fpiShares": null,
+   "promoterPct": 66.29,
+   "publicPct": 33.71,
+   "recordId": "213195",
+   "source": "nse",
+   "submittedOn": "2026-09-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1725553_18092026075837_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.62,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 5.91,
+   "fpiShares": null,
+   "promoterPct": 66.29,
+   "publicPct": 33.71,
+   "recordId": "215803",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742302_20102026041246_WEB.xml"
+  }
+ },
+ "symbol": "GABRIEL"
+}

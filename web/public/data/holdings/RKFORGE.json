@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Ramkrishna Forgings Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.02,
+   "fpiCat2Pct": 1.73,
+   "fpiPct": 21.75,
+   "fpiShares": null,
+   "promoterPct": 43.33,
+   "publicPct": 56.55,
+   "recordId": "209674",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655161_20042026050935_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.51,
+   "fpiCat2Pct": 1.92,
+   "fpiPct": 20.43,
+   "fpiShares": null,
+   "promoterPct": 43.39,
+   "publicPct": 56.41,
+   "recordId": "211768",
+   "source": "nse",
+   "submittedOn": "2026-08-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1714356_14082026032220_WEB.xml"
+  },
+  "2026-09-19": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.73,
+   "fpiCat2Pct": 2.57,
+   "fpiPct": 17.3,
+   "fpiShares": null,
+   "promoterPct": 39.82,
+   "publicPct": 59.98,
+   "recordId": "213229",
+   "source": "nse",
+   "submittedOn": "2026-09-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1729995_28092026070620_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.38,
+   "fpiCat2Pct": 2.67,
+   "fpiPct": 17.05,
+   "fpiShares": null,
+   "promoterPct": 40.93,
+   "publicPct": 58.88,
+   "recordId": "214475",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738449_15102026104118_WEB.xml"
+  }
+ },
+ "symbol": "RKFORGE"
+}

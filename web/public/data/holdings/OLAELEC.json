@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "Ola Electric Mobility Ltd.",
+ "quarters": {
+  "2026-06-04": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.9,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 5.12,
+   "fpiShares": null,
+   "promoterPct": 32.97,
+   "publicPct": 62.5,
+   "recordId": "210394",
+   "source": "nse",
+   "submittedOn": "2026-06-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1681327_13062026123356_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.95,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 4.11,
+   "fpiShares": null,
+   "promoterPct": 32.97,
+   "publicPct": 62.52,
+   "recordId": "212948",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698979_21072026110945_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.3,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 4.73,
+   "fpiShares": null,
+   "promoterPct": 32.97,
+   "publicPct": 62.52,
+   "recordId": "216027",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742867_21102026033254_WEB.xml"
+  },
+  "2026-11-02": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.23,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 4.56,
+   "fpiShares": null,
+   "promoterPct": 32.49,
+   "publicPct": 63.33,
+   "recordId": "216386",
+   "source": "nse",
+   "submittedOn": "2026-11-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1756129_11112026050915_WEB.xml"
+  }
+ },
+ "symbol": "OLAELEC"
+}

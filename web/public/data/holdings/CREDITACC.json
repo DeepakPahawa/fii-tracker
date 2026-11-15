@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "CreditAccess Grameen Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.67,
+   "fpiCat2Pct": 1.01,
+   "fpiPct": 11.68,
+   "fpiShares": null,
+   "promoterPct": 66.28,
+   "publicPct": 33.72,
+   "recordId": "206013",
+   "source": "nse",
+   "submittedOn": "2026-05-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667549_15052026115527_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.92,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 12.94,
+   "fpiShares": null,
+   "promoterPct": 66.24,
+   "publicPct": 33.76,
+   "recordId": "209429",
+   "source": "nse",
+   "submittedOn": "2026-05-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667556_15052026120107_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.46,
+   "fpiCat2Pct": 1.02,
+   "fpiPct": 13.48,
+   "fpiShares": null,
+   "promoterPct": 66.21,
+   "publicPct": 33.79,
+   "recordId": "211290",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693264_15072026043311_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.68,
+   "fpiCat2Pct": 1.05,
+   "fpiPct": 14.73,
+   "fpiShares": null,
+   "promoterPct": 63.83,
+   "publicPct": 36.17,
+   "recordId": "213939",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736521_13102026103700_WEB.xml"
+  }
+ },
+ "symbol": "CREDITACC"
+}

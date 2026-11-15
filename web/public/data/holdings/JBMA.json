@@ -1,0 +1,59 @@
+{
+ "industry": "Automobile and Auto Components",
+ "name": "JBM Auto Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.83,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 1.92,
+   "fpiShares": null,
+   "promoterPct": 67.53,
+   "publicPct": 32.47,
+   "recordId": "204882",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596349_07012026064331_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.88,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 1.97,
+   "fpiShares": null,
+   "promoterPct": 67.53,
+   "publicPct": 32.47,
+   "recordId": "208204",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650230_13042026081938_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.92,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 2.03,
+   "fpiShares": null,
+   "promoterPct": 67.53,
+   "publicPct": 32.47,
+   "recordId": "210495",
+   "source": "nse",
+   "submittedOn": "2026-07-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1687886_03072026062257_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.85,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 1.93,
+   "fpiShares": null,
+   "promoterPct": 67.53,
+   "publicPct": 32.47,
+   "recordId": "213526",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734556_08102026070426_WEB.xml"
+  }
+ },
+ "symbol": "JBMA"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "E.I.D. Parry (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.75,
+   "fpiCat2Pct": 0.86,
+   "fpiPct": 12.61,
+   "fpiShares": null,
+   "promoterPct": 41.44,
+   "publicPct": 58.56,
+   "recordId": "206496",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605537_20012026035145_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.29,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 12.2,
+   "fpiShares": null,
+   "promoterPct": 41.44,
+   "publicPct": 58.56,
+   "recordId": "209684",
+   "source": "nse",
+   "submittedOn": "2026-06-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679695_05062026033432_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.37,
+   "fpiCat2Pct": 0.84,
+   "fpiPct": 11.21,
+   "fpiShares": null,
+   "promoterPct": 41.28,
+   "publicPct": 58.72,
+   "recordId": "212165",
+   "source": "nse",
+   "submittedOn": "2026-09-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1723581_11092026031058_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.35,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 9.63,
+   "fpiShares": null,
+   "promoterPct": 41.28,
+   "publicPct": 58.72,
+   "recordId": "214798",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739560_16102026115716_WEB.xml"
+  }
+ },
+ "symbol": "EIDPARRY"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "International Gemological Institute Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.29,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 9.61,
+   "fpiShares": null,
+   "promoterPct": 76.55,
+   "publicPct": 23.45,
+   "recordId": "205730",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601968_16012026115659_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.34,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 8.6,
+   "fpiShares": null,
+   "promoterPct": 76.55,
+   "publicPct": 23.45,
+   "recordId": "207672",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647518_08042026060456_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.02,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 9.49,
+   "fpiShares": null,
+   "promoterPct": 76.55,
+   "publicPct": 23.45,
+   "recordId": "210901",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691247_13072026011228_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.5,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 8.79,
+   "fpiShares": null,
+   "promoterPct": 76.55,
+   "publicPct": 23.45,
+   "recordId": "213366",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733703_07102026010357_WEB.xml"
+  }
+ },
+ "symbol": "IGIL"
+}

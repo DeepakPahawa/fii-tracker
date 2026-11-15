@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Tata Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.27,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 5.51,
+   "fpiShares": null,
+   "promoterPct": 55.21,
+   "publicPct": 44.79,
+   "recordId": "206938",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607030_21012026035506_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.53,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 5.77,
+   "fpiShares": null,
+   "promoterPct": 55.18,
+   "publicPct": 44.82,
+   "recordId": "209911",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655806_21042026113733_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.52,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 6.3,
+   "fpiShares": null,
+   "promoterPct": 55.17,
+   "publicPct": 44.83,
+   "recordId": "211328",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693443_15072026054836_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.86,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 6.59,
+   "fpiShares": null,
+   "promoterPct": 55.17,
+   "publicPct": 44.83,
+   "recordId": "214886",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739800_16102026030236_WEB.xml"
+  }
+ },
+ "symbol": "TATATECH"
+}

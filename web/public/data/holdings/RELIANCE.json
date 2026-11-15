@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Reliance Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.31,
+   "fpiCat2Pct": 0.65,
+   "fpiPct": 18.96,
+   "fpiShares": null,
+   "promoterPct": 50.01,
+   "publicPct": 49.99,
+   "recordId": "207095",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607627_21012026071311_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.94,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 18.54,
+   "fpiShares": null,
+   "promoterPct": 50.0,
+   "publicPct": 50.0,
+   "recordId": "209982",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655961_21042026012504_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.52,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 17.06,
+   "fpiShares": null,
+   "promoterPct": 50.48,
+   "publicPct": 49.52,
+   "recordId": "211570",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694620_16072026072434_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.98,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 16.5,
+   "fpiShares": null,
+   "promoterPct": 50.44,
+   "publicPct": 49.56,
+   "recordId": "216074",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742991_21102026042504_WEB.xml"
+  }
+ },
+ "symbol": "RELIANCE"
+}

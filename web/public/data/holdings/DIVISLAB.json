@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Divi's Laboratories Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.4,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 20.08,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "205008",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597165_09012026110757_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.61,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 20.29,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "208391",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650975_15042026085225_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.5,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 20.19,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "211680",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695062_17072026025119_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.66,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 20.38,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "213281",
+   "source": "nse",
+   "submittedOn": "2026-10-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733233_06102026103802_WEB.xml"
+  }
+ },
+ "symbol": "DIVISLAB"
+}

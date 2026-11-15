@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Whirlpool of India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.17,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 11.89,
+   "fpiShares": null,
+   "promoterPct": 39.76,
+   "publicPct": 60.24,
+   "recordId": "205602",
+   "source": "nse",
+   "submittedOn": "2026-01-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601146_14012026073008_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.23,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 11.46,
+   "fpiShares": null,
+   "promoterPct": 39.76,
+   "publicPct": 60.24,
+   "recordId": "209563",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654863_20042026031115_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.25,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 12.48,
+   "fpiShares": null,
+   "promoterPct": 39.76,
+   "publicPct": 60.24,
+   "recordId": "212898",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698800_21072026072232_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.29,
+   "fpiCat2Pct": 0.21,
+   "fpiPct": 12.5,
+   "fpiShares": null,
+   "promoterPct": 39.76,
+   "publicPct": 60.24,
+   "recordId": "215859",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742410_21102026094101_WEB.xml"
+  }
+ },
+ "symbol": "WHIRLPOOL"
+}

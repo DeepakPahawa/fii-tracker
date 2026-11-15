@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Shyam Metalics and Energy Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.12,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 3.21,
+   "fpiShares": null,
+   "promoterPct": 74.59,
+   "publicPct": 25.09,
+   "recordId": "205010",
+   "source": "nse",
+   "submittedOn": "2026-05-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667593_15052026011855_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.05,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 3.09,
+   "fpiShares": null,
+   "promoterPct": 74.59,
+   "publicPct": 25.11,
+   "recordId": "208373",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650854_14042026062257_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.81,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 2.97,
+   "fpiShares": null,
+   "promoterPct": 74.59,
+   "publicPct": 25.14,
+   "recordId": "210658",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689561_09072026120332_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.53,
+   "fpiCat2Pct": 0.76,
+   "fpiPct": 5.29,
+   "fpiShares": null,
+   "promoterPct": 74.59,
+   "publicPct": 25.14,
+   "recordId": "213332",
+   "source": "nse",
+   "submittedOn": "2026-10-06",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733523_06102026061618_WEB.xml"
+  }
+ },
+ "symbol": "SHYAMMETL"
+}

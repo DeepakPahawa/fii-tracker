@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "Dalmia Bharat Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.58,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 7.92,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "206619",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605949_20012026054629_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.14,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 7.15,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "209918",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655819_21042026115137_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.8,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 6.81,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "212692",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698105_21072026030329_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.36,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 7.41,
+   "fpiShares": null,
+   "promoterPct": 55.84,
+   "publicPct": 44.16,
+   "recordId": "215934",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742601_21102026124726_WEB.xml"
+  }
+ },
+ "symbol": "DALBHARAT"
+}

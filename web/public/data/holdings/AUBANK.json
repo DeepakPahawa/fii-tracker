@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "AU Small Finance Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 33.66,
+   "fpiCat2Pct": 2.79,
+   "fpiPct": 36.45,
+   "fpiShares": null,
+   "promoterPct": 22.79,
+   "publicPct": 77.21,
+   "recordId": "205952",
+   "source": "nse",
+   "submittedOn": "2026-01-23",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1608794_23012026105208_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.02,
+   "fpiCat2Pct": 2.25,
+   "fpiPct": 37.27,
+   "fpiShares": null,
+   "promoterPct": 22.76,
+   "publicPct": 77.24,
+   "recordId": "209660",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655100_20042026045414_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 34.93,
+   "fpiCat2Pct": 1.05,
+   "fpiPct": 35.98,
+   "fpiShares": null,
+   "promoterPct": 22.74,
+   "publicPct": 77.26,
+   "recordId": "212572",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697776_21072026112530_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 35.06,
+   "fpiCat2Pct": 1.0,
+   "fpiPct": 36.06,
+   "fpiShares": null,
+   "promoterPct": 22.67,
+   "publicPct": 77.33,
+   "recordId": "215298",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740975_17102026070318_WEB.xml"
+  }
+ },
+ "symbol": "AUBANK"
+}

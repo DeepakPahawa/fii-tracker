@@ -1,0 +1,59 @@
+{
+ "industry": "Telecommunication",
+ "name": "Bharti Hexacom Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.69,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 3.98,
+   "fpiShares": null,
+   "promoterPct": 70.0,
+   "publicPct": 30.0,
+   "recordId": "206149",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604187_19012026034810_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.42,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 3.69,
+   "fpiShares": null,
+   "promoterPct": 70.0,
+   "publicPct": 30.0,
+   "recordId": "209555",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654835_20042026025914_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.31,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 3.58,
+   "fpiShares": null,
+   "promoterPct": 70.0,
+   "publicPct": 30.0,
+   "recordId": "212380",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697257_20072026061204_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.06,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 3.25,
+   "fpiShares": null,
+   "promoterPct": 70.0,
+   "publicPct": 30.0,
+   "recordId": "215532",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741591_19102026043823_WEB.xml"
+  }
+ },
+ "symbol": "BHARTIHEXA"
+}

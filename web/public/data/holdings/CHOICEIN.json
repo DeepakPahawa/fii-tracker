@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Choice International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": 12.16,
+   "fpiPct": 12.16,
+   "fpiShares": null,
+   "promoterPct": 53.65,
+   "publicPct": 46.35,
+   "recordId": "207075",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607575_21012026065312_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": 11.41,
+   "fpiPct": 11.41,
+   "fpiShares": null,
+   "promoterPct": 53.65,
+   "publicPct": 46.35,
+   "recordId": "210206",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656665_21042026070652_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": 10.1,
+   "fpiPct": 10.1,
+   "fpiShares": null,
+   "promoterPct": 53.65,
+   "publicPct": 46.35,
+   "recordId": "212808",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698474_21072026053010_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": null,
+   "fpiCat2Pct": 9.84,
+   "fpiPct": 9.84,
+   "fpiShares": null,
+   "promoterPct": 53.65,
+   "publicPct": 46.35,
+   "recordId": "216233",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743468_21102026071752_WEB.xml"
+  }
+ },
+ "symbol": "CHOICEIN"
+}

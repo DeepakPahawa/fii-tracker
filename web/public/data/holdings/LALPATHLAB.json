@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Dr. Lal Path Labs Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.94,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 20.29,
+   "fpiShares": null,
+   "promoterPct": 53.21,
+   "publicPct": 46.44,
+   "recordId": "206346",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605037_20012026112756_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.95,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 17.18,
+   "fpiShares": null,
+   "promoterPct": 53.21,
+   "publicPct": 46.44,
+   "recordId": "209734",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655316_20042026060944_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.71,
+   "fpiCat2Pct": 0.64,
+   "fpiPct": 17.35,
+   "fpiShares": null,
+   "promoterPct": 53.19,
+   "publicPct": 46.43,
+   "recordId": "212878",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698749_21072026070518_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.18,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 18.73,
+   "fpiShares": null,
+   "promoterPct": 52.93,
+   "publicPct": 46.66,
+   "recordId": "214891",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739810_16102026030639_WEB.xml"
+  }
+ },
+ "symbol": "LALPATHLAB"
+}

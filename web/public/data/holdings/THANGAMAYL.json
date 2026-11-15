@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Thangamayil Jewellery Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.15,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 4.7,
+   "fpiShares": null,
+   "promoterPct": 61.56,
+   "publicPct": 38.44,
+   "recordId": "204765",
+   "source": "nse",
+   "submittedOn": "2026-05-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1668307_16052026035000_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.84,
+   "fpiCat2Pct": 0.53,
+   "fpiPct": 4.37,
+   "fpiShares": null,
+   "promoterPct": 61.61,
+   "publicPct": 38.39,
+   "recordId": "207626",
+   "source": "nse",
+   "submittedOn": "2026-04-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1647285_08042026032001_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.6,
+   "fpiCat2Pct": 0.94,
+   "fpiPct": 5.54,
+   "fpiShares": null,
+   "promoterPct": 61.61,
+   "publicPct": 38.39,
+   "recordId": "211017",
+   "source": "nse",
+   "submittedOn": "2026-09-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722606_08092026060713_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.48,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 5.79,
+   "fpiShares": null,
+   "promoterPct": 61.65,
+   "publicPct": 38.35,
+   "recordId": "213890",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736295_12102026054310_WEB.xml"
+  }
+ },
+ "symbol": "THANGAMAYL"
+}

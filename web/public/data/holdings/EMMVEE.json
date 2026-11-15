@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Emmvee Photovoltaic Power Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.96,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 3.97,
+   "fpiShares": null,
+   "promoterPct": 80.03,
+   "publicPct": 19.97,
+   "recordId": "205228",
+   "source": "nse",
+   "submittedOn": "2026-05-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1669879_20052026034955_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.37,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 2.45,
+   "fpiShares": null,
+   "promoterPct": 80.03,
+   "publicPct": 19.97,
+   "recordId": "207755",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648063_09042026043431_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.18,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 2.92,
+   "fpiShares": null,
+   "promoterPct": 80.03,
+   "publicPct": 19.97,
+   "recordId": "212348",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697164_20072026054540_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.77,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 2.19,
+   "fpiShares": null,
+   "promoterPct": 80.03,
+   "publicPct": 19.97,
+   "recordId": "215563",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741662_19102026050117_WEB.xml"
+  }
+ },
+ "symbol": "EMMVEE"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "NLC India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.12,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 3.22,
+   "fpiShares": null,
+   "promoterPct": 72.2,
+   "publicPct": 27.8,
+   "recordId": "206841",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606697_21012026124817_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.42,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 3.61,
+   "fpiShares": null,
+   "promoterPct": 72.2,
+   "publicPct": 27.8,
+   "recordId": "209383",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654361_18042026064109_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.19,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 4.62,
+   "fpiShares": null,
+   "promoterPct": 69.47,
+   "publicPct": 30.53,
+   "recordId": "212388",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697285_20072026062053_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.38,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 4.61,
+   "fpiShares": null,
+   "promoterPct": 69.47,
+   "publicPct": 30.53,
+   "recordId": "215273",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740876_17102026051531_WEB.xml"
+  }
+ },
+ "symbol": "NLCINDIA"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Fertilisers and Chemicals Travancore Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.15,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 0.2,
+   "fpiShares": null,
+   "promoterPct": 90.0,
+   "publicPct": 10.0,
+   "recordId": "205732",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601978_16012026120601_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.16,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 0.21,
+   "fpiShares": null,
+   "promoterPct": 90.0,
+   "publicPct": 10.0,
+   "recordId": "208744",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652237_16042026041643_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.1,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 0.16,
+   "fpiShares": null,
+   "promoterPct": 90.0,
+   "publicPct": 10.0,
+   "recordId": "210794",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690536_10072026051416_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.11,
+   "fpiCat2Pct": 0.05,
+   "fpiPct": 0.16,
+   "fpiShares": null,
+   "promoterPct": 90.0,
+   "publicPct": 10.0,
+   "recordId": "213596",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734876_09102026034154_WEB.xml"
+  }
+ },
+ "symbol": "FACT"
+}

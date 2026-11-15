@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Alkem Laboratories Ltd.",
+ "quarters": {
+  "2025-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.21,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 9.47,
+   "fpiShares": null,
+   "promoterPct": 51.2,
+   "publicPct": 48.8,
+   "recordId": "202688",
+   "source": "nse",
+   "submittedOn": "2025-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1548946_15102025042935_WEB.xml"
+  },
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.65,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 9.97,
+   "fpiShares": null,
+   "promoterPct": 51.2,
+   "publicPct": 48.8,
+   "recordId": "205326",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599320_13012026111044_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.85,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 10.15,
+   "fpiShares": null,
+   "promoterPct": 51.2,
+   "publicPct": 48.8,
+   "recordId": "208456",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651248_15042026031216_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.11,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 10.42,
+   "fpiShares": null,
+   "promoterPct": 49.7,
+   "publicPct": 50.3,
+   "recordId": "210697",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689784_09072026041014_WEB.xml"
+  }
+ },
+ "symbol": "ALKEM"
+}

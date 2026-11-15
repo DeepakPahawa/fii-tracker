@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "HDFC Life Insurance Company Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.49,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 24.26,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 49.76,
+   "recordId": "206790",
+   "source": "nse",
+   "submittedOn": "2026-04-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1660733_28042026112042_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.84,
+   "fpiCat2Pct": 0.67,
+   "fpiPct": 22.51,
+   "fpiShares": null,
+   "promoterPct": 50.21,
+   "publicPct": 49.77,
+   "recordId": "209879",
+   "source": "nse",
+   "submittedOn": "2026-04-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1660737_28042026112844_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.52,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 19.26,
+   "fpiShares": null,
+   "promoterPct": 50.54,
+   "publicPct": 49.44,
+   "recordId": "212669",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698049_21072026022625_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.97,
+   "fpiCat2Pct": 0.78,
+   "fpiPct": 18.75,
+   "fpiShares": null,
+   "promoterPct": 50.53,
+   "publicPct": 49.44,
+   "recordId": "215631",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741860_19102026061629_WEB.xml"
+  }
+ },
+ "symbol": "HDFCLIFE"
+}

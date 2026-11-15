@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "GAIL (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.56,
+   "fpiCat2Pct": 0.51,
+   "fpiPct": 14.07,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "205543",
+   "source": "nse",
+   "submittedOn": "2026-02-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1618952_05022026032533_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.62,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 13.04,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "207934",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648989_10042026060100_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.6,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 15.0,
+   "fpiShares": null,
+   "promoterPct": 51.79,
+   "publicPct": 48.21,
+   "recordId": "212622",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697877_21072026123606_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.16,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 16.59,
+   "fpiShares": null,
+   "promoterPct": 51.85,
+   "publicPct": 48.15,
+   "recordId": "214348",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737784_14102026042249_WEB.xml"
+  }
+ },
+ "symbol": "GAIL"
+}

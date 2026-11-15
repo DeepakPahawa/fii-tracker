@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Axis Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 41.22,
+   "fpiCat2Pct": 1.35,
+   "fpiPct": 42.57,
+   "fpiShares": null,
+   "promoterPct": 8.15,
+   "publicPct": 91.85,
+   "recordId": "205073",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597452_09012026032719_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 40.7,
+   "fpiCat2Pct": 1.34,
+   "fpiPct": 42.04,
+   "fpiShares": null,
+   "promoterPct": 8.14,
+   "publicPct": 91.86,
+   "recordId": "208037",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649482_13042026101953_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 38.62,
+   "fpiCat2Pct": 1.29,
+   "fpiPct": 39.91,
+   "fpiShares": null,
+   "promoterPct": 7.87,
+   "publicPct": 92.13,
+   "recordId": "210986",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 36.88,
+   "fpiCat2Pct": 1.17,
+   "fpiPct": 38.05,
+   "fpiShares": null,
+   "promoterPct": 7.86,
+   "publicPct": 92.14,
+   "recordId": "213667",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735162_09102026064511_WEB.xml"
+  }
+ },
+ "symbol": "AXISBANK"
+}

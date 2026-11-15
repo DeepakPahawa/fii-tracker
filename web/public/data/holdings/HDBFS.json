@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "HDB Financial Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.12,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 3.32,
+   "fpiShares": null,
+   "promoterPct": 74.15,
+   "publicPct": 25.62,
+   "recordId": "206647",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606066_20012026061726_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.81,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 3.01,
+   "fpiShares": null,
+   "promoterPct": 74.12,
+   "publicPct": 25.65,
+   "recordId": "209721",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655290_20042026055933_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.19,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 3.55,
+   "fpiShares": null,
+   "promoterPct": 74.12,
+   "publicPct": 25.65,
+   "recordId": "211312",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693368_15072026051820_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.8,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 4.04,
+   "fpiShares": null,
+   "promoterPct": 74.08,
+   "publicPct": 25.69,
+   "recordId": "214566",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738727_15102026023026_WEB.xml"
+  }
+ },
+ "symbol": "HDBFS"
+}

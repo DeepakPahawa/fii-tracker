@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Neuland Laboratories Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.43,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 20.9,
+   "fpiShares": null,
+   "promoterPct": 32.63,
+   "publicPct": 67.37,
+   "recordId": "204848",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596083_07012026035607_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.06,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 20.46,
+   "fpiShares": null,
+   "promoterPct": 32.63,
+   "publicPct": 67.37,
+   "recordId": "207975",
+   "source": "nse",
+   "submittedOn": "2026-04-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649252_11042026113922_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.3,
+   "fpiCat2Pct": 1.78,
+   "fpiPct": 21.08,
+   "fpiShares": null,
+   "promoterPct": 32.62,
+   "publicPct": 67.38,
+   "recordId": "212081",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696377_20072026085555_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.4,
+   "fpiCat2Pct": 2.53,
+   "fpiPct": 21.93,
+   "fpiShares": null,
+   "promoterPct": 32.26,
+   "publicPct": 67.74,
+   "recordId": "213840",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736092_12102026034744_WEB.xml"
+  }
+ },
+ "symbol": "NEULANDLAB"
+}

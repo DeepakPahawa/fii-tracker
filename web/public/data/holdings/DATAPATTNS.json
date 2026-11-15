@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Data Patterns (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.69,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 11.54,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "206932",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607002_21012026034347_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.14,
+   "fpiCat2Pct": 1.33,
+   "fpiPct": 12.47,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "208770",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652314_16042026044652_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.94,
+   "fpiCat2Pct": 1.56,
+   "fpiPct": 12.5,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "211526",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694399_16072026053327_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.45,
+   "fpiCat2Pct": 0.89,
+   "fpiPct": 11.34,
+   "fpiShares": null,
+   "promoterPct": 42.41,
+   "publicPct": 57.59,
+   "recordId": "214436",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738068_14102026063149_WEB.xml"
+  }
+ },
+ "symbol": "DATAPATTNS"
+}

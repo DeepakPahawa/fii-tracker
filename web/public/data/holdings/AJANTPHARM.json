@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Ajanta Pharmaceuticals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.7,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 7.97,
+   "fpiShares": null,
+   "promoterPct": 66.25,
+   "publicPct": 33.75,
+   "recordId": "205198",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598406_12012026114131_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.88,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 8.26,
+   "fpiShares": null,
+   "promoterPct": 66.25,
+   "publicPct": 33.75,
+   "recordId": "208051",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649511_13042026112752_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.37,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 7.68,
+   "fpiShares": null,
+   "promoterPct": 63.48,
+   "publicPct": 36.52,
+   "recordId": "211051",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692098_14072026024314_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.31,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 7.62,
+   "fpiShares": null,
+   "promoterPct": 63.47,
+   "publicPct": 36.53,
+   "recordId": "213940",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736523_13102026103758_WEB.xml"
+  }
+ },
+ "symbol": "AJANTPHARM"
+}

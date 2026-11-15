@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "GMR Airports Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.9,
+   "fpiCat2Pct": 2.04,
+   "fpiPct": 18.94,
+   "fpiShares": null,
+   "promoterPct": 66.24,
+   "publicPct": 33.76,
+   "recordId": "207022",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607318_21012026053222_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.93,
+   "fpiCat2Pct": 2.22,
+   "fpiPct": 20.15,
+   "fpiShares": null,
+   "promoterPct": 66.33,
+   "publicPct": 33.67,
+   "recordId": "210259",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656837_21042026090451_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.62,
+   "fpiCat2Pct": 2.1,
+   "fpiPct": 21.72,
+   "fpiShares": null,
+   "promoterPct": 67.16,
+   "publicPct": 32.84,
+   "recordId": "212943",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698964_21072026101330_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.94,
+   "fpiCat2Pct": 1.99,
+   "fpiPct": 22.93,
+   "fpiShares": null,
+   "promoterPct": 67.48,
+   "publicPct": 32.52,
+   "recordId": "215681",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741974_19102026071903_WEB.xml"
+  }
+ },
+ "symbol": "GMRAIRPORT"
+}

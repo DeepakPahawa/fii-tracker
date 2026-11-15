@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "Lemon Tree Hotels Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.1,
+   "fpiCat2Pct": 2.4,
+   "fpiPct": 21.5,
+   "fpiShares": null,
+   "promoterPct": 22.28,
+   "publicPct": 77.67,
+   "recordId": "205984",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603523_17012026064454_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.01,
+   "fpiCat2Pct": 2.58,
+   "fpiPct": 21.59,
+   "fpiShares": null,
+   "promoterPct": 22.32,
+   "publicPct": 77.63,
+   "recordId": "209028",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653152_17042026035709_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.11,
+   "fpiCat2Pct": 2.33,
+   "fpiPct": 19.44,
+   "fpiShares": null,
+   "promoterPct": 22.32,
+   "publicPct": 77.63,
+   "recordId": "210580",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689097_08072026113706_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.17,
+   "fpiCat2Pct": 2.1,
+   "fpiPct": 18.27,
+   "fpiShares": null,
+   "promoterPct": 22.32,
+   "publicPct": 77.63,
+   "recordId": "216033",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742878_21102026033846_WEB.xml"
+  }
+ },
+ "symbol": "LEMONTREE"
+}

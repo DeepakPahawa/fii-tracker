@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "Intellect Design Arena Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.28,
+   "fpiCat2Pct": 2.32,
+   "fpiPct": 26.6,
+   "fpiShares": null,
+   "promoterPct": 29.81,
+   "publicPct": 70.19,
+   "recordId": "206669",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606134_20012026063924_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.3,
+   "fpiCat2Pct": 2.27,
+   "fpiPct": 25.57,
+   "fpiShares": null,
+   "promoterPct": 29.73,
+   "publicPct": 70.27,
+   "recordId": "208791",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652386_16042026051427_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.38,
+   "fpiCat2Pct": 2.13,
+   "fpiPct": 23.51,
+   "fpiShares": null,
+   "promoterPct": 29.62,
+   "publicPct": 70.38,
+   "recordId": "211463",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694085_16072026031329_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.3,
+   "fpiCat2Pct": 2.1,
+   "fpiPct": 21.4,
+   "fpiShares": null,
+   "promoterPct": 29.56,
+   "publicPct": 70.44,
+   "recordId": "214357",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737801_14102026043150_WEB.xml"
+  }
+ },
+ "symbol": "INTELLECT"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Supreme Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.5,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 19.23,
+   "fpiShares": null,
+   "promoterPct": 48.96,
+   "publicPct": 51.04,
+   "recordId": "205418",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599808_13012026041429_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.44,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 17.12,
+   "fpiShares": null,
+   "promoterPct": 48.96,
+   "publicPct": 51.04,
+   "recordId": "208086",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649630_13042026010411_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.42,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 17.08,
+   "fpiShares": null,
+   "promoterPct": 48.96,
+   "publicPct": 51.04,
+   "recordId": "211687",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695080_17072026025954_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.91,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 16.57,
+   "fpiShares": null,
+   "promoterPct": 48.96,
+   "publicPct": 51.04,
+   "recordId": "215504",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741515_19102026040159_WEB.xml"
+  }
+ },
+ "symbol": "SUPREMEIND"
+}

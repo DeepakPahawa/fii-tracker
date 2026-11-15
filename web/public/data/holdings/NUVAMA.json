@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Nuvama Wealth Management Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.54,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 16.39,
+   "fpiShares": null,
+   "promoterPct": 54.2,
+   "publicPct": 45.8,
+   "recordId": "206688",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606191_20012026070232_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.04,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 16.94,
+   "fpiShares": null,
+   "promoterPct": 54.13,
+   "publicPct": 45.87,
+   "recordId": "208538",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651532_15042026053642_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.61,
+   "fpiCat2Pct": 1.39,
+   "fpiPct": 19.0,
+   "fpiShares": null,
+   "promoterPct": 53.98,
+   "publicPct": 46.02,
+   "recordId": "211750",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695272_17072026042928_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.06,
+   "fpiCat2Pct": 1.91,
+   "fpiPct": 19.97,
+   "fpiShares": null,
+   "promoterPct": 53.4,
+   "publicPct": 46.6,
+   "recordId": "214718",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739231_15102026061138_WEB.xml"
+  }
+ },
+ "symbol": "NUVAMA"
+}

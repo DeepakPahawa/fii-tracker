@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Godawari Power & Ispat Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.57,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 5.9,
+   "fpiShares": null,
+   "promoterPct": 63.49,
+   "publicPct": 36.51,
+   "recordId": "206608",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605927_20012026054046_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.56,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 5.94,
+   "fpiShares": null,
+   "promoterPct": 63.34,
+   "publicPct": 36.66,
+   "recordId": "209676",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655164_20042026051120_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.76,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.0,
+   "fpiShares": null,
+   "promoterPct": 63.18,
+   "publicPct": 36.82,
+   "recordId": "211838",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695564_17072026060657_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.2,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 5.36,
+   "fpiShares": null,
+   "promoterPct": 63.17,
+   "publicPct": 36.83,
+   "recordId": "215033",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740157_16102026052513_WEB.xml"
+  }
+ },
+ "symbol": "GPIL"
+}

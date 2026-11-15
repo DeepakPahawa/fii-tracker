@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Central Bank of India",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.75,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.75,
+   "fpiShares": null,
+   "promoterPct": 89.27,
+   "publicPct": 10.73,
+   "recordId": "208516",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651442_15042026045039_WEB.xml"
+  },
+  "2026-05-27": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.84,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.84,
+   "fpiShares": null,
+   "promoterPct": 81.19,
+   "publicPct": 18.81,
+   "recordId": "210360",
+   "source": "nse",
+   "submittedOn": "2026-05-27",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1674185_27052026062021_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.85,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 0.93,
+   "fpiShares": null,
+   "promoterPct": 81.19,
+   "publicPct": 18.81,
+   "recordId": "211979",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696040_18072026024332_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.27,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 1.29,
+   "fpiShares": null,
+   "promoterPct": 81.19,
+   "publicPct": 18.81,
+   "recordId": "214790",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739544_16102026114629_WEB.xml"
+  }
+ },
+ "symbol": "CENTRALBK"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Zydus Wellness Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.07,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 3.27,
+   "fpiShares": null,
+   "promoterPct": 69.63,
+   "publicPct": 30.37,
+   "recordId": "205353",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599449_13012026123703_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.98,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 3.17,
+   "fpiShares": null,
+   "promoterPct": 69.63,
+   "publicPct": 30.37,
+   "recordId": "208526",
+   "source": "nse",
+   "submittedOn": "2026-05-01",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1662795_01052026022827_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.08,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 3.32,
+   "fpiShares": null,
+   "promoterPct": 69.64,
+   "publicPct": 30.36,
+   "recordId": "211540",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694446_16072026055738_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.35,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 3.57,
+   "fpiShares": null,
+   "promoterPct": 69.64,
+   "publicPct": 30.36,
+   "recordId": "213934",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736511_13102026101551_WEB.xml"
+  }
+ },
+ "symbol": "ZYDUSWELL"
+}

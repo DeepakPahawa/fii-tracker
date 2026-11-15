@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Bandhan Bank Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.15,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 19.84,
+   "fpiShares": null,
+   "promoterPct": 39.74,
+   "publicPct": 60.26,
+   "recordId": "206682",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606157_20012026065055_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.15,
+   "fpiCat2Pct": 0.68,
+   "fpiPct": 19.83,
+   "fpiShares": null,
+   "promoterPct": 38.98,
+   "publicPct": 61.02,
+   "recordId": "210143",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656431_21042026053534_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.89,
+   "fpiCat2Pct": 0.83,
+   "fpiPct": 17.72,
+   "fpiShares": null,
+   "promoterPct": 37.54,
+   "publicPct": 62.46,
+   "recordId": "212926",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698905_21072026082551_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.94,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 16.57,
+   "fpiShares": null,
+   "promoterPct": 37.0,
+   "publicPct": 63.0,
+   "recordId": "214836",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739681_16102026012227_WEB.xml"
+  }
+ },
+ "symbol": "BANDHANBNK"
+}

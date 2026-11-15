@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Tata Steel Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.92,
+   "fpiCat2Pct": 0.57,
+   "fpiPct": 17.49,
+   "fpiShares": null,
+   "promoterPct": 33.19,
+   "publicPct": 66.81,
+   "recordId": "206760",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606440_20012026112030_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.84,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 18.58,
+   "fpiShares": null,
+   "promoterPct": 33.19,
+   "publicPct": 66.81,
+   "recordId": "209814",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655524_20042026072320_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.27,
+   "fpiCat2Pct": 0.63,
+   "fpiPct": 18.9,
+   "fpiShares": null,
+   "promoterPct": 32.94,
+   "publicPct": 67.06,
+   "recordId": "212516",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697643_20072026103745_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.17,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 17.72,
+   "fpiShares": null,
+   "promoterPct": 32.94,
+   "publicPct": 67.06,
+   "recordId": "215365",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741178_19102026114757_WEB.xml"
+  }
+ },
+ "symbol": "TATASTEEL"
+}

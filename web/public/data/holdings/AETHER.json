@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Aether Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.32,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 5.81,
+   "fpiShares": null,
+   "promoterPct": 74.98,
+   "publicPct": 25.02,
+   "recordId": "204840",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596042_07012026032841_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.86,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 6.29,
+   "fpiShares": null,
+   "promoterPct": 74.95,
+   "publicPct": 25.05,
+   "recordId": "208098",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649665_13042026020159_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.65,
+   "fpiCat2Pct": 0.77,
+   "fpiPct": 7.42,
+   "fpiShares": null,
+   "promoterPct": 74.93,
+   "publicPct": 25.07,
+   "recordId": "210965",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691554_13072026051246_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.46,
+   "fpiCat2Pct": 1.03,
+   "fpiPct": 8.49,
+   "fpiShares": null,
+   "promoterPct": 74.92,
+   "publicPct": 25.08,
+   "recordId": "213493",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734361_08102026044208_WEB.xml"
+  }
+ },
+ "symbol": "AETHER"
+}

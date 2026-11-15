@@ -1,0 +1,46 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Vedanta Aluminium Metal Ltd.",
+ "quarters": {
+  "2026-06-12": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.47,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 14.05,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "210402",
+   "source": "nse",
+   "submittedOn": "2026-06-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682012_16062026033148_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.94,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 12.55,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "212368",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697225_20072026060149_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.49,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 11.04,
+   "fpiShares": null,
+   "promoterPct": 56.38,
+   "publicPct": 43.46,
+   "recordId": "215170",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740603_17102026122959_WEB.xml"
+  }
+ },
+ "symbol": "VAML"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Jio Financial Services Ltd.",
+ "quarters": {
+  "2026-04-21": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.17,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 11.54,
+   "fpiShares": null,
+   "promoterPct": 49.13,
+   "publicPct": 50.87,
+   "recordId": "210303",
+   "source": "nse",
+   "submittedOn": "2026-04-24",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1658211_24042026010209_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.84,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 11.21,
+   "fpiShares": null,
+   "promoterPct": 49.13,
+   "publicPct": 50.87,
+   "recordId": "212192",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696716_20072026030349_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.22,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 10.59,
+   "fpiShares": null,
+   "promoterPct": 49.13,
+   "publicPct": 50.87,
+   "recordId": "215941",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742627_21102026125748_WEB.xml"
+  },
+  "2026-10-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.63,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 9.94,
+   "fpiShares": null,
+   "promoterPct": 50.98,
+   "publicPct": 49.02,
+   "recordId": "216356",
+   "source": "nse",
+   "submittedOn": "2026-11-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1751659_03112026122429_WEB.xml"
+  }
+ },
+ "symbol": "JIOFIN"
+}

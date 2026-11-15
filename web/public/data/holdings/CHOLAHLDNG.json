@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Cholamandalam Financial Holdings Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.41,
+   "fpiCat2Pct": 1.93,
+   "fpiPct": 16.34,
+   "fpiShares": null,
+   "promoterPct": 46.38,
+   "publicPct": 53.62,
+   "recordId": "206230",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604507_19012026053136_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.06,
+   "fpiCat2Pct": 1.62,
+   "fpiPct": 13.68,
+   "fpiShares": null,
+   "promoterPct": 46.38,
+   "publicPct": 53.62,
+   "recordId": "208901",
+   "source": "nse",
+   "submittedOn": "2026-06-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1679135_03062026114819_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.25,
+   "fpiCat2Pct": 1.62,
+   "fpiPct": 12.87,
+   "fpiShares": null,
+   "promoterPct": 46.43,
+   "publicPct": 53.57,
+   "recordId": "211581",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694713_16072026112648_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.27,
+   "fpiCat2Pct": 1.17,
+   "fpiPct": 12.44,
+   "fpiShares": null,
+   "promoterPct": 46.39,
+   "publicPct": 53.61,
+   "recordId": "214062",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736852_13102026031724_WEB.xml"
+  }
+ },
+ "symbol": "CHOLAHLDNG"
+}

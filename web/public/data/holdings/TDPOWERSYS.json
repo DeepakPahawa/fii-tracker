@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "TD Power Systems Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.58,
+   "fpiCat2Pct": 2.11,
+   "fpiPct": 26.69,
+   "fpiShares": null,
+   "promoterPct": 26.87,
+   "publicPct": 73.13,
+   "recordId": "208079",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649607_13042026124938_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.66,
+   "fpiCat2Pct": 2.52,
+   "fpiPct": 26.18,
+   "fpiShares": null,
+   "promoterPct": 26.87,
+   "publicPct": 73.13,
+   "recordId": "210747",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690183_10072026115416_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.1,
+   "fpiCat2Pct": 1.76,
+   "fpiPct": 22.86,
+   "fpiShares": null,
+   "promoterPct": 27.16,
+   "publicPct": 72.84,
+   "recordId": "213337",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733612_07102026013225_WEB.xml"
+  },
+  "2026-10-12": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.16,
+   "fpiCat2Pct": 1.5,
+   "fpiPct": 22.66,
+   "fpiShares": null,
+   "promoterPct": 26.51,
+   "publicPct": 73.49,
+   "recordId": "215507",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741524_19102026040454_WEB.xml"
+  }
+ },
+ "symbol": "TDPOWERSYS"
+}

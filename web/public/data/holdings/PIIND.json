@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "PI Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.05,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 15.97,
+   "fpiShares": null,
+   "promoterPct": 46.09,
+   "publicPct": 53.9,
+   "recordId": "206599",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605907_20012026053607_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.96,
+   "fpiCat2Pct": 0.91,
+   "fpiPct": 15.87,
+   "fpiShares": null,
+   "promoterPct": 46.09,
+   "publicPct": 53.9,
+   "recordId": "209783",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655439_20042026064902_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.95,
+   "fpiCat2Pct": 0.88,
+   "fpiPct": 14.83,
+   "fpiShares": null,
+   "promoterPct": 46.09,
+   "publicPct": 53.91,
+   "recordId": "212809",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698475_21072026053125_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.98,
+   "fpiCat2Pct": 0.81,
+   "fpiPct": 14.79,
+   "fpiShares": null,
+   "promoterPct": 46.09,
+   "publicPct": 53.91,
+   "recordId": "215884",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742461_21102026111041_WEB.xml"
+  }
+ },
+ "symbol": "PIIND"
+}

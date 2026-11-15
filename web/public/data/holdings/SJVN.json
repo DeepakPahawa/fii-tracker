@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "SJVN Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.61,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 2.69,
+   "fpiShares": null,
+   "promoterPct": 81.85,
+   "publicPct": 18.15,
+   "recordId": "204742",
+   "source": "nse",
+   "submittedOn": "2026-01-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595034_05012026052740_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.66,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 2.75,
+   "fpiShares": null,
+   "promoterPct": 81.85,
+   "publicPct": 18.15,
+   "recordId": "207546",
+   "source": "nse",
+   "submittedOn": "2026-04-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1646772_07042026050727_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.71,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 2.79,
+   "fpiShares": null,
+   "promoterPct": 81.85,
+   "publicPct": 18.15,
+   "recordId": "210690",
+   "source": "nse",
+   "submittedOn": "2026-07-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689731_09072026033620_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.57,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 2.65,
+   "fpiShares": null,
+   "promoterPct": 81.85,
+   "publicPct": 18.15,
+   "recordId": "213429",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734117_08102026114024_WEB.xml"
+  }
+ },
+ "symbol": "SJVN"
+}

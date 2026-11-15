@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Anupam Rasayan India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.21,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 7.6,
+   "fpiShares": null,
+   "promoterPct": 59.07,
+   "publicPct": 40.93,
+   "recordId": "205972",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603443_17012026053404_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.8,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 6.91,
+   "fpiShares": null,
+   "promoterPct": 59.07,
+   "publicPct": 40.93,
+   "recordId": "209828",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655564_20042026074842_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.62,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 7.72,
+   "fpiShares": null,
+   "promoterPct": 59.07,
+   "publicPct": 40.93,
+   "recordId": "212636",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697930_21072026010616_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.23,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 8.65,
+   "fpiShares": null,
+   "promoterPct": 59.07,
+   "publicPct": 40.93,
+   "recordId": "215717",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742099_19102026090252_WEB.xml"
+  }
+ },
+ "symbol": "ANURAS"
+}

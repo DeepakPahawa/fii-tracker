@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "MTAR Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.47,
+   "fpiCat2Pct": 1.77,
+   "fpiPct": 12.24,
+   "fpiShares": null,
+   "promoterPct": 30.6,
+   "publicPct": 69.4,
+   "recordId": "206366",
+   "source": "nse",
+   "submittedOn": "2026-02-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1626961_17022026034715_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.53,
+   "fpiCat2Pct": 2.78,
+   "fpiPct": 17.31,
+   "fpiShares": null,
+   "promoterPct": 30.44,
+   "publicPct": 69.56,
+   "recordId": "208164",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649953_13042026050429_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.21,
+   "fpiCat2Pct": 3.59,
+   "fpiPct": 24.8,
+   "fpiShares": null,
+   "promoterPct": 29.36,
+   "publicPct": 70.64,
+   "recordId": "211818",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695497_17072026054400_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.0,
+   "fpiCat2Pct": 2.87,
+   "fpiPct": 20.87,
+   "fpiShares": null,
+   "promoterPct": 29.23,
+   "publicPct": 70.77,
+   "recordId": "214438",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738079_14102026063605_WEB.xml"
+  }
+ },
+ "symbol": "MTARTECH"
+}

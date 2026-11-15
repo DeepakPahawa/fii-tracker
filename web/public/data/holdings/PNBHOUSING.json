@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "PNB Housing Finance Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.78,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 17.22,
+   "fpiShares": null,
+   "promoterPct": 28.04,
+   "publicPct": 71.96,
+   "recordId": "206195",
+   "source": "nse",
+   "submittedOn": "2026-07-30",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1705483_30072026063748_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.23,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 16.6,
+   "fpiShares": null,
+   "promoterPct": 28.04,
+   "publicPct": 71.96,
+   "recordId": "209319",
+   "source": "nse",
+   "submittedOn": "2026-07-30",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1705746_30072026102122_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.34,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 16.81,
+   "fpiShares": null,
+   "promoterPct": 28.03,
+   "publicPct": 71.97,
+   "recordId": "212357",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697182_20072026055035_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.46,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 14.19,
+   "fpiShares": null,
+   "promoterPct": 28.01,
+   "publicPct": 71.99,
+   "recordId": "215338",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741115_19102026101907_WEB.xml"
+  }
+ },
+ "symbol": "PNBHOUSING"
+}

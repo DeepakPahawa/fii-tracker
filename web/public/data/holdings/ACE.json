@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Action Construction Equipment Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.15,
+   "fpiCat2Pct": 0.25,
+   "fpiPct": 10.4,
+   "fpiShares": null,
+   "promoterPct": 65.42,
+   "publicPct": 34.52,
+   "recordId": "205414",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599791_13012026040907_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.22,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 9.58,
+   "fpiShares": null,
+   "promoterPct": 65.42,
+   "publicPct": 34.52,
+   "recordId": "208983",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653021_17042026022239_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.21,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 7.82,
+   "fpiShares": null,
+   "promoterPct": 65.42,
+   "publicPct": 34.53,
+   "recordId": "210639",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689371_08072026053128_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.84,
+   "fpiCat2Pct": 0.6,
+   "fpiPct": 8.44,
+   "fpiShares": null,
+   "promoterPct": 65.42,
+   "publicPct": 34.54,
+   "recordId": "215561",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741660_19102026050042_WEB.xml"
+  }
+ },
+ "symbol": "ACE"
+}

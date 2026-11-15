@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Sun Pharmaceutical Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.4,
+   "fpiCat2Pct": 0.72,
+   "fpiPct": 16.12,
+   "fpiShares": null,
+   "promoterPct": 54.48,
+   "publicPct": 45.52,
+   "recordId": "205678",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601600_15012026043651_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.33,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 15.94,
+   "fpiShares": null,
+   "promoterPct": 54.48,
+   "publicPct": 45.52,
+   "recordId": "209199",
+   "source": "nse",
+   "submittedOn": "2026-06-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682212_17062026123958_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.15,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 14.54,
+   "fpiShares": null,
+   "promoterPct": 54.48,
+   "publicPct": 45.52,
+   "recordId": "211631",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694893_17072026122439_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.97,
+   "fpiCat2Pct": 0.39,
+   "fpiPct": 14.36,
+   "fpiShares": null,
+   "promoterPct": 52.68,
+   "publicPct": 47.32,
+   "recordId": "214483",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738462_15102026105915_WEB.xml"
+  }
+ },
+ "symbol": "SUNPHARMA"
+}

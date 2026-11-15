@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "PCBL Chemical Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.49,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 5.68,
+   "fpiShares": null,
+   "promoterPct": 53.38,
+   "publicPct": 46.62,
+   "recordId": "206417",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605306_20012026013323_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.38,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 5.56,
+   "fpiShares": null,
+   "promoterPct": 53.38,
+   "publicPct": 46.62,
+   "recordId": "209771",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655387_20042026063748_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.62,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 5.79,
+   "fpiShares": null,
+   "promoterPct": 53.38,
+   "publicPct": 46.62,
+   "recordId": "212806",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698467_21072026052512_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.0,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 6.34,
+   "fpiShares": null,
+   "promoterPct": 53.38,
+   "publicPct": 46.62,
+   "recordId": "214840",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739688_16102026013916_WEB.xml"
+  }
+ },
+ "symbol": "PCBL"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Blue Star Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.21,
+   "fpiCat2Pct": 1.4,
+   "fpiPct": 14.61,
+   "fpiShares": null,
+   "promoterPct": 36.49,
+   "publicPct": 63.5,
+   "recordId": "207083",
+   "source": "nse",
+   "submittedOn": "2026-09-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1729642_28092026043201_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.77,
+   "fpiCat2Pct": 0.99,
+   "fpiPct": 13.76,
+   "fpiShares": null,
+   "promoterPct": 36.49,
+   "publicPct": 63.5,
+   "recordId": "208625",
+   "source": "nse",
+   "submittedOn": "2026-09-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1722966_09092026045606_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.83,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 12.75,
+   "fpiShares": null,
+   "promoterPct": 36.5,
+   "publicPct": 63.49,
+   "recordId": "212964",
+   "source": "nse",
+   "submittedOn": "2026-07-22",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1699615_22072026080442_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.56,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 12.29,
+   "fpiShares": null,
+   "promoterPct": 36.5,
+   "publicPct": 63.49,
+   "recordId": "215310",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741009_17102026084603_WEB.xml"
+  }
+ },
+ "symbol": "BLUESTARCO"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Chemicals",
+ "name": "Tata Chemicals Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.86,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 12.26,
+   "fpiShares": null,
+   "promoterPct": 37.98,
+   "publicPct": 62.02,
+   "recordId": "206927",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606982_21012026033807_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.56,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 11.9,
+   "fpiShares": null,
+   "promoterPct": 37.98,
+   "publicPct": 62.02,
+   "recordId": "210258",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656833_21042026085714_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.78,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 12.06,
+   "fpiShares": null,
+   "promoterPct": 37.98,
+   "publicPct": 62.02,
+   "recordId": "212484",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697575_20072026084240_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.41,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 11.7,
+   "fpiShares": null,
+   "promoterPct": 37.98,
+   "publicPct": 62.02,
+   "recordId": "214768",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739495_16102026104315_WEB.xml"
+  }
+ },
+ "symbol": "TATACHEM"
+}

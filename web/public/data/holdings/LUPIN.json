@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Lupin Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.76,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 21.5,
+   "fpiShares": null,
+   "promoterPct": 46.89,
+   "publicPct": 53.11,
+   "recordId": "206515",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605603_20012026041357_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.96,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 21.7,
+   "fpiShares": null,
+   "promoterPct": 46.86,
+   "publicPct": 53.14,
+   "recordId": "209708",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655255_20042026054102_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 21.73,
+   "fpiCat2Pct": 0.69,
+   "fpiPct": 22.42,
+   "fpiShares": null,
+   "promoterPct": 46.85,
+   "publicPct": 53.15,
+   "recordId": "212661",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698021_21072026020405_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.54,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 23.28,
+   "fpiShares": null,
+   "promoterPct": 46.84,
+   "publicPct": 53.16,
+   "recordId": "215362",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741171_19102026114146_WEB.xml"
+  }
+ },
+ "symbol": "LUPIN"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Engineers India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.37,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 7.74,
+   "fpiShares": null,
+   "promoterPct": 51.32,
+   "publicPct": 48.68,
+   "recordId": "205636",
+   "source": "nse",
+   "submittedOn": "2026-01-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1601412_15012026014231_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.12,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 9.66,
+   "fpiShares": null,
+   "promoterPct": 51.32,
+   "publicPct": 48.68,
+   "recordId": "208725",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652183_16042026034538_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.32,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 9.17,
+   "fpiShares": null,
+   "promoterPct": 51.32,
+   "publicPct": 48.68,
+   "recordId": "211071",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692204_14072026033843_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.27,
+   "fpiCat2Pct": 0.82,
+   "fpiPct": 8.09,
+   "fpiShares": null,
+   "promoterPct": 51.32,
+   "publicPct": 48.68,
+   "recordId": "213943",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736526_13102026104009_WEB.xml"
+  }
+ },
+ "symbol": "ENGINERSIN"
+}

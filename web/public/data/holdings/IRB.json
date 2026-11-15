@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "IRB Infrastructure Developers Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.92,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 7.04,
+   "fpiShares": null,
+   "promoterPct": 30.79,
+   "publicPct": 69.21,
+   "recordId": "207950",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649069_10042026064643_WEB.xml"
+  },
+  "2026-04-02": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.92,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 7.04,
+   "fpiShares": null,
+   "promoterPct": 30.79,
+   "publicPct": 69.21,
+   "recordId": "207959",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649127_10042026073125_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.89,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 7.07,
+   "fpiShares": null,
+   "promoterPct": 30.81,
+   "publicPct": 69.19,
+   "recordId": "211759",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695315_17072026044548_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.71,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 6.83,
+   "fpiShares": null,
+   "promoterPct": 31.18,
+   "publicPct": 68.82,
+   "recordId": "215434",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741352_19102026022706_WEB.xml"
+  }
+ },
+ "symbol": "IRB"
+}

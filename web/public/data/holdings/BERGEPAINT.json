@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Berger Paints India Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.24,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 5.25,
+   "fpiShares": null,
+   "promoterPct": 74.98,
+   "publicPct": 25.02,
+   "recordId": "205814",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602413_16012026043911_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.66,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 4.68,
+   "fpiShares": null,
+   "promoterPct": 74.98,
+   "publicPct": 25.02,
+   "recordId": "208686",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652099_16042026024757_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.79,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 4.82,
+   "fpiShares": null,
+   "promoterPct": 74.98,
+   "publicPct": 25.02,
+   "recordId": "211646",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694950_17072026011311_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.93,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 4.96,
+   "fpiShares": null,
+   "promoterPct": 74.99,
+   "publicPct": 25.01,
+   "recordId": "214510",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738543_15102026121750_WEB.xml"
+  }
+ },
+ "symbol": "BERGEPAINT"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Services",
+ "name": "TBO Tek Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.38,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 8.55,
+   "fpiShares": null,
+   "promoterPct": 44.41,
+   "publicPct": 53.7,
+   "recordId": "206820",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606619_21012026120137_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.24,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 7.41,
+   "fpiShares": null,
+   "promoterPct": 44.41,
+   "publicPct": 53.93,
+   "recordId": "209757",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655357_20042026062237_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.45,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 6.63,
+   "fpiShares": null,
+   "promoterPct": 44.41,
+   "publicPct": 54.06,
+   "recordId": "212829",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698569_21072026055730_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.65,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.89,
+   "fpiShares": null,
+   "promoterPct": 44.41,
+   "publicPct": 54.15,
+   "recordId": "215882",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742459_21102026110846_WEB.xml"
+  }
+ },
+ "symbol": "TBOTEK"
+}

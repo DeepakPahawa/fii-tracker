@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Premier Energies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.97,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 3.99,
+   "fpiShares": null,
+   "promoterPct": 63.94,
+   "publicPct": 35.26,
+   "recordId": "205416",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599797_13012026041123_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.13,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 5.23,
+   "fpiShares": null,
+   "promoterPct": 63.94,
+   "publicPct": 35.69,
+   "recordId": "209268",
+   "source": "nse",
+   "submittedOn": "2026-04-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1654001_18042026013453_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.79,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 7.92,
+   "fpiShares": null,
+   "promoterPct": 58.49,
+   "publicPct": 40.96,
+   "recordId": "212028",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696199_18072026050750_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.94,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 7.12,
+   "fpiShares": null,
+   "promoterPct": 58.49,
+   "publicPct": 40.99,
+   "recordId": "213848",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736115_12102026040148_WEB.xml"
+  }
+ },
+ "symbol": "PREMIERENE"
+}

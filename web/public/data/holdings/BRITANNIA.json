@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Britannia Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.48,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 14.88,
+   "fpiShares": null,
+   "promoterPct": 50.55,
+   "publicPct": 49.45,
+   "recordId": "207004",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607252_21012026051001_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.23,
+   "fpiCat2Pct": 0.4,
+   "fpiPct": 15.63,
+   "fpiShares": null,
+   "promoterPct": 50.55,
+   "publicPct": 49.45,
+   "recordId": "210241",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656777_21042026080236_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.02,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 13.4,
+   "fpiShares": null,
+   "promoterPct": 50.55,
+   "publicPct": 49.45,
+   "recordId": "212857",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698664_21072026063328_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.56,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 12.94,
+   "fpiShares": null,
+   "promoterPct": 50.55,
+   "publicPct": 49.45,
+   "recordId": "215840",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742374_20102026075905_WEB.xml"
+  }
+ },
+ "symbol": "BRITANNIA"
+}

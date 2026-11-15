@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "JSW Cement Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.94,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 3.03,
+   "fpiShares": null,
+   "promoterPct": 72.33,
+   "publicPct": 25.85,
+   "recordId": "206692",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606211_20012026070805_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.85,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 2.93,
+   "fpiShares": null,
+   "promoterPct": 72.03,
+   "publicPct": 26.35,
+   "recordId": "209774",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655394_20042026064035_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.59,
+   "fpiCat2Pct": 0.11,
+   "fpiPct": 3.7,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.03,
+   "recordId": "212653",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697999_21072026014101_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.4,
+   "fpiCat2Pct": 0.19,
+   "fpiPct": 4.59,
+   "fpiShares": null,
+   "promoterPct": 72.02,
+   "publicPct": 27.2,
+   "recordId": "216206",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743380_21102026063448_WEB.xml"
+  }
+ },
+ "symbol": "JSWCEMENT"
+}

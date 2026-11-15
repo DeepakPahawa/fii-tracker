@@ -1,0 +1,59 @@
+{
+ "industry": "Consumer Durables",
+ "name": "Asian Paints Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.45,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 12.78,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.31,
+   "recordId": "206306",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604886_19012026081432_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.83,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 12.11,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.32,
+   "recordId": "209832",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655573_20042026075747_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.03,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 13.32,
+   "fpiShares": null,
+   "promoterPct": 52.63,
+   "publicPct": 47.29,
+   "recordId": "211992",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.47,
+   "fpiCat2Pct": 0.29,
+   "fpiPct": 13.76,
+   "fpiShares": null,
+   "promoterPct": 52.65,
+   "publicPct": 47.28,
+   "recordId": "215706",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742053_19102026080927_WEB.xml"
+  }
+ },
+ "symbol": "ASIANPAINT"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "R R Kabel Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.78,
+   "fpiCat2Pct": 0.62,
+   "fpiPct": 8.4,
+   "fpiShares": null,
+   "promoterPct": 61.66,
+   "publicPct": 38.34,
+   "recordId": "205960",
+   "source": "nse",
+   "submittedOn": "2026-01-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603409_17012026051008_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.52,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 9.1,
+   "fpiShares": null,
+   "promoterPct": 61.65,
+   "publicPct": 38.35,
+   "recordId": "210221",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656715_21042026072803_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.8,
+   "fpiCat2Pct": 0.88,
+   "fpiPct": 10.68,
+   "fpiShares": null,
+   "promoterPct": 61.38,
+   "publicPct": 38.62,
+   "recordId": "212077",
+   "source": "nse",
+   "submittedOn": "2026-07-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696368_19072026094407_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.29,
+   "fpiCat2Pct": 1.22,
+   "fpiPct": 12.51,
+   "fpiShares": null,
+   "promoterPct": 59.32,
+   "publicPct": 40.68,
+   "recordId": "214755",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739466_16102026081136_WEB.xml"
+  }
+ },
+ "symbol": "RRKABEL"
+}

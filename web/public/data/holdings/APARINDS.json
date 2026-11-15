@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Apar Industries Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.02,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 9.38,
+   "fpiShares": null,
+   "promoterPct": 57.77,
+   "publicPct": 42.23,
+   "recordId": "207887",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648747_10042026040326_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.33,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 10.76,
+   "fpiShares": null,
+   "promoterPct": 57.76,
+   "publicPct": 42.24,
+   "recordId": "211105",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692435_14072026053431_WEB.xml"
+  },
+  "2026-08-13": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.03,
+   "fpiCat2Pct": 0.33,
+   "fpiPct": 11.36,
+   "fpiShares": null,
+   "promoterPct": 55.42,
+   "publicPct": 44.58,
+   "recordId": "213063",
+   "source": "nse",
+   "submittedOn": "2026-08-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1716338_20082026031300_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.25,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 12.55,
+   "fpiShares": null,
+   "promoterPct": 55.42,
+   "publicPct": 44.58,
+   "recordId": "214631",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738950_15102026042538_WEB.xml"
+  }
+ },
+ "symbol": "APARINDS"
+}

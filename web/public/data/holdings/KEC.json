@@ -1,0 +1,59 @@
+{
+ "industry": "Construction",
+ "name": "Kec International Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 11.34,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 11.75,
+   "fpiShares": null,
+   "promoterPct": 50.1,
+   "publicPct": 49.9,
+   "recordId": "206445",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605382_20012026024315_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.38,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 9.84,
+   "fpiShares": null,
+   "promoterPct": 50.1,
+   "publicPct": 49.9,
+   "recordId": "209845",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655598_20042026082218_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.56,
+   "fpiCat2Pct": 0.36,
+   "fpiPct": 9.92,
+   "fpiShares": null,
+   "promoterPct": 50.1,
+   "publicPct": 49.9,
+   "recordId": "211640",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694930_17072026125808_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.34,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 8.69,
+   "fpiShares": null,
+   "promoterPct": 50.1,
+   "publicPct": 49.9,
+   "recordId": "215126",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740470_16102026083259_WEB.xml"
+  }
+ },
+ "symbol": "KEC"
+}

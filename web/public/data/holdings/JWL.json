@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Jupiter Wagons Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.03,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 4.48,
+   "fpiShares": null,
+   "promoterPct": 68.31,
+   "publicPct": 31.69,
+   "recordId": "205222",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598530_12012026011833_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.76,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 4.19,
+   "fpiShares": null,
+   "promoterPct": 68.31,
+   "publicPct": 31.69,
+   "recordId": "208248",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650400_14042026123826_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.2,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 3.47,
+   "fpiShares": null,
+   "promoterPct": 68.31,
+   "publicPct": 31.69,
+   "recordId": "210816",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690667_10072026061724_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 2.85,
+   "fpiCat2Pct": 0.17,
+   "fpiPct": 3.02,
+   "fpiShares": null,
+   "promoterPct": 68.31,
+   "publicPct": 31.69,
+   "recordId": "213405",
+   "source": "nse",
+   "submittedOn": "2026-10-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733873_07102026051055_WEB.xml"
+  }
+ },
+ "symbol": "JWL"
+}

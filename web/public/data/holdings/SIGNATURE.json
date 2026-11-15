@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Signatureglobal (India) Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.65,
+   "fpiCat2Pct": 0.47,
+   "fpiPct": 10.12,
+   "fpiShares": null,
+   "promoterPct": 69.63,
+   "publicPct": 30.37,
+   "recordId": "207107",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1607675_21012026073818_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.45,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 9.53,
+   "fpiShares": null,
+   "promoterPct": 69.63,
+   "publicPct": 30.37,
+   "recordId": "210184",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656590_21042026062934_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.37,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 9.45,
+   "fpiShares": null,
+   "promoterPct": 69.54,
+   "publicPct": 30.46,
+   "recordId": "212858",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698663_21072026063325_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.19,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 9.27,
+   "fpiShares": null,
+   "promoterPct": 69.54,
+   "publicPct": 30.46,
+   "recordId": "215247",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740812_17102026041951_WEB.xml"
+  }
+ },
+ "symbol": "SIGNATURE"
+}

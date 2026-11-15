@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Kirloskar Brothers Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.91,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 6.05,
+   "fpiShares": null,
+   "promoterPct": 65.95,
+   "publicPct": 34.05,
+   "recordId": "206711",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606268_20012026072528_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.08,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 6.24,
+   "fpiShares": null,
+   "promoterPct": 65.95,
+   "publicPct": 34.05,
+   "recordId": "208548",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651567_15042026055943_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.21,
+   "fpiCat2Pct": 0.2,
+   "fpiPct": 6.41,
+   "fpiShares": null,
+   "promoterPct": 65.95,
+   "publicPct": 34.05,
+   "recordId": "211807",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695457_17072026053416_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.98,
+   "fpiCat2Pct": 0.14,
+   "fpiPct": 6.12,
+   "fpiShares": null,
+   "promoterPct": 65.95,
+   "publicPct": 34.05,
+   "recordId": "215303",
+   "source": "nse",
+   "submittedOn": "2026-10-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740983_17102026071521_WEB.xml"
+  }
+ },
+ "symbol": "KIRLOSBROS"
+}

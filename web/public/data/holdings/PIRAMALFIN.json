@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Piramal Finance Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.32,
+   "fpiCat2Pct": 0.31,
+   "fpiPct": 14.63,
+   "fpiShares": null,
+   "promoterPct": 46.16,
+   "publicPct": 53.54,
+   "recordId": "208988",
+   "source": "nse",
+   "submittedOn": "2026-04-30",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1662498_30042026071200_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.9,
+   "fpiCat2Pct": 0.55,
+   "fpiPct": 15.45,
+   "fpiShares": null,
+   "promoterPct": 46.16,
+   "publicPct": 53.62,
+   "recordId": "212850",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698640_21072026062307_WEB.xml"
+  },
+  "2026-08-28": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.27,
+   "fpiCat2Pct": 0.45,
+   "fpiPct": 15.72,
+   "fpiShares": null,
+   "promoterPct": 44.22,
+   "publicPct": 55.58,
+   "recordId": "213120",
+   "source": "nse",
+   "submittedOn": "2026-09-03",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1720618_03092026031458_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.07,
+   "fpiCat2Pct": 0.54,
+   "fpiPct": 15.61,
+   "fpiShares": null,
+   "promoterPct": 44.22,
+   "publicPct": 55.74,
+   "recordId": "215018",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740128_16102026051023_WEB.xml"
+  }
+ },
+ "symbol": "PIRAMALFIN"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Aurobindo Pharma Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.15,
+   "fpiCat2Pct": 0.8,
+   "fpiPct": 13.95,
+   "fpiShares": null,
+   "promoterPct": 51.82,
+   "publicPct": 48.18,
+   "recordId": "205442",
+   "source": "nse",
+   "submittedOn": "2026-01-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1599979_13012026051655_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.39,
+   "fpiCat2Pct": 0.85,
+   "fpiPct": 15.24,
+   "fpiShares": null,
+   "promoterPct": 51.82,
+   "publicPct": 48.18,
+   "recordId": "209033",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653158_17042026040030_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.33,
+   "fpiCat2Pct": 1.05,
+   "fpiPct": 16.38,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "211260",
+   "source": "nse",
+   "submittedOn": "2026-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1693124_15072026033059_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.25,
+   "fpiCat2Pct": 1.16,
+   "fpiPct": 17.41,
+   "fpiShares": null,
+   "promoterPct": 51.88,
+   "publicPct": 48.12,
+   "recordId": "214242",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737425_14102026114826_WEB.xml"
+  }
+ },
+ "symbol": "AUROPHARMA"
+}

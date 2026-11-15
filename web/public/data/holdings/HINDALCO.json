@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "Hindalco Industries Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 27.0,
+   "fpiCat2Pct": 1.16,
+   "fpiPct": 28.16,
+   "fpiShares": null,
+   "promoterPct": 34.64,
+   "publicPct": 64.85,
+   "recordId": "206890",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606865_21012026024716_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 28.78,
+   "fpiCat2Pct": 1.18,
+   "fpiPct": 29.96,
+   "fpiShares": null,
+   "promoterPct": 34.64,
+   "publicPct": 64.87,
+   "recordId": "208982",
+   "source": "nse",
+   "submittedOn": "2026-04-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653017_17042026021047_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 30.32,
+   "fpiCat2Pct": 1.09,
+   "fpiPct": 31.41,
+   "fpiShares": null,
+   "promoterPct": 34.66,
+   "publicPct": 64.87,
+   "recordId": "210812",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690624_10072026055831_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.1,
+   "fpiCat2Pct": 1.07,
+   "fpiPct": 30.17,
+   "fpiShares": null,
+   "promoterPct": 34.66,
+   "publicPct": 64.85,
+   "recordId": "215606",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741799_19102026055449_WEB.xml"
+  }
+ },
+ "symbol": "HINDALCO"
+}

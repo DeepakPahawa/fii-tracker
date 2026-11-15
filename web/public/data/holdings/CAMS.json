@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Computer Age Management Services Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 42.33,
+   "fpiCat2Pct": 2.32,
+   "fpiPct": 44.65,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "204821",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595914_07012026123103_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 42.11,
+   "fpiCat2Pct": 2.33,
+   "fpiPct": 44.44,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "207738",
+   "source": "nse",
+   "submittedOn": "2026-05-04",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1663190_04052026023954_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 42.33,
+   "fpiCat2Pct": 2.55,
+   "fpiPct": 44.88,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "211673",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695034_17072026023741_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 43.22,
+   "fpiCat2Pct": 2.36,
+   "fpiPct": 45.58,
+   "fpiShares": null,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "215096",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740350_16102026064848_WEB.xml"
+  }
+ },
+ "symbol": "CAMS"
+}

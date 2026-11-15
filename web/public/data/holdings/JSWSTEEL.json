@@ -1,0 +1,59 @@
+{
+ "industry": "Metals & Mining",
+ "name": "JSW Steel Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.9,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 10.37,
+   "fpiShares": null,
+   "promoterPct": 45.32,
+   "publicPct": 54.49,
+   "recordId": "206119",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604057_19012026030244_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.93,
+   "fpiCat2Pct": 1.44,
+   "fpiPct": 10.37,
+   "fpiShares": null,
+   "promoterPct": 45.32,
+   "publicPct": 54.49,
+   "recordId": "210192",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656626_21042026064612_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.44,
+   "fpiCat2Pct": 1.47,
+   "fpiPct": 10.91,
+   "fpiShares": null,
+   "promoterPct": 44.29,
+   "publicPct": 55.52,
+   "recordId": "212848",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698632_21072026062045_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.81,
+   "fpiCat2Pct": 1.41,
+   "fpiPct": 11.22,
+   "fpiShares": null,
+   "promoterPct": 44.3,
+   "publicPct": 55.56,
+   "recordId": "216175",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1743210_21102026055808_WEB.xml"
+  }
+ },
+ "symbol": "JSWSTEEL"
+}

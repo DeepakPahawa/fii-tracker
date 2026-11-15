@@ -1,0 +1,59 @@
+{
+ "industry": "Realty",
+ "name": "Lodha Developers Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.59,
+   "fpiCat2Pct": 0.9,
+   "fpiPct": 23.49,
+   "fpiShares": null,
+   "promoterPct": 71.85,
+   "publicPct": 28.15,
+   "recordId": "206347",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605051_20012026113740_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.63,
+   "fpiCat2Pct": 0.61,
+   "fpiPct": 21.24,
+   "fpiShares": null,
+   "promoterPct": 72.27,
+   "publicPct": 27.73,
+   "recordId": "208329",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650672_14042026042734_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.96,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 23.62,
+   "fpiShares": null,
+   "promoterPct": 70.31,
+   "publicPct": 29.69,
+   "recordId": "212803",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698454_21072026052127_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 24.58,
+   "fpiCat2Pct": 0.73,
+   "fpiPct": 25.31,
+   "fpiShares": null,
+   "promoterPct": 70.29,
+   "publicPct": 29.71,
+   "recordId": "214868",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739751_16102026023743_WEB.xml"
+  }
+ },
+ "symbol": "LODHA"
+}

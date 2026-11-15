@@ -1,0 +1,59 @@
+{
+ "industry": "Services",
+ "name": "Firstsource Solutions Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.96,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 9.2,
+   "fpiShares": null,
+   "promoterPct": 53.66,
+   "publicPct": 45.51,
+   "recordId": "204950",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1596772_08012026040827_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.59,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 8.85,
+   "fpiShares": null,
+   "promoterPct": 53.66,
+   "publicPct": 45.39,
+   "recordId": "208747",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652249_16042026042234_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.2,
+   "fpiCat2Pct": 0.18,
+   "fpiPct": 8.38,
+   "fpiShares": null,
+   "promoterPct": 53.66,
+   "publicPct": 45.49,
+   "recordId": "211130",
+   "source": "nse",
+   "submittedOn": "2026-07-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1692627_14072026071441_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.22,
+   "fpiCat2Pct": 0.22,
+   "fpiPct": 7.44,
+   "fpiShares": null,
+   "promoterPct": 53.66,
+   "publicPct": 45.61,
+   "recordId": "214086",
+   "source": "nse",
+   "submittedOn": "2026-10-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736948_13102026041109_WEB.xml"
+  }
+ },
+ "symbol": "FSL"
+}

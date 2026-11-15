@@ -1,0 +1,59 @@
+{
+ "industry": "Textiles",
+ "name": "Welspun Living Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.76,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 5.03,
+   "fpiShares": null,
+   "promoterPct": 66.24,
+   "publicPct": 33.4,
+   "recordId": "206370",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605142_20012026122017_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.71,
+   "fpiCat2Pct": 0.28,
+   "fpiPct": 4.99,
+   "fpiShares": null,
+   "promoterPct": 66.24,
+   "publicPct": 33.41,
+   "recordId": "210213",
+   "source": "nse",
+   "submittedOn": "2026-05-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1667530_15052026105902_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 4.71,
+   "fpiCat2Pct": 0.5,
+   "fpiPct": 5.21,
+   "fpiShares": null,
+   "promoterPct": 66.36,
+   "publicPct": 33.29,
+   "recordId": "212828",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698562_21072026055630_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.15,
+   "fpiCat2Pct": 0.92,
+   "fpiPct": 9.07,
+   "fpiShares": null,
+   "promoterPct": 63.77,
+   "publicPct": 35.88,
+   "recordId": "215820",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742331_20102026052045_WEB.xml"
+  }
+ },
+ "symbol": "WELSPUNLIV"
+}

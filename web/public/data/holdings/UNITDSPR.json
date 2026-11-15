@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "United Spirits Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 13.87,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 14.13,
+   "fpiShares": null,
+   "promoterPct": 56.67,
+   "publicPct": 43.33,
+   "recordId": "206280",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604778_19012026070312_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.15,
+   "fpiCat2Pct": 0.26,
+   "fpiPct": 14.41,
+   "fpiShares": null,
+   "promoterPct": 56.67,
+   "publicPct": 43.33,
+   "recordId": "209979",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655954_21042026011944_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.62,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 12.89,
+   "fpiShares": null,
+   "promoterPct": 56.67,
+   "publicPct": 43.33,
+   "recordId": "211857",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695632_17072026063910_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 12.58,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 12.85,
+   "fpiShares": null,
+   "promoterPct": 56.67,
+   "publicPct": 43.33,
+   "recordId": "215083",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1740305_16102026062518_WEB.xml"
+  }
+ },
+ "symbol": "UNITDSPR"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Aditya Infotech Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.45,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 5.72,
+   "fpiShares": null,
+   "promoterPct": 74.74,
+   "publicPct": 25.26,
+   "recordId": "209826",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655560_20042026074623_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.69,
+   "fpiCat2Pct": 0.66,
+   "fpiPct": 6.35,
+   "fpiShares": null,
+   "promoterPct": 74.71,
+   "publicPct": 25.29,
+   "recordId": "212455",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697493_20072026073718_WEB.xml"
+  },
+  "2026-09-25": {
+   "fiiPct": null,
+   "fpiCat1Pct": 6.24,
+   "fpiCat2Pct": 0.75,
+   "fpiPct": 6.99,
+   "fpiShares": null,
+   "promoterPct": 71.8,
+   "publicPct": 28.2,
+   "recordId": "213271",
+   "source": "nse",
+   "submittedOn": "2026-10-05",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1733076_05102026055018_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.84,
+   "fpiCat2Pct": 0.94,
+   "fpiPct": 6.78,
+   "fpiShares": null,
+   "promoterPct": 71.8,
+   "publicPct": 28.2,
+   "recordId": "215393",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741247_19102026125104_WEB.xml"
+  }
+ },
+ "symbol": "CPPLUS"
+}

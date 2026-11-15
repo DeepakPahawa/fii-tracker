@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "Life Insurance Corporation of India",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.3,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 0.31,
+   "fpiShares": null,
+   "promoterPct": 96.5,
+   "publicPct": 3.5,
+   "recordId": "209876",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655693_21042026101703_WEB.xml"
+  },
+  "2026-06-01": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.32,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 0.33,
+   "fpiShares": null,
+   "promoterPct": 96.5,
+   "publicPct": 3.5,
+   "recordId": "210380",
+   "source": "nse",
+   "submittedOn": "2026-06-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1680152_08062026022605_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.42,
+   "fpiCat2Pct": 0.02,
+   "fpiPct": 0.44,
+   "fpiShares": null,
+   "promoterPct": 96.5,
+   "publicPct": 3.5,
+   "recordId": "211868",
+   "source": "nse",
+   "submittedOn": "2026-07-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1695657_17072026065406_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 1.47,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 1.55,
+   "fpiShares": null,
+   "promoterPct": 90.0,
+   "publicPct": 10.0,
+   "recordId": "214293",
+   "source": "nse",
+   "submittedOn": "2026-10-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1737591_14102026022441_WEB.xml"
+  }
+ },
+ "symbol": "LICI"
+}

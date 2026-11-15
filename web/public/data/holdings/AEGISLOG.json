@@ -1,0 +1,59 @@
+{
+ "industry": "Oil Gas & Consumable Fuels",
+ "name": "Aegis Logistics Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.62,
+   "fpiCat2Pct": 1.25,
+   "fpiPct": 17.87,
+   "fpiShares": null,
+   "promoterPct": 58.1,
+   "publicPct": 41.9,
+   "recordId": "206055",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1603763_19012026115718_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 18.42,
+   "fpiCat2Pct": 1.14,
+   "fpiPct": 19.56,
+   "fpiShares": null,
+   "promoterPct": 58.1,
+   "publicPct": 41.9,
+   "recordId": "208215",
+   "source": "nse",
+   "submittedOn": "2026-04-14",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1650289_14042026103408_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.99,
+   "fpiCat2Pct": 1.55,
+   "fpiPct": 19.54,
+   "fpiShares": null,
+   "promoterPct": 58.1,
+   "publicPct": 41.9,
+   "recordId": "212564",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697751_21072026110533_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 17.89,
+   "fpiCat2Pct": 1.24,
+   "fpiPct": 19.13,
+   "fpiShares": null,
+   "promoterPct": 58.1,
+   "publicPct": 41.9,
+   "recordId": "213884",
+   "source": "nse",
+   "submittedOn": "2026-10-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1736262_12102026052548_WEB.xml"
+  }
+ },
+ "symbol": "AEGISLOG"
+}

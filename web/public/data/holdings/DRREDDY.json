@@ -1,0 +1,59 @@
+{
+ "industry": "Healthcare",
+ "name": "Dr. Reddy's Laboratories Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 20.98,
+   "fpiCat2Pct": 1.36,
+   "fpiPct": 22.34,
+   "fpiShares": null,
+   "promoterPct": 26.64,
+   "publicPct": 73.12,
+   "recordId": "206364",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605123_20012026121208_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.8,
+   "fpiCat2Pct": 1.34,
+   "fpiPct": 21.14,
+   "fpiShares": null,
+   "promoterPct": 26.63,
+   "publicPct": 73.13,
+   "recordId": "210088",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698187_21072026033805_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.36,
+   "fpiCat2Pct": 1.31,
+   "fpiPct": 20.67,
+   "fpiShares": null,
+   "promoterPct": 26.64,
+   "publicPct": 73.16,
+   "recordId": "212790",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698407_21072026050510_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 19.02,
+   "fpiCat2Pct": 1.28,
+   "fpiPct": 20.3,
+   "fpiShares": null,
+   "promoterPct": 26.63,
+   "publicPct": 73.17,
+   "recordId": "216035",
+   "source": "nse",
+   "submittedOn": "2026-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742881_21102026034106_WEB.xml"
+  }
+ },
+ "symbol": "DRREDDY"
+}

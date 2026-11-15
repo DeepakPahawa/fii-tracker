@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "Hindustan Aeronautics Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.38,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 10.86,
+   "fpiShares": null,
+   "promoterPct": 71.64,
+   "publicPct": 28.36,
+   "recordId": "205233",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598609_12012026023434_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.78,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 10.21,
+   "fpiShares": null,
+   "promoterPct": 71.64,
+   "publicPct": 28.36,
+   "recordId": "208048",
+   "source": "nse",
+   "submittedOn": "2026-04-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649503_13042026111255_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.88,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 9.34,
+   "fpiShares": null,
+   "promoterPct": 71.64,
+   "publicPct": 28.36,
+   "recordId": "210744",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690175_10072026114800_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.93,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 9.42,
+   "fpiShares": null,
+   "promoterPct": 71.64,
+   "publicPct": 28.36,
+   "recordId": "214550",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1738658_15102026013209_WEB.xml"
+  }
+ },
+ "symbol": "HAL"
+}

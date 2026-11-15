@@ -1,0 +1,59 @@
+{
+ "industry": "Fast Moving Consumer Goods",
+ "name": "Balrampur Chini Mills Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 10.0,
+   "fpiCat2Pct": 0.43,
+   "fpiPct": 10.43,
+   "fpiShares": null,
+   "promoterPct": 42.85,
+   "publicPct": 57.15,
+   "recordId": "207788",
+   "source": "nse",
+   "submittedOn": "2026-04-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648226_09042026055257_WEB.xml"
+  },
+  "2026-06-03": {
+   "fiiPct": null,
+   "fpiCat1Pct": 9.09,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 9.44,
+   "fpiShares": null,
+   "promoterPct": 42.86,
+   "publicPct": 57.14,
+   "recordId": "210386",
+   "source": "nse",
+   "submittedOn": "2026-06-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682266_17062026034143_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.98,
+   "fpiCat2Pct": 0.35,
+   "fpiPct": 9.33,
+   "fpiShares": null,
+   "promoterPct": 42.86,
+   "publicPct": 57.14,
+   "recordId": "212925",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698902_21072026082444_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.58,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 8.96,
+   "fpiShares": null,
+   "promoterPct": 42.79,
+   "publicPct": 57.21,
+   "recordId": "213676",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735220_09102026074157_WEB.xml"
+  }
+ },
+ "symbol": "BALRAMCHIN"
+}

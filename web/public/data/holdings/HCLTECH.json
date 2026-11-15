@@ -1,0 +1,59 @@
+{
+ "industry": "Information Technology",
+ "name": "HCL Technologies Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.87,
+   "fpiCat2Pct": 0.34,
+   "fpiPct": 16.21,
+   "fpiShares": null,
+   "promoterPct": 60.81,
+   "publicPct": 38.89,
+   "recordId": "205910",
+   "source": "nse",
+   "submittedOn": "2026-01-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1602918_16012026083512_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 15.13,
+   "fpiCat2Pct": 0.37,
+   "fpiPct": 15.5,
+   "fpiShares": null,
+   "promoterPct": 60.86,
+   "publicPct": 38.85,
+   "recordId": "210268",
+   "source": "nse",
+   "submittedOn": "2026-04-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1656872_21042026093835_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.58,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 14.9,
+   "fpiShares": null,
+   "promoterPct": 60.88,
+   "publicPct": 38.83,
+   "recordId": "211965",
+   "source": "nse",
+   "submittedOn": "2026-07-18",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696003_18072026013727_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 14.86,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 15.32,
+   "fpiShares": null,
+   "promoterPct": 60.88,
+   "publicPct": 38.86,
+   "recordId": "215759",
+   "source": "nse",
+   "submittedOn": "2026-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1742213_20102026122859_WEB.xml"
+  }
+ },
+ "symbol": "HCLTECH"
+}

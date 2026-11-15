@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "UCO Bank",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.09,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 0.13,
+   "fpiShares": null,
+   "promoterPct": 90.95,
+   "publicPct": 9.05,
+   "recordId": "204827",
+   "source": "nse",
+   "submittedOn": "2026-01-07",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1595940_07012026125555_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.08,
+   "fpiCat2Pct": 0.0,
+   "fpiPct": 0.08,
+   "fpiShares": null,
+   "promoterPct": 90.95,
+   "publicPct": 9.05,
+   "recordId": "208647",
+   "source": "nse",
+   "submittedOn": "2026-04-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1652000_16042026010526_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.05,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 0.06,
+   "fpiShares": null,
+   "promoterPct": 90.95,
+   "publicPct": 9.05,
+   "recordId": "210622",
+   "source": "nse",
+   "submittedOn": "2026-07-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689246_08072026033547_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 0.05,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 0.06,
+   "fpiShares": null,
+   "promoterPct": 90.95,
+   "publicPct": 9.05,
+   "recordId": "213485",
+   "source": "nse",
+   "submittedOn": "2026-10-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1734335_08102026042244_WEB.xml"
+  }
+ },
+ "symbol": "UCOBANK"
+}

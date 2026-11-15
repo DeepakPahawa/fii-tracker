@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "The Ramco Cements Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.98,
+   "fpiCat2Pct": null,
+   "fpiPct": 7.98,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "204888",
+   "source": "nse",
+   "submittedOn": "2026-01-12",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1598398_12012026113218_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 8.04,
+   "fpiCat2Pct": null,
+   "fpiPct": 8.04,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "207820",
+   "source": "nse",
+   "submittedOn": "2026-04-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1648444_10042026110631_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.52,
+   "fpiCat2Pct": null,
+   "fpiPct": 7.52,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "210888",
+   "source": "nse",
+   "submittedOn": "2026-07-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1691186_13072026121206_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 7.18,
+   "fpiCat2Pct": null,
+   "fpiPct": 7.18,
+   "fpiShares": null,
+   "promoterPct": 42.56,
+   "publicPct": 57.44,
+   "recordId": "214874",
+   "source": "nse",
+   "submittedOn": "2026-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739770_16102026024629_WEB.xml"
+  }
+ },
+ "symbol": "RAMCOCEM"
+}
