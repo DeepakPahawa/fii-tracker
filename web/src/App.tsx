@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { Row, Summary } from './types';
+import { normalizeSummary } from './normalize';
 import { fmtDateTime, fmtQuarter } from './format';
 import { METRICS, METRIC_LABEL, metricView, type Metric } from './metrics';
 import { listStocks, type Preset, type SortKey } from './listing';
@@ -9,7 +10,7 @@ import { StockDetail } from './components/StockDetail';
 import { MetricChecks } from './components/MetricChecks';
 import { ThemeToggle } from './components/ThemeToggle';
 
-type Load = { state: 'loading' } | { state: 'empty' } | { state: 'error'; message: string } | { state: 'ok'; data: Summary };
+type Load = { state: 'loading' } | { state: 'empty' } | { state: 'error'; message: string } | { state: 'ok'; data: Summary; legacy: boolean };
 type Tab = 'stock' | 'sectors';
 
 const SERIES_KEY = 'fii-series';
@@ -72,7 +73,9 @@ export default function App() {
         if (r.status === 404) return setLoad({ state: 'empty' });
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const data = (await r.json()) as Summary;
-        setLoad(data.rows?.length ? { state: 'ok', data } : { state: 'empty' });
+        if (!data.rows?.length) return setLoad({ state: 'empty' });
+        const { data: norm, legacy } = normalizeSummary(data);
+        setLoad({ state: 'ok', data: norm, legacy });
       })
       .catch((e: unknown) => {
         // Vite dev serves index.html for missing files, which fails JSON parsing.
@@ -193,11 +196,32 @@ export default function App() {
             <p className="hidden text-xs text-ink-3 md:block">Tick the series to plot and list. Rank and filter by any of them.</p>
           </div>
 
-          {missing.length > 0 && (
-            <p className="mt-3 rounded-xl border border-line bg-surface px-4 py-2.5 text-sm text-ink-2">
-              No {missing.map((m) => METRIC_LABEL[m]).join(' or ')} data in this dataset yet. Re-fetch once with{' '}
-              <code className="rounded bg-surface-2 px-1.5 py-0.5 text-xs">fetch --force</code> then <code className="rounded bg-surface-2 px-1.5 py-0.5 text-xs">summarize</code>.
-            </p>
+          {load.legacy ? (
+            <div className="mt-3 rounded-xl border border-line bg-surface px-4 py-3 text-sm text-ink-2">
+              <p>
+                <span className="font-semibold text-ink">This data file was built by an older version</span>, so DII and Promoters are missing and the
+                chart can only draw FII. Rebuild it once from the fetcher folder:
+              </p>
+              <pre className="mt-2 overflow-x-auto rounded-md bg-surface-2 p-2.5 text-xs text-ink">{`.venv/bin/python -m fii_fetcher summarize`}</pre>
+              <p className="mt-2 text-xs text-ink-3">
+                That adds promoters. DII values are read from the filings themselves, so if DII is still empty afterwards run{' '}
+                <code className="rounded bg-surface-2 px-1.5 py-0.5">fetch --force</code> and then <code className="rounded bg-surface-2 px-1.5 py-0.5">summarize</code>{' '}
+                again.
+              </p>
+            </div>
+          ) : (
+            missing.length > 0 && (
+              <p className="mt-3 rounded-xl border border-line bg-surface px-4 py-2.5 text-sm text-ink-2">
+                No {missing.map((m) => METRIC_LABEL[m]).join(' or ')} data in this dataset.
+                {missing.includes('dii') && (
+                  <>
+                    {' '}
+                    DII needs a one-time <code className="rounded bg-surface-2 px-1.5 py-0.5 text-xs">fetch --force</code> then{' '}
+                    <code className="rounded bg-surface-2 px-1.5 py-0.5 text-xs">summarize</code>.
+                  </>
+                )}
+              </p>
+            )
           )}
 
           <div className="mt-4 grid min-h-0 flex-1 grid-cols-[minmax(0,1fr)] gap-4 lg:grid-cols-[minmax(380px,440px)_minmax(0,1fr)] lg:grid-rows-1">
