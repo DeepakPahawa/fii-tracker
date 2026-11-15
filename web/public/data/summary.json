@@ -1,0 +1,180 @@
+{
+ "coverage": {
+  "universe": 501,
+  "withAny": 5,
+  "withLatest": 1
+ },
+ "generatedAt": "2026-11-15T15:41:56Z",
+ "latestQuarter": "2026-10-22",
+ "previousQuarter": "2026-09-30",
+ "quarters": [
+  "2025-12-31",
+  "2026-03-31",
+  "2026-06-04",
+  "2026-06-30",
+  "2026-09-30",
+  "2026-10-22"
+ ],
+ "rows": [
+  {
+   "changePp": -1.36,
+   "denominatorEffect": false,
+   "fpiPct": 24.01,
+   "fpiShares": null,
+   "history": [
+    {
+     "pct": 35.63,
+     "q": "2026-03-31"
+    },
+    {
+     "pct": 30.3,
+     "q": "2026-06-30"
+    },
+    {
+     "pct": 25.37,
+     "q": "2026-09-30"
+    },
+    {
+     "pct": 24.01,
+     "q": "2026-10-22"
+    }
+   ],
+   "industry": "Financial Services",
+   "name": "360 ONE WAM Ltd.",
+   "pending": false,
+   "prevPct": 25.37,
+   "quarter": "2026-10-22",
+   "sharesChangePct": null,
+   "streak": -3,
+   "symbol": "360ONE"
+  },
+  {
+   "changePp": -0.1,
+   "denominatorEffect": false,
+   "fpiPct": 7.57,
+   "fpiShares": null,
+   "history": [
+    {
+     "pct": 7.64,
+     "q": "2025-12-31"
+    },
+    {
+     "pct": 8.19,
+     "q": "2026-03-31"
+    },
+    {
+     "pct": 7.67,
+     "q": "2026-06-30"
+    },
+    {
+     "pct": 7.57,
+     "q": "2026-09-30"
+    }
+   ],
+   "industry": "Capital Goods",
+   "name": "ABB India Ltd.",
+   "pending": true,
+   "prevPct": 7.67,
+   "quarter": "2026-09-30",
+   "sharesChangePct": null,
+   "streak": -2,
+   "symbol": "ABB"
+  },
+  {
+   "changePp": -0.08,
+   "denominatorEffect": false,
+   "fpiPct": 5.75,
+   "fpiShares": null,
+   "history": [
+    {
+     "pct": 5.99,
+     "q": "2025-12-31"
+    },
+    {
+     "pct": 5.93,
+     "q": "2026-03-31"
+    },
+    {
+     "pct": 5.83,
+     "q": "2026-06-30"
+    },
+    {
+     "pct": 5.75,
+     "q": "2026-09-30"
+    }
+   ],
+   "industry": "Construction Materials",
+   "name": "ACC Ltd.",
+   "pending": true,
+   "prevPct": 5.83,
+   "quarter": "2026-09-30",
+   "sharesChangePct": null,
+   "streak": -3,
+   "symbol": "ACC"
+  },
+  {
+   "changePp": 2.05,
+   "denominatorEffect": false,
+   "fpiPct": 6.44,
+   "fpiShares": null,
+   "history": [
+    {
+     "pct": 3.6,
+     "q": "2026-03-31"
+    },
+    {
+     "pct": 3.93,
+     "q": "2026-06-04"
+    },
+    {
+     "pct": 4.39,
+     "q": "2026-06-30"
+    },
+    {
+     "pct": 6.44,
+     "q": "2026-09-30"
+    }
+   ],
+   "industry": "Power",
+   "name": "ACME Solar Holdings Ltd.",
+   "pending": true,
+   "prevPct": 4.39,
+   "quarter": "2026-09-30",
+   "sharesChangePct": null,
+   "streak": 3,
+   "symbol": "ACMESOLAR"
+  },
+  {
+   "changePp": -0.42,
+   "denominatorEffect": false,
+   "fpiPct": 16.45,
+   "fpiShares": null,
+   "history": [
+    {
+     "pct": 16.57,
+     "q": "2025-12-31"
+    },
+    {
+     "pct": 16.79,
+     "q": "2026-03-31"
+    },
+    {
+     "pct": 16.87,
+     "q": "2026-06-30"
+    },
+    {
+     "pct": 16.45,
+     "q": "2026-09-30"
+    }
+   ],
+   "industry": "Capital Goods",
+   "name": "AIA Engineering Ltd.",
+   "pending": true,
+   "prevPct": 16.87,
+   "quarter": "2026-09-30",
+   "sharesChangePct": null,
+   "streak": -1,
+   "symbol": "AIAENG"
+  }
+ ]
+}

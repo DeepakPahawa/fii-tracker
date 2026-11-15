@@ -1,0 +1,59 @@
+{
+ "industry": "Financial Services",
+ "name": "360 ONE WAM Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 34.51,
+   "fpiCat2Pct": 1.12,
+   "fpiPct": 35.63,
+   "fpiShares": null,
+   "promoterPct": 6.24,
+   "publicPct": 93.76,
+   "recordId": "210168",
+   "source": "nse",
+   "submittedOn": "2026-06-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1682210_17062026123154_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 29.23,
+   "fpiCat2Pct": 1.07,
+   "fpiPct": 30.3,
+   "fpiShares": null,
+   "promoterPct": 6.2,
+   "publicPct": 93.8,
+   "recordId": "212789",
+   "source": "nse",
+   "submittedOn": "2026-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1698400_21072026050353_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 23.84,
+   "fpiCat2Pct": 1.53,
+   "fpiPct": 25.37,
+   "fpiShares": null,
+   "promoterPct": 6.18,
+   "publicPct": 93.82,
+   "recordId": "215675",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741965_19102026071436_WEB.xml"
+  },
+  "2026-10-22": {
+   "fiiPct": null,
+   "fpiCat1Pct": 22.49,
+   "fpiCat2Pct": 1.52,
+   "fpiPct": 24.01,
+   "fpiShares": null,
+   "promoterPct": 5.88,
+   "publicPct": 94.12,
+   "recordId": "216331",
+   "source": "nse",
+   "submittedOn": "2026-10-26",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1746047_26102026055604_WEB.xml"
+  }
+ },
+ "symbol": "360ONE"
+}

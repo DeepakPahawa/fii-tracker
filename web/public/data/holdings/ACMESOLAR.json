@@ -1,0 +1,59 @@
+{
+ "industry": "Power",
+ "name": "ACME Solar Holdings Ltd.",
+ "quarters": {
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.18,
+   "fpiCat2Pct": 0.42,
+   "fpiPct": 3.6,
+   "fpiShares": null,
+   "promoterPct": 83.29,
+   "publicPct": 16.61,
+   "recordId": "209825",
+   "source": "nse",
+   "submittedOn": "2026-04-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1655558_20042026074403_WEB.xml"
+  },
+  "2026-06-04": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.55,
+   "fpiCat2Pct": 0.38,
+   "fpiPct": 3.93,
+   "fpiShares": null,
+   "promoterPct": 71.48,
+   "publicPct": 28.44,
+   "recordId": "210396",
+   "source": "nse",
+   "submittedOn": "2026-06-13",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1681336_13062026123013_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 3.9,
+   "fpiCat2Pct": 0.49,
+   "fpiPct": 4.39,
+   "fpiShares": null,
+   "promoterPct": 71.4,
+   "publicPct": 28.42,
+   "recordId": "212429",
+   "source": "nse",
+   "submittedOn": "2026-07-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1697407_20072026065935_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.86,
+   "fpiCat2Pct": 0.58,
+   "fpiPct": 6.44,
+   "fpiShares": null,
+   "promoterPct": 71.4,
+   "publicPct": 28.47,
+   "recordId": "215671",
+   "source": "nse",
+   "submittedOn": "2026-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1741955_19102026070634_WEB.xml"
+  }
+ },
+ "symbol": "ACMESOLAR"
+}

@@ -1,0 +1,59 @@
+{
+ "industry": "Construction Materials",
+ "name": "ACC Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.93,
+   "fpiCat2Pct": 0.06,
+   "fpiPct": 5.99,
+   "fpiShares": null,
+   "promoterPct": 56.69,
+   "publicPct": 43.31,
+   "recordId": "204996",
+   "source": "nse",
+   "submittedOn": "2026-01-08",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597052_08012026070438_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.85,
+   "fpiCat2Pct": 0.08,
+   "fpiPct": 5.93,
+   "fpiShares": null,
+   "promoterPct": 56.69,
+   "publicPct": 43.31,
+   "recordId": "207965",
+   "source": "nse",
+   "submittedOn": "2026-04-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1649215_11042026091421_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.73,
+   "fpiCat2Pct": 0.1,
+   "fpiPct": 5.83,
+   "fpiShares": null,
+   "promoterPct": 56.69,
+   "publicPct": 43.31,
+   "recordId": "210757",
+   "source": "nse",
+   "submittedOn": "2026-07-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1690234_10072026124901_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 5.66,
+   "fpiCat2Pct": 0.09,
+   "fpiPct": 5.75,
+   "fpiShares": null,
+   "promoterPct": 56.69,
+   "publicPct": 43.31,
+   "recordId": "213625",
+   "source": "nse",
+   "submittedOn": "2026-10-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1735004_09102026050330_WEB.xml"
+  }
+ },
+ "symbol": "ACC"
+}

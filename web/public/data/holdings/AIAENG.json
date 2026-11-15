@@ -1,0 +1,59 @@
+{
+ "industry": "Capital Goods",
+ "name": "AIA Engineering Ltd.",
+ "quarters": {
+  "2025-12-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.25,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 16.57,
+   "fpiShares": null,
+   "promoterPct": 58.5,
+   "publicPct": 41.5,
+   "recordId": "205088",
+   "source": "nse",
+   "submittedOn": "2026-01-09",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1597533_09012026041628_WEB.xml"
+  },
+  "2026-03-31": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.56,
+   "fpiCat2Pct": 0.23,
+   "fpiPct": 16.79,
+   "fpiShares": null,
+   "promoterPct": 58.5,
+   "publicPct": 41.5,
+   "recordId": "208481",
+   "source": "nse",
+   "submittedOn": "2026-04-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1651337_15042026035242_WEB.xml"
+  },
+  "2026-06-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.6,
+   "fpiCat2Pct": 0.27,
+   "fpiPct": 16.87,
+   "fpiShares": null,
+   "promoterPct": 58.5,
+   "publicPct": 41.5,
+   "recordId": "211510",
+   "source": "nse",
+   "submittedOn": "2026-07-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1694327_16072026045645_WEB.xml"
+  },
+  "2026-09-30": {
+   "fiiPct": null,
+   "fpiCat1Pct": 16.15,
+   "fpiCat2Pct": 0.3,
+   "fpiPct": 16.45,
+   "fpiShares": null,
+   "promoterPct": 58.5,
+   "publicPct": 41.5,
+   "recordId": "214699",
+   "source": "nse",
+   "submittedOn": "2026-10-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1739156_15102026054603_WEB.xml"
+  }
+ },
+ "symbol": "AIAENG"
+}
