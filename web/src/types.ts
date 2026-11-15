@@ -1,7 +1,8 @@
 // Mirrors fetcher/fii_fetcher/summary.py. Change both together.
 export interface HistoryPoint {
   q: string;
-  pct: number;
+  pct: number | null; // FII %
+  dii: number | null; // DII %
 }
 
 export interface Row {
@@ -9,7 +10,8 @@ export interface Row {
   name: string;
   industry: string;
   quarter: string;
-  fpiPct: number;
+  // FII: foreign portfolio investors
+  fpiPct: number | null;
   prevPct: number | null;
   changePp: number | null;
   fpiShares: number | null;
@@ -17,6 +19,15 @@ export interface Row {
   denominatorEffect: boolean;
   streak: number;
   pending: boolean;
+  // DII: domestic institutions (mutual funds, insurers, banks, pension funds...)
+  diiPct: number | null;
+  diiPrevPct: number | null;
+  diiChangePp: number | null;
+  diiShares: number | null;
+  diiSharesChangePct: number | null;
+  diiDenominatorEffect: boolean;
+  diiStreak: number;
+  diiPending: boolean;
   history: HistoryPoint[];
 }
 
@@ -25,6 +36,12 @@ export interface Summary {
   latestQuarter: string | null;
   previousQuarter: string | null;
   quarters: string[];
-  coverage: { universe: number; withLatest: number; withAny: number };
+  coverage: {
+    universe: number;
+    withLatest: number;
+    withAny: number;
+    diiWithLatest?: number;
+    diiWithAny?: number;
+  };
   rows: Row[];
 }

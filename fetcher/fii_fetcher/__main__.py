@@ -34,9 +34,12 @@ def _entry(h, quarter: str, extra: Dict) -> Dict:
         "fpiCat2Pct": h.fpiCat2Pct,
         "fiiPct": h.fiiPct,
         "fpiShares": h.fpiShares,
+        "diiPct": h.diiPct,
+        "diiShares": h.diiShares,
+        "mfPct": h.mfPct,
     }
-    if h.fpiPct is None:
-        e["parseWarning"] = "no FPI rows matched; run inspect-xbrl on this filing"
+    if h.fpiPct is None and h.diiPct is None:
+        e["parseWarning"] = "no FPI or DII rows matched; run inspect-xbrl on this filing"
     e.update(extra)
     return e
 

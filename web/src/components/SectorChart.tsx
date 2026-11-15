@@ -1,6 +1,7 @@
 import { Bar, BarChart, CartesianGrid, Cell, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import type { Row } from '../types';
 import { fmtPp } from '../format';
+import { METRIC_LABEL, metricView, type Metric } from '../metrics';
 
 interface SectorStat {
   industry: string;
@@ -10,15 +11,16 @@ interface SectorStat {
   n: number;
 }
 
-export function sectorStats(rows: Row[]): SectorStat[] {
+export function sectorStats(rows: Row[], metric: Metric): SectorStat[] {
   const m = new Map<string, SectorStat>();
   for (const r of rows) {
-    if (r.pending || r.changePp == null) continue;
+    const v = metricView(r, metric);
+    if (v.pending || v.change == null) continue;
     const s = m.get(r.industry) ?? { industry: r.industry, avg: 0, up: 0, down: 0, n: 0 };
-    s.avg += r.changePp;
+    s.avg += v.change;
     s.n += 1;
-    if (r.changePp > 0.01) s.up += 1;
-    else if (r.changePp < -0.01) s.down += 1;
+    if (v.change > 0.01) s.up += 1;
+    else if (v.change < -0.01) s.down += 1;
     m.set(r.industry, s);
   }
   return [...m.values()]
@@ -40,8 +42,18 @@ function SectorTooltip({ active, payload }: { active?: boolean; payload?: { payl
   );
 }
 
-export function SectorChart({ rows, selected, onSelect }: { rows: Row[]; selected: string; onSelect: (industry: string) => void }) {
-  const data = sectorStats(rows);
+export function SectorChart({
+  rows,
+  metric,
+  selected,
+  onSelect,
+}: {
+  rows: Row[];
+  metric: Metric;
+  selected: string;
+  onSelect: (industry: string) => void;
+}) {
+  const data = sectorStats(rows, metric);
   if (!data.length) {
     return <p className="text-sm text-ink-3">Needs two quarters of data to show sector changes.</p>;
   }
@@ -50,7 +62,11 @@ export function SectorChart({ rows, selected, onSelect }: { rows: Row[]; selecte
   // Long industry names wrap to two lines in the narrow label column; give each row room.
   const height = Math.max(220, data.length * (narrow ? 36 : 26) + 40);
   return (
-    <div style={{ height }} role="img" aria-label="Average FPI holding change by sector, percentage points">
+    <div
+      style={{ height }}
+      role="img"
+      aria-label={`Average ${METRIC_LABEL[metric]} holding change by sector, percentage points`}
+    >
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} layout="vertical" margin={{ top: 4, right: 16, bottom: 4, left: 8 }} barCategoryGap={4}>
           <CartesianGrid horizontal={false} stroke="var(--grid)" />

@@ -12,6 +12,17 @@
   <context id="F2"><entity><identifier scheme="s">OLDCO</identifier>
     <segment><xbrldi:explicitMember dimension="x:A">x:ForeignPortfolioInvestorMember</xbrldi:explicitMember></segment></entity>
     <period><startDate>2019-01-01</startDate><endDate>2019-03-31</endDate></period></context>
+  <!-- Domestic institutions subtotal AND a component row: the subtotal must win (no double count). -->
+  <context id="D"><entity><identifier scheme="s">OLDCO</identifier>
+    <segment><xbrldi:explicitMember dimension="x:A">x:InstitutionsDomesticMember</xbrldi:explicitMember></segment></entity>
+    <period><startDate>2019-01-01</startDate><endDate>2019-03-31</endDate></period></context>
+  <context id="M"><entity><identifier scheme="s">OLDCO</identifier>
+    <segment><xbrldi:explicitMember dimension="x:A">x:MutualFundsMember</xbrldi:explicitMember></segment></entity>
+    <period><startDate>2019-01-01</startDate><endDate>2019-03-31</endDate></period></context>
+  <x:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="D">15.00</x:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <x:NumberOfFullyPaidUpEquityShareHeld contextRef="D">15000000</x:NumberOfFullyPaidUpEquityShareHeld>
+  <x:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="M">9.00</x:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <x:NumberOfFullyPaidUpEquityShareHeld contextRef="M">9000000</x:NumberOfFullyPaidUpEquityShareHeld>
   <x:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="T">100.00</x:ShareholdingAsAPercentageOfTotalNumberOfShares>
   <x:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="F1">1.25</x:ShareholdingAsAPercentageOfTotalNumberOfShares>
   <x:NumberOfFullyPaidUpEquityShareHeld contextRef="F1">1,250,000</x:NumberOfFullyPaidUpEquityShareHeld>

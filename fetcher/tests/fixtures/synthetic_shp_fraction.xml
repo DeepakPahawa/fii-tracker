@@ -39,7 +39,30 @@
     <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
   </xbrli:context>
 
+  <!-- Domestic institutions given as component rows only (no subtotal): must be summed. -->
+  <xbrli:context id="MF">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:MutualFundsOrUTIMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="Ins">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:InsuranceCompaniesMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="Bank">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:BanksMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+
   <in-capmkt:Symbol contextRef="OneD">TESTCO</in-capmkt:Symbol>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="MF" decimals="0" unitRef="shares">80000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="MF" decimals="4" unitRef="pure">0.08</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="Ins" decimals="0" unitRef="shares">40000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="Ins" decimals="4" unitRef="pure">0.04</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="Bank" decimals="0" unitRef="shares">10000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="Bank" decimals="4" unitRef="pure">0.01</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
   <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="Total" decimals="0" unitRef="shares">1000000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
   <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="Total" decimals="4" unitRef="pure">1</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
   <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="FPIParent" decimals="0" unitRef="shares">215000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>

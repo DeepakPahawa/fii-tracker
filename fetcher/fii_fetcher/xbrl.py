@@ -1,12 +1,17 @@
-"""Extract FPI holdings from a SEBI shareholding-pattern XBRL instance.
+"""Extract FII (foreign) and DII (domestic institutional) holdings from a SEBI
+shareholding-pattern XBRL instance.
 
 The parser does not hard-code the exact SEBI taxonomy element names, because they
 have changed across taxonomy versions. Instead it:
   1. reads every context, with its period and its dimension members,
-  2. classifies a context as FPI Cat I / Cat II / legacy FII / FPI (uncategorised)
-     by regex on the member local names,
+  2. classifies a context (FPI Cat I / Cat II / legacy FII / FPI, and the domestic
+     institution rows: mutual funds, banks, insurance...) by regex on the member
+     local names, taking the most specific (last) member that matches,
   3. for each class, takes the % and share-count facts from the context with the
      fewest dimensions (the category's own row, not a sub-breakdown).
+
+DII = "Institutions (Domestic)" in the filing. If the filing has a subtotal row it is
+used as is; otherwise the domestic rows are summed (never both, to avoid double counting).
 
 Run `python -m fii_fetcher inspect-xbrl FILE` to see what was matched in a real file.
 """
@@ -24,7 +29,20 @@ CATEGORY_PATTERNS: List[Tuple[str, "re.Pattern[str]"]] = [
     ("cat1", re.compile(r"ForeignPortfolioInvestors?.*Category(I|One|1)(?![0-9I])", re.I)),
     ("fii", re.compile(r"ForeignInstitutionalInvestors?", re.I)),
     ("fpi", re.compile(r"ForeignPortfolioInvestors?(?!.*Category)", re.I)),
+    # Domestic institutions. "dii" is the subtotal row, the rest are its components.
+    ("dii", re.compile(r"Institutions?Domestic|DomesticInstitution|InstitutionsIndian", re.I)),
+    ("mf", re.compile(r"MutualFunds?", re.I)),
+    ("vc", re.compile(r"^VentureCapitalFunds?(Member)?$", re.I)),
+    ("aif", re.compile(r"Alternat(e|ive)InvestmentFunds?", re.I)),
+    ("banks", re.compile(r"^Banks?(Member)?$", re.I)),
+    ("insurance", re.compile(r"InsuranceCompan", re.I)),
+    ("pension", re.compile(r"ProvidentFunds?|PensionFunds?", re.I)),
+    ("arc", re.compile(r"AssetReconstruction", re.I)),
+    ("nbfc", re.compile(r"NBFC|NonBankingFinancial", re.I)),
+    ("ofi", re.compile(r"OtherFinancialInstitutions?", re.I)),
 ]
+FPI_PARTS = ("cat1", "cat2", "fii")
+DII_PARTS = ("mf", "vc", "aif", "banks", "insurance", "pension", "arc", "nbfc", "ofi")
 
 PCT_EXACT = re.compile(r"^ShareholdingAsAPercentageOfTotalNumberOfShares$", re.I)
 PCT_LOOSE = re.compile(r"PercentageOfTotalNumberOfShares", re.I)
@@ -53,7 +71,7 @@ class Context:
 
 
 @dataclass
-class FpiHolding:
+class Holding:
     quarter: Optional[str]
     symbol: Optional[str]
     fpiPct: Optional[float]
@@ -61,6 +79,9 @@ class FpiHolding:
     fpiCat2Pct: Optional[float]
     fiiPct: Optional[float]
     fpiShares: Optional[int]
+    diiPct: Optional[float]
+    diiShares: Optional[int]
+    mfPct: Optional[float]
     matched: Dict[str, str]  # category -> context id, for debugging
 
     def to_dict(self) -> dict:
@@ -102,14 +123,15 @@ def _to_number(text: Optional[str]) -> Optional[float]:
 
 
 def _classify(ctx: Context) -> Optional[str]:
-    for member in ctx.members:
+    # Most specific member first: for [parent, child] the child is the row's identity.
+    for member in reversed(ctx.members):
         for cat, pat in CATEGORY_PATTERNS:
             if pat.search(member):
                 return cat
     return None
 
 
-def parse_xbrl(content: bytes) -> FpiHolding:
+def parse_xbrl(content: bytes) -> Holding:
     root = ET.fromstring(content)
     contexts = _parse_contexts(root)
 
@@ -171,17 +193,28 @@ def parse_xbrl(content: bytes) -> FpiHolding:
     def pct(cat: str) -> Optional[float]:
         return values.get(cat, (None, None))[0]
 
-    # Cat I/II are the current regime; legacy FII is a separate row when present.
+    def total(cats: List[str], idx: int) -> Optional[float]:
+        have = [values[c][idx] for c in cats if c in values and values[c][idx] is not None]
+        return sum(have) if have else None
+
+    # FPI: Cat I/II are the current regime; legacy FII is a separate row when present.
     # An uncategorised "FPI" row can be the parent subtotal of Cat I/II, so it is
     # used only when neither category row exists (avoids double counting).
-    cats = ["cat1", "cat2", "fii"]
+    fpi_cats = list(FPI_PARTS)
     if "cat1" not in values and "cat2" not in values:
-        cats.append("fpi")
-    have = [p for p in (pct(c) for c in cats) if p is not None]
-    fpi_pct = round(sum(have), 4) if have else None
-    share_parts = [values.get(c, (None, None))[1] for c in cats]
-    have_sh = [s for s in share_parts if s is not None]
-    fpi_shares = int(round(sum(have_sh))) if have_sh else None
+        fpi_cats.append("fpi")
+    fpi_pct = total(fpi_cats, 0)
+    fpi_shares = total(fpi_cats, 1)
+
+    # DII: the filing's own subtotal wins; otherwise sum the component rows.
+    if "dii" in values and values["dii"][0] is not None:
+        dii_pct = values["dii"][0]
+        dii_shares = values["dii"][1]
+        if dii_shares is None:
+            dii_shares = total(list(DII_PARTS), 1)
+    else:
+        dii_pct = total(list(DII_PARTS), 0)
+        dii_shares = total(list(DII_PARTS), 1)
 
     periods = Counter(contexts[cid].period for _, cid in best.values() if contexts[cid].period)
     if not periods:
@@ -191,13 +224,19 @@ def parse_xbrl(content: bytes) -> FpiHolding:
     def rnd(v: Optional[float]) -> Optional[float]:
         return round(v, 4) if v is not None else None
 
-    return FpiHolding(
+    def rint(v: Optional[float]) -> Optional[int]:
+        return int(round(v)) if v is not None else None
+
+    return Holding(
         quarter=quarter,
         symbol=symbol,
-        fpiPct=fpi_pct,
+        fpiPct=rnd(fpi_pct),
         fpiCat1Pct=rnd(pct("cat1")),
         fpiCat2Pct=rnd(pct("cat2")),
         fiiPct=rnd(pct("fii")),
-        fpiShares=fpi_shares,
+        fpiShares=rint(fpi_shares),
+        diiPct=rnd(dii_pct),
+        diiShares=rint(dii_shares),
+        mfPct=rnd(pct("mf")),
         matched={cat: cid for cat, (_, cid) in best.items()},
     )

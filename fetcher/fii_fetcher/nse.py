@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import Dict, List, Optional
 
 from .http import PoliteClient
+from .quarters import is_quarter_end
 
 log = logging.getLogger(__name__)
 
@@ -40,6 +41,11 @@ def normalise_filings(raw: List[dict]) -> List[Dict]:
     for r in raw:
         q = _iso(r.get("date"))
         if not q:
+            continue
+        if not is_quarter_end(q):
+            # Off-cycle pattern (post-IPO, mid-quarter event). Not comparable with
+            # quarter-end data and would appear as a second entry for the same month.
+            log.debug("ignoring off-cycle filing dated %s", q)
             continue
         item = {
             "quarter": q,

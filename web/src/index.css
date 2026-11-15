@@ -14,6 +14,8 @@
   --neutral: #c9c8c2;
   --warn: #fab219;
   --grid: #ebeae6;
+  --series-fii: #2a78d6; /* categorical slot 1 */
+  --series-dii: #eb6834; /* categorical slot 2 */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,6 +32,8 @@
     --down: #e66767;
     --neutral: #4a4a46;
     --grid: #2a2a27;
+    --series-fii: #3987e5;
+    --series-dii: #d95926;
   }
 }
 :root[data-theme="dark"] {
@@ -45,6 +49,8 @@
   --down: #e66767;
   --neutral: #4a4a46;
   --grid: #2a2a27;
+  --series-fii: #3987e5;
+  --series-dii: #d95926;
 }
 
 @theme inline {

@@ -26,6 +26,10 @@ class XbrlTests(unittest.TestCase):
         self.assertAlmostEqual(h.fpiPct, 21.5)  # parent subtotal 21.5 not added again
         self.assertEqual(h.fpiShares, 215_000_000)
         self.assertEqual(h.matched["cat1"], "FPICat1")
+        # DII has no subtotal here, so MF 8 + insurance 4 + banks 1 are summed.
+        self.assertAlmostEqual(h.diiPct, 13.0)
+        self.assertEqual(h.diiShares, 130_000_000)
+        self.assertAlmostEqual(h.mfPct, 8.0)
 
     def test_percent_scale_legacy_rows(self):
         h = parse_xbrl((FIX / "synthetic_shp_percent_legacy.xml").read_bytes())
@@ -34,11 +38,16 @@ class XbrlTests(unittest.TestCase):
         self.assertAlmostEqual(h.fiiPct, 1.25)
         self.assertAlmostEqual(h.fpiPct, 11.75)  # FII + uncategorised FPI
         self.assertEqual(h.fpiShares, 11_750_000)
+        # Subtotal 15 is used, the 9 mutual-fund row inside it is not added again.
+        self.assertAlmostEqual(h.diiPct, 15.0)
+        self.assertEqual(h.diiShares, 15_000_000)
+        self.assertAlmostEqual(h.mfPct, 9.0)
 
     def test_no_fpi_rows(self):
         xml = b'<xbrl xmlns="http://www.xbrl.org/2003/instance"><context id="a"><period><instant>2026-06-30</instant></period></context></xbrl>'
         h = parse_xbrl(xml)
         self.assertIsNone(h.fpiPct)
+        self.assertIsNone(h.diiPct)
         self.assertEqual(h.quarter, "2026-06-30")
 
 
@@ -54,6 +63,17 @@ class NseTests(unittest.TestCase):
         self.assertEqual([f["quarter"] for f in out], ["2026-09-30", "2026-06-30"])
         self.assertEqual(out[0]["recordId"], "2")
         self.assertEqual(out[0]["submittedOn"], "2026-10-20")
+
+    def test_off_cycle_filing_is_ignored(self):
+        # Real case (ACMESOLAR): a mid-quarter pattern dated 04-JUN-2026 sat next to
+        # the 30-JUN-2026 one and showed up as a second "Jun 2026".
+        raw = [
+            {"date": "30-JUN-2026", "recordId": "212429", "xbrl": "u3", "submissionDate": "20-Jul-2026"},
+            {"date": "04-JUN-2026", "recordId": "210396", "xbrl": "u2", "submissionDate": "13-Jun-2026"},
+            {"date": "31-MAR-2026", "recordId": "209825", "xbrl": "u1", "submissionDate": "20-Apr-2026"},
+        ]
+        out = normalise_filings(raw)
+        self.assertEqual([f["quarter"] for f in out], ["2026-06-30", "2026-03-31"])
 
 
 class UniverseTests(unittest.TestCase):
@@ -107,7 +127,50 @@ class SummaryTests(unittest.TestCase):
         self.assertTrue(rows["BBB"]["denominatorEffect"])
         self.assertTrue(rows["CCC"]["pending"])
         self.assertEqual(rows["CCC"]["streak"], -2)
-        self.assertEqual(s["coverage"], {"universe": 3, "withLatest": 2, "withAny": 3})
+        self.assertEqual(
+            s["coverage"],
+            {"universe": 3, "withLatest": 2, "withAny": 3, "diiWithLatest": 0, "diiWithAny": 0},
+        )
+
+    def test_off_cycle_quarter_in_stored_data_is_skipped(self):
+        # Data fetched before the fix still holds the 2026-06-04 key; the summary must not show it.
+        doc = {
+            "symbol": "ACMESOLAR",
+            "quarters": {
+                "2026-03-31": {"fpiPct": 3.6},
+                "2026-06-04": {"fpiPct": 3.93},
+                "2026-06-30": {"fpiPct": 4.39},
+                "2026-09-30": {"fpiPct": 6.44},
+            },
+        }
+        s = build_summary([{"symbol": "ACMESOLAR", "name": "ACME", "industry": "Power"}], [doc])
+        row = s["rows"][0]
+        self.assertEqual([h["q"] for h in row["history"]], ["2026-03-31", "2026-06-30", "2026-09-30"])
+        self.assertEqual(row["prevPct"], 4.39)
+        self.assertEqual(s["quarters"], ["2026-03-31", "2026-06-30", "2026-09-30"])
+
+    def test_dii_metrics_and_missing_dii(self):
+        universe = [{"symbol": "AAA", "name": "A", "industry": "IT"}, {"symbol": "BBB", "name": "B", "industry": "IT"}]
+        aaa = {
+            "symbol": "AAA",
+            "quarters": {
+                "2026-06-30": {"fpiPct": 10, "diiPct": 20, "diiShares": 200},
+                "2026-09-30": {"fpiPct": 11, "diiPct": 19, "diiShares": 210},
+            },
+        }
+        bbb = {"symbol": "BBB", "quarters": {"2026-06-30": {"fpiPct": 5}, "2026-09-30": {"fpiPct": 6}}}  # old data, no DII
+        s = build_summary(universe, [aaa, bbb])
+        rows = {r["symbol"]: r for r in s["rows"]}
+        self.assertEqual(rows["AAA"]["diiPct"], 19)
+        self.assertEqual(rows["AAA"]["diiChangePp"], -1)
+        self.assertEqual(rows["AAA"]["diiStreak"], -1)
+        self.assertTrue(rows["AAA"]["diiDenominatorEffect"])  # % fell while DII share count rose
+        self.assertEqual(rows["AAA"]["history"][-1], {"q": "2026-09-30", "pct": 11, "dii": 19})
+        self.assertIsNone(rows["BBB"]["diiPct"])
+        self.assertTrue(rows["BBB"]["diiPending"])
+        self.assertEqual(s["coverage"]["diiWithAny"], 1)
+        self.assertEqual(s["coverage"]["diiWithLatest"], 1)
+        self.assertEqual(s["coverage"]["withAny"], 2)
 
     def test_store_roundtrip(self):
         with tempfile.TemporaryDirectory() as d:

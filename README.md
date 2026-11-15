@@ -24,6 +24,25 @@ npm install
 npm run dev                                           # http://127.0.0.1:5174
 ```
 
+## FII and DII
+
+The dashboard has an FII | DII switch. **FII** is Category I + II foreign portfolio
+investors. **DII** is the filing's "Institutions (Domestic)" block: mutual funds,
+insurers, banks, pension funds, AIFs and similar. If the filing has a domestic
+subtotal row it is used; otherwise the component rows are summed (never both). The
+stock detail panel plots both on one chart.
+
+Only calendar quarter-end filings (31 Mar, 30 Jun, 30 Sep, 31 Dec) are used.
+Off-cycle patterns (post-IPO, mid-quarter events, e.g. dated 4 June) are ignored, so a
+month never shows up twice.
+
+Data fetched before DII support has no DII values. Re-download once:
+
+```bash
+cd fetcher
+.venv/bin/python -m fii_fetcher fetch --force && .venv/bin/python -m fii_fetcher summarize
+```
+
 ## Fetcher commands
 
 | Command | What it does |
