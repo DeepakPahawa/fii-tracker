@@ -2,6 +2,22 @@
  "industry": "Financial Services",
  "name": "360 ONE WAM Ltd.",
  "quarters": {
+  "2025-12-31": {
+   "diiPct": 10.82,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 36.99,
+   "fpiCat2Pct": 1.1,
+   "fpiPct": 38.09,
+   "fpiShares": null,
+   "mfPct": 3.08,
+   "promoterPct": 6.25,
+   "publicPct": 93.75,
+   "recordId": "206880",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606814_21012026020325_WEB.xml"
+  },
   "2026-03-31": {
    "fiiPct": null,
    "fpiCat1Pct": 34.51,

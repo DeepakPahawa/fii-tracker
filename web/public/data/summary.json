@@ -1,6 +1,6 @@
 {
  "coverage": {
-  "diiWithAny": 0,
+  "diiWithAny": 2,
   "diiWithLatest": 0,
   "proWithAny": 489,
   "proWithLatest": 488,
@@ -8,7 +8,7 @@
   "withAny": 488,
   "withLatest": 487
  },
- "generatedAt": "2026-11-15T16:48:20Z",
+ "generatedAt": "2026-11-15T16:55:27Z",
  "latestQuarter": "2026-09-30",
  "previousQuarter": "2026-06-30",
  "quarters": [
@@ -24,7 +24,7 @@
    "denominatorEffect": false,
    "diiChangePp": null,
    "diiDenominatorEffect": false,
-   "diiPct": null,
+   "diiPct": 10.82,
    "diiPending": true,
    "diiPrevPct": null,
    "diiShares": null,
@@ -33,6 +33,12 @@
    "fpiPct": 25.37,
    "fpiShares": null,
    "history": [
+    {
+     "dii": 10.82,
+     "fii": 38.09,
+     "pro": 6.25,
+     "q": "2025-12-31"
+    },
     {
      "dii": null,
      "fii": 35.63,
@@ -63,7 +69,7 @@
    "proStreak": -2,
    "quarter": "2026-09-30",
    "sharesChangePct": null,
-   "streak": -2,
+   "streak": -3,
    "symbol": "360ONE"
   },
   {
@@ -595,7 +601,7 @@
    "denominatorEffect": false,
    "diiChangePp": null,
    "diiDenominatorEffect": false,
-   "diiPct": null,
+   "diiPct": 6.87,
    "diiPending": true,
    "diiPrevPct": null,
    "diiShares": null,
@@ -604,6 +610,12 @@
    "fpiPct": 6.44,
    "fpiShares": null,
    "history": [
+    {
+     "dii": 6.87,
+     "fii": 4.03,
+     "pro": 83.29,
+     "q": "2025-12-31"
+    },
     {
      "dii": null,
      "fii": 3.6,

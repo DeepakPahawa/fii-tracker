@@ -2,6 +2,22 @@
  "industry": "Power",
  "name": "ACME Solar Holdings Ltd.",
  "quarters": {
+  "2025-12-31": {
+   "diiPct": 6.87,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 3.59,
+   "fpiCat2Pct": 0.44,
+   "fpiPct": 4.03,
+   "fpiShares": null,
+   "mfPct": 1.81,
+   "promoterPct": 83.29,
+   "publicPct": 16.6,
+   "recordId": "206497",
+   "source": "nse",
+   "submittedOn": "2026-01-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1605538_20012026035225_WEB.xml"
+  },
   "2026-03-31": {
    "fiiPct": null,
    "fpiCat1Pct": 3.18,
