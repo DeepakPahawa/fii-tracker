@@ -7,3 +7,4 @@ __pycache__/
 .DS_Store
 fetcher/inbox/*
 !fetcher/inbox/.gitkeep
+*.tsbuildinfo
