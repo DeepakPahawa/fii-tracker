@@ -20,7 +20,7 @@ function Change({ v }: { v: number | null }) {
   const up = v > 0.01;
   const down = v < -0.01;
   return (
-    <span className="num inline-flex items-center gap-1">
+    <span className="num inline-flex items-center gap-1 whitespace-nowrap">
       <span aria-hidden className={up ? 'text-up' : down ? 'text-down' : 'text-ink-3'}>
         {up ? '▲' : down ? '▼' : '•'}
       </span>
@@ -104,7 +104,7 @@ export function HoldingsTable({
   };
 
   const header = (key: SortKey, label: string, align = 'text-right') => (
-    <th scope="col" className={`px-3 py-2 font-medium ${align}`} aria-sort={sort.key === key && preset === 'all' ? (sort.dir === 1 ? 'ascending' : 'descending') : 'none'}>
+    <th scope="col" className={`px-2 py-2 sm:px-3 font-medium ${align}`} aria-sort={sort.key === key && preset === 'all' ? (sort.dir === 1 ? 'ascending' : 'descending') : 'none'}>
       <button onClick={() => toggleSort(key)} className="hover:text-ink">
         {label}
         {sort.key === key && preset === 'all' ? (sort.dir === 1 ? ' ↑' : ' ↓') : ''}
@@ -123,7 +123,7 @@ export function HoldingsTable({
             setQuery(e.target.value);
             setLimit(PAGE);
           }}
-          className="min-w-0 flex-1 rounded-md border border-line bg-bg px-3 py-1.5 text-sm outline-none focus:border-ink-3 sm:max-w-64"
+          className="w-full rounded-md border border-line bg-bg px-3 py-1.5 text-sm outline-none focus:border-ink-3 sm:w-64"
           aria-label="Search stocks"
         />
         <select
@@ -144,7 +144,7 @@ export function HoldingsTable({
           Hide not yet filed
         </label>
       </div>
-      <div className="flex flex-wrap gap-1.5 border-b border-line px-3 py-2" role="group" aria-label="Presets">
+      <div className="flex flex-wrap gap-1.5 border-b border-line px-2 py-2 sm:px-3" role="group" aria-label="Presets">
         {PRESETS.map((p) => (
           <button
             key={p.id}
@@ -166,7 +166,7 @@ export function HoldingsTable({
           <thead className="text-xs text-ink-3">
             <tr className="border-b border-line">
               {header('symbol', 'Stock', 'text-left')}
-              <th scope="col" className="hidden px-3 py-2 text-left font-medium md:table-cell">
+              <th scope="col" className="hidden px-2 py-2 sm:px-3 text-left font-medium md:table-cell">
                 Industry
               </th>
               {header('fpiPct', 'FPI %')}
@@ -185,12 +185,12 @@ export function HoldingsTable({
                   selected === r.symbol ? 'bg-surface-2' : ''
                 }`}
               >
-                <td className="px-3 py-2">
+                <td className="px-2 py-2 sm:px-3">
                   <div className="font-medium text-ink">{r.symbol}</div>
-                  <div className="max-w-56 truncate text-xs text-ink-3">{r.name}</div>
+                  <div className="max-w-28 truncate sm:max-w-56 text-xs text-ink-3">{r.name}</div>
                 </td>
-                <td className="hidden px-3 py-2 text-ink-2 md:table-cell">{r.industry}</td>
-                <td className="num px-3 py-2 text-right">
+                <td className="hidden px-2 py-2 sm:px-3 text-ink-2 md:table-cell">{r.industry}</td>
+                <td className="num px-2 py-2 sm:px-3 text-right">
                   {fmtPct(r.fpiPct)}
                   {r.pending && (
                     <div className="text-xs text-ink-3" title="Has not filed for the latest quarter yet">
@@ -198,15 +198,18 @@ export function HoldingsTable({
                     </div>
                   )}
                 </td>
-                <td className="px-3 py-2 text-right">
+                <td className="px-2 py-2 sm:px-3 text-right">
                   <Change v={r.changePp} />
                   {r.denominatorEffect && (
-                    <div className="text-xs text-ink-3" title="Share count moved the other way; likely a buyback or issue, not FPI trading">
-                      ⚠ share count effect
+                    <div
+                      className="whitespace-nowrap text-xs text-ink-3"
+                      title="Share count moved the other way; likely a buyback or issue, not FPI trading"
+                    >
+                      ⚠ share count
                     </div>
                   )}
                 </td>
-                <td className="px-3 py-2 text-right">
+                <td className="px-2 py-2 sm:px-3 text-right">
                   <Streak v={r.streak} />
                 </td>
               </tr>
@@ -215,7 +218,7 @@ export function HoldingsTable({
         </table>
         {!filtered.length && <p className="p-6 text-center text-sm text-ink-3">No stocks match these filters.</p>}
       </div>
-      <div className="flex items-center justify-between px-3 py-2 text-xs text-ink-3">
+      <div className="flex items-center justify-between px-2 py-2 sm:px-3 text-xs text-ink-3">
         <span className="num">
           Showing {Math.min(limit, filtered.length)} of {filtered.length}
         </span>

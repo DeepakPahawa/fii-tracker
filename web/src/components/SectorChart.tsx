@@ -45,7 +45,10 @@ export function SectorChart({ rows, selected, onSelect }: { rows: Row[]; selecte
   if (!data.length) {
     return <p className="text-sm text-ink-3">Needs two quarters of data to show sector changes.</p>;
   }
-  const height = Math.max(220, data.length * 26 + 40);
+  const narrow = typeof window !== 'undefined' && window.innerWidth < 640;
+  const labelWidth = narrow ? 112 : 170;
+  // Long industry names wrap to two lines in the narrow label column; give each row room.
+  const height = Math.max(220, data.length * (narrow ? 36 : 26) + 40);
   return (
     <div style={{ height }} role="img" aria-label="Average FPI holding change by sector, percentage points">
       <ResponsiveContainer width="100%" height="100%">
@@ -61,8 +64,8 @@ export function SectorChart({ rows, selected, onSelect }: { rows: Row[]; selecte
           <YAxis
             type="category"
             dataKey="industry"
-            width={170}
-            tick={{ fill: 'var(--ink-2)', fontSize: 12 }}
+            width={labelWidth}
+            tick={{ fill: 'var(--ink-2)', fontSize: labelWidth < 170 ? 11 : 12 }}
             axisLine={false}
             tickLine={false}
             interval={0}
@@ -73,6 +76,7 @@ export function SectorChart({ rows, selected, onSelect }: { rows: Row[]; selecte
             dataKey="avg"
             radius={3}
             maxBarSize={18}
+            isAnimationActive={false}
             cursor="pointer"
             onClick={(d: unknown) => {
               const s = (d as { payload?: SectorStat }).payload;
