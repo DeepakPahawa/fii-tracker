@@ -64,6 +64,27 @@ class NseTests(unittest.TestCase):
         self.assertEqual(out[0]["recordId"], "2")
         self.assertEqual(out[0]["submittedOn"], "2026-10-20")
 
+    def test_placeholder_xbrl_url_is_missing(self):
+        # Real case (FIVESTAR 2026-03-31): NSE returned ".../xbrl/-" and fetching it 404'd.
+        raw = [{"date": "31-MAR-2026", "recordId": "1", "xbrl": "https://nsearchives.nseindia.in/corporate/xbrl/-"}]
+        self.assertIsNone(normalise_filings(raw)[0]["xbrlUrl"])
+        self.assertIsNone(normalise_filings([{"date": "31-MAR-2026", "xbrl": "-"}])[0]["xbrlUrl"])
+
+    def test_revision_without_xbrl_does_not_hide_original(self):
+        raw = [
+            {"date": "31-MAR-2026", "recordId": "1", "xbrl": "https://x/SHP_1.xml", "submissionDate": "20-Apr-2026"},
+            {"date": "31-MAR-2026", "recordId": "2", "xbrl": "https://x/-", "submissionDate": "25-Apr-2026"},
+        ]
+        out = normalise_filings(raw)
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["recordId"], "1")
+        self.assertEqual(out[0]["xbrlUrl"], "https://x/SHP_1.xml")
+
+    def test_fractal_mid_quarter_date_is_dropped(self):
+        # Real case (FRACTAL): NSE listed 13-FEB-2026, which is not a quarter end.
+        raw = [{"date": "13-FEB-2026", "recordId": "9", "xbrl": "https://x/SHP_9.xml"}]
+        self.assertEqual(normalise_filings(raw), [])
+
     def test_off_cycle_filing_is_ignored(self):
         # Real case (ACMESOLAR): a mid-quarter pattern dated 04-JUN-2026 sat next to
         # the 30-JUN-2026 one and showed up as a second "Jun 2026".
@@ -129,7 +150,10 @@ class SummaryTests(unittest.TestCase):
         self.assertEqual(rows["CCC"]["streak"], -2)
         self.assertEqual(
             s["coverage"],
-            {"universe": 3, "withLatest": 2, "withAny": 3, "diiWithLatest": 0, "diiWithAny": 0},
+            {
+                "universe": 3, "withLatest": 2, "withAny": 3, "diiWithLatest": 0, "diiWithAny": 0,
+                "proWithLatest": 0, "proWithAny": 0,
+            },
         )
 
     def test_off_cycle_quarter_in_stored_data_is_skipped(self):
@@ -165,12 +189,33 @@ class SummaryTests(unittest.TestCase):
         self.assertEqual(rows["AAA"]["diiChangePp"], -1)
         self.assertEqual(rows["AAA"]["diiStreak"], -1)
         self.assertTrue(rows["AAA"]["diiDenominatorEffect"])  # % fell while DII share count rose
-        self.assertEqual(rows["AAA"]["history"][-1], {"q": "2026-09-30", "pct": 11, "dii": 19})
+        self.assertEqual(rows["AAA"]["history"][-1], {"q": "2026-09-30", "fii": 11, "dii": 19, "pro": None})
         self.assertIsNone(rows["BBB"]["diiPct"])
         self.assertTrue(rows["BBB"]["diiPending"])
         self.assertEqual(s["coverage"]["diiWithAny"], 1)
         self.assertEqual(s["coverage"]["diiWithLatest"], 1)
         self.assertEqual(s["coverage"]["withAny"], 2)
+
+    def test_promoter_metrics(self):
+        # Real shape (ACMESOLAR): promoterPct sits on every quarter; the 06-04 filing is off-cycle.
+        doc = {
+            "symbol": "ACMESOLAR",
+            "quarters": {
+                "2026-03-31": {"fpiPct": 3.6, "promoterPct": 83.29},
+                "2026-06-04": {"fpiPct": 3.93, "promoterPct": 71.48},
+                "2026-06-30": {"fpiPct": 4.39, "promoterPct": 71.4},
+                "2026-09-30": {"fpiPct": 6.44, "promoterPct": 71.4},
+            },
+        }
+        s = build_summary([{"symbol": "ACMESOLAR", "name": "ACME", "industry": "Power"}], [doc])
+        r = s["rows"][0]
+        self.assertEqual(r["proPct"], 71.4)
+        self.assertEqual(r["proPrevPct"], 71.4)
+        self.assertEqual(r["proChangePp"], 0)
+        self.assertEqual(r["proStreak"], 0)  # flat
+        self.assertFalse(r["proPending"])
+        self.assertEqual([h["pro"] for h in r["history"]], [83.29, 71.4, 71.4])
+        self.assertEqual(s["coverage"]["proWithAny"], 1)
 
     def test_store_roundtrip(self):
         with tempfile.TemporaryDirectory() as d:

@@ -24,13 +24,21 @@ npm install
 npm run dev                                           # http://127.0.0.1:5174
 ```
 
-## FII and DII
+## FII, DII and promoters
 
-The dashboard has an FII | DII switch. **FII** is Category I + II foreign portfolio
-investors. **DII** is the filing's "Institutions (Domestic)" block: mutual funds,
-insurers, banks, pension funds, AIFs and similar. If the filing has a domestic
-subtotal row it is used; otherwise the component rows are summed (never both). The
-stock detail panel plots both on one chart.
+The dashboard shows the stock list on the left and the chart on the right. Three
+checkboxes at the top (FII, DII, Promoters) choose which series are plotted and shown
+in the list; the list can be ranked and filtered by any of them. Arrow keys move
+through the list and `/` jumps to search. A "Sectors" tab shows the average change by
+sector for the series you rank by.
+
+**FII** is Category I + II foreign portfolio investors. **DII** is the filing's
+"Institutions (Domestic)" block: mutual funds, insurers, banks, pension funds, AIFs and
+similar. If the filing has a domestic subtotal row it is used; otherwise the component
+rows are summed (never both). **Promoters** is "Promoter & Promoter Group" % from NSE's
+filings list, so it needs no extra fetching. When series sit at very different levels
+(promoters ~70% vs FII ~5%) the chart opens in "Change" view (percentage points since the
+first quarter shown) so every line stays readable; "Holding %" is one click away.
 
 Only calendar quarter-end filings (31 Mar, 30 Jun, 30 Sep, 31 Dec) are used.
 Off-cycle patterns (post-IPO, mid-quarter events, e.g. dated 4 June) are ignored, so a

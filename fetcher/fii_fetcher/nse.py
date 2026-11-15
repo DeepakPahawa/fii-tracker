@@ -35,6 +35,17 @@ def _num(v) -> Optional[float]:
         return None
 
 
+def _xbrl_url(v) -> Optional[str]:
+    """NSE sends a placeholder ending in '/-' (or just '-') when a filing has no XBRL file.
+    Requesting it returns 404, so treat it as missing."""
+    if not v:
+        return None
+    v = str(v).strip()
+    if v == "-" or v.endswith("/-"):
+        return None
+    return v
+
+
 def normalise_filings(raw: List[dict]) -> List[Dict]:
     """One entry per quarter, keeping the latest submission (revisions replace originals)."""
     by_q: Dict[str, Dict] = {}
@@ -50,13 +61,16 @@ def normalise_filings(raw: List[dict]) -> List[Dict]:
         item = {
             "quarter": q,
             "recordId": str(r.get("recordId") or ""),
-            "xbrlUrl": r.get("xbrl") or None,
+            "xbrlUrl": _xbrl_url(r.get("xbrl")),
             "submittedOn": _iso(r.get("revisionDate") or r.get("submissionDate") or r.get("broadcastDate")),
             "promoterPct": _num(r.get("pr_and_prgrp")),
             "publicPct": _num(r.get("public_val")),
         }
         prev = by_q.get(q)
-        if prev is None or (item["submittedOn"] or "") >= (prev["submittedOn"] or ""):
+        # A record with a usable XBRL file beats one without (a later revision that
+        # lacks XBRL must not hide the original); then the latest submission wins.
+        rank = (item["xbrlUrl"] is not None, item["submittedOn"] or "")
+        if prev is None or rank >= (prev["xbrlUrl"] is not None, prev["submittedOn"] or ""):
             by_q[q] = item
     return sorted(by_q.values(), key=lambda x: x["quarter"], reverse=True)
 

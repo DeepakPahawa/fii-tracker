@@ -18,7 +18,7 @@ def _points(doc: Dict) -> List[Dict]:
     for q, v in sorted(doc.get("quarters", {}).items()):
         if not is_quarter_end(q):
             continue
-        if v.get("fpiPct") is None and v.get("diiPct") is None:
+        if all(v.get(k) is None for k in ("fpiPct", "diiPct", "promoterPct")):
             continue
         out.append(
             {
@@ -27,6 +27,7 @@ def _points(doc: Dict) -> List[Dict]:
                 "fpiShares": v.get("fpiShares"),
                 "dii": v.get("diiPct"),
                 "diiShares": v.get("diiShares"),
+                "pro": v.get("promoterPct"),
             }
         )
     return out
@@ -123,6 +124,7 @@ def build_summary(universe: List[Dict], holdings: List[Dict]) -> Dict:
         m = meta.get(sym, {})
         f = _metric(pts, "fpi", "fpiShares", latest_q)
         d = _metric(pts, "dii", "diiShares", latest_q)
+        pr = _metric(pts, "pro", "proShares", latest_q)  # promoters: no share counts in the source
         rows.append(
             {
                 "symbol": sym,
@@ -147,8 +149,14 @@ def build_summary(universe: List[Dict], holdings: List[Dict]) -> Dict:
                 "diiDenominatorEffect": d["denominator"] if d else False,
                 "diiStreak": d["streak"] if d else 0,
                 "diiPending": bool(d is None or (latest_q and d["quarter"] < latest_q)),
+                # Promoters and promoter group (from the NSE filings list)
+                "proPct": pr["pct"] if pr else None,
+                "proPrevPct": pr["prev"] if pr else None,
+                "proChangePp": pr["change"] if pr else None,
+                "proStreak": pr["streak"] if pr else 0,
+                "proPending": bool(pr is None or (latest_q and pr["quarter"] < latest_q)),
                 "history": [
-                    {"q": p["q"], "pct": _round(p["fpi"]), "dii": _round(p["dii"])}
+                    {"q": p["q"], "fii": _round(p["fpi"]), "dii": _round(p["dii"]), "pro": _round(p["pro"])}
                     for p in pts[-HISTORY_QUARTERS:]
                 ],
             }
@@ -156,6 +164,7 @@ def build_summary(universe: List[Dict], holdings: List[Dict]) -> Dict:
 
     fpi_rows = [r for r in rows if r["fpiPct"] is not None]
     dii_rows = [r for r in rows if r["diiPct"] is not None]
+    pro_rows = [r for r in rows if r["proPct"] is not None]
     return {
         "generatedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         "latestQuarter": latest_q,
@@ -167,6 +176,8 @@ def build_summary(universe: List[Dict], holdings: List[Dict]) -> Dict:
             "withAny": len(fpi_rows),
             "diiWithLatest": sum(1 for r in dii_rows if not r["diiPending"]),
             "diiWithAny": len(dii_rows),
+            "proWithLatest": sum(1 for r in pro_rows if not r["proPending"]),
+            "proWithAny": len(pro_rows),
         },
         "rows": rows,
     }
