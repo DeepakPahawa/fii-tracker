@@ -4,6 +4,7 @@ import { fmtDateTime, fmtPp, fmtQuarter } from './format';
 import { SectorChart } from './components/SectorChart';
 import { HoldingsTable } from './components/HoldingsTable';
 import { StockDetail } from './components/HistoryChart';
+import { ThemeToggle } from './components/ThemeToggle';
 
 type Load = { state: 'loading' } | { state: 'empty' } | { state: 'error'; message: string } | { state: 'ok'; data: Summary };
 
@@ -78,7 +79,10 @@ export default function App() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-6 sm:py-8">
       <header className="mb-6">
-        <h1 className="text-2xl font-semibold text-ink">FII Tracker</h1>
+        <div className="flex items-center justify-between gap-3">
+          <h1 className="text-2xl font-semibold text-ink">FII Tracker</h1>
+          <ThemeToggle />
+        </div>
         <p className="mt-1 text-sm text-ink-2">
           Foreign Portfolio Investor holdings in Nifty 500 stocks, from quarterly shareholding-pattern filings (SEBI LODR Reg. 31).
         </p>
