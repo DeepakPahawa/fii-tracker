@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SYNTHETIC test fixture. Not a real filing; numbers are made up.
+     Mimics the SEBI shareholding-pattern XBRL shape: percentages stored as
+     fractions, FPI Cat I and II rows, a parent FPI subtotal that must not be
+     double counted, and a two-dimension sub-breakdown that must be ignored. -->
+<xbrli:xbrl xmlns:xbrli="http://www.xbrl.org/2003/instance"
+            xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+            xmlns:in-capmkt="http://www.sebi.gov.in/xbrl/2023-01-31/in-capmkt">
+  <xbrli:context id="OneD">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="Total">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:ShareholdingPatternTotalMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="FPIParent">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:ForeignPortfolioInvestorsMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="FPICat1">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:ForeignPortfolioInvestorCategoryIMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="FPICat2">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment><xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:ForeignPortfolioInvestorCategoryIIMember</xbrldi:explicitMember></xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="FPICat1Holder1">
+    <xbrli:entity><xbrli:identifier scheme="http://www.sebi.gov.in">TESTCO</xbrli:identifier>
+      <xbrli:segment>
+        <xbrldi:explicitMember dimension="in-capmkt:ShareholdingPatternAxis">in-capmkt:ForeignPortfolioInvestorCategoryIMember</xbrldi:explicitMember>
+        <xbrldi:explicitMember dimension="in-capmkt:DetailsOfShareholdersAxis">in-capmkt:Shareholder1Member</xbrldi:explicitMember>
+      </xbrli:segment></xbrli:entity>
+    <xbrli:period><xbrli:instant>2026-09-30</xbrli:instant></xbrli:period>
+  </xbrli:context>
+
+  <in-capmkt:Symbol contextRef="OneD">TESTCO</in-capmkt:Symbol>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="Total" decimals="0" unitRef="shares">1000000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="Total" decimals="4" unitRef="pure">1</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="FPIParent" decimals="0" unitRef="shares">215000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="FPIParent" decimals="4" unitRef="pure">0.215</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="FPICat1" decimals="0" unitRef="shares">200000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="FPICat1" decimals="4" unitRef="pure">0.2</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfSharesAsAPercentageOfDilutedShareCapital contextRef="FPICat1" decimals="4" unitRef="pure">0.19</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfSharesAsAPercentageOfDilutedShareCapital>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="FPICat2" decimals="0" unitRef="shares">15000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="FPICat2" decimals="4" unitRef="pure">0.015</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+  <in-capmkt:NumberOfFullyPaidUpEquityShareHeld contextRef="FPICat1Holder1" decimals="0" unitRef="shares">60000000</in-capmkt:NumberOfFullyPaidUpEquityShareHeld>
+  <in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares contextRef="FPICat1Holder1" decimals="4" unitRef="pure">0.06</in-capmkt:ShareholdingAsAPercentageOfTotalNumberOfShares>
+</xbrli:xbrl>

@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/format.ts","./src/main.tsx","./src/types.ts","./src/components/historychart.tsx","./src/components/holdingstable.tsx","./src/components/sectorchart.tsx","./vite.config.ts"],"version":"5.8.3"}
