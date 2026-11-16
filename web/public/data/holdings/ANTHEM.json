@@ -2,6 +2,22 @@
  "industry": "Healthcare",
  "name": "Anthem Biosciences Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 7.22,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 1.5,
+   "fpiCat2Pct": 0.16,
+   "fpiPct": 1.66,
+   "fpiShares": null,
+   "mfPct": 1.62,
+   "promoterPct": 74.69,
+   "publicPct": 25.31,
+   "recordId": "203967",
+   "source": "nse",
+   "submittedOn": "2026-08-28",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1718773_28082026112949_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 1.32,

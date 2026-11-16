@@ -2,6 +2,22 @@
  "industry": "Financial Services",
  "name": "HDB Financial Services Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 10.92,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 2.93,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 3.17,
+   "fpiShares": null,
+   "mfPct": 1.8,
+   "promoterPct": 74.19,
+   "publicPct": 25.58,
+   "recordId": "202970",
+   "source": "nse",
+   "submittedOn": "2025-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1550351_16102025043040_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 3.12,

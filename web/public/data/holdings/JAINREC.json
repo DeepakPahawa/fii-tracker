@@ -2,6 +2,22 @@
  "industry": "Metals & Mining",
  "name": "Jain Resource Recycling Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 6.43,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 6.42,
+   "fpiCat2Pct": null,
+   "fpiPct": 6.42,
+   "fpiShares": null,
+   "mfPct": 2.99,
+   "promoterPct": 73.59,
+   "publicPct": 26.41,
+   "recordId": "201682",
+   "source": "nse",
+   "submittedOn": "2025-10-11",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1545417_11102025091843_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 3.67,

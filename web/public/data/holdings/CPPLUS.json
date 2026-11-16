@@ -2,6 +2,38 @@
  "industry": "Capital Goods",
  "name": "Aditya Infotech Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 10.06,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 4.31,
+   "fpiCat2Pct": 0.13,
+   "fpiPct": 4.44,
+   "fpiShares": null,
+   "mfPct": 3.25,
+   "promoterPct": 77.12,
+   "publicPct": 22.88,
+   "recordId": "203280",
+   "source": "nse",
+   "submittedOn": "2025-11-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1569532_10112025122325_WEB.xml"
+  },
+  "2025-12-31": {
+   "diiPct": 10.2,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 4.34,
+   "fpiCat2Pct": 0.03,
+   "fpiPct": 4.37,
+   "fpiShares": null,
+   "mfPct": 3.87,
+   "promoterPct": 76.91,
+   "publicPct": 23.09,
+   "recordId": "206242",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604556_19012026054825_WEB.xml"
+  },
   "2026-03-31": {
    "fiiPct": null,
    "fpiCat1Pct": 5.45,

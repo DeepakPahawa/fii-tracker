@@ -2,6 +2,22 @@
  "industry": "Construction Materials",
  "name": "JSW Cement Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 7.88,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 3.39,
+   "fpiCat2Pct": 0.74,
+   "fpiPct": 4.13,
+   "fpiShares": null,
+   "mfPct": 1.58,
+   "promoterPct": 72.33,
+   "publicPct": 25.54,
+   "recordId": "204271",
+   "source": "nse",
+   "submittedOn": "2025-10-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1554753_21102025020732_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 2.94,

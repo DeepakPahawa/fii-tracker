@@ -2,6 +2,22 @@
  "industry": "Financial Services",
  "name": "Piramal Finance Ltd.",
  "quarters": {
+  "2025-12-31": {
+   "diiPct": 16.26,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 15.16,
+   "fpiCat2Pct": 0.41,
+   "fpiPct": 15.57,
+   "fpiShares": null,
+   "mfPct": 3.79,
+   "promoterPct": 46.16,
+   "publicPct": 53.43,
+   "recordId": "206252",
+   "source": "nse",
+   "submittedOn": "2026-01-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1604603_19012026060252_WEB.xml"
+  },
   "2026-03-31": {
    "fiiPct": null,
    "fpiCat1Pct": 14.32,

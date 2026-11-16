@@ -2,6 +2,38 @@
  "industry": "Capital Goods",
  "name": "Siemens Energy India Ltd.",
  "quarters": {
+  "2025-06-30": {
+   "diiPct": 9.11,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 4.67,
+   "fpiCat2Pct": 0.12,
+   "fpiPct": 4.79,
+   "fpiShares": null,
+   "mfPct": 1.22,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "201359",
+   "source": "nse",
+   "submittedOn": "2025-07-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1489884_21072025094626_WEB.xml"
+  },
+  "2025-09-30": {
+   "diiPct": 8.04,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 5.92,
+   "fpiCat2Pct": 0.24,
+   "fpiPct": 6.16,
+   "fpiShares": null,
+   "mfPct": 1.18,
+   "promoterPct": 75.0,
+   "publicPct": 25.0,
+   "recordId": "204104",
+   "source": "nse",
+   "submittedOn": "2025-10-20",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1554495_20102025055533_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 6.85,

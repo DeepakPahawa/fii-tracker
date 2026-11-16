@@ -2,6 +2,38 @@
  "industry": "Consumer Services",
  "name": "Urban Company Ltd.",
  "quarters": {
+  "2025-09-30": {
+   "diiPct": 6.13,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 3.08,
+   "fpiCat2Pct": 0.04,
+   "fpiPct": 3.12,
+   "fpiShares": null,
+   "mfPct": 1.9,
+   "promoterPct": 20.43,
+   "publicPct": 79.57,
+   "recordId": "203954",
+   "source": "nse",
+   "submittedOn": "2025-10-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1554037_19102025113601_WEB.xml"
+  },
+  "2025-12-31": {
+   "diiPct": 5.7,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 1.83,
+   "fpiCat2Pct": 0.01,
+   "fpiPct": 1.84,
+   "fpiShares": null,
+   "mfPct": 1.89,
+   "promoterPct": 20.29,
+   "publicPct": 79.71,
+   "recordId": "206901",
+   "source": "nse",
+   "submittedOn": "2026-01-21",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606900_21012026030417_WEB.xml"
+  },
   "2026-03-24": {
    "fiiPct": null,
    "fpiCat1Pct": 1.87,

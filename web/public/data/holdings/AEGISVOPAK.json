@@ -2,6 +2,38 @@
  "industry": "Oil Gas & Consumable Fuels",
  "name": "Aegis Vopak Terminals Ltd.",
  "quarters": {
+  "2025-06-30": {
+   "diiPct": 5.29,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 5.41,
+   "fpiCat2Pct": 0.46,
+   "fpiPct": 5.87,
+   "fpiShares": null,
+   "mfPct": 2.12,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "200674",
+   "source": "nse",
+   "submittedOn": "2025-07-19",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1488029_19072025073320_WEB.xml"
+  },
+  "2025-09-30": {
+   "diiPct": 5.04,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 5.59,
+   "fpiCat2Pct": 0.48,
+   "fpiPct": 6.07,
+   "fpiShares": null,
+   "mfPct": 1.8,
+   "promoterPct": 86.93,
+   "publicPct": 13.07,
+   "recordId": "201946",
+   "source": "nse",
+   "submittedOn": "2025-10-10",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1544087_10102025125933_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 5.52,

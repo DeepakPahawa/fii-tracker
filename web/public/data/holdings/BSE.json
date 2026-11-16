@@ -2,6 +2,38 @@
  "industry": "Financial Services",
  "name": "BSE Ltd.",
  "quarters": {
+  "2025-06-30": {
+   "diiPct": 11.27,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 18.14,
+   "fpiCat2Pct": null,
+   "fpiPct": 18.14,
+   "fpiShares": null,
+   "mfPct": 1.58,
+   "promoterPct": 0.0,
+   "publicPct": 79.43,
+   "recordId": "200014",
+   "source": "nse",
+   "submittedOn": "2025-07-15",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_13769_15072025060551_WEB.xml"
+  },
+  "2025-09-30": {
+   "diiPct": 19.91,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 15.74,
+   "fpiCat2Pct": 0.52,
+   "fpiPct": 16.26,
+   "fpiShares": null,
+   "mfPct": 1.44,
+   "promoterPct": 0.0,
+   "publicPct": 100.0,
+   "recordId": "202888",
+   "source": "nse",
+   "submittedOn": "2025-10-16",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1550037_16102025024345_WEB.xml"
+  },
   "2025-12-31": {
    "fiiPct": null,
    "fpiCat1Pct": 16.7,
