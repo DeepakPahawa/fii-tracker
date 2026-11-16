@@ -8,10 +8,13 @@
   "withAny": 488,
   "withLatest": 487
  },
- "generatedAt": "2026-11-15T16:55:27Z",
+ "generatedAt": "2026-11-16T04:26:44Z",
  "latestQuarter": "2026-09-30",
  "previousQuarter": "2026-06-30",
  "quarters": [
+  "2024-12-31",
+  "2025-03-31",
+  "2025-06-30",
   "2025-09-30",
   "2025-12-31",
   "2026-03-31",
@@ -22,17 +25,41 @@
   {
    "changePp": -4.93,
    "denominatorEffect": false,
-   "diiChangePp": null,
+   "diiChangePp": 0.14,
    "diiDenominatorEffect": false,
    "diiPct": 10.82,
    "diiPending": true,
-   "diiPrevPct": null,
+   "diiPrevPct": 10.68,
    "diiShares": null,
    "diiSharesChangePct": null,
-   "diiStreak": 0,
+   "diiStreak": 2,
    "fpiPct": 25.37,
    "fpiShares": null,
    "history": [
+    {
+     "dii": 9.72,
+     "fii": 7.34,
+     "pro": 14.76,
+     "q": "2024-12-31"
+    },
+    {
+     "dii": 8.49,
+     "fii": 7.87,
+     "pro": 14.2,
+     "q": "2025-03-31"
+    },
+    {
+     "dii": 7.87,
+     "fii": 35.06,
+     "pro": 6.27,
+     "q": "2025-06-30"
+    },
+    {
+     "dii": 10.68,
+     "fii": 37.21,
+     "pro": 6.26,
+     "q": "2025-09-30"
+    },
     {
      "dii": 10.82,
      "fii": 38.09,
