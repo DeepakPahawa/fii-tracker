@@ -67,11 +67,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1547038_14102025114654_WEB.xml"
   },
   "2025-12-31": {
+   "diiPct": 9.15,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 7.38,
    "fpiCat2Pct": 0.26,
    "fpiPct": 7.64,
    "fpiShares": null,
+   "mfPct": 1.24,
    "promoterPct": 75.0,
    "publicPct": 25.0,
    "recordId": "205453",
@@ -80,11 +83,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1600045_13012026053718_WEB.xml"
   },
   "2026-03-31": {
+   "diiPct": 9.29,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 7.85,
    "fpiCat2Pct": 0.34,
    "fpiPct": 8.19,
    "fpiShares": null,
+   "mfPct": 1.19,
    "promoterPct": 75.0,
    "publicPct": 25.0,
    "recordId": "209136",
@@ -93,11 +99,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653405_17042026054202_WEB.xml"
   },
   "2026-06-30": {
+   "diiPct": 9.9,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 7.43,
    "fpiCat2Pct": 0.24,
    "fpiPct": 7.67,
    "fpiShares": null,
+   "mfPct": 4.75,
    "promoterPct": 75.0,
    "publicPct": 25.0,
    "recordId": "213105",
@@ -106,11 +115,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1719755_01092026025725_WEB.xml"
   },
   "2026-09-30": {
+   "diiPct": 9.8,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 7.39,
    "fpiCat2Pct": 0.18,
    "fpiPct": 7.57,
    "fpiShares": null,
+   "mfPct": 1.06,
    "promoterPct": 75.0,
    "publicPct": 25.0,
    "recordId": "214600",
