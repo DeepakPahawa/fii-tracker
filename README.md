@@ -64,6 +64,33 @@ The "Daily flows" tab shows FII/DII activity per trading day, from `web/public/d
 `flows` with no options runs cash and F&O. `.github/workflows/fetch-flows.yml` runs it
 weekdays at 19:00 IST; like the shareholding job it may be blocked on GitHub's IPs.
 
+## Stock-level daily feeds
+
+Daily FII buying per stock is not published anywhere. These feeds are the closest public signals;
+the Stock tab shows them under "Recent activity":
+
+| Command | Source | Notes |
+|---|---|---|
+| `deals` | NSE bulk and block deal CSVs | Client name, buy/sell, quantity, price. Only the latest session is published in full (NSE's history API silently caps at 70 rows), so a missed day cannot be recovered. |
+| `delivery [--days N]` | NSE daily bhavcopy | Traded vs delivered quantity and delivery % for the stocks in `universe.json`. Backfills. |
+| `sast [--days N]` | NSE Reg 29 filings | Holders crossing 5% or moving 2%. Backfills. |
+
+FII / DII / Promoter tags come from keywords in the name (`classify` in `deals.py`). It is a guess, so
+unrecognised funds show as "Other". Monthly mutual-fund portfolio disclosures are not included:
+each AMC publishes its own spreadsheet layout, so there is no single feed to fetch.
+
+## Scheduling
+
+`.github/workflows/fetch-daily.yml` runs `flows`, `deals`, `delivery` and `sast` weekdays at 20:30 IST;
+`fetch-shareholding.yml` runs weekly. They do not conflict on `main`: all data jobs share one
+concurrency group (so they run one at a time), each writes its own files, and
+`.github/scripts/commit-data.sh` rebases and retries if a push is rejected. If NSE blocks GitHub's IPs the
+job fails with a clear message; run the commands locally after the close instead:
+
+```bash
+cd fetcher && for c in "flows --days 7" deals "delivery --days 7" "sast --days 7"; do .venv/bin/python -m fii_fetcher $c; done
+```
+
 ## Fetcher commands
 
 | Command | What it does |
@@ -76,6 +103,7 @@ weekdays at 19:00 IST; like the shareholding job it may be blocked on GitHub's I
 | `all` | `universe`, then `fetch`, then `summarize` |
 | `flows [--sources cash,fno] [--days N]` | Daily FII/DII cash and F&O OI → `flows.json` |
 | `import-nsdl FILE` | Merge an NSDL FPI CSV into `flows.json` |
+| `deals`, `delivery`, `sast` | Stock-level daily feeds, see above |
 
 Global options: `--out DIR` (default `web/public/data`), `--delay SECONDS`
 (default 1.0), `-v`.

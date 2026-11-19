@@ -21,8 +21,9 @@ on:
 permissions:
   contents: write
 
+# Same group as fetch-daily.yml, so the two never push at the same moment.
 concurrency:
-  group: fetch-shareholding
+  group: data-commit
   cancel-in-progress: false
 
 jobs:
@@ -57,13 +58,4 @@ jobs:
 
       - name: Commit data
         if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add web/public/data
-          if git diff --cached --quiet; then
-            echo "No data changes"
-          else
-            git commit -m "data: FPI shareholding update $(date -u +%F)"
-            git push
-          fi
+        run: .github/scripts/commit-data.sh "data: FPI shareholding update $(date -u +%F)" web/public/data/holdings web/public/data/summary.json web/public/data/universe.json

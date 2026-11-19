@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import { CartesianGrid, Line, LineChart, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import type { Row } from '../types';
 import { fmtPct, fmtPp, fmtQuarter, fmtShares, fmtShortQuarter } from '../format';
+import { StockActivity } from './StockActivity';
 import { METRICS, METRIC_COLOR, METRIC_HINT, METRIC_LABEL, METRIC_LONG, metricView, type Metric } from '../metrics';
 
 type View = 'level' | 'change';
@@ -267,6 +268,7 @@ export function StockDetail({ row, active }: { row: Row; active: Record<Metric, 
           values.
         </p>
       </section>
+      <StockActivity symbol={row.symbol} />
     </div>
   );
 }

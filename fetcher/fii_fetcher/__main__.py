@@ -7,6 +7,9 @@
   summarize      holdings -> summary.json (what the UI reads)
   flows          daily FII/DII cash + F&O participant OI -> flows.json
   import-nsdl    merge a NSDL FPI Monitor CSV into flows.json
+  deals          bulk + block deals                -> deals/YYYY-MM.json
+  delivery       delivery volume / % per stock     -> delivery/YYYY-MM.json
+  sast           Reg 29 substantial-holder filings -> sast/YYYY-MM.json
   all            universe + fetch + summarize
 """
 from __future__ import annotations
@@ -15,9 +18,12 @@ import argparse
 import json
 import logging
 import sys
+from collections import defaultdict
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional
 
+from . import deals as deals_mod
 from . import flows as flows_mod
 from .http import BlockedError, PoliteClient
 from .nse import NseSource
@@ -196,6 +202,52 @@ def cmd_import_nsdl(args, store: Store, client) -> None:
     log.info("nsdl: %d days imported", len(rows))
 
 
+def cmd_deals(args, store: Store, client: PoliteClient) -> None:
+    new = deals_mod.fetch_deals(client)
+    for kind, rows in new.items():
+        by_month = defaultdict(list)
+        for r in rows:
+            by_month[deals_mod.month_key(r["d"])].append(r)
+        for month, rs in by_month.items():
+            doc = store.read_month("deals", month, {})
+            added = deals_mod.merge_deals(doc, rs, kind)
+            store.write_month("deals", month, doc)
+            log.info("deals %s %s: +%d (%d fetched)", kind, month, added, len(rs))
+
+
+def cmd_delivery(args, store: Store, client: PoliteClient) -> None:
+    symbols = {u["symbol"] for u in store.read_universe()} or None
+    months = {(date.today() - timedelta(days=d)).strftime("%Y-%m") for d in range(0, args.days + 1)}
+    have = [d for m in months for d in store.read_month("delivery", m, {})]
+    new = deals_mod.fetch_delivery(client, have, args.days, symbols)
+    by_month = defaultdict(dict)
+    for d, rows in new.items():
+        by_month[deals_mod.month_key(d)][d] = rows
+    for month, days in by_month.items():
+        doc = store.read_month("delivery", month, {})
+        doc.update(days)
+        store.write_month("delivery", month, doc)
+    log.info("delivery: %d new days", len(new))
+
+
+def cmd_sast(args, store: Store, client: PoliteClient) -> None:
+    to = date.today()
+    rows = deals_mod.fetch_sast(client, to - timedelta(days=args.days), to)
+    by_month = defaultdict(list)
+    for r in rows:
+        by_month[deals_mod.month_key(r["filed"])].append(r)
+    added = 0
+    for month, rs in by_month.items():
+        doc = store.read_month("sast", month, [])
+        have = {x["id"] for x in doc}
+        fresh = [r for r in rs if r["id"] not in have]
+        doc += fresh
+        doc.sort(key=lambda x: (x["filed"], x["id"]))
+        store.write_month("sast", month, doc)
+        added += len(fresh)
+    log.info("sast: +%d filings (%d fetched)", added, len(rows))
+
+
 def main(argv: Optional[List[str]] = None) -> None:
     p = argparse.ArgumentParser(prog="fii_fetcher", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--out", default=str(DEFAULT_OUT), help="output data dir (default web/public/data)")
@@ -224,13 +276,17 @@ def main(argv: Optional[List[str]] = None) -> None:
     sp = sub.add_parser("flows")
     sp.add_argument("--sources", default="cash,fno", help="comma-separated: cash,fno (default both)")
     sp.add_argument("--days", type=int, default=30, help="F&O backfill window in calendar days (default 30)")
+    for name in ("delivery", "sast"):
+        sp = sub.add_parser(name)
+        sp.add_argument("--days", type=int, default=30, help="look back this many calendar days (default 30)")
+    sub.add_parser("deals")
     sp = sub.add_parser("import-nsdl")
     sp.add_argument("file", help="CSV: date, category, gross_purchases, gross_sales, net")
 
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO, format="%(levelname)s %(message)s")
     store = Store(Path(args.out))
-    needs_net = args.cmd in ("universe", "fetch", "all", "flows")
+    needs_net = args.cmd in ("universe", "fetch", "all", "flows", "deals", "delivery", "sast")
     client = PoliteClient(delay=args.delay) if needs_net else None
     try:
         if args.cmd == "all":
@@ -246,6 +302,9 @@ def main(argv: Optional[List[str]] = None) -> None:
                 "summarize": cmd_summarize,
                 "flows": cmd_flows,
                 "import-nsdl": cmd_import_nsdl,
+                "deals": cmd_deals,
+                "delivery": cmd_delivery,
+                "sast": cmd_sast,
             }[args.cmd](args, store, client)
     except BlockedError as exc:
         log.error("%s", exc)

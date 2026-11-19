@@ -7,6 +7,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 
+from fii_fetcher.deals import classify, merge_deals, parse_bhavcopy, parse_deals_csv, parse_sast  # noqa: E402
 from fii_fetcher.flows import derive_fno, import_nsdl_csv, parse_fii_dii, parse_participant_oi  # noqa: E402
 from fii_fetcher.nse import normalise_filings  # noqa: E402
 from fii_fetcher.store import Store  # noqa: E402
@@ -266,6 +267,56 @@ class FlowTests(unittest.TestCase):
         out = import_nsdl_csv(csv_text)
         self.assertAlmostEqual(out["2026-11-18"]["Equity"]["net"], 200.25)
         self.assertAlmostEqual(out["2026-11-18"]["Debt-General"]["net"], -20.0)
+
+
+class StockFeedTests(unittest.TestCase):
+    def test_classify(self):
+        self.assertEqual(classify("NORGES BANK ON ACCOUNT OF THE GOVERNMENT PENSION FUND GLOBAL"), "FII")
+        self.assertEqual(classify("GOLDMAN SACHS (SINGAPORE) PTE"), "FII")
+        self.assertEqual(classify("HDFC MUTUAL FUND"), "DII")
+        self.assertEqual(classify("Life Insurance Corporation of India"), "DII")
+        self.assertEqual(classify("RAKESH CHOPDAR"), "other")
+        self.assertEqual(classify(""), "other")
+
+    def test_deals_csv_and_merge(self):
+        text = (
+            "Date,Symbol,Security Name,Client Name,Buy/Sell,Quantity Traded,Trade Price / Wght. Avg. Price,Remarks\n"
+            "18-NOV-2026,AZAD,Azad Engineering Limited,HDFC MUTUAL FUND,BUY,473000,2286,-\n"
+            "18-NOV-2026,AZAD,Azad Engineering Limited,RAKESH CHOPDAR,SELL,3500000,2286.15,-\n"
+        )
+        rows = parse_deals_csv(text)
+        self.assertEqual([(r["side"], r["t"], r["q"]) for r in rows], [("BUY", "DII", 473000), ("SELL", "other", 3500000)])
+        self.assertEqual(rows[0]["d"], "2026-11-18")
+        doc: dict = {}
+        self.assertEqual(merge_deals(doc, rows, "bulk"), 2)
+        self.assertEqual(merge_deals(doc, rows, "bulk"), 0)  # running twice must not duplicate
+
+    def test_deals_csv_no_records(self):
+        text = "Date,Symbol,Security Name,Client Name,Buy/Sell,Quantity Traded,Trade Price / Wght. Avg. Price\nNO RECORDS,,,,,,\n"
+        self.assertEqual(parse_deals_csv(text), [])
+
+    def test_bhavcopy(self):
+        text = (
+            "SYMBOL, SERIES, DATE1, PREV_CLOSE, OPEN_PRICE, HIGH_PRICE, LOW_PRICE, LAST_PRICE, CLOSE_PRICE, AVG_PRICE, TTL_TRD_QNTY, TURNOVER_LACS, NO_OF_TRADES, DELIV_QTY, DELIV_PER\n"
+            "RELIANCE, EQ, 18-Nov-2026, 1, 1, 1, 1, 1, 1363.00, 1, 18228940, 1, 1, 10476168, 57.47\n"
+            "21STCENMGM, BE, 18-Nov-2026, 1, 1, 1, 1, 1, 47.90, 1, 3068, 1, 44, -, -\n"
+            "OTHER, EQ, 18-Nov-2026, 1, 1, 1, 1, 1, 10, 1, 100, 1, 1, -, -\n"
+        )
+        r = parse_bhavcopy(text, {"RELIANCE"})
+        self.assertEqual(r["date"], "2026-11-18")
+        self.assertEqual(r["rows"], {"RELIANCE": [18228940, 10476168, 57.47, 1363.0]})
+        self.assertEqual(parse_bhavcopy("not,a,bhavcopy\n1,2,3\n"), {})
+
+    def test_sast(self):
+        raw = [
+            {"application_no": "180080", "symbol": "UMIYA-MRO", "company": "UMIYA BUILDCON LIMITED", "acquirerName": "Umiya Holding Pvt Ltd",
+             "promoterType": "Y", "acqSaleType": "Acquisition", "noOfShareAcq": "12000", "noOfShareAft": "7274917", "totAftShare": "38.91",
+             "timestamp": "18-Nov-2026 12:10"},
+            {"application_no": "9", "symbol": "ABC", "acquirerName": "HDFC Mutual Fund", "promoterType": "N", "timestamp": "17-Nov-2026 09:00"},
+        ]
+        out = parse_sast(raw)
+        self.assertEqual([(x["t"], x["filed"]) for x in out], [("promoter", "2026-11-18"), ("DII", "2026-11-17")])
+        self.assertEqual(out[0]["afterPct"], 38.91)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,85 @@
+# Daily market feeds: FII/DII flows, F&O participant OI, bulk/block deals, delivery
+# volume and substantial-holder (SAST) filings.
+#
+# Conflict-free by design:
+#  * every data workflow shares the `data-commit` concurrency group, so they never run
+#    at the same time;
+#  * each feed writes its own files (flows.json, deals/, delivery/, sast/), and the
+#    shareholding job writes holdings/ and summary.json, so two jobs never edit one file;
+#  * commit-data.sh rebases and retries if a push is rejected.
+#
+# Self-healing: flows, delivery and SAST re-fetch the last 7 days and skip what they
+# already have, so a missed or blocked run is filled in by the next one. Bulk and block
+# deals are different: NSE only publishes the latest session in full, so a missed day is lost.
+#
+# NSE may block GitHub-hosted runner IPs (403). If so, run the same commands locally
+# after the close (see README) and push.
+name: Fetch daily market feeds
+
+on:
+  schedule:
+    # Mon-Fri 15:00 UTC = 20:30 IST, after NSE has posted bhavcopy and deal files.
+    - cron: "0 15 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: fetcher/requirements.txt
+
+      - run: pip install -r fetcher/requirements.txt
+
+      - name: Test
+        working-directory: fetcher
+        run: python -m unittest discover -s tests
+
+      # One failing feed must not stop the others; the last step reports it.
+      - name: FII/DII cash flows and F&O OI
+        id: flows
+        continue-on-error: true
+        working-directory: fetcher
+        run: python -m fii_fetcher flows --days 7
+
+      - name: Bulk and block deals
+        id: deals
+        continue-on-error: true
+        working-directory: fetcher
+        run: python -m fii_fetcher deals
+
+      - name: Delivery volume
+        id: delivery
+        continue-on-error: true
+        working-directory: fetcher
+        run: python -m fii_fetcher delivery --days 7
+
+      - name: Substantial-holder filings
+        id: sast
+        continue-on-error: true
+        working-directory: fetcher
+        run: python -m fii_fetcher sast --days 7
+
+      - name: Commit data
+        run: |
+          .github/scripts/commit-data.sh "data: daily market feeds $(date -u +%F)" \
+            web/public/data/flows.json web/public/data/deals web/public/data/delivery web/public/data/sast
+
+      - name: Report failed feeds
+        if: steps.flows.outcome == 'failure' || steps.deals.outcome == 'failure' || steps.delivery.outcome == 'failure' || steps.sast.outcome == 'failure'
+        run: |
+          echo "flows=${{ steps.flows.outcome }} deals=${{ steps.deals.outcome }} delivery=${{ steps.delivery.outcome }} sast=${{ steps.sast.outcome }}"
+          exit 1

@@ -23,10 +23,13 @@ class Store:
         self.out = Path(out_dir)
         (self.out / "holdings").mkdir(parents=True, exist_ok=True)
 
-    def _write(self, path: Path, data: Any) -> None:
+    def _write(self, path: Path, data: Any, compact: bool = False) -> None:
         tmp = path.with_suffix(path.suffix + ".tmp")
         with open(tmp, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=1, ensure_ascii=False, sort_keys=True)
+            if compact:  # big numeric tables: one line per top-level key keeps files and diffs small
+                json.dump(data, f, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+            else:
+                json.dump(data, f, indent=1, ensure_ascii=False, sort_keys=True)
             f.write("\n")
         os.replace(tmp, path)
 
@@ -78,3 +81,11 @@ class Store:
 
         doc["generatedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
         self._write(self.out / "flows.json", doc)
+
+    # monthly files: deals/2026-11.json, delivery/2026-11.json, sast/2026-11.json
+    def read_month(self, kind: str, month: str, default: Any) -> Any:
+        return self._read(self.out / kind / f"{month}.json", default)
+
+    def write_month(self, kind: str, month: str, data: Any) -> None:
+        (self.out / kind).mkdir(parents=True, exist_ok=True)
+        self._write(self.out / kind / f"{month}.json", data, compact=True)
