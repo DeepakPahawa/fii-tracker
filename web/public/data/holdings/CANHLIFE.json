@@ -3,11 +3,14 @@
  "name": "Canara HSBC Life Insurance Company Ltd.",
  "quarters": {
   "2025-12-31": {
+   "diiPct": 30.85,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 4.57,
    "fpiCat2Pct": 0.0,
    "fpiPct": 4.57,
    "fpiShares": null,
+   "mfPct": 4.11,
    "promoterPct": 62.0,
    "publicPct": 37.74,
    "recordId": "206758",
@@ -16,11 +19,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1606433_20012026110650_WEB.xml"
   },
   "2026-03-31": {
+   "diiPct": 29.79,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 5.65,
    "fpiCat2Pct": 0.02,
    "fpiPct": 5.67,
    "fpiShares": null,
+   "mfPct": 2.84,
    "promoterPct": 62.0,
    "publicPct": 37.74,
    "recordId": "209204",
@@ -29,11 +35,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1653705_17042026074438_WEB.xml"
   },
   "2026-06-30": {
+   "diiPct": 29.67,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 5.34,
    "fpiCat2Pct": 0.08,
    "fpiPct": 5.42,
    "fpiShares": null,
+   "mfPct": 3.3,
    "promoterPct": 62.0,
    "publicPct": 37.57,
    "recordId": "212285",
@@ -42,11 +51,14 @@
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1696979_20072026045114_WEB.xml"
   },
   "2026-09-30": {
+   "diiPct": 30.16,
+   "diiShares": null,
    "fiiPct": null,
    "fpiCat1Pct": 4.84,
    "fpiCat2Pct": 0.08,
    "fpiPct": 4.92,
    "fpiShares": null,
+   "mfPct": 3.48,
    "promoterPct": 62.0,
    "publicPct": 37.57,
    "recordId": "215608",
