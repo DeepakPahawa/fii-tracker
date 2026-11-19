@@ -1,14 +1,14 @@
 {
  "coverage": {
   "diiWithAny": 469,
-  "diiWithLatest": 1,
+  "diiWithLatest": 2,
   "proWithAny": 490,
-  "proWithLatest": 489,
+  "proWithLatest": 490,
   "universe": 501,
   "withAny": 490,
-  "withLatest": 488
+  "withLatest": 489
  },
- "generatedAt": "2026-11-16T12:01:57Z",
+ "generatedAt": "2026-11-19T08:45:04Z",
  "latestQuarter": "2026-09-30",
  "previousQuarter": "2026-06-30",
  "quarters": [
@@ -2013,25 +2013,19 @@
    "symbol": "AJANTPHARM"
   },
   {
-   "changePp": 0.27,
+   "changePp": -0.1,
    "denominatorEffect": false,
-   "diiChangePp": 2.38,
+   "diiChangePp": 1.02,
    "diiDenominatorEffect": false,
-   "diiPct": 21.8,
-   "diiPending": true,
-   "diiPrevPct": 19.42,
+   "diiPct": 22.82,
+   "diiPending": false,
+   "diiPrevPct": 21.8,
    "diiShares": null,
    "diiSharesChangePct": null,
-   "diiStreak": 2,
-   "fpiPct": 10.42,
+   "diiStreak": 3,
+   "fpiPct": 10.32,
    "fpiShares": null,
    "history": [
-    {
-     "dii": 19.21,
-     "fii": 1.1,
-     "pro": 55.66,
-     "q": "2024-09-30"
-    },
     {
      "dii": 18.01,
      "fii": 1.08,
@@ -2073,20 +2067,26 @@
      "fii": 10.42,
      "pro": 49.7,
      "q": "2026-06-30"
+    },
+    {
+     "dii": 22.82,
+     "fii": 10.32,
+     "pro": 49.7,
+     "q": "2026-09-30"
     }
    ],
    "industry": "Healthcare",
    "name": "Alkem Laboratories Ltd.",
-   "pending": true,
-   "prevPct": 10.15,
-   "proChangePp": -1.5,
+   "pending": false,
+   "prevPct": 10.42,
+   "proChangePp": 0.0,
    "proPct": 49.7,
-   "proPending": true,
-   "proPrevPct": 51.2,
-   "proStreak": -1,
-   "quarter": "2026-06-30",
+   "proPending": false,
+   "proPrevPct": 49.7,
+   "proStreak": 0,
+   "quarter": "2026-09-30",
    "sharesChangePct": null,
-   "streak": 6,
+   "streak": -1,
    "symbol": "ALKEM"
   },
   {

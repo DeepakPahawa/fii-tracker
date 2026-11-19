@@ -117,6 +117,22 @@
    "source": "nse",
    "submittedOn": "2026-07-09",
    "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1689784_09072026041014_WEB.xml"
+  },
+  "2026-09-30": {
+   "diiPct": 22.82,
+   "diiShares": null,
+   "fiiPct": null,
+   "fpiCat1Pct": 10.0,
+   "fpiCat2Pct": 0.32,
+   "fpiPct": 10.32,
+   "fpiShares": null,
+   "mfPct": 5.35,
+   "promoterPct": 49.7,
+   "publicPct": 50.3,
+   "recordId": "216400",
+   "source": "nse",
+   "submittedOn": "2026-11-17",
+   "xbrlUrl": "https://nsearchives.nseindia.in/corporate/xbrl/SHP_1759358_17112026014419_WEB.xml"
   }
  },
  "symbol": "ALKEM"
