@@ -9,9 +9,10 @@ import { StockList } from './components/StockList';
 import { StockDetail } from './components/StockDetail';
 import { MetricChecks } from './components/MetricChecks';
 import { ThemeToggle } from './components/ThemeToggle';
+import { FlowsView } from './components/FlowsView';
 
 type Load = { state: 'loading' } | { state: 'empty' } | { state: 'error'; message: string } | { state: 'ok'; data: Summary; legacy: boolean };
-type Tab = 'stock' | 'sectors';
+type Tab = 'stock' | 'sectors' | 'flows';
 
 const SERIES_KEY = 'fii-series';
 const ALL_ON: Record<Metric, boolean> = { fii: true, dii: true, pro: true };
@@ -259,6 +260,7 @@ export default function App() {
                   [
                     ['stock', 'Stock'],
                     ['sectors', 'Sectors'],
+                    ['flows', 'Daily flows'],
                   ] as [Tab, string][]
                 ).map(([t, label]) => (
                   <button
@@ -280,6 +282,8 @@ export default function App() {
                 ) : (
                   <p className="rounded-2xl border border-line bg-surface p-8 text-center text-sm text-ink-3">Pick a stock from the list.</p>
                 )
+              ) : tab === 'flows' ? (
+                <FlowsView />
               ) : (
                 <section className="rounded-2xl border border-line bg-surface p-4 sm:p-5">
                   <div className="mb-3 flex flex-wrap items-baseline justify-between gap-2">

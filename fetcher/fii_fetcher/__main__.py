@@ -5,6 +5,8 @@
   import-xbrl    parse XBRL files you downloaded  -> holdings/<SYMBOL>.json
   inspect-xbrl   show what the parser matched in one XBRL file
   summarize      holdings -> summary.json (what the UI reads)
+  flows          daily FII/DII cash + F&O participant OI -> flows.json
+  import-nsdl    merge a NSDL FPI Monitor CSV into flows.json
   all            universe + fetch + summarize
 """
 from __future__ import annotations
@@ -16,6 +18,7 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 
+from . import flows as flows_mod
 from .http import BlockedError, PoliteClient
 from .nse import NseSource
 from .store import DEFAULT_OUT, Store
@@ -153,6 +156,46 @@ def cmd_summarize(args, store: Store, client) -> None:
     )
 
 
+def cmd_flows(args, store: Store, client: PoliteClient) -> None:
+    doc = store.read_flows()
+    sources = {x.strip() for x in args.sources.split(",")}
+    failed = False
+    if "cash" in sources:
+        try:
+            new = flows_mod.fetch_cash(client)
+            doc["cash"].update(new)
+            log.info("cash: %s", ", ".join(sorted(new)) or "nothing returned")
+        except BlockedError:
+            raise
+        except Exception as exc:
+            failed = True
+            log.error("cash flows failed: %s", exc)
+    if "fno" in sources:
+        try:
+            new = flows_mod.fetch_fno(client, doc["fno"].keys(), args.days)
+            doc["fno"].update(new)
+            log.info("fno: %d new days", len(new))
+        except BlockedError:
+            raise
+        except Exception as exc:
+            failed = True
+            log.error("fno flows failed: %s", exc)
+    store.write_flows(doc)
+    if failed:
+        sys.exit(1)
+
+
+def cmd_import_nsdl(args, store: Store, client) -> None:
+    rows = flows_mod.import_nsdl_csv(Path(args.file).read_text(encoding="utf-8"))
+    if not rows:
+        sys.exit("no usable rows; expected columns: date, category, gross_purchases, gross_sales, net")
+    doc = store.read_flows()
+    for d, cats in rows.items():
+        doc["nsdl"].setdefault(d, {}).update(cats)
+    store.write_flows(doc)
+    log.info("nsdl: %d days imported", len(rows))
+
+
 def main(argv: Optional[List[str]] = None) -> None:
     p = argparse.ArgumentParser(prog="fii_fetcher", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--out", default=str(DEFAULT_OUT), help="output data dir (default web/public/data)")
@@ -178,11 +221,16 @@ def main(argv: Optional[List[str]] = None) -> None:
     sp = sub.add_parser("inspect-xbrl")
     sp.add_argument("file")
     sub.add_parser("summarize")
+    sp = sub.add_parser("flows")
+    sp.add_argument("--sources", default="cash,fno", help="comma-separated: cash,fno (default both)")
+    sp.add_argument("--days", type=int, default=30, help="F&O backfill window in calendar days (default 30)")
+    sp = sub.add_parser("import-nsdl")
+    sp.add_argument("file", help="CSV: date, category, gross_purchases, gross_sales, net")
 
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO, format="%(levelname)s %(message)s")
     store = Store(Path(args.out))
-    needs_net = args.cmd in ("universe", "fetch", "all")
+    needs_net = args.cmd in ("universe", "fetch", "all", "flows")
     client = PoliteClient(delay=args.delay) if needs_net else None
     try:
         if args.cmd == "all":
@@ -196,6 +244,8 @@ def main(argv: Optional[List[str]] = None) -> None:
                 "import-xbrl": cmd_import,
                 "inspect-xbrl": cmd_inspect,
                 "summarize": cmd_summarize,
+                "flows": cmd_flows,
+                "import-nsdl": cmd_import_nsdl,
             }[args.cmd](args, store, client)
     except BlockedError as exc:
         log.error("%s", exc)

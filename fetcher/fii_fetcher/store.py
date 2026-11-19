@@ -65,3 +65,16 @@ class Store:
 
     def read_summary(self) -> Optional[Dict]:
         return self._read(self.out / "summary.json", None)
+
+    # daily flows: {"cash": {date: {fii, dii}}, "fno": {date: {FII: {...}}}, "nsdl": {date: {category: {...}}}}
+    def read_flows(self) -> Dict:
+        doc = self._read(self.out / "flows.json", {})
+        for k in ("cash", "fno", "nsdl"):
+            doc.setdefault(k, {})
+        return doc
+
+    def write_flows(self, doc: Dict) -> None:
+        from datetime import datetime, timezone
+
+        doc["generatedAt"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        self._write(self.out / "flows.json", doc)

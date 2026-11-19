@@ -51,6 +51,19 @@ cd fetcher
 .venv/bin/python -m fii_fetcher fetch --force && .venv/bin/python -m fii_fetcher summarize
 ```
 
+## Daily flows
+
+The "Daily flows" tab shows FII/DII activity per trading day, from `web/public/data/flows.json`:
+
+| Feed | Command | Content |
+|---|---|---|
+| NSE cash market | `flows --sources cash` | FII and DII buy / sell / net, Rs crore. NSE's API gives only the latest session, so run it daily to build history. |
+| NSE F&O participant OI | `flows --sources fno [--days 30]` | Long and short contracts for FII, DII, Pro, Client across index and stock futures and options. Backfills the window; holidays are skipped. |
+| NSDL FPI Monitor | `import-nsdl FILE.csv` | Equity, debt, hybrid etc. net investment. NSDL's public report pages were replaced by a login-only portal, so there is no fetcher: put the figures in a CSV with columns `date, category, gross_purchases, gross_sales, net` (Rs crore). |
+
+`flows` with no options runs cash and F&O. `.github/workflows/fetch-flows.yml` runs it
+weekdays at 19:00 IST; like the shareholding job it may be blocked on GitHub's IPs.
+
 ## Fetcher commands
 
 | Command | What it does |
@@ -61,6 +74,8 @@ cd fetcher
 | `inspect-xbrl FILE` | Show which contexts and values the parser matched |
 | `summarize` | `holdings/*` → `summary.json` |
 | `all` | `universe`, then `fetch`, then `summarize` |
+| `flows [--sources cash,fno] [--days N]` | Daily FII/DII cash and F&O OI → `flows.json` |
+| `import-nsdl FILE` | Merge an NSDL FPI CSV into `flows.json` |
 
 Global options: `--out DIR` (default `web/public/data`), `--delay SECONDS`
 (default 1.0), `-v`.

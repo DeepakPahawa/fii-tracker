@@ -7,6 +7,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 
+from fii_fetcher.flows import derive_fno, import_nsdl_csv, parse_fii_dii, parse_participant_oi  # noqa: E402
 from fii_fetcher.nse import normalise_filings  # noqa: E402
 from fii_fetcher.store import Store  # noqa: E402
 from fii_fetcher.summary import _streak, build_summary  # noqa: E402
@@ -223,6 +224,48 @@ class SummaryTests(unittest.TestCase):
             st.write_holding({"symbol": "M&M", "quarters": {"2026-09-30": {"fpiPct": 1}}})
             self.assertEqual(st.read_holding("M&M")["quarters"]["2026-09-30"]["fpiPct"], 1)
             self.assertEqual(len(st.all_holdings()), 1)
+
+
+OI_CSV = (
+    '""Participant wise Open Interest (no. of contracts) in Equity Derivatives as on Nov 18, 2026"",,,,,,,,,,,,,,\n'
+    "Client Type,Future Index Long,Future Index Short,Future Stock Long,Future Stock Short       ,Option Index Call Long,"
+    "Option Index Put Long,Option Index Call Short,Option Index Put Short,Option Stock Call Long,Option Stock Put Long,"
+    "Option Stock Call Short,Option Stock Put Short,Total Long Contracts      ,Total Short Contracts\n"
+    "FII,65342,136012,3638688,2680461,713253,1039485,909749,665286,341036,453898,485104,360284,6251703,5236896\n"
+    "DII,53094,30180,388791,4290639,5984,115329,1450,1200,16855,43367,484002,35625,623420,4843096\n"
+    "TOTAL,322199,322199,7975319,7975319\n"
+)
+
+
+class FlowTests(unittest.TestCase):
+    def test_fii_dii_cash(self):
+        raw = [
+            {"buyValue": "14602.25", "category": "DII", "date": "18-Nov-2026", "netValue": "-3159.9", "sellValue": "17762.15"},
+            {"buyValue": "17913.16", "category": "FII/FPI", "date": "18-Nov-2026", "netValue": "5866.78", "sellValue": "12046.38"},
+        ]
+        out = parse_fii_dii(raw)
+        self.assertEqual(list(out), ["2026-11-18"])
+        self.assertAlmostEqual(out["2026-11-18"]["fii"]["net"], 5866.78)
+        self.assertAlmostEqual(out["2026-11-18"]["dii"]["net"], -3159.9)
+
+    def test_participant_oi(self):
+        r = parse_participant_oi(OI_CSV)
+        self.assertEqual(r["date"], "2026-11-18")
+        self.assertNotIn("TOTAL", r["participants"])  # short summary row is skipped
+        self.assertEqual(r["participants"]["FII"]["idxFutShort"], 136012)  # trailing-space header still matched
+        self.assertEqual(r["participants"]["FII"]["totalLong"], 6251703)
+        d = derive_fno(r["participants"])
+        self.assertEqual(d["fiiIdxFutNet"], 65342 - 136012)
+        self.assertAlmostEqual(d["fiiIdxFutLongPct"], 32.5)
+
+    def test_participant_oi_rejects_other_files(self):
+        self.assertIsNone(parse_participant_oi("<html>not found</html>"))
+
+    def test_nsdl_csv_import(self):
+        csv_text = "date,category,gross_purchases,gross_sales,net\n18-Nov-2026,Equity,1000.5,800.25,200.25\n18-Nov-2026,Debt-General,50,70,-20\n"
+        out = import_nsdl_csv(csv_text)
+        self.assertAlmostEqual(out["2026-11-18"]["Equity"]["net"], 200.25)
+        self.assertAlmostEqual(out["2026-11-18"]["Debt-General"]["net"], -20.0)
 
 
 if __name__ == "__main__":
