@@ -20,7 +20,6 @@ export function AlertPanel({ settings, onChange }: { settings: AlertSettings; on
         <input type="checkbox" checked={settings.sound} onChange={(e) => onChange({ ...settings, sound: e.target.checked })} className="accent-emerald-500" />
         Sound
       </label>
-      <span className="text-xs text-slate-500">Simulated feed moves within ±0.20%, so try a threshold of 0.15–0.20.</span>
     </div>
   );
 }

@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import type { AlertSettings, CategoryFilter, DataMode } from './types';
+import type { AlertSettings, CategoryFilter } from './types';
 import { useETFMarketData } from './hooks/useETFMarketData';
 import { alertBreach, formatIstTime, marketState, matchesFilter, sortRows, type SortKey } from './utils/etfCalculations';
 import { KpiCards } from './components/KpiCards';
@@ -39,7 +39,6 @@ function beep() {
 }
 
 export default function EtfPage() {
-  const [mode, setMode] = useState<DataMode>('mock');
   const [intervalSec, setIntervalSec] = useState<number>(5);
   const [filter, setFilter] = useState<CategoryFilter>('All');
   const [query, setQuery] = useState('');
@@ -50,7 +49,7 @@ export default function EtfPage() {
   const [toasts, setToasts] = useState<{ id: number; text: string; kind: 'discount' | 'premium' }[]>([]);
   const [now, setNow] = useState(Date.now());
 
-  const { rows, history, lastUpdated, tick, error, refresh } = useETFMarketData({ mode, intervalMs: intervalSec * 1000 });
+  const { rows, history, lastUpdated, asOf, navDate, stale, tick, error, refresh } = useETFMarketData({ intervalMs: intervalSec * 1000 });
 
   // Clock for the market-status countdown.
   useEffect(() => {
@@ -105,12 +104,12 @@ export default function EtfPage() {
         <header className="flex flex-wrap items-center justify-between gap-3">
           <div>
             <h1 className="text-2xl font-semibold tracking-tight text-slate-100">ETF iNAV Tracker</h1>
-            <p className="mt-0.5 text-sm text-slate-400">LTP vs iNAV premium / discount for 20 liquid NSE ETFs.</p>
+            <p className="mt-0.5 text-sm text-slate-400">Live NSE prices vs NAV: premium / discount for 20 liquid ETFs.</p>
           </div>
           <div className="flex flex-wrap items-center gap-3 text-sm">
             <span className="flex items-center gap-2 text-slate-400" aria-live="off">
-              <span key={tick} className={`inline-block h-2.5 w-2.5 rounded-full ${error ? 'bg-rose-500' : 'animate-ping-once bg-emerald-400'}`} />
-              {lastUpdated ? `Updated ${formatIstTime(lastUpdated)}` : 'Waiting for data…'}
+              <span key={tick} className={`inline-block h-2.5 w-2.5 rounded-full ${error ? 'bg-rose-500' : stale || !market.open ? 'bg-slate-600' : 'animate-ping-once bg-emerald-400'}`} />
+              {lastUpdated ? `${stale ? 'Last data' : 'Updated'} ${formatIstTime(lastUpdated)}` : market.open ? 'Waiting for data…' : 'No data'}
             </span>
             <label className="flex items-center gap-1.5 text-slate-400">
               Refresh
@@ -120,20 +119,24 @@ export default function EtfPage() {
                 ))}
               </select>
             </label>
-            <div role="group" aria-label="Data source" className="inline-flex rounded-full border border-slate-800 bg-slate-900 p-0.5">
-              {(['mock', 'live'] as DataMode[]).map((m) => (
-                <button key={m} type="button" aria-pressed={mode === m} onClick={() => setMode(m)} className={chip(mode === m)}>
-                  {m === 'mock' ? 'Simulated' : 'Live proxy'}
-                </button>
-              ))}
-            </div>
             <button type="button" onClick={refresh} className="rounded-md border border-slate-700 px-3 py-1.5 text-slate-300 hover:bg-slate-800">Refresh now</button>
             <a href="#/" className="text-slate-400 underline-offset-2 hover:text-slate-100 hover:underline">← FII Tracker</a>
           </div>
         </header>
 
-        {mode === 'mock' && <p className="text-xs text-amber-300/80">Simulated data: random-walk ticks within ±0.20% — not real prices. Switch to “Live proxy” once the backend is configured (see web/etf-proxy/README.md).</p>}
-        {error && <p role="alert" className="rounded-lg border border-rose-500/40 bg-rose-500/10 px-3 py-2 text-sm text-rose-300">Live feed error: {error}. Showing last good data.</p>}
+        {!market.open && (
+          <p className="rounded-lg border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-slate-300">
+            Market closed — live fetching is paused until 09:15 IST (Mon–Fri).{' '}
+            {rows.length ? `Showing the last saved snapshot${asOf ? ` (NSE as of ${asOf})` : ''}.` : 'No snapshot saved yet: open this page during market hours to capture one.'}
+          </p>
+        )}
+        {error && market.open && <p role="alert" className="rounded-lg border border-rose-500/40 bg-rose-500/10 px-3 py-2 text-sm text-rose-300">Feed error: {error}. {rows.length ? 'Showing last good data.' : ''}</p>}
+        {rows.length > 0 && (
+          <p className="text-xs text-amber-300/80">
+            Prices are real NSE quotes. The “NAV” column is the last published NAV{navDate ? ` (${navDate})` : ''}, not a live intraday iNAV, so spread % can look large for
+            ETFs on overseas or commodity prices (MON100, gold, silver).
+          </p>
+        )}
 
         <KpiCards rows={rows} market={market} />
         <AlertPanel settings={alerts} onChange={saveAlerts} />
@@ -157,8 +160,7 @@ export default function EtfPage() {
         <WatchlistTable rows={visible} sortKey={sortKey} dir={dir} onSort={onSort} onSelect={setSelected} alerting={alerting} />
 
         <p className="pb-4 text-xs leading-relaxed text-slate-500">
-          Spread % = (LTP − iNAV) / iNAV × 100. Fair within ±0.10%; discount below −0.15%; premium above +0.15%; in between is marginal. iNAV is indicative and can lag the
-          underlying, especially for global and commodity ETFs when their home markets are closed. Not investment advice.
+          Spread % = (LTP − NAV) / NAV × 100. Fair within ±0.10%; discount below −0.15%; premium above +0.15%; in between is marginal. The reference NAV is the last published one and is not updated intraday. Not investment advice.
         </p>
       </div>
 

@@ -24,8 +24,12 @@ export interface EtfQuote {
 }
 
 export interface QuoteBatch {
-  /** Epoch ms of the snapshot. */
+  /** Epoch ms when the snapshot was fetched. */
   ts: number;
+  /** NSE's own timestamp for the snapshot, e.g. "25-Nov-2026 14:10:00". */
+  asOf?: string;
+  /** Date of the NAV used as the reference value, e.g. "24-Nov-2026". */
+  navDate?: string;
   quotes: EtfQuote[];
 }
 
@@ -58,4 +62,3 @@ export interface AlertSettings {
   sound: boolean;
 }
 
-export type DataMode = 'mock' | 'live';

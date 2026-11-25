@@ -37,21 +37,21 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
 
         <div className="mt-5 rounded-xl border border-slate-800 bg-slate-950/50 p-3">
           <div className="mb-1 flex items-center justify-between text-xs text-slate-400">
-            <span>LTP vs iNAV, intraday</span>
-            <span><span className="text-emerald-400">━</span> LTP <span className="ml-2 text-slate-400">╌</span> iNAV</span>
+            <span>LTP vs NAV, this session</span>
+            <span><span className="text-emerald-400">━</span> LTP <span className="ml-2 text-slate-400">╌</span> NAV</span>
           </div>
           <Sparkline points={history} />
         </div>
 
         <div className="mt-4 grid grid-cols-2 gap-2.5 text-sm">
-          {stat('iNAV', `₹${inr(row.inav)}`)}
+          {stat('NAV', `₹${inr(row.inav)}`)}
           {stat('Spread', `${signed(row.spread)} ₹ · ${pct(row.spreadPct)}`)}
           {stat('Prev close', `₹${inr(row.prevClose)}`)}
           {stat('Volume', compact(row.volume))}
           {stat('Turnover', `₹${compact(row.turnover)}`)}
           {stat('Ticks charted', history.length)}
         </div>
-        <p className="mt-4 text-xs text-slate-500">Execution tip: prefer limit orders near iNAV; avoid market orders when the spread is wide.</p>
+        <p className="mt-4 text-xs text-slate-500">Execution tip: prefer limit orders; avoid market orders when the spread is wide.</p>
       </aside>
     </div>
   );
