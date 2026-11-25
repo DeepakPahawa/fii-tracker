@@ -65,7 +65,7 @@ export async function getQuotes(symbols) {
   return { ts: Date.now(), asOf: body.timestamp, navDate: body.navDate, quotes };
 }
 
-/** Connect/Node-style handler for GET /api/etf/quotes?symbols=A,B. Never calls NSE outside market hours. */
+/** Connect/Node-style handler for GET /api/etf/quotes?symbols=A,B. Repeat-polling policy lives in the client. */
 export async function etfHandler(req, res) {
   const send = (status, obj) => {
     res.writeHead(status, { 'content-type': 'application/json', 'cache-control': 'no-store' });
@@ -74,7 +74,6 @@ export async function etfHandler(req, res) {
   const url = new URL(req.url ?? '/', 'http://localhost');
   const symbols = (url.searchParams.get('symbols') ?? '').split(',').filter(Boolean);
   if (!symbols.length) return send(400, { error: 'symbols query parameter is required' });
-  if (!isMarketOpen()) return send(503, { error: 'Market closed (09:15–15:30 IST): not fetching' });
   try {
     send(200, await getQuotes(symbols));
   } catch (e) {

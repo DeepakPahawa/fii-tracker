@@ -36,9 +36,9 @@ export interface UseETFMarketData {
 }
 
 /**
- * Single entry point for ETF data. Polls the proxy every `intervalMs` — but only while NSE is open
- * (Mon-Fri 09:15-15:30 IST). Outside those hours no request is made: the last snapshot saved during
- * the session is shown instead.
+ * Single entry point for ETF data. Polls the proxy every `intervalMs` while NSE is open
+ * (Mon-Fri 09:15-15:30 IST). Once it is closed, exactly one fetch is made (the final snapshot) and
+ * polling stops until the next open. The last snapshot is saved locally and shown on reload.
  */
 export function useETFMarketData({ intervalMs }: { intervalMs: number }): UseETFMarketData {
   const [rows, setRows] = useState<EtfRow[]>([]);
@@ -48,6 +48,8 @@ export function useETFMarketData({ intervalMs }: { intervalMs: number }): UseETF
   const [stale, setStale] = useState(false);
   const [tick, setTick] = useState(0);
   const [error, setError] = useState<string | null>(null);
+  /** True once the single after-close fetch has been made; reset whenever the market is seen open. */
+  const closedFetched = useRef(false);
   const historyRef = useRef(history);
   historyRef.current = history;
 
@@ -76,11 +78,19 @@ export function useETFMarketData({ intervalMs }: { intervalMs: number }): UseETF
 
   const poll = useCallback(
     async (signal?: AbortSignal) => {
-      if (!marketState(Date.now()).open) return; // hard stop: never fetch outside 09:15-15:30 IST
+      if (marketState(Date.now()).open) {
+        closedFetched.current = false;
+      } else {
+        if (closedFetched.current) return; // closed: the one fetch is already done, stay idle
+        closedFetched.current = true;
+      }
       try {
         apply(await fetchLiveQuotes(signal), true);
       } catch (e) {
-        if ((e as Error).name === 'AbortError') return;
+        if ((e as Error).name === 'AbortError') {
+          if (!marketState(Date.now()).open) closedFetched.current = false; // aborted by StrictMode/unmount: let the remount fetch
+          return;
+        }
         setError((e as Error).message || 'Failed to fetch quotes');
       }
     },
@@ -106,6 +116,7 @@ export function useETFMarketData({ intervalMs }: { intervalMs: number }): UseETF
     };
   }, [poll, intervalMs]);
 
+  // Manual refresh only does something while the market is open (closed: one fetch only).
   const refresh = useCallback(() => void poll(), [poll]);
 
   return useMemo(

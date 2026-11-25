@@ -119,15 +119,15 @@ export default function EtfPage() {
                 ))}
               </select>
             </label>
-            <button type="button" onClick={refresh} className="rounded-md border border-slate-700 px-3 py-1.5 text-slate-300 hover:bg-slate-800">Refresh now</button>
+            <button type="button" onClick={refresh} disabled={!market.open} title={market.open ? undefined : 'Market closed: data was fetched once'} className="rounded-md disabled:cursor-not-allowed disabled:opacity-40 border border-slate-700 px-3 py-1.5 text-slate-300 hover:bg-slate-800">Refresh now</button>
             <a href="#/" className="text-slate-400 underline-offset-2 hover:text-slate-100 hover:underline">← FII Tracker</a>
           </div>
         </header>
 
         {!market.open && (
           <p className="rounded-lg border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-slate-300">
-            Market closed — live fetching is paused until 09:15 IST (Mon–Fri).{' '}
-            {rows.length ? `Showing the last saved snapshot${asOf ? ` (NSE as of ${asOf})` : ''}.` : 'No snapshot saved yet: open this page during market hours to capture one.'}
+            Market closed — data was fetched once and live polling is paused until 09:15 IST (Mon–Fri).{' '}
+            {rows.length ? `Showing NSE data${asOf ? ` as of ${asOf}` : ''}.` : 'No data loaded.'}
           </p>
         )}
         {error && market.open && <p role="alert" className="rounded-lg border border-rose-500/40 bg-rose-500/10 px-3 py-2 text-sm text-rose-300">Feed error: {error}. {rows.length ? 'Showing last good data.' : ''}</p>}
