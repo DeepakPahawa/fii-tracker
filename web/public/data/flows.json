@@ -47,6 +47,18 @@
     "net": 5672.99,
     "sell": 17800.68
    }
+  },
+  "2026-11-25": {
+   "dii": {
+    "buy": 22379.82,
+    "net": 4018.72,
+    "sell": 18361.1
+   },
+   "fii": {
+    "buy": 24309.87,
+    "net": 4479.08,
+    "sell": 19830.79
+   }
   }
  },
  "fno": {
@@ -1567,8 +1579,74 @@
     "totalLong": 2918332,
     "totalShort": 2770900
    }
+  },
+  "2026-11-25": {
+   "Client": {
+    "idxCallLong": 2558883,
+    "idxCallShort": 2491256,
+    "idxFutLong": 146754,
+    "idxFutShort": 76915,
+    "idxPutLong": 2214240,
+    "idxPutShort": 2645199,
+    "stkCallLong": 1272779,
+    "stkCallShort": 720877,
+    "stkFutLong": 3017677,
+    "stkFutShort": 209335,
+    "stkPutLong": 520232,
+    "stkPutShort": 655389,
+    "totalLong": 9730566,
+    "totalShort": 6798971
+   },
+   "DII": {
+    "idxCallLong": 9045,
+    "idxCallShort": 1933,
+    "idxFutLong": 54959,
+    "idxFutShort": 39905,
+    "idxPutLong": 47880,
+    "idxPutShort": 1973,
+    "stkCallLong": 4201,
+    "stkCallShort": 216288,
+    "stkFutLong": 288613,
+    "stkFutShort": 4263730,
+    "stkPutLong": 39955,
+    "stkPutShort": 10773,
+    "totalLong": 444653,
+    "totalShort": 4534602
+   },
+   "FII": {
+    "idxCallLong": 453411,
+    "idxCallShort": 575534,
+    "idxFutLong": 38700,
+    "idxFutShort": 123930,
+    "idxPutLong": 713682,
+    "idxPutShort": 442714,
+    "stkCallLong": 127623,
+    "stkCallShort": 154106,
+    "stkFutLong": 3418014,
+    "stkFutShort": 2560938,
+    "stkPutLong": 145403,
+    "stkPutShort": 103762,
+    "totalLong": 4896832,
+    "totalShort": 3960983
+   },
+   "Pro": {
+    "idxCallLong": 743637,
+    "idxCallShort": 696254,
+    "idxFutLong": 29834,
+    "idxFutShort": 29497,
+    "idxPutLong": 811224,
+    "idxPutShort": 697140,
+    "stkCallLong": 646448,
+    "stkCallShort": 959780,
+    "stkFutLong": 645556,
+    "stkFutShort": 335857,
+    "stkPutLong": 675519,
+    "stkPutShort": 611185,
+    "totalLong": 3552218,
+    "totalShort": 3329713
+   }
   }
  },
- "generatedAt": "2026-11-24T23:48:54+00:00",
+ "generatedAt": "2026-11-25T23:30:47+00:00",
  "nsdl": {}
 }
