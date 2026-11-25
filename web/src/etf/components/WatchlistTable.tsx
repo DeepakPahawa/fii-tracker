@@ -35,8 +35,8 @@ export function WatchlistTable({ rows, sortKey, dir, onSort, onSelect, alerting 
             <Th right={false}>Category</Th>
             <Th>LTP (₹)</Th>
             <Th k="dayChangePct">Day change</Th>
-            <Th>iNAV (₹)</Th>
-            <Th k="spreadPct">iNAV diff</Th>
+            <Th>NAV (₹)</Th>
+            <Th k="spreadPct">NAV diff</Th>
             <Th right={false}>Status</Th>
             <Th k="volume">Volume / Turnover</Th>
             <Th>Actions</Th>

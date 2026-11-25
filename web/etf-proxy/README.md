@@ -1,22 +1,18 @@
-# ETF live-feed proxy (contract)
+# ETF data proxy
 
-The `/etf` page's **Live proxy** mode calls `GET {VITE_ETF_API_URL}?symbols=A,B,C` (default `/api/etf/quotes`).
-Implement it with any broker API (Zerodha Kite Connect, Upstox, Dhan) or an NSE scrape. Keep API keys on the server; the browser never sees them.
+The `/etf` page only shows real NSE data. The browser cannot call NSE directly (CORS + session cookie), so it calls
+`GET /api/etf/quotes?symbols=A,B,C` (override with `VITE_ETF_API_URL`), which this folder implements.
 
-Response (JSON):
+- `nseEtf.mjs` reads NSE's public snapshot (`/api/etf`). No keys, no dependencies.
+- `npm run dev` mounts it automatically (see `vite.config.ts`).
+- For a built site, run `node etf-proxy/server.mjs` (port 8787) and route `/api/etf/` to it.
+- It refuses to contact NSE outside 09:15–15:30 IST, Mon–Fri (503), and caches for 2 s.
 
-```json
-{
-  "ts": 1764057242000,
-  "quotes": [
-    { "symbol": "NIFTYBEES", "ltp": 285.4, "prevClose": 284.9, "inav": 285.21, "volume": 1250000, "turnover": 356000000 }
-  ]
-}
-```
+Response: `{ ts, asOf, navDate, quotes: [{ symbol, ltp, prevClose, inav, volume, turnover }] }`.
 
-- `ltp`, `prevClose`, `inav` are required numbers (₹). `volume` is cumulative units today; `turnover` (₹) is optional.
-- Return one entry per requested symbol. Symbols outside the 20-ETF universe are ignored.
-- iNAV is published by the AMCs / NSE (not by most broker quote APIs), so you will usually combine two sources.
+## iNAV caveat
 
-`server.mjs` is a runnable skeleton: `node etf-proxy/server.mjs` listens on :8787 and returns 501 until you fill in `getQuotes()`.
-Point Vite at it with `ETF_PROXY_TARGET=http://127.0.0.1:8787 npm run dev` (see `vite.config.ts`).
+NSE's snapshot has real LTP, previous close, volume and turnover, but its `nav` field is the last **published NAV**
+(previous trading day), not a live intraday iNAV. The page uses it as the reference and says so. ETFs tracking
+overseas or commodity prices (MON100, gold, silver) can show large "premiums" that are just stale NAV. For true iNAV,
+swap the `inav` source in `getQuotes()` for an AMC / data-vendor iNAV feed.
