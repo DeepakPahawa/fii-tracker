@@ -173,7 +173,15 @@ export default function App() {
       <header>
         <div className="flex items-center justify-between gap-3">
           <h1 className="text-2xl font-semibold tracking-tight text-ink">FII Tracker</h1>
-          <ThemeToggle />
+          <div className="flex items-center gap-2">
+            <a
+              href="#/etf"
+              className="inline-flex h-9 items-center rounded-full border border-line bg-surface px-3 text-sm text-ink-2 hover:bg-surface-2"
+            >
+              ETF iNAV tracker →
+            </a>
+            <ThemeToggle />
+          </div>
         </div>
         <p className="mt-0.5 max-w-3xl text-sm text-ink-2">
           Who holds Nifty 500 stocks: foreign investors, domestic institutions and promoters, from quarterly shareholding filings.
