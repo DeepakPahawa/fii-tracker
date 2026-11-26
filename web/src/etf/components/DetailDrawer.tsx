@@ -4,7 +4,7 @@ import { Sparkline } from './Sparkline';
 import { STATUS_LABEL } from '../utils/etfCalculations';
 import { compact, inr, pct, signed } from '../format';
 import { StatusBadge } from './StatusBadge';
-import { HistoryAnalysis } from '../analysis/HistoryAnalysis';
+import { DailyData, HistoryAnalysis, useHistory } from '../analysis/HistoryAnalysis';
 import { Constituents } from '../analysis/Constituents';
 
 export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; history: HistoryPoint[]; onClose: () => void }) {
@@ -13,6 +13,7 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   }, [onClose]);
+  const hist = useHistory(row?.symbol ?? '');
   if (!row) return null;
   const up = row.dayChange >= 0;
   const stat = (label: string, value: React.ReactNode) => (
@@ -37,7 +38,9 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
         </p>
         <div className="mt-2"><StatusBadge status={row.status} /> <span className="ml-1 text-xs text-slate-500">{STATUS_LABEL[row.status]}</span></div>
 
-        <div className="mt-5 rounded-xl border border-slate-800 bg-slate-950/50 p-3">
+        <DailyData hist={hist} />
+
+        <div className="mt-6 rounded-xl border border-slate-800 bg-slate-950/50 p-3">
           <div className="mb-1 flex items-center justify-between text-xs text-slate-400">
             <span>LTP vs NAV, this session</span>
             <span><span className="text-emerald-400">━</span> LTP <span className="ml-2 text-slate-400">╌</span> NAV</span>
@@ -57,7 +60,7 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
 
         <Constituents symbol={row.symbol} />
 
-        <HistoryAnalysis symbol={row.symbol} />
+        <HistoryAnalysis symbol={row.symbol} hist={hist} />
       </aside>
     </div>
   );

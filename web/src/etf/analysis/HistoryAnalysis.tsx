@@ -44,22 +44,41 @@ const Section = ({ title, hint, children }: { title: string; hint?: string; chil
 const th = 'whitespace-nowrap px-3 py-2 text-right text-[11px] font-medium uppercase tracking-wider text-slate-500 first:text-left';
 const td = 'whitespace-nowrap px-3 py-1.5 text-right tabular-nums first:text-left';
 
-/** Full-history analysis for one ETF: close vs NAV, premium distribution, yearly stats, post-drop returns and every row. */
-export function HistoryAnalysis({ symbol }: { symbol: string }) {
-  const [all, setAll] = useState<HRow[] | null>(null);
-  const [error, setError] = useState<string | null>(null);
+export interface HistoryState {
+  all: HRow[] | null;
+  error: string | null;
+}
+
+/** Loads an ETF's full daily history once so the drawer's sections can share it. */
+export function useHistory(symbol: string): HistoryState {
+  const [state, setState] = useState<HistoryState>({ all: null, error: null });
+  useEffect(() => {
+    setState({ all: null, error: null });
+    if (!symbol) return; // drawer closed
+    const ctrl = new AbortController();
+    loadHistory(symbol, ctrl.signal)
+      .then((all) => setState({ all, error: null }))
+      .catch((e: Error) => e.name !== 'AbortError' && setState({ all: null, error: e.message }));
+    return () => ctrl.abort();
+  }, [symbol]);
+  return state;
+}
+
+/** Day-by-day moves and every row, in two tabs. Meant to sit at the top of the drawer. */
+export function DailyData({ hist }: { hist: HistoryState }) {
+  if (hist.error) return null; // the analysis section below shows the error once
+  if (!hist.all) return <p className="mt-6 text-sm text-slate-500">Loading daily data…</p>;
+  return <DataTabs rows={hist.all} />;
+}
+
+/** Full-history analysis for one ETF: close vs NAV, premium distribution, yearly stats and post-drop returns. */
+export function HistoryAnalysis({ symbol, hist }: { symbol: string; hist: HistoryState }) {
+  const { all, error } = hist;
   const [years, setYears] = useState(0);
   const [hover, setHover] = useState(-1);
 
   useEffect(() => {
-    const ctrl = new AbortController();
-    setAll(null);
-    setError(null);
     setHover(-1);
-    loadHistory(symbol, ctrl.signal)
-      .then(setAll)
-      .catch((e: Error) => e.name !== 'AbortError' && setError(e.message));
-    return () => ctrl.abort();
   }, [symbol]);
 
   const rows = useMemo(() => (all ? sliceRange(all, years) : []), [all, years]);
@@ -154,8 +173,6 @@ export function HistoryAnalysis({ symbol }: { symbol: string }) {
       </Section>
 
       <DropStudy rows={all} />
-
-      <DataTabs rows={all} />
 
       <p className="mt-6 border-l-2 border-slate-700 pl-3 text-xs text-slate-500">
         Prices are NSE closes from Yahoo Finance, NAV is the official end-of-day value from AMFI, joined by trading date (days missing from either are dropped). Splits are detected in each series and both are put on the latest share basis. This is end-of-day NAV, not intraday iNAV, which has no free historical source. Refresh with <code className="text-slate-400">node web/etf-proxy/fetch-history.mjs</code>.
