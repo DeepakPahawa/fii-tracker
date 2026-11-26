@@ -16,3 +16,9 @@ NSE's snapshot has real LTP, previous close, volume and turnover, but its `nav` 
 (previous trading day), not a live intraday iNAV. The page uses it as the reference and says so. ETFs tracking
 overseas or commodity prices (MON100, gold, silver) can show large "premiums" that are just stale NAV. For true iNAV,
 swap the `inav` source in `getQuotes()` for an AMC / data-vendor iNAV feed.
+
+## Daily history (`/api/etf/history?symbol=X`)
+
+Powers the drawer's "Daily history" panel: `{ symbol, schemeCode, schemeName, rows: [{ date, close, nav, spreadPct }] }` (~6 months).
+`history.mjs` joins Yahoo Finance daily closes with AMFI end-of-day NAV (via mfapi.in) by date; `SCHEME_CODES` maps each ticker to its AMFI scheme.
+Results are cached for 1 hour. This is close-vs-NAV, not intraday iNAV. Yahoo occasionally lacks a day, and such days are skipped.

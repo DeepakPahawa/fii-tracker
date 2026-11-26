@@ -4,6 +4,7 @@ import { Sparkline } from './Sparkline';
 import { STATUS_LABEL } from '../utils/etfCalculations';
 import { compact, inr, pct, signed } from '../format';
 import { StatusBadge } from './StatusBadge';
+import { DailyHistoryPanel } from './DailyHistoryPanel';
 
 export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; history: HistoryPoint[]; onClose: () => void }) {
   useEffect(() => {
@@ -42,6 +43,8 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
           </div>
           <Sparkline points={history} />
         </div>
+
+        <DailyHistoryPanel symbol={row.symbol} isGlobal={row.category === 'Global'} />
 
         <div className="mt-4 grid grid-cols-2 gap-2.5 text-sm">
           {stat('NAV', `₹${inr(row.inav)}`)}

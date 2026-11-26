@@ -4,7 +4,7 @@
  * The browser cannot call NSE directly (CORS + session cookie), so it calls a small backend proxy
  * (web/etf-proxy/, mounted automatically by `npm run dev`) that reads NSE's public ETF snapshot.
  */
-import type { EtfQuote, QuoteBatch } from '../types';
+import type { DailyHistory, EtfQuote, QuoteBatch } from '../types';
 
 /** Endpoint of the backend proxy. Override with VITE_ETF_API_URL. */
 export const LIVE_ENDPOINT: string = (import.meta.env.VITE_ETF_API_URL as string | undefined) ?? '/api/etf/quotes';
@@ -31,4 +31,15 @@ export async function fetchLiveQuotes(symbols: string[], signal?: AbortSignal): 
   );
   if (!quotes.length) throw new Error('Proxy quotes are missing ltp / nav / prevClose');
   return { ts: body.ts ?? Date.now(), asOf: body.asOf, navDate: body.navDate, quotes };
+}
+
+const HISTORY_ENDPOINT = LIVE_ENDPOINT.replace(/\/quotes$/, '/history');
+
+/** Daily close vs end-of-day NAV for one ETF (about 6 months). Throws with the proxy's message on failure. */
+export async function fetchDailyHistory(symbol: string, signal?: AbortSignal): Promise<DailyHistory> {
+  const res = await fetch(`${HISTORY_ENDPOINT}?symbol=${encodeURIComponent(symbol)}`, { signal });
+  const body = (await res.json().catch(() => ({}))) as Partial<DailyHistory> & { error?: string };
+  if (!res.ok) throw new Error(body.error || `Proxy returned HTTP ${res.status}`);
+  if (!Array.isArray(body.rows)) throw new Error('Proxy history response has no rows');
+  return body as DailyHistory;
 }
