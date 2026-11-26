@@ -5,6 +5,7 @@ import { STATUS_LABEL } from '../utils/etfCalculations';
 import { compact, inr, pct, signed } from '../format';
 import { StatusBadge } from './StatusBadge';
 import { HistoryAnalysis } from '../analysis/HistoryAnalysis';
+import { Constituents } from '../analysis/Constituents';
 
 export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; history: HistoryPoint[]; onClose: () => void }) {
   useEffect(() => {
@@ -53,6 +54,8 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
           {stat('Ticks charted', history.length)}
         </div>
         <p className="mt-4 text-xs text-slate-500">Execution tip: prefer limit orders; avoid market orders when the spread is wide.</p>
+
+        <Constituents symbol={row.symbol} />
 
         <HistoryAnalysis symbol={row.symbol} />
       </aside>

@@ -35,3 +35,14 @@ node web/etf-proxy/fetch-history.mjs --combined # also write all-daily.csv / all
 ```
 
 Splits are detected in the price and NAV series separately and both are put on the latest share basis (see `manifest.json`).
+
+## Holdings for the drawer (`fetch-constituents.mjs`)
+
+"What this ETF holds" reads `web/public/data/etf-constituents/<SYMBOL>.json`: the stocks in the index the ETF tracks, taken from
+NSE's official constituent lists (`nsearchives.nseindia.com/content/indices`). NSE publishes membership and sector only, so weights
+are not shown (each record links the index factsheet). Gold and silver ETFs hold metal, MON100 holds Nasdaq-100 shares and ICICIB22
+tracks a BSE index, so those get a short note instead of a stock list.
+
+```bash
+node web/etf-proxy/fetch-constituents.mjs
+```

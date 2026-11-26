@@ -215,3 +215,27 @@ export function dropStudy(rows: HRow[], basis: 'd' | 'w', k: number, thresholds 
     }),
   }));
 }
+
+export interface DayMove {
+  d: string;
+  c: number;
+  p: number;
+  /** Close-to-close change on this day, %. */
+  day: number;
+  /** Change on the following trading day, % (NaN on the last row). */
+  next: number;
+  /** Change over the following 5 trading days, % (NaN near the end). */
+  next5: number;
+}
+
+/** Each trading day with its own move and what the price did next. */
+export function dayMoves(rows: HRow[]): DayMove[] {
+  return rows.map((r, i) => ({
+    d: r.d,
+    c: r.c,
+    p: r.p,
+    day: r.pr,
+    next: i + 1 < rows.length ? (rows[i + 1].c / r.c - 1) * 100 : NaN,
+    next5: i + 5 < rows.length ? (rows[i + 5].c / r.c - 1) * 100 : NaN,
+  }));
+}

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import { dropStudy, loadHistory, sliceRange, summarize, yearly, ZONES, type HRow } from './history';
 import { C, PremiumChart, PremiumHistogram, PriceNavChart, ReturnScatter } from './charts';
+import { DayMoves } from './DayMoves';
 import { inr, signed } from '../format';
 
 const tone = (v: number) => (v > 0 ? 'text-emerald-400' : v < 0 ? 'text-rose-400' : 'text-slate-300');
@@ -153,6 +154,8 @@ export function HistoryAnalysis({ symbol }: { symbol: string }) {
       </Section>
 
       <DropStudy rows={all} />
+
+      <DayMoves rows={all} />
 
       <Section title="All rows" hint="Every column from the downloaded file. Click a heading to sort.">
         <RowsTable rows={all} />
