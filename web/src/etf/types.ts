@@ -61,4 +61,3 @@ export interface AlertSettings {
   premiumPct: number;
   sound: boolean;
 }
-

@@ -4,6 +4,7 @@ import { Sparkline } from './Sparkline';
 import { STATUS_LABEL } from '../utils/etfCalculations';
 import { compact, inr, pct, signed } from '../format';
 import { StatusBadge } from './StatusBadge';
+import { HistoryAnalysis } from '../analysis/HistoryAnalysis';
 
 export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; history: HistoryPoint[]; onClose: () => void }) {
   useEffect(() => {
@@ -22,7 +23,7 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
   return (
     <div className="fixed inset-0 z-40" role="dialog" aria-modal="true" aria-label={`${row.symbol} detail`}>
       <button type="button" aria-label="Close" className="absolute inset-0 bg-black/60" onClick={onClose} />
-      <aside className="absolute right-0 top-0 h-full w-full max-w-md overflow-y-auto border-l border-slate-800 bg-slate-900 p-5 shadow-2xl">
+      <aside className="absolute right-0 top-0 h-full w-full max-w-5xl overflow-y-auto border-l border-slate-800 bg-slate-900 p-5 shadow-2xl">
         <div className="flex items-start justify-between gap-3">
           <div>
             <h2 className="text-xl font-semibold text-slate-100">{row.symbol}</h2>
@@ -43,7 +44,7 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
           <Sparkline points={history} />
         </div>
 
-        <div className="mt-4 grid grid-cols-2 gap-2.5 text-sm">
+        <div className="mt-4 grid grid-cols-2 gap-2.5 text-sm sm:grid-cols-3 lg:grid-cols-6">
           {stat('NAV', `₹${inr(row.inav)}`)}
           {stat('Spread', `${signed(row.spread)} ₹ · ${pct(row.spreadPct)}`)}
           {stat('Prev close', `₹${inr(row.prevClose)}`)}
@@ -52,6 +53,8 @@ export function DetailDrawer({ row, history, onClose }: { row: EtfRow | null; hi
           {stat('Ticks charted', history.length)}
         </div>
         <p className="mt-4 text-xs text-slate-500">Execution tip: prefer limit orders; avoid market orders when the spread is wide.</p>
+
+        <HistoryAnalysis symbol={row.symbol} />
       </aside>
     </div>
   );

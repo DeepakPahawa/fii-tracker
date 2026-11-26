@@ -1,0 +1,377 @@
+{
+  "fetchedAt": "2026-11-26T05:35:13.377Z",
+  "source": "Yahoo Finance (price) + AMFI via mfapi.in (end-of-day NAV)",
+  "etfs": {
+    "NIFTYBEES": {
+      "scheme": "Nippon India ETF Nifty 50 BeES - Direct Plan",
+      "schemeCode": 140084,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2019-12-19",
+            "factor": "10:1 split"
+          },
+          {
+            "date": "2019-12-23",
+            "factor": "1:10 consolidation"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2019-12-23",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 4410,
+      "navDays": 2481
+    },
+    "BANKBEES": {
+      "scheme": "Nippon India ETF Nifty Bank BeES - Direct Plan",
+      "schemeCode": 140087,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2019-12-19",
+            "factor": "10:1 split"
+          },
+          {
+            "date": "2019-12-23",
+            "factor": "1:10 consolidation"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2019-12-23",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 4410,
+      "navDays": 2481
+    },
+    "ITBEES": {
+      "scheme": "Nippon India ETF Nifty IT - Direct Plan",
+      "schemeCode": 148408,
+      "dailyRows": 1578,
+      "weeklyRows": 335,
+      "from": "2020-06-30",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 1586,
+      "navDays": 1585
+    },
+    "PSUBNKBEES": {
+      "scheme": "Nippon India ETF Nifty PSU Bank BeES - Direct Plan",
+      "schemeCode": 140089,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2019-12-19",
+            "factor": "10:1 split"
+          },
+          {
+            "date": "2019-12-23",
+            "factor": "1:10 consolidation"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2019-12-23",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 4410,
+      "navDays": 2481
+    },
+    "SILVERBEES": {
+      "scheme": "Nippon India Silver ETF - Direct Plan",
+      "schemeCode": 149758,
+      "dailyRows": 1179,
+      "weeklyRows": 252,
+      "from": "2022-02-04",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 1185,
+      "navDays": 1186
+    },
+    "GOLDBEES": {
+      "scheme": "Nippon India ETF Gold BeES - Direct Plan",
+      "schemeCode": 140088,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2019-12-19",
+            "factor": "100:1 split"
+          },
+          {
+            "date": "2019-12-23",
+            "factor": "1:100 consolidation"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2019-12-23",
+            "factor": "100:1 split"
+          }
+        ]
+      },
+      "yahooDays": 4409,
+      "navDays": 2481
+    },
+    "JUNIORBEES": {
+      "scheme": "Nippon India ETF Nifty Next 50 Junior BeES - Direct Plan",
+      "schemeCode": 140085,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 4410,
+      "navDays": 2481
+    },
+    "CPSEETF": {
+      "scheme": "CPSE ETF - Direct Plan",
+      "schemeCode": 140107,
+      "dailyRows": 2472,
+      "weeklyRows": 525,
+      "from": "2016-11-07",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 3116,
+      "navDays": 2481
+    },
+    "SBINIFTY50": {
+      "scheme": "SBI Nifty 50 ETF - Regular Plan - IDCW",
+      "schemeCode": 135106,
+      "dailyRows": 11,
+      "weeklyRows": 3,
+      "from": "2026-10-21",
+      "to": "2026-11-04",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 12,
+      "navDays": 2806
+    },
+    "NIFTYIETF": {
+      "scheme": "ICICI Prudential Nifty 50 ETF",
+      "schemeCode": 121366,
+      "dailyRows": 15,
+      "weeklyRows": 4,
+      "from": "2026-11-02",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 16,
+      "navDays": 2071
+    },
+    "BANKNIFTY1": {
+      "scheme": "Kotak Nifty Bank ETF",
+      "schemeCode": 133122,
+      "dailyRows": 2940,
+      "weeklyRows": 625,
+      "from": "2014-12-10",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2026-02-27",
+            "factor": "10:1 split"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2026-02-27",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 2952,
+      "navDays": 2949
+    },
+    "GOLDIETF": {
+      "scheme": "ICICI Prudential Gold ETF",
+      "schemeCode": 113076,
+      "dailyRows": 710,
+      "weeklyRows": 155,
+      "from": "2023-12-12",
+      "to": "2026-11-25",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 725,
+      "navDays": 2042
+    },
+    "SILVERIETF": {
+      "scheme": "ICICI PRUDENTIAL SILVER ETF",
+      "schemeCode": 149464,
+      "dailyRows": 435,
+      "weeklyRows": 95,
+      "from": "2025-02-03",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 444,
+      "navDays": 1175
+    },
+    "PHARMABEES": {
+      "scheme": "Nippon India Nifty Pharma ETF - Direct Plan",
+      "schemeCode": 149008,
+      "dailyRows": 1306,
+      "weeklyRows": 282,
+      "from": "2021-07-07",
+      "to": "2026-11-25",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 1312,
+      "navDays": 1331
+    },
+    "AUTOBEES": {
+      "scheme": "Nippon India Nifty Auto ETF - Direct Plan",
+      "schemeCode": 149465,
+      "dailyRows": 1187,
+      "weeklyRows": 253,
+      "from": "2022-01-24",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 1191,
+      "navDays": 1194
+    },
+    "FMCGIETF": {
+      "scheme": "ICICI Prudential Nifty FMCG ETF",
+      "schemeCode": 149072,
+      "dailyRows": 1299,
+      "weeklyRows": 277,
+      "from": "2021-08-10",
+      "to": "2026-11-25",
+      "splitAdjustments": {
+        "price": [],
+        "nav": [
+          {
+            "date": "2024-05-13",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 1305,
+      "navDays": 1309
+    },
+    "PVTBANIETF": {
+      "scheme": "ICICI Prudential Nifty Private Bank ETF",
+      "schemeCode": 147530,
+      "dailyRows": 1789,
+      "weeklyRows": 381,
+      "from": "2019-08-14",
+      "to": "2026-11-25",
+      "splitAdjustments": {
+        "price": [],
+        "nav": [
+          {
+            "date": "2024-03-04",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 1797,
+      "navDays": 1798
+    },
+    "MID150BEES": {
+      "scheme": "Nippon India ETF Nifty Midcap 150 - Direct Plan",
+      "schemeCode": 146271,
+      "dailyRows": 15,
+      "weeklyRows": 4,
+      "from": "2026-11-02",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 16,
+      "navDays": 1927
+    },
+    "ICICIB22": {
+      "scheme": "BHARAT 22 ETF - Regular Plan",
+      "schemeCode": 141957,
+      "dailyRows": 1708,
+      "weeklyRows": 363,
+      "from": "2019-12-16",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [],
+        "nav": []
+      },
+      "yahooDays": 1716,
+      "navDays": 2070
+    },
+    "MON100": {
+      "scheme": "Motilal Oswal Nasdaq 100 ETF",
+      "schemeCode": 114984,
+      "dailyRows": 3846,
+      "weeklyRows": 818,
+      "from": "2011-03-30",
+      "to": "2026-11-23",
+      "splitAdjustments": {
+        "price": [
+          {
+            "date": "2021-06-17",
+            "factor": "10:1 split"
+          },
+          {
+            "date": "2021-06-21",
+            "factor": "1:10 consolidation"
+          }
+        ],
+        "nav": [
+          {
+            "date": "2021-06-21",
+            "factor": "10:1 split"
+          }
+        ]
+      },
+      "yahooDays": 3859,
+      "navDays": 3854
+    }
+  },
+  "failed": {}
+}
