@@ -5,7 +5,6 @@
  * (web/etf-proxy/, mounted automatically by `npm run dev`) that reads NSE's public ETF snapshot.
  */
 import type { EtfQuote, QuoteBatch } from '../types';
-import { ETF_UNIVERSE } from '../universe';
 
 /** Endpoint of the backend proxy. Override with VITE_ETF_API_URL. */
 export const LIVE_ENDPOINT: string = (import.meta.env.VITE_ETF_API_URL as string | undefined) ?? '/api/etf/quotes';
@@ -14,9 +13,8 @@ export const LIVE_ENDPOINT: string = (import.meta.env.VITE_ETF_API_URL as string
  * Expected response: { ts?, asOf?, navDate?, quotes: EtfQuote[] } — one entry per symbol.
  * Throws on network/HTTP/shape errors so the caller can show a message and keep the last good data.
  */
-export async function fetchLiveQuotes(signal?: AbortSignal): Promise<QuoteBatch> {
-  const symbols = ETF_UNIVERSE.map((e) => e.symbol).join(',');
-  const res = await fetch(`${LIVE_ENDPOINT}?symbols=${encodeURIComponent(symbols)}`, { signal, cache: 'no-store' });
+export async function fetchLiveQuotes(symbols: string[], signal?: AbortSignal): Promise<QuoteBatch> {
+  const res = await fetch(`${LIVE_ENDPOINT}?symbols=${encodeURIComponent(symbols.join(','))}`, { signal, cache: 'no-store' });
   if (!res.ok) {
     let detail = '';
     try {

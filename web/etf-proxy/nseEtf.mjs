@@ -12,6 +12,8 @@ let cookie = '';
 let cookieAt = 0;
 /** @type {{ at: number, body: any } | null} */
 let cache = null;
+/** @type {Promise<any> | null} */
+let inflight = null;
 
 /** NSE equity hours: Mon-Fri 09:15-15:30 IST. Holidays are not modelled. */
 export function isMarketOpen(now = Date.now()) {
@@ -23,6 +25,7 @@ export function isMarketOpen(now = Date.now()) {
 
 async function refreshCookie() {
   const r = await fetch(`${BASE}/market-data/exchange-traded-funds-etf`, {
+    signal: AbortSignal.timeout(15_000),
     headers: { 'User-Agent': UA, 'Accept-Language': 'en-US,en;q=0.9', Accept: 'text/html' },
   });
   cookie = r.headers.getSetCookie().map((c) => c.split(';')[0]).join('; ');
@@ -30,9 +33,33 @@ async function refreshCookie() {
   if (!cookie) throw new Error(`NSE gave no session cookie (HTTP ${r.status})`);
 }
 
+/** Node's fetch throws a bare "fetch failed"; the real reason (DNS, reset, timeout) is in `cause`. */
+function describe(e) {
+  const cause = e && typeof e === 'object' && 'cause' in e ? e.cause : null;
+  const detail = cause && typeof cause === 'object' && 'code' in cause ? ` (${cause.code})` : '';
+  return `${e instanceof Error ? e.message : e}${detail}`;
+}
+
 async function fetchNse(retry = true) {
+  try {
+    return await fetchNseOnce(retry);
+  } catch (e) {
+    // Network-level failure (connection reset, DNS blip): drop the session and retry once.
+    if (!retry || e?.name === 'NseHttpError') throw e instanceof Error ? new Error(describe(e)) : e;
+    cookie = '';
+    await new Promise((r) => setTimeout(r, 500));
+    try {
+      return await fetchNseOnce(false);
+    } catch (e2) {
+      throw new Error(`Could not reach NSE: ${describe(e2)}`);
+    }
+  }
+}
+
+async function fetchNseOnce(retry) {
   if (!cookie || Date.now() - cookieAt > 10 * 60_000) await refreshCookie();
   const r = await fetch(`${BASE}/api/etf`, {
+    signal: AbortSignal.timeout(15_000),
     headers: {
       'User-Agent': UA,
       'Accept-Language': 'en-US,en;q=0.9',
@@ -43,8 +70,8 @@ async function fetchNse(retry = true) {
   });
   if (!r.ok) {
     cookie = '';
-    if (retry) return fetchNse(false);
-    throw new Error(`NSE returned HTTP ${r.status}`);
+    if (retry) return fetchNseOnce(false);
+    throw Object.assign(new Error(`NSE returned HTTP ${r.status}`), { name: 'NseHttpError' });
   }
   return r.json();
 }
@@ -53,7 +80,13 @@ const num = (v) => Number.parseFloat(String(v).replace(/,/g, ''));
 
 /** @param {string[]} symbols */
 export async function getQuotes(symbols) {
-  if (!cache || Date.now() - cache.at > CACHE_MS) cache = { at: Date.now(), body: await fetchNse() };
+  if (!cache || Date.now() - cache.at > CACHE_MS) {
+    // Concurrent requests (the page asks in several chunks) share one NSE call.
+    inflight ??= fetchNse()
+      .then((body) => (cache = { at: Date.now(), body }))
+      .finally(() => (inflight = null));
+    await inflight;
+  }
   const { body } = cache;
   const want = new Set(symbols);
   const quotes = [];

@@ -8,7 +8,6 @@ import { DetailDrawer } from './components/DetailDrawer';
 import { AlertPanel } from './components/AlertPanel';
 import { pct } from './format';
 
-const INTERVALS = [3, 5, 10, 30] as const;
 const FILTERS: CategoryFilter[] = ['All', 'Indices', 'Sectoral', 'Commodity', 'Global'];
 const ALERT_KEY = 'etf-alerts';
 const DEFAULT_ALERTS: AlertSettings = { enabled: false, discountPct: 0.3, premiumPct: 0.3, sound: true };
@@ -39,7 +38,6 @@ function beep() {
 }
 
 export default function EtfPage() {
-  const [intervalSec, setIntervalSec] = useState<number>(5);
   const [filter, setFilter] = useState<CategoryFilter>('All');
   const [query, setQuery] = useState('');
   const [sortKey, setSortKey] = useState<SortKey>('spreadPct');
@@ -49,7 +47,7 @@ export default function EtfPage() {
   const [toasts, setToasts] = useState<{ id: number; text: string; kind: 'discount' | 'premium' }[]>([]);
   const [now, setNow] = useState(Date.now());
 
-  const { rows, history, lastUpdated, asOf, navDate, stale, tick, error, refresh } = useETFMarketData({ intervalMs: intervalSec * 1000 });
+  const { rows, history, lastUpdated, asOf, navDate, loading, progress, stale, tick, error, refresh } = useETFMarketData();
 
   // Clock for the market-status countdown.
   useEffect(() => {
@@ -107,30 +105,33 @@ export default function EtfPage() {
             <p className="mt-0.5 text-sm text-slate-400">Live NSE prices vs NAV: premium / discount for 20 liquid ETFs.</p>
           </div>
           <div className="flex flex-wrap items-center gap-3 text-sm">
-            <span className="flex items-center gap-2 text-slate-400" aria-live="off">
-              <span key={tick} className={`inline-block h-2.5 w-2.5 rounded-full ${error ? 'bg-rose-500' : stale || !market.open ? 'bg-slate-600' : 'animate-ping-once bg-emerald-400'}`} />
-              {lastUpdated ? `${stale ? 'Last data' : 'Updated'} ${formatIstTime(lastUpdated)}` : market.open ? 'Waiting for data…' : 'No data'}
+            <span className="flex items-center gap-2 text-slate-400" aria-live="polite">
+              {loading ? (
+                <span className="inline-block h-3 w-3 animate-spin rounded-full border-2 border-slate-600 border-t-emerald-400" />
+              ) : (
+                <span key={tick} className={`inline-block h-2.5 w-2.5 rounded-full ${error ? 'bg-rose-500' : stale ? 'bg-slate-600' : 'animate-ping-once bg-emerald-400'}`} />
+              )}
+              {loading
+                ? `Fetching ETF data… ${progress.done}/${progress.total}`
+                : lastUpdated
+                  ? `${stale ? 'Last data' : 'Updated'} ${formatIstTime(lastUpdated)}${asOf ? ` (NSE ${asOf})` : ''} · refreshes every 30 min`
+                  : 'No data'}
             </span>
-            <label className="flex items-center gap-1.5 text-slate-400">
-              Refresh
-              <select value={intervalSec} onChange={(e) => setIntervalSec(Number(e.target.value))} className="rounded-md border border-slate-700 bg-slate-900 px-2 py-1 text-slate-100">
-                {INTERVALS.map((s) => (
-                  <option key={s} value={s}>{s}s</option>
-                ))}
-              </select>
-            </label>
-            <button type="button" onClick={refresh} disabled={!market.open} title={market.open ? undefined : 'Market closed: data was fetched once'} className="rounded-md disabled:cursor-not-allowed disabled:opacity-40 border border-slate-700 px-3 py-1.5 text-slate-300 hover:bg-slate-800">Refresh now</button>
+            <button type="button" onClick={refresh} disabled={loading} className="rounded-md disabled:cursor-not-allowed disabled:opacity-40 border border-slate-700 px-3 py-1.5 text-slate-300 hover:bg-slate-800">Refresh now</button>
             <a href="#/" className="text-slate-400 underline-offset-2 hover:text-slate-100 hover:underline">← FII Tracker</a>
           </div>
         </header>
 
-        {!market.open && (
-          <p className="rounded-lg border border-slate-700 bg-slate-900 px-3 py-2 text-sm text-slate-300">
-            Market closed — data was fetched once and live polling is paused until 09:15 IST (Mon–Fri).{' '}
-            {rows.length ? `Showing NSE data${asOf ? ` as of ${asOf}` : ''}.` : 'No data loaded.'}
-          </p>
+        {loading && (
+          <div role="status" className="flex items-center gap-3 rounded-lg border border-emerald-500/30 bg-emerald-500/5 px-3 py-2 text-sm text-emerald-200">
+            <span className="inline-block h-3.5 w-3.5 animate-spin rounded-full border-2 border-emerald-900 border-t-emerald-400" />
+            <span>
+              Fetching live data from NSE… {progress.done} of {progress.total} ETFs loaded.
+              {rows.length > 0 && stale && ' Showing the last saved snapshot until fresh data arrives.'}
+            </span>
+          </div>
         )}
-        {error && market.open && <p role="alert" className="rounded-lg border border-rose-500/40 bg-rose-500/10 px-3 py-2 text-sm text-rose-300">Feed error: {error}. {rows.length ? 'Showing last good data.' : ''}</p>}
+        {error && <p role="alert" className="rounded-lg border border-rose-500/40 bg-rose-500/10 px-3 py-2 text-sm text-rose-300">Feed error: {error}. {rows.length ? 'Showing last good data.' : ''}</p>}
         {rows.length > 0 && (
           <p className="text-xs text-amber-300/80">
             Prices are real NSE quotes. The “NAV” column is the last published NAV{navDate ? ` (${navDate})` : ''}, not a live intraday iNAV, so spread % can look large for
@@ -157,7 +158,7 @@ export default function EtfPage() {
           />
         </div>
 
-        <WatchlistTable rows={visible} sortKey={sortKey} dir={dir} onSort={onSort} onSelect={setSelected} alerting={alerting} />
+        <WatchlistTable loading={loading} rows={visible} sortKey={sortKey} dir={dir} onSort={onSort} onSelect={setSelected} alerting={alerting} />
 
         <p className="pb-4 text-xs leading-relaxed text-slate-500">
           Spread % = (LTP − NAV) / NAV × 100. Fair within ±0.10%; discount below −0.15%; premium above +0.15%; in between is marginal. The reference NAV is the last published one and is not updated intraday. Not investment advice.

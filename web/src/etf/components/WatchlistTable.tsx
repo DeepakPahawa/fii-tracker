@@ -11,9 +11,11 @@ interface Props {
   onSelect: (symbol: string) => void;
   /** Symbols currently breaching the user's alert thresholds. */
   alerting: Set<string>;
+  /** True while a fetch is running and no rows have arrived yet. */
+  loading?: boolean;
 }
 
-export function WatchlistTable({ rows, sortKey, dir, onSort, onSelect, alerting }: Props) {
+export function WatchlistTable({ rows, sortKey, dir, onSort, onSelect, alerting, loading }: Props) {
   const Th = ({ k, children, right = true }: { k?: SortKey; children: React.ReactNode; right?: boolean }) => (
     <th scope="col" className={`whitespace-nowrap px-3 py-2.5 font-medium ${right ? 'text-right' : 'text-left'}`} aria-sort={k && k === sortKey ? (dir === 1 ? 'ascending' : 'descending') : undefined}>
       {k ? (
@@ -76,7 +78,7 @@ export function WatchlistTable({ rows, sortKey, dir, onSort, onSelect, alerting 
             );
           })}
           {!rows.length && (
-            <tr><td colSpan={9} className="px-3 py-10 text-center text-slate-500">No ETFs match.</td></tr>
+            <tr><td colSpan={9} className="px-3 py-10 text-center text-slate-500">{loading ? 'Fetching ETF data…' : 'No ETFs match.'}</td></tr>
           )}
         </tbody>
       </table>
