@@ -6,7 +6,7 @@ The `/etf` page only shows real NSE data. The browser cannot call NSE directly (
 - `nseEtf.mjs` reads NSE's public snapshot (`/api/etf`). No keys, no dependencies.
 - `npm run dev` mounts it automatically (see `vite.config.ts`).
 - For a built site, run `node etf-proxy/server.mjs` (port 8787) and route `/api/etf/` to it.
-- It caches NSE responses for 2 s. Polling policy lives in the client: every interval during 09:15–15:30 IST (Mon–Fri), then a single fetch after close.
+- It caches NSE responses for 2 s. Polling policy lives in the client: fetch on page open, then every 30 minutes (including after market close).
 
 Response: `{ ts, asOf, navDate, quotes: [{ symbol, ltp, prevClose, inav, volume, turnover }] }`.
 

@@ -10,9 +10,12 @@ export default defineConfig({
     react(),
     tailwindcss(),
     {
-      // Serves real NSE ETF quotes to the /etf page during dev (see etf-proxy/README.md).
+      // Serves real NSE ETF quotes to the /etf page in `dev` and `preview` (see etf-proxy/README.md).
       name: 'etf-nse-proxy',
       configureServer(server) {
+        server.middlewares.use('/api/etf/quotes', (req, res) => void etfHandler({ url: (req as { url?: string }).url }, res));
+      },
+      configurePreviewServer(server) {
         server.middlewares.use('/api/etf/quotes', (req, res) => void etfHandler({ url: (req as { url?: string }).url }, res));
       },
     },
