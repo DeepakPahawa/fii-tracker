@@ -61,20 +61,3 @@ export interface AlertSettings {
   premiumPct: number;
   sound: boolean;
 }
-
-
-/** One trading day: exchange close vs the fund's official end-of-day NAV. */
-export interface DailyHistoryRow {
-  /** yyyy-mm-dd (IST). */
-  date: string;
-  close: number;
-  nav: number;
-  spreadPct: number;
-}
-
-export interface DailyHistory {
-  symbol: string;
-  schemeCode: number;
-  schemeName: string;
-  rows: DailyHistoryRow[];
-}
