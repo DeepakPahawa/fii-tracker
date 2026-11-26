@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { dayMoves, mean, zoneOf, type DayMove, type HRow } from './history';
+import { dayMoves, mean, median, zoneOf, type DayMove, type HRow } from './history';
 import { inr, signed } from '../format';
 
 const tone = (v: number) => (v > 0 ? 'text-emerald-400' : v < 0 ? 'text-rose-400' : 'text-slate-300');
@@ -30,8 +30,17 @@ const NEXT: [string, (x: number) => boolean][] = [
 ];
 const ZONE = [['all', 'Any premium'], ['prem', 'At a premium'], ['near', 'Near NAV'], ['disc', 'At a discount']] as const;
 
-type Key = 'd' | 'c' | 'day' | 'next' | 'next5' | 'p';
-const COLS: [Key, string][] = [['d', 'Date'], ['c', 'Close'], ['day', 'Day change'], ['next', 'Next day'], ['next5', 'Next 5 days'], ['p', 'Premium to NAV']];
+const REC: [string, (r: DayMove) => boolean][] = [
+  ['Any recovery', () => true],
+  ['Covered next day', (r) => r.rec === 1],
+  ['Covered within 5 days', (r) => r.rec <= 5],
+  ['Covered within 10 days', (r) => r.rec <= 10],
+  ['Took over 10 days', (r) => r.rec > 10 && Number.isFinite(r.rec)],
+  ['Not covered yet', (r) => r.rec === Infinity],
+];
+
+type Key = 'd' | 'c' | 'day' | 'next' | 'next5' | 'rec' | 'p';
+const COLS: [Key, string][] = [['d', 'Date'], ['c', 'Close'], ['day', 'Day change'], ['next', 'Next day'], ['next5', 'Next 5 days'], ['rec', 'Loss covered in'], ['p', 'Premium to NAV']];
 const sel = 'rounded-md border border-slate-700 bg-slate-950 px-2 py-1 text-slate-200';
 
 /** Every trading day with its own % change and the move that followed, filterable (e.g. fell 3%, then rose 2% next day). */
@@ -39,13 +48,14 @@ export function DayMoves({ rows }: { rows: HRow[] }) {
   const all = useMemo(() => dayMoves(rows), [rows]);
   const [dayF, setDayF] = useState(0);
   const [nextF, setNextF] = useState(0);
+  const [recF, setRecF] = useState(0);
   const [zone, setZone] = useState<(typeof ZONE)[number][0]>('all');
   const [sort, setSort] = useState<{ k: Key; dir: 1 | -1 }>({ k: 'd', dir: -1 });
   const [size, setSize] = useState(25);
   const [page, setPage] = useState(0);
 
   const list = useMemo(() => {
-    const f = all.filter((r) => Number.isFinite(r.day) && DAY[dayF][1](r.day) && (nextF === 0 || (Number.isFinite(r.next) && NEXT[nextF][1](r.next))) && (zone === 'all' || zoneOf(r.p) === zone));
+    const f = all.filter((r) => Number.isFinite(r.day) && DAY[dayF][1](r.day) && (nextF === 0 || (Number.isFinite(r.next) && NEXT[nextF][1](r.next))) && REC[recF][1](r) && (zone === 'all' || zoneOf(r.p) === zone));
     return [...f].sort((a, b) => {
       const u = a[sort.k];
       const v = b[sort.k];
@@ -54,9 +64,11 @@ export function DayMoves({ rows }: { rows: HRow[] }) {
       if (nu || nv) return Number(nu) - Number(nv);
       return (u < v ? -1 : u > v ? 1 : 0) * sort.dir;
     });
-  }, [all, dayF, nextF, zone, sort]);
+  }, [all, dayF, nextF, recF, zone, sort]);
 
   const withNext = list.filter((r) => Number.isFinite(r.next));
+  const fell = list.filter((r) => Number.isFinite(r.rec));
+  const open = list.filter((r) => r.rec === Infinity).length;
   const pages = Math.max(1, Math.ceil(list.length / size));
   const cur = Math.min(page, pages - 1);
   const slice = list.slice(cur * size, cur * size + size);
@@ -65,15 +77,19 @@ export function DayMoves({ rows }: { rows: HRow[] }) {
     if (k === 'd') return niceDate(r.d);
     if (k === 'c') return inr(r.c);
     if (k === 'p') return <span className={tone(r.p)}>{pc(r.p, 3)}</span>;
+    if (k === 'rec') {
+      if (Number.isNaN(r.rec)) return <span className="text-slate-600">–</span>;
+      if (r.rec === Infinity) return <span className="text-amber-400">Not yet</span>;
+      return <>{r.rec} {r.rec === 1 ? 'day' : 'days'} <span className="text-[11px] text-slate-500">({r.recCal} cal.)</span></>;
+    }
     return <span className={tone(r[k])}>{pc(r[k])}</span>;
   };
 
   return (
-    <section className="mt-6">
-      <div className="mb-2 flex flex-wrap items-baseline justify-between gap-x-4">
-        <h3 className="text-sm font-semibold text-slate-100">Day-by-day moves</h3>
-        <p className="text-xs text-slate-500">Each day's change and what the price did after it. Click a heading to sort.</p>
-      </div>
+    <div>
+      <p className="mb-2 text-xs text-slate-500">
+        Each day's change, what the price did after it, and how many trading days it took to get back to the close before a fall. Click a heading to sort.
+      </p>
       <div className="mb-2 flex flex-wrap items-center gap-3 text-xs text-slate-400">
         <label className="flex items-center gap-2">Day
           <select className={sel} value={dayF} onChange={(e) => { setDayF(+e.target.value); setPage(0); }}>{DAY.map(([l], i) => <option key={l} value={i}>{l}</option>)}</select>
@@ -81,17 +97,21 @@ export function DayMoves({ rows }: { rows: HRow[] }) {
         <label className="flex items-center gap-2">Then
           <select className={sel} value={nextF} onChange={(e) => { setNextF(+e.target.value); setPage(0); }}>{NEXT.map(([l], i) => <option key={l} value={i}>{l}</option>)}</select>
         </label>
+        <label className="flex items-center gap-2">Recovery
+          <select className={sel} value={recF} onChange={(e) => { setRecF(+e.target.value); setPage(0); }}>{REC.map(([l], i) => <option key={l} value={i}>{l}</option>)}</select>
+        </label>
         <label className="flex items-center gap-2">Premium
           <select className={sel} value={zone} onChange={(e) => { setZone(e.target.value as typeof zone); setPage(0); }}>{ZONE.map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select>
         </label>
         <label className="flex items-center gap-2">Rows
           <select className={sel} value={size} onChange={(e) => { setSize(+e.target.value); setPage(0); }}>{[25, 50, 100].map((n) => <option key={n}>{n}</option>)}</select>
         </label>
-        <button type="button" className="rounded-md border border-slate-700 px-2 py-1 hover:bg-slate-800" onClick={reset(() => { setDayF(0); setNextF(0); setZone('all'); })}>Reset</button>
+        <button type="button" className="rounded-md border border-slate-700 px-2 py-1 hover:bg-slate-800" onClick={reset(() => { setDayF(0); setNextF(0); setRecF(0); setZone('all'); })}>Reset</button>
       </div>
       <p className="mb-2 text-xs text-slate-400">
         {list.length.toLocaleString('en-IN')} matching days
         {withNext.length > 0 && <> · next day averaged <b className={`tabular-nums ${tone(mean(withNext.map((r) => r.next)))}`}>{pc(mean(withNext.map((r) => r.next)))}</b>, up on <b className="tabular-nums text-slate-200">{Math.round((withNext.filter((r) => r.next > 0).length / withNext.length) * 100)}%</b> of them</>}
+        {(fell.length > 0 || open > 0) && <> · {fell.length > 0 ? <>loss covered in a median <b className="tabular-nums text-slate-200">{median(fell.map((r) => r.rec))}</b> trading days (average <b className="tabular-nums text-slate-200">{mean(fell.map((r) => r.rec)).toFixed(1)}</b>)</> : 'no covered losses'}{open > 0 && <>, {open} not covered yet</>}</>}
       </p>
       <div className="overflow-x-auto rounded-lg border border-slate-800">
         <table className="w-full text-sm">
@@ -121,6 +141,6 @@ export function DayMoves({ rows }: { rows: HRow[] }) {
           <button type="button" disabled={cur >= pages - 1} onClick={() => setPage(cur + 1)} className="rounded-md border border-slate-700 px-3 py-1 text-slate-300 enabled:hover:bg-slate-800 disabled:opacity-40">Next</button>
         </span>
       </div>
-    </section>
+    </div>
   );
 }

@@ -155,16 +155,24 @@ export function HistoryAnalysis({ symbol }: { symbol: string }) {
 
       <DropStudy rows={all} />
 
-      <DayMoves rows={all} />
-
-      <Section title="All rows" hint="Every column from the downloaded file. Click a heading to sort.">
-        <RowsTable rows={all} />
-      </Section>
+      <DataTabs rows={all} />
 
       <p className="mt-6 border-l-2 border-slate-700 pl-3 text-xs text-slate-500">
         Prices are NSE closes from Yahoo Finance, NAV is the official end-of-day value from AMFI, joined by trading date (days missing from either are dropped). Splits are detected in each series and both are put on the latest share basis. This is end-of-day NAV, not intraday iNAV, which has no free historical source. Refresh with <code className="text-slate-400">node web/etf-proxy/fetch-history.mjs</code>.
       </p>
     </div>
+  );
+}
+
+function DataTabs({ rows }: { rows: HRow[] }) {
+  const [tab, setTab] = useState<'moves' | 'rows'>('moves');
+  return (
+    <Section title="Daily data">
+      <div className="mb-3">
+        <Seg label="Daily data view" value={tab} onChange={setTab} options={[{ v: 'moves', label: 'Day-by-day moves' }, { v: 'rows', label: 'All rows' }]} />
+      </div>
+      {tab === 'moves' ? <DayMoves rows={rows} /> : <RowsTable rows={rows} />}
+    </Section>
   );
 }
 

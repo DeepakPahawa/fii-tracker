@@ -226,16 +226,41 @@ export interface DayMove {
   next: number;
   /** Change over the following 5 trading days, % (NaN near the end). */
   next5: number;
+  /**
+   * For a down day: trading days until the close got back to the previous day's close (the loss is covered).
+   * NaN on up days, Infinity if it has not recovered yet.
+   */
+  rec: number;
+  /** Same, in calendar days. */
+  recCal: number;
 }
 
 /** Each trading day with its own move and what the price did next. */
 export function dayMoves(rows: HRow[]): DayMove[] {
-  return rows.map((r, i) => ({
-    d: r.d,
-    c: r.c,
-    p: r.p,
-    day: r.pr,
-    next: i + 1 < rows.length ? (rows[i + 1].c / r.c - 1) * 100 : NaN,
-    next5: i + 5 < rows.length ? (rows[i + 5].c / r.c - 1) * 100 : NaN,
-  }));
+  return rows.map((r, i) => {
+    let rec = NaN;
+    let recCal = NaN;
+    if (i > 0 && r.pr < 0) {
+      const target = rows[i - 1].c; // close before the fall
+      rec = Infinity;
+      recCal = Infinity;
+      for (let j = i + 1; j < rows.length; j++) {
+        if (rows[j].c >= target) {
+          rec = j - i;
+          recCal = Math.round((rows[j].t - r.t) / 864e5);
+          break;
+        }
+      }
+    }
+    return {
+      d: r.d,
+      c: r.c,
+      p: r.p,
+      day: r.pr,
+      next: i + 1 < rows.length ? (rows[i + 1].c / r.c - 1) * 100 : NaN,
+      next5: i + 5 < rows.length ? (rows[i + 5].c / r.c - 1) * 100 : NaN,
+      rec,
+      recCal,
+    };
+  });
 }
